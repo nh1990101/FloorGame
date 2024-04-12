@@ -2,7 +2,7 @@
 export const BUNDLE_NAMES = ["components"] as const
 type BUNDLE_NAME<S extends string> = S
 
-import { _decorator, Asset, assetManager, AssetManager, Component, instantiate, Node, Prefab } from 'cc';
+import { _decorator, Asset, assetManager, AssetManager, Component, director, instantiate, Node, Prefab } from 'cc';
 const { ccclass, property } = _decorator;
 @ccclass('AssetMgr')
 export class AssetMgr extends Component {
@@ -68,6 +68,11 @@ export class AssetMgr extends Component {
     }
     public instantiate(data: Prefab) {
         return instantiate(data);
+    }
+    public removeInstant(node: Node) {
+        if (node) {
+            return node.destroy()
+        }
     }
 
 }

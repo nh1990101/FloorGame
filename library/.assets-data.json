@@ -1,0 +1,84 @@
+{
+  "884899de-d9b2-4a42-978d-c1cabd138c65": {
+    "url": "db://assets/main.scene",
+    "value": {
+      "depends": [
+        "884899de-d9b2-4a42-978d-c1cabd138c65",
+        "6e6bd96a-0986-4a92-a168-29d690893d38",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "01c83466-2456-4813-8bc4-3004caa3035f",
+        "b857645e-d0aa-4bd7-9866-e10c70e01d09"
+      ]
+    }
+  },
+  "73612c0f-66e1-4fc9-a1d8-ddfc11afc2b8": {
+    "url": "db://assets/Main.ts",
+    "value": {}
+  },
+  "4e026fbd-bfd3-4965-af77-5a75df35cecf": {
+    "url": "db://assets/material",
+    "value": {}
+  },
+  "b3416136-980a-4388-aedf-22a030a8b5a4": {
+    "url": "db://assets/material/boxColor.mtl",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    }
+  },
+  "8082c1a5-6f8f-4f2f-af36-468aefd094bc": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "01c83466-2456-4813-8bc4-3004caa3035f": {
+    "url": "db://assets/script/GameController.ts",
+    "value": {}
+  },
+  "4e603a61-6181-4f8c-b893-393170233ef2": {
+    "url": "db://assets/component",
+    "value": {}
+  },
+  "a9ba0460-4502-4621-b961-403ce696f09c": {
+    "url": "db://assets/component/BaseCube.prefab",
+    "value": {}
+  },
+  "8f4c029b-c939-45bd-bb2a-00ae4c3d2f3d": {
+    "url": "db://assets/components/BaseBox.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "ef374fce-2e2a-45c5-a592-a70f2b70aca2": {
+    "url": "db://assets/components",
+    "value": {}
+  },
+  "b857645e-d0aa-4bd7-9866-e10c70e01d09": {
+    "url": "db://assets/script/AssetMgr.ts",
+    "value": {}
+  },
+  "6e6bd96a-0986-4a92-a168-29d690893d38": {
+    "url": "db://assets/components/BoxFloor.prefab",
+    "value": {
+      "depends": [
+        "b3416136-980a-4388-aedf-22a030a8b5a4",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ],
+      "dependScripts": []
+    }
+  }
+}
