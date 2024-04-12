@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 43874.69709998369,
+      "mTimestamp": 40071.73700001836,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -598,7 +598,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 36804985.77509999,
+      "mTimestamp": 8276811.0704,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -796,7 +796,7 @@
     },
     "file:///D:/Project/cocos/test/assets/script/GameController.ts": {
       "mTimestamp": {
-        "mtime": 1712916425407.0884,
+        "mtime": 1712935082076.9138,
         "uuid": "01c83466-2456-4813-8bc4-3004caa3035f"
       },
       "chunkId": "436b114cd6ce3d0d270683ba3c4de65c46946f50",
@@ -816,11 +816,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 403
+              "column": 449
             },
             "end": {
               "line": 1,
-              "column": 407
+              "column": 453
             }
           }
         },
@@ -931,7 +931,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1712879622686,
+      "mTimestamp": 1712926807087,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",

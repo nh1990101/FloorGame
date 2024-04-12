@@ -1,4 +1,4 @@
-import { _decorator, BoxCollider, BoxCollider2D, Camera, Canvas, cclegacy, Collider, Color, Component, director, DistanceJoint2D, ERigidBody2DType, ERigidBodyType, geometry, Graphics, HingeJoint2D, ICollisionEvent, Input, instantiate, Node, PhysicsSystem, PlaneCollider, PointToPointConstraint, Prefab, Quat, resources, RigidBody, RigidBody2D, Size, Sprite, tween, Tween, UITransform, Vec2, Vec3 } from 'cc';
+import { _decorator, BoxCollider, BoxCollider2D, Camera, Canvas, cclegacy, Collider, Color, Component, director, DistanceJoint2D, EColliderType, ERigidBody2DType, ERigidBodyType, find, geometry, Graphics, HingeConstraint, HingeJoint2D, ICollisionEvent, Input, instantiate, Layers, Node, PhysicsSystem, PlaneCollider, PointToPointConstraint, Prefab, Quat, resources, RigidBody, RigidBody2D, Size, Sprite, tween, Tween, UITransform, Vec2, Vec3 } from 'cc';
 import { AssetMgr } from './AssetMgr';
 const { ccclass, property } = _decorator;
 
@@ -10,6 +10,10 @@ export class GameController extends Component {
     public baseBox: RigidBody2D;
     @property(RigidBody2D)
     public staticBody: RigidBody2D;
+    @property(RigidBody)
+    public cordStatic: RigidBody;
+    @property(RigidBody)
+    public cord: RigidBody;
     @property(Graphics)
     public myGraph: Graphics;
     @property(Graphics)
@@ -20,6 +24,8 @@ export class GameController extends Component {
     public worldCamera: Camera;
     @property(Camera)
     public uiCamera: Camera;
+    @property(Camera)
+    public cordCamera: Camera;
     @property(UITransform)
     public uiTransform: UITransform;
     @property(Node)
@@ -36,17 +42,19 @@ export class GameController extends Component {
     public floorStatic: Node;
     @property(Node)
     public floorContainer: Node;
-    @property({displayName:"命中衰减振幅系数"})
+    @property(Node)
+    public floorBornPos: Node;
+    @property({ displayName: "命中衰减振幅系数" })
     /**命中衰减振幅系数 */
     public reduceRate = 0.1;
-    @property({displayName:"楼层高度振幅系数"})
+    @property({ displayName: "楼层高度振幅系数" })
     /**楼层高度振幅系数 */
     public floorRockRate = 0.2;
-    @property({displayName:"振幅衰减阻尼系数"})
+    @property({ displayName: "振幅衰减阻尼系数" })
     /**振幅衰减阻尼系数 */
     public floorRockDamping = 0.5;
     /**振幅系数 */
-    @property({displayName:"振幅系数"})
+    @property({ displayName: "振幅系数" })
     public floorRockForce = 1;
     protected dj2d: DistanceJoint2D;
     protected beRotateObj: RigidBody2D
@@ -70,7 +78,7 @@ export class GameController extends Component {
     private myPosBegin: Vec3;
     private myTargetPoint: Vec3;
     private dropRay: geometry.Ray
-    private floorSpeed: Vec2;
+    private floorSpeed: Vec3;
     private dropVec: Vec3;
     private _floorNodes: Node[];
     private _isCanCreateNext: boolean = true;
@@ -79,12 +87,13 @@ export class GameController extends Component {
     private _floorContainerGav = new Vec3(0, 20, 0)
     private _forceContainerTime = 0;
     private _floorContainerForce = new Vec3(1, 0, 0)
-
+    private _gavVec = new Vec3(0, -10, 0)
     private _applyLastFloorForce = new Vec3(0.2, 0, 0)
     private _connectFloors: RigidBody[] = [];
     private _maxContainerRo: number = 0;
     private _targetContainerRo = 0;
     private _floorOffset = 0;
+    private _dropBox: RigidBody;
     start() {
         this.assetMgr.preLoadBundles().then(this.createNewBox.bind(this));
         // PhysicsSystem.instance.restitution=
@@ -104,8 +113,8 @@ export class GameController extends Component {
             var floorCollider = this.floorTemp.getComponent(PlaneCollider)
             floorCollider.material.restitution = 0;
             floorCollider.sharedMaterial.restitution = 0;
-
-
+            this.floorSpeed = new Vec3();
+            this.dropVec = new Vec3();
             // this.floorContainer.getComponent(RigidBody).applyLocalTorque(new Vec3(0, 0, 100))
             // let tweenDuration: number = 2.0;
             // let angle = 2;
@@ -124,33 +133,21 @@ export class GameController extends Component {
 
     update(deltaTime: number) {
 
-        this.myGraph.clear();
-        this.uiGraph.clear();
-        if (this.baseBox) {
-
-            this.myPosBegin = this.staticBody.node.getPosition()
-            this.myTargetPoint = this.baseBox.node.getPosition();
-            // console.log("BaseBox=>x=" + this.myTargetPoint.x + ",y=" + this.myTargetPoint.y + ",z=" + this.myTargetPoint.z);
-            // console.log("Holder=>x=" + this.holder.position.x + ",y=" + this.holder.position.y + ",z=" + this.holder.position.z);
-            this.myPosBegin.x += this.dj2d.anchor.x
-            this.myPosBegin.y += this.dj2d.anchor.y
-
-            this.myGraph.moveTo(this.myPosBegin.x, this.myPosBegin.y);
-
-            this.myTargetPoint.x += this.dj2d.connectedAnchor.x
-            this.myTargetPoint.y += this.dj2d.connectedAnchor.y
-            this.myGraph.lineTo(this.myTargetPoint.x, this.myTargetPoint.y);
-            this.myGraph.stroke();
 
 
-            this._curTick += deltaTime;
-            if (!this.isMove) {
-                this.baseBox.applyForceToCenter(this.forceVec, true);
-                if (this._curTick > this.disForceTime) {
 
-                    this.isMove = true;
-                }
+        this._curTick += deltaTime;
+
+        if (!this.isMove) {
+            this.cord.applyForce(new Vec3(5, 0, 0));
+            // this.baseBox.applyForceToCenter(this.forceVec, true);
+            if (this._curTick > this.disForceTime) {
+
+                this.isMove = true;
             }
+        }
+
+        if (this.cordStatic) {
 
         }
         if (this._failFloor) {
@@ -194,15 +191,14 @@ export class GameController extends Component {
             })
         }
     }
-    createFloor(pos: Vec3, speed: Vec2) {
+    createFloor(pos: Vec3, speed: Vec3) {
         this.assetMgr.getRes("BoxFloor", Prefab, "components").then(data => {
             this.initFloor(data, pos, speed)
         })
     }
-    initFloor(floor: Prefab, pos: Vec3, speed: Vec2) {
+    initFloor(floor: Prefab, pos: Vec3, speed: Vec3) {
         if (floor) {
             var obj = this.assetMgr.instantiate(floor);
-
             this._floorNodes.push(obj);
             obj.setWorldPosition(pos);
             obj.setParent(this.floorContainer, true)
@@ -216,16 +212,10 @@ export class GameController extends Component {
                 this.DROP_DISTANCE = Math.sqrt(boxH * boxH + boxWHalf * boxWHalf)
             }
             let collider = obj.getComponent(Collider);
-            // collider.material.restitution = 0;
-
-            // collider.material.friction = 0.9
-            // collider.material.rollingFriction = 0.1;
-            // collider.material.spinningFriction = 0.1;
-
-
-            // collider.sharedMaterial.restitution = 0;
             // 监听触发事件
-            collider.once("onCollisionEnter", this.onCollision, this);
+            this.scheduleOnce(() => {
+                collider.once("onCollisionEnter", this.onCollision, this);
+            }, 0.2)
         }
 
     }
@@ -329,75 +319,71 @@ export class GameController extends Component {
         var wolrdPos = floor.getWorldPosition();
         wolrdPos.x = this.MAIN_CAMERA_POS.x;
         wolrdPos.z = this.MAIN_CAMERA_POS.z;
-        wolrdPos.y += 0.8;
+        wolrdPos.y += 1.8;
         // this.worldCamera.node.setWorldPosition(wolrdPos)
         tween(this.worldCamera.node).to(0.2, { worldPosition: wolrdPos }).start();
         var hitPos = this.hitArea.getWorldPosition();
         hitPos.y = wolrdPos.y - 3
         this.hitArea.setWorldPosition(hitPos)
 
-        // var pos = this.worldCamera.convertToUINode(this.worldCamera.node.getWorldPosition(), this.mainUI)
-        // pos.x = this.HOLDER_BASE_POS.x;
-        // pos.z = this.HOLDER_BASE_POS.z;
-        // pos.y += this.HOLDER_DIS_POS_Y;
-        // this.holder.setPosition(pos)
         this.createNewBox();
 
     }
     createNewBox() {
-        this.assetMgr.getRes("BaseBox", Prefab, "components").then(data => { this.createBox(data) })
+        // this.assetMgr.getRes("BaseBox", Prefab, "components").then(data => { this.createBox(data) })
+        this.assetMgr.getRes("BoxFloor", Prefab, "components").then(data => { this.createFloorBox(data) })
     }
-    createBox(box: Prefab) {
+    createFloorBox(box: Prefab) {
         if (box) {
             var obj = this.assetMgr.instantiate(box);
-            var boxRight2d = obj.getComponent(RigidBody2D);
-            if (boxRight2d) {
-                // boxRight2d.sleep();
-                // this.holder.active=false;
-                this.dj2d.enabled = false;
+            if (obj) {
 
-                this.dj2d.connectedBody = boxRight2d
-                this.dj2d.autoCalcDistance = false;
-                this.dj2d.maxLength = this.distance;
-                boxRight2d.node.parent = this.holder;
-                boxRight2d.node.setPosition(new Vec3(0, -this.distance, 0))
-                // this.holder.active=true;
-                this.dj2d.enabled = true;
-                this.holder.updateWorldTransform();
-                this.baseBox = boxRight2d
-                this.isMove = false;
+                var rig = obj.getComponent(RigidBody);
+                rig.angularFactor = Vec3.ZERO;
+                rig.mass = 0;
+                this._dropBox = rig;
+                var crane = find("crane")
+                if (crane) {
+                    obj.setParent(crane)
+                    obj.layer = Layers.Enum.UI_3D;
+                }
+
+                obj.setWorldPosition(this.floorBornPos.worldPosition)
+
+                var hc = this.cord.addComponent(HingeConstraint)
+                hc.pivotA = new Vec3(0, -0.5, 0);
+                hc.pivotB = new Vec3(0, 0.5, 0);
+
+                hc.connectedBody = rig
+
+                // this.isMove = false;
                 this._curTick = 0;
                 this._isCanCreateNext = true;
                 // boxRight2d.wakeUp();
             }
         }
     }
+
     onClickMainUI() {
         console.log("点击了")
 
-        if (!this.HOLDER_DIS_POS_Y) {
-            var pos = this.worldCamera.convertToUINode(this.worldCamera.node.getWorldPosition(), this.mainUI)
-            this.HOLDER_DIS_POS_Y = this.HOLDER_BASE_POS.y - pos.y;
-        }
+        if (this._isCanCreateNext) {
+            var dropFloor = this._dropBox.node
+            if (dropFloor) {
 
-        if (this.baseBox && this._isCanCreateNext) {
-            this._isCanCreateNext = false;
-            this.dj2d.enabled = false;
-            var collider = this.baseBox.getComponent(BoxCollider2D)
-            this.dropVec = this.baseBox.node.getWorldPosition();
-            // var screenP = new Vec3();
+                var hc = this.cord.getComponent(HingeConstraint)
+                hc.destroy();
 
-            this.dropVec = this.uiCamera.worldToScreen(this.dropVec)
+                this._dropBox.getLinearVelocity(this.floorSpeed)
+                this.assetMgr.removeInstant(dropFloor);
+                this.floorSpeed.x *= 3
+                this.floorSpeed.y = -5;
 
-            this.worldCamera.screenPointToRay(this.dropVec.x, this.dropVec.y, this.dropRay);
+                this.dropVec = this.cordCamera.worldToScreen(dropFloor.worldPosition)
 
-            this.floorSpeed = this.baseBox.linearVelocity;
-
-
-            this.assetMgr.removeInstant(collider.node);
-            this.baseBox = null;
-            this.onCheckHitFunc();
-
+                this.worldCamera.screenPointToRay(this.dropVec.x, this.dropVec.y, this.dropRay)
+                this.onCheckHitFunc();
+            }
         }
     }
     private _preOffSet = 0;
