@@ -1,0 +1,15 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1612798495132.69,
+  "outputTimeStamps": {
+    "ImphenziaPalette01-256-Gradient.png": 1712985486919.5378,
+    "log.json": 1712985487978.3538,
+    "out.bin": 1712985487974.3533,
+    "out.gltf": 1712985487977.3535,
+    ".fbm/CA871F5F/_HouseConstructionSite-AllInOneObject_.fbm/ImphenziaPalette01-256-Gradient.png": 1712985486919.5378
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

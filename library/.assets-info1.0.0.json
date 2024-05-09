@@ -5,7 +5,7 @@
       "time": 1704681516188.7312
     },
     "D:\\Project\\cocos\\test\\assets\\main.scene": {
-      "time": 1712934494496.588,
+      "time": 1715217441625.667,
       "uuid": "884899de-d9b2-4a42-978d-c1cabd138c65"
     },
     "D:\\Project\\cocos\\test\\assets\\Main.ts.meta": {
@@ -19,35 +19,35 @@
       "time": 1711943009477.5503
     },
     "D:\\Project\\cocos\\test\\assets\\material": {
-      "time": 1711943033603.6626,
+      "time": 1714973414797.3809,
       "uuid": "4e026fbd-bfd3-4965-af77-5a75df35cecf"
     },
     "D:\\Project\\cocos\\test\\assets\\material\\boxColor.mtl.meta": {
       "time": 1711943033624.6665
     },
     "D:\\Project\\cocos\\test\\assets\\material\\boxColor.mtl": {
-      "time": 1712633717586.5652,
+      "time": 1714972427611.9778,
       "uuid": "b3416136-980a-4388-aedf-22a030a8b5a4"
     },
     "D:\\Project\\cocos\\test\\assets\\script.meta": {
       "time": 1711943202878.5845
     },
     "D:\\Project\\cocos\\test\\assets\\script": {
-      "time": 1712037368291.209,
+      "time": 1714970904155.1106,
       "uuid": "8082c1a5-6f8f-4f2f-af36-468aefd094bc"
     },
     "D:\\Project\\cocos\\test\\assets\\script\\GameController.ts.meta": {
       "time": 1711943243805.8203
     },
     "D:\\Project\\cocos\\test\\assets\\script\\GameController.ts": {
-      "time": 1712935082076.9138,
+      "time": 1715221932432.5786,
       "uuid": "01c83466-2456-4813-8bc4-3004caa3035f"
     },
     "D:\\Project\\cocos\\test\\assets\\components.meta": {
       "time": 1712037195606.995
     },
     "D:\\Project\\cocos\\test\\assets\\components": {
-      "time": 1712114111346.9092,
+      "time": 1715067860643.4863,
       "uuid": "ef374fce-2e2a-45c5-a592-a70f2b70aca2"
     },
     "D:\\Project\\cocos\\test\\assets\\components\\BaseBox.prefab.meta": {
@@ -61,15 +61,946 @@
       "time": 1712037368298.2104
     },
     "D:\\Project\\cocos\\test\\assets\\script\\AssetMgr.ts": {
-      "time": 1712119932447.5906,
+      "time": 1714998104634.1208,
       "uuid": "b857645e-d0aa-4bd7-9866-e10c70e01d09"
     },
     "D:\\Project\\cocos\\test\\assets\\components\\BoxFloor.prefab.meta": {
       "time": 1712114111350.9133
     },
     "D:\\Project\\cocos\\test\\assets\\components\\BoxFloor.prefab": {
-      "time": 1712934147297.4282,
+      "time": 1715221213746.4436,
       "uuid": "6e6bd96a-0986-4a92-a168-29d690893d38"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model.meta": {
+      "time": 1712985480603.6877
+    },
+    "D:\\Project\\cocos\\test\\assets\\model": {
+      "time": 1715067621535.271,
+      "uuid": "576be1a8-2fc8-4952-8515-ece916f575f6"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Construction-Materials.fbx.meta": {
+      "time": 1712985486211.4995
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Building.fbx.meta": {
+      "time": 1712985486706.6123
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Containers-Cargo.fbx.meta": {
+      "time": 1712985486848.6428
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\_HouseConstructionSite-AllInOneObject_.fbx.meta": {
+      "time": 1712985488321.973
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Containers.fbx.meta": {
+      "time": 1712985488482.0085
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Containers-Office.fbx.meta": {
+      "time": 1712985488699.7166
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Crane-Mounted.fbx.meta": {
+      "time": 1712985488934.064
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Crane-On-Ground.fbx.meta": {
+      "time": 1712985489127.1074
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Fence.fbx.meta": {
+      "time": 1712985489278.1404
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Ground.fbx.meta": {
+      "time": 1712985489430.1758
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Ramp.fbx.meta": {
+      "time": 1712985489577.2073
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Road.fbx.meta": {
+      "time": 1712985489723.2417
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Trucks.fbx.meta": {
+      "time": 1712985490140.2527
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Construction-Materials.fbx": {
+      "time": 1612819372247.2446,
+      "uuid": "ce696ca6-7e48-48dc-966b-792e9fae2803"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Building.fbx": {
+      "time": 1612819091964.8455,
+      "uuid": "e481b1e2-0d25-4c74-b5d3-18cd60102477"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Containers-Cargo.fbx": {
+      "time": 1612819214065.0166,
+      "uuid": "afcf3672-bc20-408e-91e2-29787a8c28db"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\_HouseConstructionSite-AllInOneObject_.fbx": {
+      "time": 1612798495132.69,
+      "uuid": "6abd59a5-7b29-4913-a460-e573ea8565bd"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Containers.fbx": {
+      "time": 1612819232895.0427,
+      "uuid": "40989f90-544a-4d2c-9cbb-56b278d764eb"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Containers-Office.fbx": {
+      "time": 1612819251395.0686,
+      "uuid": "cb419b7c-5407-4881-97c0-ac4955d76dcc"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Crane-Mounted.fbx": {
+      "time": 1612819157324.937,
+      "uuid": "44c7ec40-1773-4cb8-8ad0-1657768ae191"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Crane-On-Ground.fbx": {
+      "time": 1612819135514.9065,
+      "uuid": "7334f914-eff7-40f5-b155-5142e736f278"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Fence.fbx": {
+      "time": 1612819318013.1653,
+      "uuid": "d22e4a29-928f-4122-994e-04774d564aca"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Ground.fbx": {
+      "time": 1612819024654.7512,
+      "uuid": "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Ramp.fbx": {
+      "time": 1612819351137.215,
+      "uuid": "db4396ba-d1b7-48d6-8884-cf1c206057d6"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Road.fbx": {
+      "time": 1612819062684.8044,
+      "uuid": "ad61cdda-e2d6-411e-817f-ea92fc18f4e0"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\Trucks.fbx": {
+      "time": 1612819280125.109,
+      "uuid": "9a4705db-ab40-4080-bd03-a4d8bfd707c3"
+    },
+    "D:\\Project\\cocos\\test\\assets\\shader.meta": {
+      "time": 1714970363440.5376
+    },
+    "D:\\Project\\cocos\\test\\assets\\shader": {
+      "time": 1714970415212.0974,
+      "uuid": "187fa107-e626-46cc-84eb-49d292709b95"
+    },
+    "D:\\Project\\cocos\\test\\assets\\shader\\MassObj.effect.meta": {
+      "time": 1714970415298.852
+    },
+    "D:\\Project\\cocos\\test\\assets\\shader\\MassObj.effect": {
+      "time": 1714826705610.4006,
+      "uuid": "74bf6023-6926-4efc-9c4b-e1e7ec456f4a"
+    },
+    "D:\\Project\\cocos\\test\\assets\\material\\MassMtl.mtl.meta": {
+      "time": 1714970449414.116
+    },
+    "D:\\Project\\cocos\\test\\assets\\material\\MassMtl.mtl": {
+      "time": 1714973348508.7659,
+      "uuid": "4c1885aa-3468-4504-b342-76152e3c5dbf"
+    },
+    "D:\\Project\\cocos\\test\\assets\\texture.meta": {
+      "time": 1714970799044.9722
+    },
+    "D:\\Project\\cocos\\test\\assets\\texture": {
+      "time": 1714970799046.9722,
+      "uuid": "d2151cc7-fcd0-419f-aaa0-331c5dd43b48"
+    },
+    "D:\\Project\\cocos\\test\\assets\\texture\\Brick_Diffuse.JPG.meta": {
+      "time": 1714970799082.6382
+    },
+    "D:\\Project\\cocos\\test\\assets\\texture\\Brick_Normal.JPG.meta": {
+      "time": 1714970799080.6377
+    },
+    "D:\\Project\\cocos\\test\\assets\\texture\\Brick_Normal.JPG": {
+      "time": 1712967013389.0999,
+      "uuid": "2a78f71b-43dd-428d-aac9-651b8364b61a"
+    },
+    "D:\\Project\\cocos\\test\\assets\\texture\\Brick_Diffuse.JPG": {
+      "time": 1712967013441.1118,
+      "uuid": "94d1ed35-9498-4c11-90d1-2eb29e7ebc88"
+    },
+    "D:\\Project\\cocos\\test\\assets\\script\\Mass.ts.meta": {
+      "time": 1714970357264.8071
+    },
+    "D:\\Project\\cocos\\test\\assets\\script\\Mass.ts": {
+      "time": 1714997824472.2788,
+      "uuid": "5b1b277a-1987-45dd-b8ee-c69c5b3ef215"
+    },
+    "D:\\Project\\cocos\\test\\assets\\material\\FloorMtl.mtl.meta": {
+      "time": 1714973414807.375
+    },
+    "D:\\Project\\cocos\\test\\assets\\material\\FloorMtl.mtl": {
+      "time": 1714982506249.8254,
+      "uuid": "35a93864-3f00-425b-80eb-4a86651fd91e"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings.meta": {
+      "time": 1715067621545.2732
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings": {
+      "time": 1715067621670.3025,
+      "uuid": "740c94e8-7b06-4579-91b2-0c8b63c403a6"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-narrow-windows.fbx.meta": {
+      "time": 1715067622261.4043
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-narrow.fbx.meta": {
+      "time": 1715067622249.403
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-wide.fbx.meta": {
+      "time": 1715067622257.4082
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-awnings.fbx.meta": {
+      "time": 1715067622237.4
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-balcony.fbx.meta": {
+      "time": 1715067622252.4026
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-door-window-round.fbx.meta": {
+      "time": 1715067622503.816
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-door-window.fbx.meta": {
+      "time": 1715067622576.8318
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-large-left.fbx.meta": {
+      "time": 1715067622498.8145
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-large-middle.fbx.meta": {
+      "time": 1715067622614.4038
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-large-right.fbx.meta": {
+      "time": 1715067622581.8335
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-large.fbx.meta": {
+      "time": 1715067622718.4282
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-left-sill.fbx.meta": {
+      "time": 1715067622993.885
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-left.fbx.meta": {
+      "time": 1715067622815.4495
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-right-sill.fbx.meta": {
+      "time": 1715067622813.4497
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-right.fbx.meta": {
+      "time": 1715067622864.8328
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-sill.fbx.meta": {
+      "time": 1715067622934.8499
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-wide-sill.fbx.meta": {
+      "time": 1715067623060.8992
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-wide.fbx.meta": {
+      "time": 1715067623095.9062
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window.fbx.meta": {
+      "time": 1715067623124.9138
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-high-middle.fbx.meta": {
+      "time": 1715067623174.924
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-high-top-round.fbx.meta": {
+      "time": 1715067623244.9404
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-high-top-square.fbx.meta": {
+      "time": 1715067623323.958
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-round.fbx.meta": {
+      "time": 1715067623351.964
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-sills-round.fbx.meta": {
+      "time": 1715067623381.913
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-sills.fbx.meta": {
+      "time": 1715067623422.9233
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows.fbx.meta": {
+      "time": 1715067623466.9326
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\detail-ac-a.fbx.meta": {
+      "time": 1715067623543.9507
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\detail-ac-b.fbx.meta": {
+      "time": 1715067623618.852
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-brown-glass.fbx.meta": {
+      "time": 1715067623644.858
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-brown-window.fbx.meta": {
+      "time": 1715067623683.8672
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-brown.fbx.meta": {
+      "time": 1715067623706.872
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-white-glass.fbx.meta": {
+      "time": 1715067623789.8906
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-white-window.fbx.meta": {
+      "time": 1715067623857.9065
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-white.fbx.meta": {
+      "time": 1715067623890.849
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-awning-a.fbx.meta": {
+      "time": 1715067623930.4656
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-awning-b.fbx.meta": {
+      "time": 1715067623955.7136
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-awning-c.fbx.meta": {
+      "time": 1715067624048.133
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-center-corner.fbx.meta": {
+      "time": 1715067624151.1567
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-center.fbx.meta": {
+      "time": 1715067624142.1548
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-corner-slanted-passage.fbx.meta": {
+      "time": 1715067624206.1677
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-corner-slanted.fbx.meta": {
+      "time": 1715067624246.1787
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-corner.fbx.meta": {
+      "time": 1715067624288.1875
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-end.fbx.meta": {
+      "time": 1715067624372.2058
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-side.fbx.meta": {
+      "time": 1715067624457.226
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-straight.fbx.meta": {
+      "time": 1715067624482.2307
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-center.fbx.meta": {
+      "time": 1715067624524.2395
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-corner-high.fbx.meta": {
+      "time": 1715067624554.2488
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-corner.fbx.meta": {
+      "time": 1715067624648.268
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-detail-a.fbx.meta": {
+      "time": 1715067624700.2798
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-detail-b.fbx.meta": {
+      "time": 1715067624785.3003
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-detail-c.fbx.meta": {
+      "time": 1715067624818.3071
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-detail-d.fbx.meta": {
+      "time": 1715067624815.3076
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-top.fbx.meta": {
+      "time": 1715067624919.329
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-gable-corner.fbx.meta": {
+      "time": 1715067624956.337
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-gable-end.fbx.meta": {
+      "time": 1715067625049.3591
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-gable.fbx.meta": {
+      "time": 1715067625066.362
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-corner-a.fbx.meta": {
+      "time": 1715067625058.3606
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-corner-b.fbx.meta": {
+      "time": 1715067625180.389
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-corner-c.fbx.meta": {
+      "time": 1715067625240.4023
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-corner-inner.fbx.meta": {
+      "time": 1715067625327.4211
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-detail.fbx.meta": {
+      "time": 1715067625320.4226
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-flat.fbx.meta": {
+      "time": 1715067625369.4307
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-window.fbx.meta": {
+      "time": 1715067625438.4458
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted.fbx.meta": {
+      "time": 1715067625543.472
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-detailed.fbx.meta": {
+      "time": 1715067625575.4773
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-large.fbx.meta": {
+      "time": 1715067625852.3413
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-narrow.fbx.meta": {
+      "time": 1715067625885.9895
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-low.fbx.meta": {
+      "time": 1715067625777.8596
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-middle.fbx.meta": {
+      "time": 1715067625825.393
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-narrow.fbx.meta": {
+      "time": 1715067625945.687
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-top.fbx.meta": {
+      "time": 1715067626124.261
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-wide.fbx.meta": {
+      "time": 1715067626183.2737
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-tall.fbx.meta": {
+      "time": 1715067626174.2725
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-wide.fbx.meta": {
+      "time": 1715067626232.381
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown.fbx.meta": {
+      "time": 1715067626255.7283
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-detailed.fbx.meta": {
+      "time": 1715067626400.2769
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-large.fbx.meta": {
+      "time": 1715067626435.671
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-narrow.fbx.meta": {
+      "time": 1715067626477.6829
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-low.fbx.meta": {
+      "time": 1715067626539.6948
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-middle.fbx.meta": {
+      "time": 1715067626537.6946
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-narrow.fbx.meta": {
+      "time": 1715067626645.718
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-top.fbx.meta": {
+      "time": 1715067626668.7236
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-wide.fbx.meta": {
+      "time": 1715067626746.7415
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-tall.fbx.meta": {
+      "time": 1715067626797.7534
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-wide.fbx.meta": {
+      "time": 1715067626840.7627
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white.fbx.meta": {
+      "time": 1715067626882.7722
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\Textures.meta": {
+      "time": 1715067626670.7256
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-block.fbx.meta": {
+      "time": 1715067627069.8142
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-bottom.fbx.meta": {
+      "time": 1715067627125.8267
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-top.fbx.meta": {
+      "time": 1715067627190.8425
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-middle.fbx.meta": {
+      "time": 1715067627217.8474
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-narrow.fbx.meta": {
+      "time": 1715067627325.8728
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-sill.fbx.meta": {
+      "time": 1715067627388.8855
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-top-round.fbx.meta": {
+      "time": 1715067627617.9373
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-top-square.fbx.meta": {
+      "time": 1715067627468.9038
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window.fbx.meta": {
+      "time": 1715067627461.902
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner.fbx.meta": {
+      "time": 1715067627569.928
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-door-window-narrow.fbx.meta": {
+      "time": 1715067627638.9424
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-door-window.fbx.meta": {
+      "time": 1715067627748.9685
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-door.fbx.meta": {
+      "time": 1715067627713.9592
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-edges-door.fbx.meta": {
+      "time": 1715215256049.2827
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-house-a.fbx.meta": {
+      "time": 1715067627849.99
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-house-b.fbx.meta": {
+      "time": 1715067627884.9976
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-house-c.fbx.meta": {
+      "time": 1715067627953.0142
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-tower-a.fbx.meta": {
+      "time": 1715067628000.0242
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-tower-b.fbx.meta": {
+      "time": 1715067628089.044
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-tower-c.fbx.meta": {
+      "time": 1715067628108.0483
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-tower-d.fbx.meta": {
+      "time": 1715067628141.0564
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-narrow-windows-round.fbx.meta": {
+      "time": 1715067628193.0667
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\Textures\\colormap.png.meta": {
+      "time": 1715067628014.027
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-awnings.fbx": {
+      "time": 1707397317000,
+      "uuid": "756637e0-5767-4639-95d4-95950a627a9e"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-narrow.fbx": {
+      "time": 1707397317000,
+      "uuid": "b74731f2-8ca1-47aa-b9bc-7147680d525d"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-balcony.fbx": {
+      "time": 1707397317000,
+      "uuid": "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-wide.fbx": {
+      "time": 1707397317000,
+      "uuid": "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-narrow-windows.fbx": {
+      "time": 1707397317000,
+      "uuid": "dc73c6dc-e7f6-4316-9375-d046d41f6dc2"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-large-left.fbx": {
+      "time": 1707397317000,
+      "uuid": "11b2d320-1066-45d8-ac60-e6b636766d97"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-door-window-round.fbx": {
+      "time": 1707397317000,
+      "uuid": "8e36f18d-b8a8-41ef-b552-420908196047"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-door-window.fbx": {
+      "time": 1707397317000,
+      "uuid": "b57cf449-8694-4980-939d-2ef9badb621f"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-large-right.fbx": {
+      "time": 1707397318000,
+      "uuid": "e270f932-3c80-4dea-bc77-342a9a2a4233"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-large-middle.fbx": {
+      "time": 1707397317000,
+      "uuid": "fb5c3769-c1ad-47ec-b552-d685ed220dea"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-large.fbx": {
+      "time": 1707397317000,
+      "uuid": "c78c0636-7dae-4fbf-94c3-93d42ced5f0d"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-right-sill.fbx": {
+      "time": 1707397318000,
+      "uuid": "954dd60e-303c-4afa-974c-8f9ad5b102fb"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-left.fbx": {
+      "time": 1707397318000,
+      "uuid": "55ba76a7-475e-454c-8c6e-b65bd5331ab7"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-right.fbx": {
+      "time": 1707397318000,
+      "uuid": "ff71a7d5-97e4-4ec0-8385-5be88e76e15c"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-sill.fbx": {
+      "time": 1707397318000,
+      "uuid": "5a2483cb-03fb-42c3-8b97-46922f5ec008"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-left-sill.fbx": {
+      "time": 1707397318000,
+      "uuid": "b8b32bce-30a1-4f37-801e-fa4ede85c126"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-wide-sill.fbx": {
+      "time": 1707397318000,
+      "uuid": "83746d44-cd4f-480a-b5ee-962ee6b8e783"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window-wide.fbx": {
+      "time": 1707397318000,
+      "uuid": "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-window.fbx": {
+      "time": 1707397317000,
+      "uuid": "370eebeb-eae2-4b31-bcf6-f37df06ee197"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-high-middle.fbx": {
+      "time": 1707397318000,
+      "uuid": "7a5edb0a-b4a4-4973-b106-b377218f8c3a"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-high-top-round.fbx": {
+      "time": 1707397318000,
+      "uuid": "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-high-top-square.fbx": {
+      "time": 1707397318000,
+      "uuid": "5f0ad627-5483-4e26-a096-2448b479edd1"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-round.fbx": {
+      "time": 1707397318000,
+      "uuid": "eba75dd9-d315-4d9e-a6b3-49aee1364927"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-sills-round.fbx": {
+      "time": 1707397318000,
+      "uuid": "482697a0-8b71-4658-a653-dea6d52512e2"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows-sills.fbx": {
+      "time": 1707397318000,
+      "uuid": "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-windows.fbx": {
+      "time": 1707397318000,
+      "uuid": "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\detail-ac-a.fbx": {
+      "time": 1707397318000,
+      "uuid": "9ff8874b-27b4-4772-8b10-c42fc234177e"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\detail-ac-b.fbx": {
+      "time": 1707397318000,
+      "uuid": "42e41129-53ce-4f2c-821e-30d2cdbde36e"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-brown-glass.fbx": {
+      "time": 1707397318000,
+      "uuid": "045db598-453c-456b-92c9-99cd6388a8ca"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-brown-window.fbx": {
+      "time": 1707397318000,
+      "uuid": "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-brown.fbx": {
+      "time": 1707397318000,
+      "uuid": "fd595653-ebac-4eaa-8b05-d1720901dc56"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-white-glass.fbx": {
+      "time": 1707397319000,
+      "uuid": "5b50b769-3048-4fcc-9cb5-1c769859e806"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-white-window.fbx": {
+      "time": 1707397319000,
+      "uuid": "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\door-white.fbx": {
+      "time": 1707397319000,
+      "uuid": "f5518155-be0b-4699-afb5-8e22e5e34c1f"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-awning-a.fbx": {
+      "time": 1707397319000,
+      "uuid": "12fe307e-eea8-4940-9208-2a5e50061df1"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-awning-b.fbx": {
+      "time": 1707397319000,
+      "uuid": "5a82f275-d819-41af-b491-39ac977a9880"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-awning-c.fbx": {
+      "time": 1707397319000,
+      "uuid": "49570eb9-213c-44f4-8332-b2b57089662c"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-center.fbx": {
+      "time": 1707397319000,
+      "uuid": "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-center-corner.fbx": {
+      "time": 1707397319000,
+      "uuid": "29c66176-529f-4e0d-a656-2a15db1f9ec4"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-corner-slanted-passage.fbx": {
+      "time": 1707397319000,
+      "uuid": "93510d5c-b3ac-455d-91ad-88f2ba2b6e71"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-corner-slanted.fbx": {
+      "time": 1707397319000,
+      "uuid": "f822f4f5-5572-4390-adfe-ec3f30f2a3d1"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-corner.fbx": {
+      "time": 1707397319000,
+      "uuid": "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-end.fbx": {
+      "time": 1707397319000,
+      "uuid": "588d0f30-e34c-4447-b724-4595151ce8a8"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-side.fbx": {
+      "time": 1707397319000,
+      "uuid": "e3ae0baa-016d-42cd-9abf-f5dad57f863d"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-border-straight.fbx": {
+      "time": 1707397319000,
+      "uuid": "70d2603a-ec65-490d-8239-f11ba3c0bb68"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-center.fbx": {
+      "time": 1707397319000,
+      "uuid": "fb500668-e66b-4e31-823c-880278e9f583"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-corner-high.fbx": {
+      "time": 1707397319000,
+      "uuid": "9cdfda0b-601c-4e26-8512-ea5daf20586c"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-corner.fbx": {
+      "time": 1707397319000,
+      "uuid": "197f8202-9254-4c22-b755-c3b28f0f8f58"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-detail-a.fbx": {
+      "time": 1707397319000,
+      "uuid": "b62bb061-12d2-47a3-b314-4ed6440ad015"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-detail-b.fbx": {
+      "time": 1707397319000,
+      "uuid": "20f5a62e-db37-48b6-a4b4-160ee3a96a5e"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-detail-d.fbx": {
+      "time": 1707397319000,
+      "uuid": "05e09be4-dc42-45ff-b1b1-a19b6582edb1"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-detail-c.fbx": {
+      "time": 1707397319000,
+      "uuid": "75a65021-bd30-4d8e-9fdd-be77927186a5"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-flat-top.fbx": {
+      "time": 1707397320000,
+      "uuid": "df03f168-196f-49ab-9f1a-4e7c587b81aa"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-gable-corner.fbx": {
+      "time": 1707397320000,
+      "uuid": "23320237-a8d2-4910-ab69-db4392d5f48c"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-gable-end.fbx": {
+      "time": 1707397320000,
+      "uuid": "397a1cfb-9c42-47c3-a365-10343b7ba630"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-corner-a.fbx": {
+      "time": 1707397320000,
+      "uuid": "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-gable.fbx": {
+      "time": 1707397320000,
+      "uuid": "47b6e05e-4d7c-4d30-9359-d40e5ef2c428"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-corner-b.fbx": {
+      "time": 1707397320000,
+      "uuid": "0bc9c10e-ec9a-4501-8019-2daedad9d557"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-corner-c.fbx": {
+      "time": 1707397320000,
+      "uuid": "2ada252f-0f7e-400e-9171-20af943966ba"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-detail.fbx": {
+      "time": 1707397320000,
+      "uuid": "5d6a6503-53fb-4a77-a8b1-21920d40fb2e"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-corner-inner.fbx": {
+      "time": 1707397320000,
+      "uuid": "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-flat.fbx": {
+      "time": 1707397320000,
+      "uuid": "770eba50-ef1d-417f-8f3f-8036d5727bca"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted-window.fbx": {
+      "time": 1707397320000,
+      "uuid": "b475e46d-50cd-4f4d-b5b1-d3f94cd911df"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\roof-slanted.fbx": {
+      "time": 1707397320000,
+      "uuid": "2008ef07-c149-4d0a-9911-d402a0453ac2"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-detailed.fbx": {
+      "time": 1707397320000,
+      "uuid": "99b6c925-9c1c-4822-99de-984bd006f21c"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-low.fbx": {
+      "time": 1707397320000,
+      "uuid": "e8d25e5a-c6ae-4e71-968f-77772931b3de"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-middle.fbx": {
+      "time": 1707397320000,
+      "uuid": "90b8edd1-7769-4056-9f26-83194ae04ebc"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-large.fbx": {
+      "time": 1707397320000,
+      "uuid": "7965a304-d8c3-4325-8905-9ef368427efd"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-narrow.fbx": {
+      "time": 1707397320000,
+      "uuid": "e2333a85-1e62-4710-8824-960234ce1907"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-narrow.fbx": {
+      "time": 1707397320000,
+      "uuid": "387f25ea-67ef-47ef-ac07-b98e20c98d53"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-top.fbx": {
+      "time": 1707397320000,
+      "uuid": "a688082a-9c02-4372-9763-50a74a0771fb"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-tall.fbx": {
+      "time": 1707397321000,
+      "uuid": "606eb7b7-a45a-400b-b190-ccdca74bddd4"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-round-wide.fbx": {
+      "time": 1707397321000,
+      "uuid": "693f140e-2090-42e8-9662-53cb2095c2e5"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown-wide.fbx": {
+      "time": 1707397321000,
+      "uuid": "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-brown.fbx": {
+      "time": 1707397320000,
+      "uuid": "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-detailed.fbx": {
+      "time": 1707397321000,
+      "uuid": "11c218a0-993c-4997-a1bb-d225d656c880"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-large.fbx": {
+      "time": 1707397321000,
+      "uuid": "598bea6c-d115-43f8-a5e7-17a979a9227d"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-narrow.fbx": {
+      "time": 1707397321000,
+      "uuid": "ba7724fe-9279-4007-90f8-f8b1c46295e7"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-middle.fbx": {
+      "time": 1707397321000,
+      "uuid": "990736cd-aa65-4d70-a6b0-605dc51f4ad2"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-low.fbx": {
+      "time": 1707397321000,
+      "uuid": "da999cf1-9e6b-4a9a-879f-02653c63278e"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-narrow.fbx": {
+      "time": 1707397321000,
+      "uuid": "385da667-bb8f-40cc-bb8f-5ba52e9ded4a"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-top.fbx": {
+      "time": 1707397321000,
+      "uuid": "c3ba1d70-8062-4edd-afdd-4f422de4f4a7"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\Textures": {
+      "time": 1715067621671.302,
+      "uuid": "16de7901-5114-4054-849b-771b8234a330"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-round-wide.fbx": {
+      "time": 1707397321000,
+      "uuid": "c72d40da-b247-42e6-9b26-13dc364d9bbd"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-tall.fbx": {
+      "time": 1707397321000,
+      "uuid": "55bed966-6366-40f5-910f-acf6acf8763f"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white-wide.fbx": {
+      "time": 1707397321000,
+      "uuid": "b3942f20-0a40-4525-bc38-99bde937092e"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\window-white.fbx": {
+      "time": 1707397321000,
+      "uuid": "e3deee91-ec57-451c-bfdc-0b10163d247c"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-block.fbx": {
+      "time": 1707397316000,
+      "uuid": "c125e7a3-7024-4849-910c-04ce3cb25382"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-bottom.fbx": {
+      "time": 1707397316000,
+      "uuid": "af752754-b2f0-473e-b4c5-19ede5536167"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-top.fbx": {
+      "time": 1707397316000,
+      "uuid": "8ce22c9a-3993-4cd1-906e-c705fcef7a55"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-middle.fbx": {
+      "time": 1707397316000,
+      "uuid": "1db2a741-06e9-41e6-8456-6d2e438e1f66"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-narrow.fbx": {
+      "time": 1707397316000,
+      "uuid": "1a0ab56b-c160-4b43-ab22-fab28d2e938f"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-sill.fbx": {
+      "time": 1707397316000,
+      "uuid": "ac741ba2-05d6-45f1-b965-c5cbda235ed9"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window.fbx": {
+      "time": 1707397316000,
+      "uuid": "fe78a254-754d-45d6-86b8-566e873e6c40"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-top-square.fbx": {
+      "time": 1707397316000,
+      "uuid": "1fbb5f31-0707-4b57-a0f5-647b4ff524c8"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner.fbx": {
+      "time": 1707397316000,
+      "uuid": "a9b6066a-9d3b-4521-8a4f-b7405fced79d"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-corner-window-top-round.fbx": {
+      "time": 1707397316000,
+      "uuid": "4db90cdb-7d58-4dc0-941e-020cd73171e6"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-door-window-narrow.fbx": {
+      "time": 1707397316000,
+      "uuid": "df9143ef-1dc2-4259-88e3-e67eaa906e24"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-door.fbx": {
+      "time": 1707397316000,
+      "uuid": "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-door-window.fbx": {
+      "time": 1707397316000,
+      "uuid": "19619ff4-e6c9-41b7-8e44-5f5f49507e6f"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-edges-door.fbx": {
+      "time": 1707397316000,
+      "uuid": "57023028-b266-43a5-a2f5-a89b4838fec8"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-house-a.fbx": {
+      "time": 1707397317000,
+      "uuid": "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-house-b.fbx": {
+      "time": 1707397317000,
+      "uuid": "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-house-c.fbx": {
+      "time": 1707397317000,
+      "uuid": "8023154f-b335-485a-83df-8d8cc5f10466"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-tower-a.fbx": {
+      "time": 1707397317000,
+      "uuid": "f103c070-98e6-4b12-9529-9762264c0fa4"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\Textures\\colormap.png": {
+      "time": 1707397336000,
+      "uuid": "aa99720f-707e-4367-b268-6dffc9f43efc"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-tower-b.fbx": {
+      "time": 1707397317000,
+      "uuid": "822ce18c-38f2-477c-a5e3-bbc09c95cb50"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-tower-c.fbx": {
+      "time": 1707397317000,
+      "uuid": "2052da34-b3b2-444b-959a-d654298c81f3"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-sample-tower-d.fbx": {
+      "time": 1707397317000,
+      "uuid": "241f3911-7870-48af-8c7b-16f7a1a94453"
+    },
+    "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-narrow-windows-round.fbx": {
+      "time": 1707397317000,
+      "uuid": "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c"
     }
   },
   "missing": {
@@ -97,6 +1028,16 @@
       "path": "D:\\Project\\cocos\\test\\assets\\components\\boxFloor.prefab",
       "time": 1712114107024.4116,
       "removeTime": 1712114111345
+    },
+    "5b1b277a-1987-45dd-b8ee-c69c5b3ef215": {
+      "path": "D:\\Project\\cocos\\test\\assets\\Mass.ts",
+      "time": 1714966801043.1562,
+      "removeTime": 1714970904156
+    },
+    "5b277661-0adb-4c94-8c64-3c0166b28b94": {
+      "path": "D:\\Project\\cocos\\test\\assets\\components\\building-steps-narrow.prefab",
+      "time": 1715067788054.0754,
+      "removeTime": 1715067860656
     }
   }
 }

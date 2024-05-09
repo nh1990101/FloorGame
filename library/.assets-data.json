@@ -4,13 +4,14 @@
     "value": {
       "depends": [
         "884899de-d9b2-4a42-978d-c1cabd138c65",
-        "6e6bd96a-0986-4a92-a168-29d690893d38",
+        "fb500668-e66b-4e31-823c-880278e9f583@88ab2",
         "620b6bf3-0369-4560-837f-2a2c00b73c26",
         "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
         "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
         "ba21476f-2866-4f81-9c4d-6e359316e448",
         "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "7334f914-eff7-40f5-b155-5142e736f278@0e686",
         "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
         "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
       ],
@@ -74,11 +75,5388 @@
     "url": "db://assets/components/BoxFloor.prefab",
     "value": {
       "depends": [
-        "b3416136-980a-4388-aedf-22a030a8b5a4",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "ba21476f-2866-4f81-9c4d-6e359316e448"
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "57023028-b266-43a5-a2f5-a89b4838fec8@9991c",
+        "57023028-b266-43a5-a2f5-a89b4838fec8@a62fe"
       ],
       "dependScripts": []
     }
+  },
+  "576be1a8-2fc8-4952-8515-ece916f575f6": {
+    "url": "db://assets/model",
+    "value": {}
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803": {
+    "url": "db://assets/model/Construction-Materials.fbx",
+    "value": {}
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@73577": {
+    "url": "db://assets/model/Construction-Materials.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@7d6ab"
+      ]
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@181b3": {
+    "url": "db://assets/model/Construction-Materials.fbx@181b3",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@a4d51": {
+    "url": "db://assets/model/Construction-Materials.fbx@a4d51",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@d7dae": {
+    "url": "db://assets/model/Construction-Materials.fbx@d7dae",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@52e41": {
+    "url": "db://assets/model/Construction-Materials.fbx@52e41",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@334f6": {
+    "url": "db://assets/model/Construction-Materials.fbx@334f6",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@d33b5": {
+    "url": "db://assets/model/Construction-Materials.fbx@d33b5",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@3a858": {
+    "url": "db://assets/model/Construction-Materials.fbx@3a858",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@09513": {
+    "url": "db://assets/model/Construction-Materials.fbx@09513",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@17dd0": {
+    "url": "db://assets/model/Construction-Materials.fbx@17dd0",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@48b02": {
+    "url": "db://assets/model/Construction-Materials.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@7d6ab": {
+    "url": "db://assets/model/Construction-Materials.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@48b02"
+      ]
+    }
+  },
+  "ce696ca6-7e48-48dc-966b-792e9fae2803@c3c41": {
+    "url": "db://assets/model/Construction-Materials.fbx@c3c41",
+    "value": {
+      "depends": [
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@73577",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@181b3",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@a4d51",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@d7dae",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@52e41",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@334f6",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@d33b5",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@3a858",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@09513",
+        "ce696ca6-7e48-48dc-966b-792e9fae2803@17dd0"
+      ]
+    }
+  },
+  "e481b1e2-0d25-4c74-b5d3-18cd60102477": {
+    "url": "db://assets/model/Building.fbx",
+    "value": {}
+  },
+  "e481b1e2-0d25-4c74-b5d3-18cd60102477@73577": {
+    "url": "db://assets/model/Building.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e481b1e2-0d25-4c74-b5d3-18cd60102477@7d6ab"
+      ]
+    }
+  },
+  "e481b1e2-0d25-4c74-b5d3-18cd60102477@2f6d1": {
+    "url": "db://assets/model/Building.fbx@2f6d1",
+    "value": {
+      "depends": []
+    }
+  },
+  "e481b1e2-0d25-4c74-b5d3-18cd60102477@48b02": {
+    "url": "db://assets/model/Building.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "e481b1e2-0d25-4c74-b5d3-18cd60102477@7d6ab": {
+    "url": "db://assets/model/Building.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "e481b1e2-0d25-4c74-b5d3-18cd60102477@48b02"
+      ]
+    }
+  },
+  "e481b1e2-0d25-4c74-b5d3-18cd60102477@d9255": {
+    "url": "db://assets/model/Building.fbx@d9255",
+    "value": {
+      "depends": [
+        "e481b1e2-0d25-4c74-b5d3-18cd60102477@73577",
+        "e481b1e2-0d25-4c74-b5d3-18cd60102477@2f6d1"
+      ]
+    }
+  },
+  "afcf3672-bc20-408e-91e2-29787a8c28db": {
+    "url": "db://assets/model/Containers-Cargo.fbx",
+    "value": {}
+  },
+  "afcf3672-bc20-408e-91e2-29787a8c28db@73577": {
+    "url": "db://assets/model/Containers-Cargo.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "afcf3672-bc20-408e-91e2-29787a8c28db@7d6ab"
+      ]
+    }
+  },
+  "afcf3672-bc20-408e-91e2-29787a8c28db@cf560": {
+    "url": "db://assets/model/Containers-Cargo.fbx@cf560",
+    "value": {
+      "depends": []
+    }
+  },
+  "afcf3672-bc20-408e-91e2-29787a8c28db@b61ba": {
+    "url": "db://assets/model/Containers-Cargo.fbx@b61ba",
+    "value": {
+      "depends": []
+    }
+  },
+  "afcf3672-bc20-408e-91e2-29787a8c28db@48b02": {
+    "url": "db://assets/model/Containers-Cargo.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "afcf3672-bc20-408e-91e2-29787a8c28db@7d6ab": {
+    "url": "db://assets/model/Containers-Cargo.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "afcf3672-bc20-408e-91e2-29787a8c28db@48b02"
+      ]
+    }
+  },
+  "afcf3672-bc20-408e-91e2-29787a8c28db@b5b18": {
+    "url": "db://assets/model/Containers-Cargo.fbx@b5b18",
+    "value": {
+      "depends": [
+        "afcf3672-bc20-408e-91e2-29787a8c28db@73577",
+        "afcf3672-bc20-408e-91e2-29787a8c28db@cf560",
+        "afcf3672-bc20-408e-91e2-29787a8c28db@b61ba"
+      ]
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx",
+    "value": {}
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@31354": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@31354",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@73577": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "6abd59a5-7b29-4913-a460-e573ea8565bd@0a1ef"
+      ]
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@a5f8b": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@a5f8b",
+    "value": {
+      "depends": []
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@8fac0": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@8fac0",
+    "value": {
+      "depends": []
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@5e49e": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@5e49e",
+    "value": {
+      "depends": []
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@ef396": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@ef396",
+    "value": {
+      "depends": []
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@0a1ef": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@0a1ef",
+    "value": {
+      "depends": [
+        "6abd59a5-7b29-4913-a460-e573ea8565bd@5e49e"
+      ]
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@05da8": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@05da8",
+    "value": {
+      "depends": [
+        "6abd59a5-7b29-4913-a460-e573ea8565bd@ef396"
+      ]
+    }
+  },
+  "6abd59a5-7b29-4913-a460-e573ea8565bd@ee4a2": {
+    "url": "db://assets/model/_HouseConstructionSite-AllInOneObject_.fbx@ee4a2",
+    "value": {
+      "depends": [
+        "6abd59a5-7b29-4913-a460-e573ea8565bd@73577",
+        "6abd59a5-7b29-4913-a460-e573ea8565bd@a5f8b",
+        "6abd59a5-7b29-4913-a460-e573ea8565bd@31354",
+        "6abd59a5-7b29-4913-a460-e573ea8565bd@8fac0"
+      ]
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb": {
+    "url": "db://assets/model/Containers.fbx",
+    "value": {}
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@73577": {
+    "url": "db://assets/model/Containers.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "40989f90-544a-4d2c-9cbb-56b278d764eb@7d6ab"
+      ]
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@0842b": {
+    "url": "db://assets/model/Containers.fbx@0842b",
+    "value": {
+      "depends": []
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@00870": {
+    "url": "db://assets/model/Containers.fbx@00870",
+    "value": {
+      "depends": []
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@bf48e": {
+    "url": "db://assets/model/Containers.fbx@bf48e",
+    "value": {
+      "depends": []
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@ea49c": {
+    "url": "db://assets/model/Containers.fbx@ea49c",
+    "value": {
+      "depends": []
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@54ccb": {
+    "url": "db://assets/model/Containers.fbx@54ccb",
+    "value": {
+      "depends": []
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@48b02": {
+    "url": "db://assets/model/Containers.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@7d6ab": {
+    "url": "db://assets/model/Containers.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "40989f90-544a-4d2c-9cbb-56b278d764eb@48b02"
+      ]
+    }
+  },
+  "40989f90-544a-4d2c-9cbb-56b278d764eb@244fb": {
+    "url": "db://assets/model/Containers.fbx@244fb",
+    "value": {
+      "depends": [
+        "40989f90-544a-4d2c-9cbb-56b278d764eb@73577",
+        "40989f90-544a-4d2c-9cbb-56b278d764eb@0842b",
+        "40989f90-544a-4d2c-9cbb-56b278d764eb@00870",
+        "40989f90-544a-4d2c-9cbb-56b278d764eb@bf48e",
+        "40989f90-544a-4d2c-9cbb-56b278d764eb@ea49c",
+        "40989f90-544a-4d2c-9cbb-56b278d764eb@54ccb"
+      ]
+    }
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc": {
+    "url": "db://assets/model/Containers-Office.fbx",
+    "value": {}
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc@73577": {
+    "url": "db://assets/model/Containers-Office.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "cb419b7c-5407-4881-97c0-ac4955d76dcc@7d6ab"
+      ]
+    }
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc@73684": {
+    "url": "db://assets/model/Containers-Office.fbx@73684",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc@c6e33": {
+    "url": "db://assets/model/Containers-Office.fbx@c6e33",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc@97b51": {
+    "url": "db://assets/model/Containers-Office.fbx@97b51",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc@0a48a": {
+    "url": "db://assets/model/Containers-Office.fbx@0a48a",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc@48b02": {
+    "url": "db://assets/model/Containers-Office.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc@7d6ab": {
+    "url": "db://assets/model/Containers-Office.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "cb419b7c-5407-4881-97c0-ac4955d76dcc@48b02"
+      ]
+    }
+  },
+  "cb419b7c-5407-4881-97c0-ac4955d76dcc@5a805": {
+    "url": "db://assets/model/Containers-Office.fbx@5a805",
+    "value": {
+      "depends": [
+        "cb419b7c-5407-4881-97c0-ac4955d76dcc@73577",
+        "cb419b7c-5407-4881-97c0-ac4955d76dcc@c6e33",
+        "cb419b7c-5407-4881-97c0-ac4955d76dcc@97b51",
+        "cb419b7c-5407-4881-97c0-ac4955d76dcc@0a48a",
+        "cb419b7c-5407-4881-97c0-ac4955d76dcc@73684"
+      ]
+    }
+  },
+  "44c7ec40-1773-4cb8-8ad0-1657768ae191": {
+    "url": "db://assets/model/Crane-Mounted.fbx",
+    "value": {}
+  },
+  "44c7ec40-1773-4cb8-8ad0-1657768ae191@73577": {
+    "url": "db://assets/model/Crane-Mounted.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "44c7ec40-1773-4cb8-8ad0-1657768ae191@7d6ab"
+      ]
+    }
+  },
+  "44c7ec40-1773-4cb8-8ad0-1657768ae191@6bf16": {
+    "url": "db://assets/model/Crane-Mounted.fbx@6bf16",
+    "value": {
+      "depends": []
+    }
+  },
+  "44c7ec40-1773-4cb8-8ad0-1657768ae191@48b02": {
+    "url": "db://assets/model/Crane-Mounted.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "44c7ec40-1773-4cb8-8ad0-1657768ae191@7d6ab": {
+    "url": "db://assets/model/Crane-Mounted.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "44c7ec40-1773-4cb8-8ad0-1657768ae191@48b02"
+      ]
+    }
+  },
+  "44c7ec40-1773-4cb8-8ad0-1657768ae191@4bf0f": {
+    "url": "db://assets/model/Crane-Mounted.fbx@4bf0f",
+    "value": {
+      "depends": [
+        "44c7ec40-1773-4cb8-8ad0-1657768ae191@73577",
+        "44c7ec40-1773-4cb8-8ad0-1657768ae191@6bf16"
+      ]
+    }
+  },
+  "7334f914-eff7-40f5-b155-5142e736f278": {
+    "url": "db://assets/model/Crane-On-Ground.fbx",
+    "value": {}
+  },
+  "7334f914-eff7-40f5-b155-5142e736f278@73577": {
+    "url": "db://assets/model/Crane-On-Ground.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "7334f914-eff7-40f5-b155-5142e736f278@7d6ab"
+      ]
+    }
+  },
+  "7334f914-eff7-40f5-b155-5142e736f278@4ea01": {
+    "url": "db://assets/model/Crane-On-Ground.fbx@4ea01",
+    "value": {
+      "depends": []
+    }
+  },
+  "7334f914-eff7-40f5-b155-5142e736f278@48b02": {
+    "url": "db://assets/model/Crane-On-Ground.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "7334f914-eff7-40f5-b155-5142e736f278@7d6ab": {
+    "url": "db://assets/model/Crane-On-Ground.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "7334f914-eff7-40f5-b155-5142e736f278@48b02"
+      ]
+    }
+  },
+  "7334f914-eff7-40f5-b155-5142e736f278@0e686": {
+    "url": "db://assets/model/Crane-On-Ground.fbx@0e686",
+    "value": {
+      "depends": [
+        "7334f914-eff7-40f5-b155-5142e736f278@73577",
+        "7334f914-eff7-40f5-b155-5142e736f278@4ea01"
+      ]
+    }
+  },
+  "d22e4a29-928f-4122-994e-04774d564aca": {
+    "url": "db://assets/model/Fence.fbx",
+    "value": {}
+  },
+  "d22e4a29-928f-4122-994e-04774d564aca@73577": {
+    "url": "db://assets/model/Fence.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "d22e4a29-928f-4122-994e-04774d564aca@7d6ab"
+      ]
+    }
+  },
+  "d22e4a29-928f-4122-994e-04774d564aca@45f73": {
+    "url": "db://assets/model/Fence.fbx@45f73",
+    "value": {
+      "depends": []
+    }
+  },
+  "d22e4a29-928f-4122-994e-04774d564aca@48b02": {
+    "url": "db://assets/model/Fence.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "d22e4a29-928f-4122-994e-04774d564aca@7d6ab": {
+    "url": "db://assets/model/Fence.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "d22e4a29-928f-4122-994e-04774d564aca@48b02"
+      ]
+    }
+  },
+  "d22e4a29-928f-4122-994e-04774d564aca@75a22": {
+    "url": "db://assets/model/Fence.fbx@75a22",
+    "value": {
+      "depends": [
+        "d22e4a29-928f-4122-994e-04774d564aca@73577",
+        "d22e4a29-928f-4122-994e-04774d564aca@45f73"
+      ]
+    }
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae": {
+    "url": "db://assets/model/Ground.fbx",
+    "value": {}
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@31354": {
+    "url": "db://assets/model/Ground.fbx@31354",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@0a1ef"
+      ]
+    }
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@73577": {
+    "url": "db://assets/model/Ground.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@8fac0": {
+    "url": "db://assets/model/Ground.fbx@8fac0",
+    "value": {
+      "depends": []
+    }
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@5e49e": {
+    "url": "db://assets/model/Ground.fbx@5e49e",
+    "value": {
+      "depends": []
+    }
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@ef396": {
+    "url": "db://assets/model/Ground.fbx@ef396",
+    "value": {
+      "depends": []
+    }
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@0a1ef": {
+    "url": "db://assets/model/Ground.fbx@0a1ef",
+    "value": {
+      "depends": [
+        "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@5e49e"
+      ]
+    }
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@05da8": {
+    "url": "db://assets/model/Ground.fbx@05da8",
+    "value": {
+      "depends": [
+        "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@ef396"
+      ]
+    }
+  },
+  "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@7621e": {
+    "url": "db://assets/model/Ground.fbx@7621e",
+    "value": {
+      "depends": [
+        "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@31354",
+        "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@73577",
+        "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae@8fac0"
+      ]
+    }
+  },
+  "db4396ba-d1b7-48d6-8884-cf1c206057d6": {
+    "url": "db://assets/model/Ramp.fbx",
+    "value": {}
+  },
+  "db4396ba-d1b7-48d6-8884-cf1c206057d6@73577": {
+    "url": "db://assets/model/Ramp.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "db4396ba-d1b7-48d6-8884-cf1c206057d6@7d6ab"
+      ]
+    }
+  },
+  "db4396ba-d1b7-48d6-8884-cf1c206057d6@fc108": {
+    "url": "db://assets/model/Ramp.fbx@fc108",
+    "value": {
+      "depends": []
+    }
+  },
+  "db4396ba-d1b7-48d6-8884-cf1c206057d6@48b02": {
+    "url": "db://assets/model/Ramp.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "db4396ba-d1b7-48d6-8884-cf1c206057d6@7d6ab": {
+    "url": "db://assets/model/Ramp.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "db4396ba-d1b7-48d6-8884-cf1c206057d6@48b02"
+      ]
+    }
+  },
+  "db4396ba-d1b7-48d6-8884-cf1c206057d6@aa299": {
+    "url": "db://assets/model/Ramp.fbx@aa299",
+    "value": {
+      "depends": [
+        "db4396ba-d1b7-48d6-8884-cf1c206057d6@73577",
+        "db4396ba-d1b7-48d6-8884-cf1c206057d6@fc108"
+      ]
+    }
+  },
+  "ad61cdda-e2d6-411e-817f-ea92fc18f4e0": {
+    "url": "db://assets/model/Road.fbx",
+    "value": {}
+  },
+  "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@70111": {
+    "url": "db://assets/model/Road.fbx@70111",
+    "value": {
+      "depends": [
+        "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@6d026",
+        "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@a5f8b"
+      ]
+    }
+  },
+  "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@a5f8b": {
+    "url": "db://assets/model/Road.fbx@a5f8b",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@48b02": {
+    "url": "db://assets/model/Road.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@7d6ab": {
+    "url": "db://assets/model/Road.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@48b02"
+      ]
+    }
+  },
+  "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@6d026": {
+    "url": "db://assets/model/Road.fbx@6d026",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "ad61cdda-e2d6-411e-817f-ea92fc18f4e0@7d6ab"
+      ]
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3": {
+    "url": "db://assets/model/Trucks.fbx",
+    "value": {}
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@46409": {
+    "url": "db://assets/model/Trucks.fbx@46409",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@51016": {
+    "url": "db://assets/model/Trucks.fbx@51016",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@73577": {
+    "url": "db://assets/model/Trucks.fbx@73577",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@7d6ab"
+      ]
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@9d828": {
+    "url": "db://assets/model/Trucks.fbx@9d828",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@b4b5f": {
+    "url": "db://assets/model/Trucks.fbx@b4b5f",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@e8591": {
+    "url": "db://assets/model/Trucks.fbx@e8591",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@e5799": {
+    "url": "db://assets/model/Trucks.fbx@e5799",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@48b02": {
+    "url": "db://assets/model/Trucks.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@7d6ab": {
+    "url": "db://assets/model/Trucks.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@48b02"
+      ]
+    }
+  },
+  "9a4705db-ab40-4080-bd03-a4d8bfd707c3@2560e": {
+    "url": "db://assets/model/Trucks.fbx@2560e",
+    "value": {
+      "depends": [
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@73577",
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@9d828",
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@46409",
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@b4b5f",
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@e8591",
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@e5799",
+        "9a4705db-ab40-4080-bd03-a4d8bfd707c3@51016"
+      ]
+    }
+  },
+  "5b1b277a-1987-45dd-b8ee-c69c5b3ef215": {
+    "url": "db://assets/script/Mass.ts",
+    "value": {}
+  },
+  "187fa107-e626-46cc-84eb-49d292709b95": {
+    "url": "db://assets/shader",
+    "value": {}
+  },
+  "74bf6023-6926-4efc-9c4b-e1e7ec456f4a": {
+    "url": "db://assets/shader/MassObj.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "4c1885aa-3468-4504-b342-76152e3c5dbf": {
+    "url": "db://assets/material/MassMtl.mtl",
+    "value": {
+      "depends": [
+        "74bf6023-6926-4efc-9c4b-e1e7ec456f4a",
+        "94d1ed35-9498-4c11-90d1-2eb29e7ebc88@6c48a"
+      ]
+    }
+  },
+  "d2151cc7-fcd0-419f-aaa0-331c5dd43b48": {
+    "url": "db://assets/texture",
+    "value": {}
+  },
+  "94d1ed35-9498-4c11-90d1-2eb29e7ebc88": {
+    "url": "db://assets/texture/Brick_Diffuse.JPG",
+    "value": {
+      "depends": []
+    }
+  },
+  "2a78f71b-43dd-428d-aac9-651b8364b61a": {
+    "url": "db://assets/texture/Brick_Normal.JPG",
+    "value": {
+      "depends": []
+    }
+  },
+  "2a78f71b-43dd-428d-aac9-651b8364b61a@6c48a": {
+    "url": "db://assets/texture/Brick_Normal.JPG@6c48a",
+    "value": {
+      "depends": [
+        "2a78f71b-43dd-428d-aac9-651b8364b61a"
+      ]
+    }
+  },
+  "94d1ed35-9498-4c11-90d1-2eb29e7ebc88@6c48a": {
+    "url": "db://assets/texture/Brick_Diffuse.JPG@6c48a",
+    "value": {
+      "depends": [
+        "94d1ed35-9498-4c11-90d1-2eb29e7ebc88"
+      ]
+    }
+  },
+  "35a93864-3f00-425b-80eb-4a86651fd91e": {
+    "url": "db://assets/material/FloorMtl.mtl",
+    "value": {
+      "depends": [
+        "9b20a514-6cc3-49de-b216-b6b863046249",
+        "2a78f71b-43dd-428d-aac9-651b8364b61a@6c48a",
+        "94d1ed35-9498-4c11-90d1-2eb29e7ebc88@6c48a"
+      ]
+    }
+  },
+  "740c94e8-7b06-4579-91b2-0c8b63c403a6": {
+    "url": "db://assets/model/buildings",
+    "value": {}
+  },
+  "dc73c6dc-e7f6-4316-9375-d046d41f6dc2": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows.fbx",
+    "value": {}
+  },
+  "b74731f2-8ca1-47aa-b9bc-7147680d525d": {
+    "url": "db://assets/model/buildings/building-steps-narrow.fbx",
+    "value": {}
+  },
+  "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2": {
+    "url": "db://assets/model/buildings/building-steps-wide.fbx",
+    "value": {}
+  },
+  "756637e0-5767-4639-95d4-95950a627a9e": {
+    "url": "db://assets/model/buildings/building-window-awnings.fbx",
+    "value": {}
+  },
+  "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c": {
+    "url": "db://assets/model/buildings/building-window-balcony.fbx",
+    "value": {}
+  },
+  "756637e0-5767-4639-95d4-95950a627a9e@93130": {
+    "url": "db://assets/model/buildings/building-window-awnings.fbx@93130",
+    "value": {
+      "depends": [
+        "756637e0-5767-4639-95d4-95950a627a9e@9991c",
+        "756637e0-5767-4639-95d4-95950a627a9e@a62fe"
+      ]
+    }
+  },
+  "b74731f2-8ca1-47aa-b9bc-7147680d525d@a62fe": {
+    "url": "db://assets/model/buildings/building-steps-narrow.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@a62fe": {
+    "url": "db://assets/model/buildings/building-window-balcony.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@a62fe": {
+    "url": "db://assets/model/buildings/building-steps-wide.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@a62fe": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "756637e0-5767-4639-95d4-95950a627a9e@a62fe": {
+    "url": "db://assets/model/buildings/building-window-awnings.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "756637e0-5767-4639-95d4-95950a627a9e@fd73d": {
+    "url": "db://assets/model/buildings/building-window-awnings.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "b74731f2-8ca1-47aa-b9bc-7147680d525d@fd73d": {
+    "url": "db://assets/model/buildings/building-steps-narrow.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@fd73d": {
+    "url": "db://assets/model/buildings/building-window-balcony.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@fd73d": {
+    "url": "db://assets/model/buildings/building-steps-wide.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@fd73d": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "756637e0-5767-4639-95d4-95950a627a9e@4f17a": {
+    "url": "db://assets/model/buildings/building-window-awnings.fbx@4f17a",
+    "value": {
+      "depends": [
+        "756637e0-5767-4639-95d4-95950a627a9e@fd73d"
+      ]
+    }
+  },
+  "b74731f2-8ca1-47aa-b9bc-7147680d525d@4f17a": {
+    "url": "db://assets/model/buildings/building-steps-narrow.fbx@4f17a",
+    "value": {
+      "depends": [
+        "b74731f2-8ca1-47aa-b9bc-7147680d525d@fd73d"
+      ]
+    }
+  },
+  "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@4f17a": {
+    "url": "db://assets/model/buildings/building-window-balcony.fbx@4f17a",
+    "value": {
+      "depends": [
+        "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@fd73d"
+      ]
+    }
+  },
+  "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@4f17a": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows.fbx@4f17a",
+    "value": {
+      "depends": [
+        "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@fd73d"
+      ]
+    }
+  },
+  "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@4f17a": {
+    "url": "db://assets/model/buildings/building-steps-wide.fbx@4f17a",
+    "value": {
+      "depends": [
+        "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@fd73d"
+      ]
+    }
+  },
+  "b74731f2-8ca1-47aa-b9bc-7147680d525d@9991c": {
+    "url": "db://assets/model/buildings/building-steps-narrow.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b74731f2-8ca1-47aa-b9bc-7147680d525d@4f17a"
+      ]
+    }
+  },
+  "756637e0-5767-4639-95d4-95950a627a9e@9991c": {
+    "url": "db://assets/model/buildings/building-window-awnings.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "756637e0-5767-4639-95d4-95950a627a9e@4f17a"
+      ]
+    }
+  },
+  "8e36f18d-b8a8-41ef-b552-420908196047": {
+    "url": "db://assets/model/buildings/building-window-door-window-round.fbx",
+    "value": {}
+  },
+  "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@9991c": {
+    "url": "db://assets/model/buildings/building-window-balcony.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@4f17a"
+      ]
+    }
+  },
+  "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@9991c": {
+    "url": "db://assets/model/buildings/building-steps-wide.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@4f17a"
+      ]
+    }
+  },
+  "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@9991c": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@4f17a"
+      ]
+    }
+  },
+  "b74731f2-8ca1-47aa-b9bc-7147680d525d@b867b": {
+    "url": "db://assets/model/buildings/building-steps-narrow.fbx@b867b",
+    "value": {
+      "depends": [
+        "b74731f2-8ca1-47aa-b9bc-7147680d525d@9991c",
+        "b74731f2-8ca1-47aa-b9bc-7147680d525d@a62fe"
+      ]
+    }
+  },
+  "b57cf449-8694-4980-939d-2ef9badb621f": {
+    "url": "db://assets/model/buildings/building-window-door-window.fbx",
+    "value": {}
+  },
+  "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@16cb5": {
+    "url": "db://assets/model/buildings/building-window-balcony.fbx@16cb5",
+    "value": {
+      "depends": [
+        "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@9991c",
+        "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c@a62fe"
+      ]
+    }
+  },
+  "11b2d320-1066-45d8-ac60-e6b636766d97": {
+    "url": "db://assets/model/buildings/building-window-large-left.fbx",
+    "value": {}
+  },
+  "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@4d1e1": {
+    "url": "db://assets/model/buildings/building-steps-wide.fbx@4d1e1",
+    "value": {
+      "depends": [
+        "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@9991c",
+        "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2@a62fe"
+      ]
+    }
+  },
+  "fb5c3769-c1ad-47ec-b552-d685ed220dea": {
+    "url": "db://assets/model/buildings/building-window-large-middle.fbx",
+    "value": {}
+  },
+  "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@974be": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows.fbx@974be",
+    "value": {
+      "depends": [
+        "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@9991c",
+        "dc73c6dc-e7f6-4316-9375-d046d41f6dc2@a62fe"
+      ]
+    }
+  },
+  "e270f932-3c80-4dea-bc77-342a9a2a4233": {
+    "url": "db://assets/model/buildings/building-window-large-right.fbx",
+    "value": {}
+  },
+  "11b2d320-1066-45d8-ac60-e6b636766d97@a62fe": {
+    "url": "db://assets/model/buildings/building-window-large-left.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "8e36f18d-b8a8-41ef-b552-420908196047@a62fe": {
+    "url": "db://assets/model/buildings/building-window-door-window-round.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "11b2d320-1066-45d8-ac60-e6b636766d97@fd73d": {
+    "url": "db://assets/model/buildings/building-window-large-left.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "8e36f18d-b8a8-41ef-b552-420908196047@fd73d": {
+    "url": "db://assets/model/buildings/building-window-door-window-round.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "11b2d320-1066-45d8-ac60-e6b636766d97@4f17a": {
+    "url": "db://assets/model/buildings/building-window-large-left.fbx@4f17a",
+    "value": {
+      "depends": [
+        "11b2d320-1066-45d8-ac60-e6b636766d97@fd73d"
+      ]
+    }
+  },
+  "8e36f18d-b8a8-41ef-b552-420908196047@4f17a": {
+    "url": "db://assets/model/buildings/building-window-door-window-round.fbx@4f17a",
+    "value": {
+      "depends": [
+        "8e36f18d-b8a8-41ef-b552-420908196047@fd73d"
+      ]
+    }
+  },
+  "11b2d320-1066-45d8-ac60-e6b636766d97@9991c": {
+    "url": "db://assets/model/buildings/building-window-large-left.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "11b2d320-1066-45d8-ac60-e6b636766d97@4f17a"
+      ]
+    }
+  },
+  "8e36f18d-b8a8-41ef-b552-420908196047@9991c": {
+    "url": "db://assets/model/buildings/building-window-door-window-round.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "8e36f18d-b8a8-41ef-b552-420908196047@4f17a"
+      ]
+    }
+  },
+  "11b2d320-1066-45d8-ac60-e6b636766d97@d1e33": {
+    "url": "db://assets/model/buildings/building-window-large-left.fbx@d1e33",
+    "value": {
+      "depends": [
+        "11b2d320-1066-45d8-ac60-e6b636766d97@9991c",
+        "11b2d320-1066-45d8-ac60-e6b636766d97@a62fe"
+      ]
+    }
+  },
+  "c78c0636-7dae-4fbf-94c3-93d42ced5f0d": {
+    "url": "db://assets/model/buildings/building-window-large.fbx",
+    "value": {}
+  },
+  "8e36f18d-b8a8-41ef-b552-420908196047@e698b": {
+    "url": "db://assets/model/buildings/building-window-door-window-round.fbx@e698b",
+    "value": {
+      "depends": [
+        "8e36f18d-b8a8-41ef-b552-420908196047@9991c",
+        "8e36f18d-b8a8-41ef-b552-420908196047@a62fe"
+      ]
+    }
+  },
+  "b8b32bce-30a1-4f37-801e-fa4ede85c126": {
+    "url": "db://assets/model/buildings/building-window-left-sill.fbx",
+    "value": {}
+  },
+  "b57cf449-8694-4980-939d-2ef9badb621f@a62fe": {
+    "url": "db://assets/model/buildings/building-window-door-window.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e270f932-3c80-4dea-bc77-342a9a2a4233@a62fe": {
+    "url": "db://assets/model/buildings/building-window-large-right.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb5c3769-c1ad-47ec-b552-d685ed220dea@67300": {
+    "url": "db://assets/model/buildings/building-window-large-middle.fbx@67300",
+    "value": {
+      "depends": [
+        "fb5c3769-c1ad-47ec-b552-d685ed220dea@9991c",
+        "fb5c3769-c1ad-47ec-b552-d685ed220dea@a62fe"
+      ]
+    }
+  },
+  "b57cf449-8694-4980-939d-2ef9badb621f@fd73d": {
+    "url": "db://assets/model/buildings/building-window-door-window.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "b57cf449-8694-4980-939d-2ef9badb621f@4f17a": {
+    "url": "db://assets/model/buildings/building-window-door-window.fbx@4f17a",
+    "value": {
+      "depends": [
+        "b57cf449-8694-4980-939d-2ef9badb621f@fd73d"
+      ]
+    }
+  },
+  "e270f932-3c80-4dea-bc77-342a9a2a4233@fd73d": {
+    "url": "db://assets/model/buildings/building-window-large-right.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb5c3769-c1ad-47ec-b552-d685ed220dea@a62fe": {
+    "url": "db://assets/model/buildings/building-window-large-middle.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e270f932-3c80-4dea-bc77-342a9a2a4233@4f17a": {
+    "url": "db://assets/model/buildings/building-window-large-right.fbx@4f17a",
+    "value": {
+      "depends": [
+        "e270f932-3c80-4dea-bc77-342a9a2a4233@fd73d"
+      ]
+    }
+  },
+  "b57cf449-8694-4980-939d-2ef9badb621f@9991c": {
+    "url": "db://assets/model/buildings/building-window-door-window.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b57cf449-8694-4980-939d-2ef9badb621f@4f17a"
+      ]
+    }
+  },
+  "e270f932-3c80-4dea-bc77-342a9a2a4233@9991c": {
+    "url": "db://assets/model/buildings/building-window-large-right.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e270f932-3c80-4dea-bc77-342a9a2a4233@4f17a"
+      ]
+    }
+  },
+  "b57cf449-8694-4980-939d-2ef9badb621f@78f07": {
+    "url": "db://assets/model/buildings/building-window-door-window.fbx@78f07",
+    "value": {
+      "depends": [
+        "b57cf449-8694-4980-939d-2ef9badb621f@9991c",
+        "b57cf449-8694-4980-939d-2ef9badb621f@a62fe"
+      ]
+    }
+  },
+  "55ba76a7-475e-454c-8c6e-b65bd5331ab7": {
+    "url": "db://assets/model/buildings/building-window-left.fbx",
+    "value": {}
+  },
+  "e270f932-3c80-4dea-bc77-342a9a2a4233@9b5ad": {
+    "url": "db://assets/model/buildings/building-window-large-right.fbx@9b5ad",
+    "value": {
+      "depends": [
+        "e270f932-3c80-4dea-bc77-342a9a2a4233@9991c",
+        "e270f932-3c80-4dea-bc77-342a9a2a4233@a62fe"
+      ]
+    }
+  },
+  "954dd60e-303c-4afa-974c-8f9ad5b102fb": {
+    "url": "db://assets/model/buildings/building-window-right-sill.fbx",
+    "value": {}
+  },
+  "fb5c3769-c1ad-47ec-b552-d685ed220dea@fd73d": {
+    "url": "db://assets/model/buildings/building-window-large-middle.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb5c3769-c1ad-47ec-b552-d685ed220dea@4f17a": {
+    "url": "db://assets/model/buildings/building-window-large-middle.fbx@4f17a",
+    "value": {
+      "depends": [
+        "fb5c3769-c1ad-47ec-b552-d685ed220dea@fd73d"
+      ]
+    }
+  },
+  "fb5c3769-c1ad-47ec-b552-d685ed220dea@9991c": {
+    "url": "db://assets/model/buildings/building-window-large-middle.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "fb5c3769-c1ad-47ec-b552-d685ed220dea@4f17a"
+      ]
+    }
+  },
+  "ff71a7d5-97e4-4ec0-8385-5be88e76e15c": {
+    "url": "db://assets/model/buildings/building-window-right.fbx",
+    "value": {}
+  },
+  "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@a62fe": {
+    "url": "db://assets/model/buildings/building-window-large.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@fd73d": {
+    "url": "db://assets/model/buildings/building-window-large.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@4f17a": {
+    "url": "db://assets/model/buildings/building-window-large.fbx@4f17a",
+    "value": {
+      "depends": [
+        "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@fd73d"
+      ]
+    }
+  },
+  "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@9991c": {
+    "url": "db://assets/model/buildings/building-window-large.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@4f17a"
+      ]
+    }
+  },
+  "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@3bd16": {
+    "url": "db://assets/model/buildings/building-window-large.fbx@3bd16",
+    "value": {
+      "depends": [
+        "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@9991c",
+        "c78c0636-7dae-4fbf-94c3-93d42ced5f0d@a62fe"
+      ]
+    }
+  },
+  "5a2483cb-03fb-42c3-8b97-46922f5ec008": {
+    "url": "db://assets/model/buildings/building-window-sill.fbx",
+    "value": {}
+  },
+  "954dd60e-303c-4afa-974c-8f9ad5b102fb@a62fe": {
+    "url": "db://assets/model/buildings/building-window-right-sill.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "55ba76a7-475e-454c-8c6e-b65bd5331ab7@a62fe": {
+    "url": "db://assets/model/buildings/building-window-left.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "954dd60e-303c-4afa-974c-8f9ad5b102fb@fd73d": {
+    "url": "db://assets/model/buildings/building-window-right-sill.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "55ba76a7-475e-454c-8c6e-b65bd5331ab7@fd73d": {
+    "url": "db://assets/model/buildings/building-window-left.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "954dd60e-303c-4afa-974c-8f9ad5b102fb@4f17a": {
+    "url": "db://assets/model/buildings/building-window-right-sill.fbx@4f17a",
+    "value": {
+      "depends": [
+        "954dd60e-303c-4afa-974c-8f9ad5b102fb@fd73d"
+      ]
+    }
+  },
+  "55ba76a7-475e-454c-8c6e-b65bd5331ab7@4f17a": {
+    "url": "db://assets/model/buildings/building-window-left.fbx@4f17a",
+    "value": {
+      "depends": [
+        "55ba76a7-475e-454c-8c6e-b65bd5331ab7@fd73d"
+      ]
+    }
+  },
+  "954dd60e-303c-4afa-974c-8f9ad5b102fb@9991c": {
+    "url": "db://assets/model/buildings/building-window-right-sill.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "954dd60e-303c-4afa-974c-8f9ad5b102fb@4f17a"
+      ]
+    }
+  },
+  "55ba76a7-475e-454c-8c6e-b65bd5331ab7@9991c": {
+    "url": "db://assets/model/buildings/building-window-left.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "55ba76a7-475e-454c-8c6e-b65bd5331ab7@4f17a"
+      ]
+    }
+  },
+  "954dd60e-303c-4afa-974c-8f9ad5b102fb@c64a4": {
+    "url": "db://assets/model/buildings/building-window-right-sill.fbx@c64a4",
+    "value": {
+      "depends": [
+        "954dd60e-303c-4afa-974c-8f9ad5b102fb@9991c",
+        "954dd60e-303c-4afa-974c-8f9ad5b102fb@a62fe"
+      ]
+    }
+  },
+  "55ba76a7-475e-454c-8c6e-b65bd5331ab7@dbadc": {
+    "url": "db://assets/model/buildings/building-window-left.fbx@dbadc",
+    "value": {
+      "depends": [
+        "55ba76a7-475e-454c-8c6e-b65bd5331ab7@9991c",
+        "55ba76a7-475e-454c-8c6e-b65bd5331ab7@a62fe"
+      ]
+    }
+  },
+  "83746d44-cd4f-480a-b5ee-962ee6b8e783": {
+    "url": "db://assets/model/buildings/building-window-wide-sill.fbx",
+    "value": {}
+  },
+  "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1": {
+    "url": "db://assets/model/buildings/building-window-wide.fbx",
+    "value": {}
+  },
+  "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@a62fe": {
+    "url": "db://assets/model/buildings/building-window-right.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@fd73d": {
+    "url": "db://assets/model/buildings/building-window-right.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@4f17a": {
+    "url": "db://assets/model/buildings/building-window-right.fbx@4f17a",
+    "value": {
+      "depends": [
+        "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@fd73d"
+      ]
+    }
+  },
+  "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@9991c": {
+    "url": "db://assets/model/buildings/building-window-right.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@4f17a"
+      ]
+    }
+  },
+  "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@6396b": {
+    "url": "db://assets/model/buildings/building-window-right.fbx@6396b",
+    "value": {
+      "depends": [
+        "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@9991c",
+        "ff71a7d5-97e4-4ec0-8385-5be88e76e15c@a62fe"
+      ]
+    }
+  },
+  "370eebeb-eae2-4b31-bcf6-f37df06ee197": {
+    "url": "db://assets/model/buildings/building-window.fbx",
+    "value": {}
+  },
+  "5a2483cb-03fb-42c3-8b97-46922f5ec008@a62fe": {
+    "url": "db://assets/model/buildings/building-window-sill.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "5a2483cb-03fb-42c3-8b97-46922f5ec008@fd73d": {
+    "url": "db://assets/model/buildings/building-window-sill.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "5a2483cb-03fb-42c3-8b97-46922f5ec008@4f17a": {
+    "url": "db://assets/model/buildings/building-window-sill.fbx@4f17a",
+    "value": {
+      "depends": [
+        "5a2483cb-03fb-42c3-8b97-46922f5ec008@fd73d"
+      ]
+    }
+  },
+  "5a2483cb-03fb-42c3-8b97-46922f5ec008@9991c": {
+    "url": "db://assets/model/buildings/building-window-sill.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "5a2483cb-03fb-42c3-8b97-46922f5ec008@4f17a"
+      ]
+    }
+  },
+  "5a2483cb-03fb-42c3-8b97-46922f5ec008@f0a0f": {
+    "url": "db://assets/model/buildings/building-window-sill.fbx@f0a0f",
+    "value": {
+      "depends": [
+        "5a2483cb-03fb-42c3-8b97-46922f5ec008@9991c",
+        "5a2483cb-03fb-42c3-8b97-46922f5ec008@a62fe"
+      ]
+    }
+  },
+  "7a5edb0a-b4a4-4973-b106-b377218f8c3a": {
+    "url": "db://assets/model/buildings/building-windows-high-middle.fbx",
+    "value": {}
+  },
+  "b8b32bce-30a1-4f37-801e-fa4ede85c126@a62fe": {
+    "url": "db://assets/model/buildings/building-window-left-sill.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "b8b32bce-30a1-4f37-801e-fa4ede85c126@fd73d": {
+    "url": "db://assets/model/buildings/building-window-left-sill.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "b8b32bce-30a1-4f37-801e-fa4ede85c126@4f17a": {
+    "url": "db://assets/model/buildings/building-window-left-sill.fbx@4f17a",
+    "value": {
+      "depends": [
+        "b8b32bce-30a1-4f37-801e-fa4ede85c126@fd73d"
+      ]
+    }
+  },
+  "b8b32bce-30a1-4f37-801e-fa4ede85c126@9991c": {
+    "url": "db://assets/model/buildings/building-window-left-sill.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b8b32bce-30a1-4f37-801e-fa4ede85c126@4f17a"
+      ]
+    }
+  },
+  "b8b32bce-30a1-4f37-801e-fa4ede85c126@68be6": {
+    "url": "db://assets/model/buildings/building-window-left-sill.fbx@68be6",
+    "value": {
+      "depends": [
+        "b8b32bce-30a1-4f37-801e-fa4ede85c126@9991c",
+        "b8b32bce-30a1-4f37-801e-fa4ede85c126@a62fe"
+      ]
+    }
+  },
+  "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86": {
+    "url": "db://assets/model/buildings/building-windows-high-top-round.fbx",
+    "value": {}
+  },
+  "83746d44-cd4f-480a-b5ee-962ee6b8e783@a62fe": {
+    "url": "db://assets/model/buildings/building-window-wide-sill.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@a62fe": {
+    "url": "db://assets/model/buildings/building-window-wide.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "83746d44-cd4f-480a-b5ee-962ee6b8e783@fd73d": {
+    "url": "db://assets/model/buildings/building-window-wide-sill.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "83746d44-cd4f-480a-b5ee-962ee6b8e783@4f17a": {
+    "url": "db://assets/model/buildings/building-window-wide-sill.fbx@4f17a",
+    "value": {
+      "depends": [
+        "83746d44-cd4f-480a-b5ee-962ee6b8e783@fd73d"
+      ]
+    }
+  },
+  "83746d44-cd4f-480a-b5ee-962ee6b8e783@9991c": {
+    "url": "db://assets/model/buildings/building-window-wide-sill.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "83746d44-cd4f-480a-b5ee-962ee6b8e783@4f17a"
+      ]
+    }
+  },
+  "83746d44-cd4f-480a-b5ee-962ee6b8e783@7aa84": {
+    "url": "db://assets/model/buildings/building-window-wide-sill.fbx@7aa84",
+    "value": {
+      "depends": [
+        "83746d44-cd4f-480a-b5ee-962ee6b8e783@9991c",
+        "83746d44-cd4f-480a-b5ee-962ee6b8e783@a62fe"
+      ]
+    }
+  },
+  "5f0ad627-5483-4e26-a096-2448b479edd1": {
+    "url": "db://assets/model/buildings/building-windows-high-top-square.fbx",
+    "value": {}
+  },
+  "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@fd73d": {
+    "url": "db://assets/model/buildings/building-window-wide.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@4f17a": {
+    "url": "db://assets/model/buildings/building-window-wide.fbx@4f17a",
+    "value": {
+      "depends": [
+        "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@fd73d"
+      ]
+    }
+  },
+  "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@9991c": {
+    "url": "db://assets/model/buildings/building-window-wide.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@4f17a"
+      ]
+    }
+  },
+  "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@bdf81": {
+    "url": "db://assets/model/buildings/building-window-wide.fbx@bdf81",
+    "value": {
+      "depends": [
+        "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@9991c",
+        "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1@a62fe"
+      ]
+    }
+  },
+  "eba75dd9-d315-4d9e-a6b3-49aee1364927": {
+    "url": "db://assets/model/buildings/building-windows-round.fbx",
+    "value": {}
+  },
+  "370eebeb-eae2-4b31-bcf6-f37df06ee197@a62fe": {
+    "url": "db://assets/model/buildings/building-window.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "370eebeb-eae2-4b31-bcf6-f37df06ee197@fd73d": {
+    "url": "db://assets/model/buildings/building-window.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "370eebeb-eae2-4b31-bcf6-f37df06ee197@4f17a": {
+    "url": "db://assets/model/buildings/building-window.fbx@4f17a",
+    "value": {
+      "depends": [
+        "370eebeb-eae2-4b31-bcf6-f37df06ee197@fd73d"
+      ]
+    }
+  },
+  "370eebeb-eae2-4b31-bcf6-f37df06ee197@9991c": {
+    "url": "db://assets/model/buildings/building-window.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "370eebeb-eae2-4b31-bcf6-f37df06ee197@4f17a"
+      ]
+    }
+  },
+  "370eebeb-eae2-4b31-bcf6-f37df06ee197@5d8ae": {
+    "url": "db://assets/model/buildings/building-window.fbx@5d8ae",
+    "value": {
+      "depends": [
+        "370eebeb-eae2-4b31-bcf6-f37df06ee197@9991c",
+        "370eebeb-eae2-4b31-bcf6-f37df06ee197@a62fe"
+      ]
+    }
+  },
+  "482697a0-8b71-4658-a653-dea6d52512e2": {
+    "url": "db://assets/model/buildings/building-windows-sills-round.fbx",
+    "value": {}
+  },
+  "7a5edb0a-b4a4-4973-b106-b377218f8c3a@a62fe": {
+    "url": "db://assets/model/buildings/building-windows-high-middle.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "7a5edb0a-b4a4-4973-b106-b377218f8c3a@fd73d": {
+    "url": "db://assets/model/buildings/building-windows-high-middle.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "7a5edb0a-b4a4-4973-b106-b377218f8c3a@4f17a": {
+    "url": "db://assets/model/buildings/building-windows-high-middle.fbx@4f17a",
+    "value": {
+      "depends": [
+        "7a5edb0a-b4a4-4973-b106-b377218f8c3a@fd73d"
+      ]
+    }
+  },
+  "7a5edb0a-b4a4-4973-b106-b377218f8c3a@9991c": {
+    "url": "db://assets/model/buildings/building-windows-high-middle.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "7a5edb0a-b4a4-4973-b106-b377218f8c3a@4f17a"
+      ]
+    }
+  },
+  "7a5edb0a-b4a4-4973-b106-b377218f8c3a@ccb0b": {
+    "url": "db://assets/model/buildings/building-windows-high-middle.fbx@ccb0b",
+    "value": {
+      "depends": [
+        "7a5edb0a-b4a4-4973-b106-b377218f8c3a@9991c",
+        "7a5edb0a-b4a4-4973-b106-b377218f8c3a@a62fe"
+      ]
+    }
+  },
+  "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c": {
+    "url": "db://assets/model/buildings/building-windows-sills.fbx",
+    "value": {}
+  },
+  "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@a62fe": {
+    "url": "db://assets/model/buildings/building-windows-high-top-round.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@fd73d": {
+    "url": "db://assets/model/buildings/building-windows-high-top-round.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@4f17a": {
+    "url": "db://assets/model/buildings/building-windows-high-top-round.fbx@4f17a",
+    "value": {
+      "depends": [
+        "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@fd73d"
+      ]
+    }
+  },
+  "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@9991c": {
+    "url": "db://assets/model/buildings/building-windows-high-top-round.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@4f17a"
+      ]
+    }
+  },
+  "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@cc2d4": {
+    "url": "db://assets/model/buildings/building-windows-high-top-round.fbx@cc2d4",
+    "value": {
+      "depends": [
+        "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@9991c",
+        "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86@a62fe"
+      ]
+    }
+  },
+  "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34": {
+    "url": "db://assets/model/buildings/building-windows.fbx",
+    "value": {}
+  },
+  "5f0ad627-5483-4e26-a096-2448b479edd1@57803": {
+    "url": "db://assets/model/buildings/building-windows-high-top-square.fbx@57803",
+    "value": {
+      "depends": [
+        "5f0ad627-5483-4e26-a096-2448b479edd1@9991c",
+        "5f0ad627-5483-4e26-a096-2448b479edd1@a62fe"
+      ]
+    }
+  },
+  "5f0ad627-5483-4e26-a096-2448b479edd1@a62fe": {
+    "url": "db://assets/model/buildings/building-windows-high-top-square.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "5f0ad627-5483-4e26-a096-2448b479edd1@fd73d": {
+    "url": "db://assets/model/buildings/building-windows-high-top-square.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "eba75dd9-d315-4d9e-a6b3-49aee1364927@a62fe": {
+    "url": "db://assets/model/buildings/building-windows-round.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "5f0ad627-5483-4e26-a096-2448b479edd1@4f17a": {
+    "url": "db://assets/model/buildings/building-windows-high-top-square.fbx@4f17a",
+    "value": {
+      "depends": [
+        "5f0ad627-5483-4e26-a096-2448b479edd1@fd73d"
+      ]
+    }
+  },
+  "5f0ad627-5483-4e26-a096-2448b479edd1@9991c": {
+    "url": "db://assets/model/buildings/building-windows-high-top-square.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "5f0ad627-5483-4e26-a096-2448b479edd1@4f17a"
+      ]
+    }
+  },
+  "9ff8874b-27b4-4772-8b10-c42fc234177e": {
+    "url": "db://assets/model/buildings/detail-ac-a.fbx",
+    "value": {}
+  },
+  "eba75dd9-d315-4d9e-a6b3-49aee1364927@fd73d": {
+    "url": "db://assets/model/buildings/building-windows-round.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "482697a0-8b71-4658-a653-dea6d52512e2@a62fe": {
+    "url": "db://assets/model/buildings/building-windows-sills-round.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "eba75dd9-d315-4d9e-a6b3-49aee1364927@4f17a": {
+    "url": "db://assets/model/buildings/building-windows-round.fbx@4f17a",
+    "value": {
+      "depends": [
+        "eba75dd9-d315-4d9e-a6b3-49aee1364927@fd73d"
+      ]
+    }
+  },
+  "eba75dd9-d315-4d9e-a6b3-49aee1364927@9991c": {
+    "url": "db://assets/model/buildings/building-windows-round.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "eba75dd9-d315-4d9e-a6b3-49aee1364927@4f17a"
+      ]
+    }
+  },
+  "eba75dd9-d315-4d9e-a6b3-49aee1364927@e1578": {
+    "url": "db://assets/model/buildings/building-windows-round.fbx@e1578",
+    "value": {
+      "depends": [
+        "eba75dd9-d315-4d9e-a6b3-49aee1364927@9991c",
+        "eba75dd9-d315-4d9e-a6b3-49aee1364927@a62fe"
+      ]
+    }
+  },
+  "42e41129-53ce-4f2c-821e-30d2cdbde36e": {
+    "url": "db://assets/model/buildings/detail-ac-b.fbx",
+    "value": {}
+  },
+  "482697a0-8b71-4658-a653-dea6d52512e2@fd73d": {
+    "url": "db://assets/model/buildings/building-windows-sills-round.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "482697a0-8b71-4658-a653-dea6d52512e2@4f17a": {
+    "url": "db://assets/model/buildings/building-windows-sills-round.fbx@4f17a",
+    "value": {
+      "depends": [
+        "482697a0-8b71-4658-a653-dea6d52512e2@fd73d"
+      ]
+    }
+  },
+  "482697a0-8b71-4658-a653-dea6d52512e2@9991c": {
+    "url": "db://assets/model/buildings/building-windows-sills-round.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "482697a0-8b71-4658-a653-dea6d52512e2@4f17a"
+      ]
+    }
+  },
+  "482697a0-8b71-4658-a653-dea6d52512e2@06452": {
+    "url": "db://assets/model/buildings/building-windows-sills-round.fbx@06452",
+    "value": {
+      "depends": [
+        "482697a0-8b71-4658-a653-dea6d52512e2@9991c",
+        "482697a0-8b71-4658-a653-dea6d52512e2@a62fe"
+      ]
+    }
+  },
+  "045db598-453c-456b-92c9-99cd6388a8ca": {
+    "url": "db://assets/model/buildings/door-brown-glass.fbx",
+    "value": {}
+  },
+  "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@a62fe": {
+    "url": "db://assets/model/buildings/building-windows-sills.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@fd73d": {
+    "url": "db://assets/model/buildings/building-windows-sills.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@4f17a": {
+    "url": "db://assets/model/buildings/building-windows-sills.fbx@4f17a",
+    "value": {
+      "depends": [
+        "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@fd73d"
+      ]
+    }
+  },
+  "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@9991c": {
+    "url": "db://assets/model/buildings/building-windows-sills.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@4f17a"
+      ]
+    }
+  },
+  "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@68f67": {
+    "url": "db://assets/model/buildings/building-windows-sills.fbx@68f67",
+    "value": {
+      "depends": [
+        "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@9991c",
+        "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c@a62fe"
+      ]
+    }
+  },
+  "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0": {
+    "url": "db://assets/model/buildings/door-brown-window.fbx",
+    "value": {}
+  },
+  "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@a62fe": {
+    "url": "db://assets/model/buildings/building-windows.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@fd73d": {
+    "url": "db://assets/model/buildings/building-windows.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@4f17a": {
+    "url": "db://assets/model/buildings/building-windows.fbx@4f17a",
+    "value": {
+      "depends": [
+        "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@fd73d"
+      ]
+    }
+  },
+  "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@9991c": {
+    "url": "db://assets/model/buildings/building-windows.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@4f17a"
+      ]
+    }
+  },
+  "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@bd32b": {
+    "url": "db://assets/model/buildings/building-windows.fbx@bd32b",
+    "value": {
+      "depends": [
+        "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@9991c",
+        "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34@a62fe"
+      ]
+    }
+  },
+  "fd595653-ebac-4eaa-8b05-d1720901dc56": {
+    "url": "db://assets/model/buildings/door-brown.fbx",
+    "value": {}
+  },
+  "9ff8874b-27b4-4772-8b10-c42fc234177e@a62fe": {
+    "url": "db://assets/model/buildings/detail-ac-a.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "9ff8874b-27b4-4772-8b10-c42fc234177e@fd73d": {
+    "url": "db://assets/model/buildings/detail-ac-a.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "9ff8874b-27b4-4772-8b10-c42fc234177e@4f17a": {
+    "url": "db://assets/model/buildings/detail-ac-a.fbx@4f17a",
+    "value": {
+      "depends": [
+        "9ff8874b-27b4-4772-8b10-c42fc234177e@fd73d"
+      ]
+    }
+  },
+  "9ff8874b-27b4-4772-8b10-c42fc234177e@9991c": {
+    "url": "db://assets/model/buildings/detail-ac-a.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "9ff8874b-27b4-4772-8b10-c42fc234177e@4f17a"
+      ]
+    }
+  },
+  "9ff8874b-27b4-4772-8b10-c42fc234177e@ddad4": {
+    "url": "db://assets/model/buildings/detail-ac-a.fbx@ddad4",
+    "value": {
+      "depends": [
+        "9ff8874b-27b4-4772-8b10-c42fc234177e@9991c",
+        "9ff8874b-27b4-4772-8b10-c42fc234177e@a62fe"
+      ]
+    }
+  },
+  "5b50b769-3048-4fcc-9cb5-1c769859e806": {
+    "url": "db://assets/model/buildings/door-white-glass.fbx",
+    "value": {}
+  },
+  "42e41129-53ce-4f2c-821e-30d2cdbde36e@a62fe": {
+    "url": "db://assets/model/buildings/detail-ac-b.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "42e41129-53ce-4f2c-821e-30d2cdbde36e@fd73d": {
+    "url": "db://assets/model/buildings/detail-ac-b.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "42e41129-53ce-4f2c-821e-30d2cdbde36e@4f17a": {
+    "url": "db://assets/model/buildings/detail-ac-b.fbx@4f17a",
+    "value": {
+      "depends": [
+        "42e41129-53ce-4f2c-821e-30d2cdbde36e@fd73d"
+      ]
+    }
+  },
+  "42e41129-53ce-4f2c-821e-30d2cdbde36e@9991c": {
+    "url": "db://assets/model/buildings/detail-ac-b.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "42e41129-53ce-4f2c-821e-30d2cdbde36e@4f17a"
+      ]
+    }
+  },
+  "045db598-453c-456b-92c9-99cd6388a8ca@a62fe": {
+    "url": "db://assets/model/buildings/door-brown-glass.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "42e41129-53ce-4f2c-821e-30d2cdbde36e@a28d6": {
+    "url": "db://assets/model/buildings/detail-ac-b.fbx@a28d6",
+    "value": {
+      "depends": [
+        "42e41129-53ce-4f2c-821e-30d2cdbde36e@9991c",
+        "42e41129-53ce-4f2c-821e-30d2cdbde36e@a62fe"
+      ]
+    }
+  },
+  "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80": {
+    "url": "db://assets/model/buildings/door-white-window.fbx",
+    "value": {}
+  },
+  "045db598-453c-456b-92c9-99cd6388a8ca@fd73d": {
+    "url": "db://assets/model/buildings/door-brown-glass.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "045db598-453c-456b-92c9-99cd6388a8ca@4f17a": {
+    "url": "db://assets/model/buildings/door-brown-glass.fbx@4f17a",
+    "value": {
+      "depends": [
+        "045db598-453c-456b-92c9-99cd6388a8ca@fd73d"
+      ]
+    }
+  },
+  "045db598-453c-456b-92c9-99cd6388a8ca@9991c": {
+    "url": "db://assets/model/buildings/door-brown-glass.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "045db598-453c-456b-92c9-99cd6388a8ca@4f17a"
+      ]
+    }
+  },
+  "045db598-453c-456b-92c9-99cd6388a8ca@3821a": {
+    "url": "db://assets/model/buildings/door-brown-glass.fbx@3821a",
+    "value": {
+      "depends": [
+        "045db598-453c-456b-92c9-99cd6388a8ca@9991c",
+        "045db598-453c-456b-92c9-99cd6388a8ca@a62fe"
+      ]
+    }
+  },
+  "f5518155-be0b-4699-afb5-8e22e5e34c1f": {
+    "url": "db://assets/model/buildings/door-white.fbx",
+    "value": {}
+  },
+  "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@a62fe": {
+    "url": "db://assets/model/buildings/door-brown-window.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@fd73d": {
+    "url": "db://assets/model/buildings/door-brown-window.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "fd595653-ebac-4eaa-8b05-d1720901dc56@a62fe": {
+    "url": "db://assets/model/buildings/door-brown.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@4f17a": {
+    "url": "db://assets/model/buildings/door-brown-window.fbx@4f17a",
+    "value": {
+      "depends": [
+        "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@fd73d"
+      ]
+    }
+  },
+  "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@9991c": {
+    "url": "db://assets/model/buildings/door-brown-window.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@4f17a"
+      ]
+    }
+  },
+  "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@99c0f": {
+    "url": "db://assets/model/buildings/door-brown-window.fbx@99c0f",
+    "value": {
+      "depends": [
+        "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@9991c",
+        "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0@a62fe"
+      ]
+    }
+  },
+  "12fe307e-eea8-4940-9208-2a5e50061df1": {
+    "url": "db://assets/model/buildings/roof-flat-awning-a.fbx",
+    "value": {}
+  },
+  "fd595653-ebac-4eaa-8b05-d1720901dc56@fd73d": {
+    "url": "db://assets/model/buildings/door-brown.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "fd595653-ebac-4eaa-8b05-d1720901dc56@4f17a": {
+    "url": "db://assets/model/buildings/door-brown.fbx@4f17a",
+    "value": {
+      "depends": [
+        "fd595653-ebac-4eaa-8b05-d1720901dc56@fd73d"
+      ]
+    }
+  },
+  "fd595653-ebac-4eaa-8b05-d1720901dc56@9991c": {
+    "url": "db://assets/model/buildings/door-brown.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "fd595653-ebac-4eaa-8b05-d1720901dc56@4f17a"
+      ]
+    }
+  },
+  "fd595653-ebac-4eaa-8b05-d1720901dc56@0536b": {
+    "url": "db://assets/model/buildings/door-brown.fbx@0536b",
+    "value": {
+      "depends": [
+        "fd595653-ebac-4eaa-8b05-d1720901dc56@9991c",
+        "fd595653-ebac-4eaa-8b05-d1720901dc56@a62fe"
+      ]
+    }
+  },
+  "5a82f275-d819-41af-b491-39ac977a9880": {
+    "url": "db://assets/model/buildings/roof-flat-awning-b.fbx",
+    "value": {}
+  },
+  "5b50b769-3048-4fcc-9cb5-1c769859e806@52896": {
+    "url": "db://assets/model/buildings/door-white-glass.fbx@52896",
+    "value": {
+      "depends": [
+        "5b50b769-3048-4fcc-9cb5-1c769859e806@9991c",
+        "5b50b769-3048-4fcc-9cb5-1c769859e806@a62fe"
+      ]
+    }
+  },
+  "5b50b769-3048-4fcc-9cb5-1c769859e806@a62fe": {
+    "url": "db://assets/model/buildings/door-white-glass.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "5b50b769-3048-4fcc-9cb5-1c769859e806@fd73d": {
+    "url": "db://assets/model/buildings/door-white-glass.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "5b50b769-3048-4fcc-9cb5-1c769859e806@4f17a": {
+    "url": "db://assets/model/buildings/door-white-glass.fbx@4f17a",
+    "value": {
+      "depends": [
+        "5b50b769-3048-4fcc-9cb5-1c769859e806@fd73d"
+      ]
+    }
+  },
+  "5b50b769-3048-4fcc-9cb5-1c769859e806@9991c": {
+    "url": "db://assets/model/buildings/door-white-glass.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "5b50b769-3048-4fcc-9cb5-1c769859e806@4f17a"
+      ]
+    }
+  },
+  "49570eb9-213c-44f4-8332-b2b57089662c": {
+    "url": "db://assets/model/buildings/roof-flat-awning-c.fbx",
+    "value": {}
+  },
+  "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@37054": {
+    "url": "db://assets/model/buildings/door-white-window.fbx@37054",
+    "value": {
+      "depends": [
+        "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@9991c",
+        "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@a62fe"
+      ]
+    }
+  },
+  "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@a62fe": {
+    "url": "db://assets/model/buildings/door-white-window.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@fd73d": {
+    "url": "db://assets/model/buildings/door-white-window.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@4f17a": {
+    "url": "db://assets/model/buildings/door-white-window.fbx@4f17a",
+    "value": {
+      "depends": [
+        "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@fd73d"
+      ]
+    }
+  },
+  "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@9991c": {
+    "url": "db://assets/model/buildings/door-white-window.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80@4f17a"
+      ]
+    }
+  },
+  "29c66176-529f-4e0d-a656-2a15db1f9ec4": {
+    "url": "db://assets/model/buildings/roof-flat-border-center-corner.fbx",
+    "value": {}
+  },
+  "f5518155-be0b-4699-afb5-8e22e5e34c1f@a62fe": {
+    "url": "db://assets/model/buildings/door-white.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "f5518155-be0b-4699-afb5-8e22e5e34c1f@fd73d": {
+    "url": "db://assets/model/buildings/door-white.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "f5518155-be0b-4699-afb5-8e22e5e34c1f@4f17a": {
+    "url": "db://assets/model/buildings/door-white.fbx@4f17a",
+    "value": {
+      "depends": [
+        "f5518155-be0b-4699-afb5-8e22e5e34c1f@fd73d"
+      ]
+    }
+  },
+  "f5518155-be0b-4699-afb5-8e22e5e34c1f@9991c": {
+    "url": "db://assets/model/buildings/door-white.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "f5518155-be0b-4699-afb5-8e22e5e34c1f@4f17a"
+      ]
+    }
+  },
+  "f5518155-be0b-4699-afb5-8e22e5e34c1f@1af8d": {
+    "url": "db://assets/model/buildings/door-white.fbx@1af8d",
+    "value": {
+      "depends": [
+        "f5518155-be0b-4699-afb5-8e22e5e34c1f@9991c",
+        "f5518155-be0b-4699-afb5-8e22e5e34c1f@a62fe"
+      ]
+    }
+  },
+  "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc": {
+    "url": "db://assets/model/buildings/roof-flat-border-center.fbx",
+    "value": {}
+  },
+  "12fe307e-eea8-4940-9208-2a5e50061df1@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-awning-a.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "12fe307e-eea8-4940-9208-2a5e50061df1@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-awning-a.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "5a82f275-d819-41af-b491-39ac977a9880@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-awning-b.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "12fe307e-eea8-4940-9208-2a5e50061df1@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-awning-a.fbx@4f17a",
+    "value": {
+      "depends": [
+        "12fe307e-eea8-4940-9208-2a5e50061df1@fd73d"
+      ]
+    }
+  },
+  "12fe307e-eea8-4940-9208-2a5e50061df1@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-awning-a.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "12fe307e-eea8-4940-9208-2a5e50061df1@4f17a"
+      ]
+    }
+  },
+  "12fe307e-eea8-4940-9208-2a5e50061df1@8c383": {
+    "url": "db://assets/model/buildings/roof-flat-awning-a.fbx@8c383",
+    "value": {
+      "depends": [
+        "12fe307e-eea8-4940-9208-2a5e50061df1@9991c",
+        "12fe307e-eea8-4940-9208-2a5e50061df1@a62fe"
+      ]
+    }
+  },
+  "93510d5c-b3ac-455d-91ad-88f2ba2b6e71": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted-passage.fbx",
+    "value": {}
+  },
+  "5a82f275-d819-41af-b491-39ac977a9880@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-awning-b.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "5a82f275-d819-41af-b491-39ac977a9880@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-awning-b.fbx@4f17a",
+    "value": {
+      "depends": [
+        "5a82f275-d819-41af-b491-39ac977a9880@fd73d"
+      ]
+    }
+  },
+  "5a82f275-d819-41af-b491-39ac977a9880@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-awning-b.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "5a82f275-d819-41af-b491-39ac977a9880@4f17a"
+      ]
+    }
+  },
+  "5a82f275-d819-41af-b491-39ac977a9880@bebb3": {
+    "url": "db://assets/model/buildings/roof-flat-awning-b.fbx@bebb3",
+    "value": {
+      "depends": [
+        "5a82f275-d819-41af-b491-39ac977a9880@9991c",
+        "5a82f275-d819-41af-b491-39ac977a9880@a62fe"
+      ]
+    }
+  },
+  "f822f4f5-5572-4390-adfe-ec3f30f2a3d1": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted.fbx",
+    "value": {}
+  },
+  "49570eb9-213c-44f4-8332-b2b57089662c@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-awning-c.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "49570eb9-213c-44f4-8332-b2b57089662c@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-awning-c.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "49570eb9-213c-44f4-8332-b2b57089662c@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-awning-c.fbx@4f17a",
+    "value": {
+      "depends": [
+        "49570eb9-213c-44f4-8332-b2b57089662c@fd73d"
+      ]
+    }
+  },
+  "49570eb9-213c-44f4-8332-b2b57089662c@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-awning-c.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "49570eb9-213c-44f4-8332-b2b57089662c@4f17a"
+      ]
+    }
+  },
+  "49570eb9-213c-44f4-8332-b2b57089662c@1a11f": {
+    "url": "db://assets/model/buildings/roof-flat-awning-c.fbx@1a11f",
+    "value": {
+      "depends": [
+        "49570eb9-213c-44f4-8332-b2b57089662c@9991c",
+        "49570eb9-213c-44f4-8332-b2b57089662c@a62fe"
+      ]
+    }
+  },
+  "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner.fbx",
+    "value": {}
+  },
+  "29c66176-529f-4e0d-a656-2a15db1f9ec4@84088": {
+    "url": "db://assets/model/buildings/roof-flat-border-center-corner.fbx@84088",
+    "value": {
+      "depends": [
+        "29c66176-529f-4e0d-a656-2a15db1f9ec4@9991c",
+        "29c66176-529f-4e0d-a656-2a15db1f9ec4@a62fe"
+      ]
+    }
+  },
+  "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-border-center.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "29c66176-529f-4e0d-a656-2a15db1f9ec4@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-border-center-corner.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-border-center.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-border-center.fbx@4f17a",
+    "value": {
+      "depends": [
+        "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@fd73d"
+      ]
+    }
+  },
+  "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-border-center.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@4f17a"
+      ]
+    }
+  },
+  "29c66176-529f-4e0d-a656-2a15db1f9ec4@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-border-center-corner.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@8a6c4": {
+    "url": "db://assets/model/buildings/roof-flat-border-center.fbx@8a6c4",
+    "value": {
+      "depends": [
+        "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@9991c",
+        "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc@a62fe"
+      ]
+    }
+  },
+  "588d0f30-e34c-4447-b724-4595151ce8a8": {
+    "url": "db://assets/model/buildings/roof-flat-border-end.fbx",
+    "value": {}
+  },
+  "29c66176-529f-4e0d-a656-2a15db1f9ec4@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-border-center-corner.fbx@4f17a",
+    "value": {
+      "depends": [
+        "29c66176-529f-4e0d-a656-2a15db1f9ec4@fd73d"
+      ]
+    }
+  },
+  "29c66176-529f-4e0d-a656-2a15db1f9ec4@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-border-center-corner.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "29c66176-529f-4e0d-a656-2a15db1f9ec4@4f17a"
+      ]
+    }
+  },
+  "e3ae0baa-016d-42cd-9abf-f5dad57f863d": {
+    "url": "db://assets/model/buildings/roof-flat-border-side.fbx",
+    "value": {}
+  },
+  "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted-passage.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted-passage.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted-passage.fbx@4f17a",
+    "value": {
+      "depends": [
+        "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@fd73d"
+      ]
+    }
+  },
+  "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted-passage.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@4f17a"
+      ]
+    }
+  },
+  "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@c0714": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted-passage.fbx@c0714",
+    "value": {
+      "depends": [
+        "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@9991c",
+        "93510d5c-b3ac-455d-91ad-88f2ba2b6e71@a62fe"
+      ]
+    }
+  },
+  "70d2603a-ec65-490d-8239-f11ba3c0bb68": {
+    "url": "db://assets/model/buildings/roof-flat-border-straight.fbx",
+    "value": {}
+  },
+  "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted.fbx@4f17a",
+    "value": {
+      "depends": [
+        "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@fd73d"
+      ]
+    }
+  },
+  "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@4f17a"
+      ]
+    }
+  },
+  "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@66faa": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner-slanted.fbx@66faa",
+    "value": {
+      "depends": [
+        "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@9991c",
+        "f822f4f5-5572-4390-adfe-ec3f30f2a3d1@a62fe"
+      ]
+    }
+  },
+  "fb500668-e66b-4e31-823c-880278e9f583": {
+    "url": "db://assets/model/buildings/roof-flat-center.fbx",
+    "value": {}
+  },
+  "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@57236": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner.fbx@57236",
+    "value": {
+      "depends": [
+        "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@9991c",
+        "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@a62fe"
+      ]
+    }
+  },
+  "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner.fbx@4f17a",
+    "value": {
+      "depends": [
+        "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@fd73d"
+      ]
+    }
+  },
+  "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-border-corner.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb@4f17a"
+      ]
+    }
+  },
+  "9cdfda0b-601c-4e26-8512-ea5daf20586c": {
+    "url": "db://assets/model/buildings/roof-flat-corner-high.fbx",
+    "value": {}
+  },
+  "588d0f30-e34c-4447-b724-4595151ce8a8@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-border-end.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "588d0f30-e34c-4447-b724-4595151ce8a8@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-border-end.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "588d0f30-e34c-4447-b724-4595151ce8a8@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-border-end.fbx@4f17a",
+    "value": {
+      "depends": [
+        "588d0f30-e34c-4447-b724-4595151ce8a8@fd73d"
+      ]
+    }
+  },
+  "588d0f30-e34c-4447-b724-4595151ce8a8@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-border-end.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "588d0f30-e34c-4447-b724-4595151ce8a8@4f17a"
+      ]
+    }
+  },
+  "588d0f30-e34c-4447-b724-4595151ce8a8@e1f9a": {
+    "url": "db://assets/model/buildings/roof-flat-border-end.fbx@e1f9a",
+    "value": {
+      "depends": [
+        "588d0f30-e34c-4447-b724-4595151ce8a8@9991c",
+        "588d0f30-e34c-4447-b724-4595151ce8a8@a62fe"
+      ]
+    }
+  },
+  "197f8202-9254-4c22-b755-c3b28f0f8f58": {
+    "url": "db://assets/model/buildings/roof-flat-corner.fbx",
+    "value": {}
+  },
+  "e3ae0baa-016d-42cd-9abf-f5dad57f863d@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-border-side.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "70d2603a-ec65-490d-8239-f11ba3c0bb68@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-border-straight.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3ae0baa-016d-42cd-9abf-f5dad57f863d@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-border-side.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3ae0baa-016d-42cd-9abf-f5dad57f863d@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-border-side.fbx@4f17a",
+    "value": {
+      "depends": [
+        "e3ae0baa-016d-42cd-9abf-f5dad57f863d@fd73d"
+      ]
+    }
+  },
+  "e3ae0baa-016d-42cd-9abf-f5dad57f863d@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-border-side.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e3ae0baa-016d-42cd-9abf-f5dad57f863d@4f17a"
+      ]
+    }
+  },
+  "e3ae0baa-016d-42cd-9abf-f5dad57f863d@7f0a4": {
+    "url": "db://assets/model/buildings/roof-flat-border-side.fbx@7f0a4",
+    "value": {
+      "depends": [
+        "e3ae0baa-016d-42cd-9abf-f5dad57f863d@9991c",
+        "e3ae0baa-016d-42cd-9abf-f5dad57f863d@a62fe"
+      ]
+    }
+  },
+  "b62bb061-12d2-47a3-b314-4ed6440ad015": {
+    "url": "db://assets/model/buildings/roof-flat-detail-a.fbx",
+    "value": {}
+  },
+  "70d2603a-ec65-490d-8239-f11ba3c0bb68@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-border-straight.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "70d2603a-ec65-490d-8239-f11ba3c0bb68@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-border-straight.fbx@4f17a",
+    "value": {
+      "depends": [
+        "70d2603a-ec65-490d-8239-f11ba3c0bb68@fd73d"
+      ]
+    }
+  },
+  "70d2603a-ec65-490d-8239-f11ba3c0bb68@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-border-straight.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "70d2603a-ec65-490d-8239-f11ba3c0bb68@4f17a"
+      ]
+    }
+  },
+  "70d2603a-ec65-490d-8239-f11ba3c0bb68@fefb6": {
+    "url": "db://assets/model/buildings/roof-flat-border-straight.fbx@fefb6",
+    "value": {
+      "depends": [
+        "70d2603a-ec65-490d-8239-f11ba3c0bb68@9991c",
+        "70d2603a-ec65-490d-8239-f11ba3c0bb68@a62fe"
+      ]
+    }
+  },
+  "20f5a62e-db37-48b6-a4b4-160ee3a96a5e": {
+    "url": "db://assets/model/buildings/roof-flat-detail-b.fbx",
+    "value": {}
+  },
+  "fb500668-e66b-4e31-823c-880278e9f583@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-center.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb500668-e66b-4e31-823c-880278e9f583@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-center.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb500668-e66b-4e31-823c-880278e9f583@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-center.fbx@4f17a",
+    "value": {
+      "depends": [
+        "fb500668-e66b-4e31-823c-880278e9f583@fd73d"
+      ]
+    }
+  },
+  "fb500668-e66b-4e31-823c-880278e9f583@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-center.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "fb500668-e66b-4e31-823c-880278e9f583@4f17a"
+      ]
+    }
+  },
+  "fb500668-e66b-4e31-823c-880278e9f583@88ab2": {
+    "url": "db://assets/model/buildings/roof-flat-center.fbx@88ab2",
+    "value": {
+      "depends": [
+        "fb500668-e66b-4e31-823c-880278e9f583@9991c",
+        "fb500668-e66b-4e31-823c-880278e9f583@a62fe"
+      ]
+    }
+  },
+  "75a65021-bd30-4d8e-9fdd-be77927186a5": {
+    "url": "db://assets/model/buildings/roof-flat-detail-c.fbx",
+    "value": {}
+  },
+  "9cdfda0b-601c-4e26-8512-ea5daf20586c@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-corner-high.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "9cdfda0b-601c-4e26-8512-ea5daf20586c@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-corner-high.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "9cdfda0b-601c-4e26-8512-ea5daf20586c@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-corner-high.fbx@4f17a",
+    "value": {
+      "depends": [
+        "9cdfda0b-601c-4e26-8512-ea5daf20586c@fd73d"
+      ]
+    }
+  },
+  "9cdfda0b-601c-4e26-8512-ea5daf20586c@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-corner-high.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "9cdfda0b-601c-4e26-8512-ea5daf20586c@4f17a"
+      ]
+    }
+  },
+  "9cdfda0b-601c-4e26-8512-ea5daf20586c@6df22": {
+    "url": "db://assets/model/buildings/roof-flat-corner-high.fbx@6df22",
+    "value": {
+      "depends": [
+        "9cdfda0b-601c-4e26-8512-ea5daf20586c@9991c",
+        "9cdfda0b-601c-4e26-8512-ea5daf20586c@a62fe"
+      ]
+    }
+  },
+  "05e09be4-dc42-45ff-b1b1-a19b6582edb1": {
+    "url": "db://assets/model/buildings/roof-flat-detail-d.fbx",
+    "value": {}
+  },
+  "197f8202-9254-4c22-b755-c3b28f0f8f58@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-corner.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "197f8202-9254-4c22-b755-c3b28f0f8f58@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-corner.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "197f8202-9254-4c22-b755-c3b28f0f8f58@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-corner.fbx@4f17a",
+    "value": {
+      "depends": [
+        "197f8202-9254-4c22-b755-c3b28f0f8f58@fd73d"
+      ]
+    }
+  },
+  "197f8202-9254-4c22-b755-c3b28f0f8f58@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-corner.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "197f8202-9254-4c22-b755-c3b28f0f8f58@4f17a"
+      ]
+    }
+  },
+  "197f8202-9254-4c22-b755-c3b28f0f8f58@c2470": {
+    "url": "db://assets/model/buildings/roof-flat-corner.fbx@c2470",
+    "value": {
+      "depends": [
+        "197f8202-9254-4c22-b755-c3b28f0f8f58@9991c",
+        "197f8202-9254-4c22-b755-c3b28f0f8f58@a62fe"
+      ]
+    }
+  },
+  "df03f168-196f-49ab-9f1a-4e7c587b81aa": {
+    "url": "db://assets/model/buildings/roof-flat-top.fbx",
+    "value": {}
+  },
+  "b62bb061-12d2-47a3-b314-4ed6440ad015@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-detail-a.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "b62bb061-12d2-47a3-b314-4ed6440ad015@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-detail-a.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "b62bb061-12d2-47a3-b314-4ed6440ad015@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-detail-a.fbx@4f17a",
+    "value": {
+      "depends": [
+        "b62bb061-12d2-47a3-b314-4ed6440ad015@fd73d"
+      ]
+    }
+  },
+  "b62bb061-12d2-47a3-b314-4ed6440ad015@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-detail-a.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b62bb061-12d2-47a3-b314-4ed6440ad015@4f17a"
+      ]
+    }
+  },
+  "b62bb061-12d2-47a3-b314-4ed6440ad015@cd1a4": {
+    "url": "db://assets/model/buildings/roof-flat-detail-a.fbx@cd1a4",
+    "value": {
+      "depends": [
+        "b62bb061-12d2-47a3-b314-4ed6440ad015@9991c",
+        "b62bb061-12d2-47a3-b314-4ed6440ad015@a62fe"
+      ]
+    }
+  },
+  "23320237-a8d2-4910-ab69-db4392d5f48c": {
+    "url": "db://assets/model/buildings/roof-gable-corner.fbx",
+    "value": {}
+  },
+  "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-detail-b.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-detail-b.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-detail-b.fbx@4f17a",
+    "value": {
+      "depends": [
+        "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@fd73d"
+      ]
+    }
+  },
+  "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-detail-b.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@4f17a"
+      ]
+    }
+  },
+  "05e09be4-dc42-45ff-b1b1-a19b6582edb1@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-detail-d.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@2f7fe": {
+    "url": "db://assets/model/buildings/roof-flat-detail-b.fbx@2f7fe",
+    "value": {
+      "depends": [
+        "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@9991c",
+        "20f5a62e-db37-48b6-a4b4-160ee3a96a5e@a62fe"
+      ]
+    }
+  },
+  "397a1cfb-9c42-47c3-a365-10343b7ba630": {
+    "url": "db://assets/model/buildings/roof-gable-end.fbx",
+    "value": {}
+  },
+  "75a65021-bd30-4d8e-9fdd-be77927186a5@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-detail-c.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "05e09be4-dc42-45ff-b1b1-a19b6582edb1@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-detail-d.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "75a65021-bd30-4d8e-9fdd-be77927186a5@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-detail-c.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "05e09be4-dc42-45ff-b1b1-a19b6582edb1@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-detail-d.fbx@4f17a",
+    "value": {
+      "depends": [
+        "05e09be4-dc42-45ff-b1b1-a19b6582edb1@fd73d"
+      ]
+    }
+  },
+  "75a65021-bd30-4d8e-9fdd-be77927186a5@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-detail-c.fbx@4f17a",
+    "value": {
+      "depends": [
+        "75a65021-bd30-4d8e-9fdd-be77927186a5@fd73d"
+      ]
+    }
+  },
+  "05e09be4-dc42-45ff-b1b1-a19b6582edb1@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-detail-d.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "05e09be4-dc42-45ff-b1b1-a19b6582edb1@4f17a"
+      ]
+    }
+  },
+  "75a65021-bd30-4d8e-9fdd-be77927186a5@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-detail-c.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "75a65021-bd30-4d8e-9fdd-be77927186a5@4f17a"
+      ]
+    }
+  },
+  "05e09be4-dc42-45ff-b1b1-a19b6582edb1@43ded": {
+    "url": "db://assets/model/buildings/roof-flat-detail-d.fbx@43ded",
+    "value": {
+      "depends": [
+        "05e09be4-dc42-45ff-b1b1-a19b6582edb1@9991c",
+        "05e09be4-dc42-45ff-b1b1-a19b6582edb1@a62fe"
+      ]
+    }
+  },
+  "47b6e05e-4d7c-4d30-9359-d40e5ef2c428": {
+    "url": "db://assets/model/buildings/roof-gable.fbx",
+    "value": {}
+  },
+  "75a65021-bd30-4d8e-9fdd-be77927186a5@cc7da": {
+    "url": "db://assets/model/buildings/roof-flat-detail-c.fbx@cc7da",
+    "value": {
+      "depends": [
+        "75a65021-bd30-4d8e-9fdd-be77927186a5@9991c",
+        "75a65021-bd30-4d8e-9fdd-be77927186a5@a62fe"
+      ]
+    }
+  },
+  "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-a.fbx",
+    "value": {}
+  },
+  "df03f168-196f-49ab-9f1a-4e7c587b81aa@a62fe": {
+    "url": "db://assets/model/buildings/roof-flat-top.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "df03f168-196f-49ab-9f1a-4e7c587b81aa@fd73d": {
+    "url": "db://assets/model/buildings/roof-flat-top.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "df03f168-196f-49ab-9f1a-4e7c587b81aa@4f17a": {
+    "url": "db://assets/model/buildings/roof-flat-top.fbx@4f17a",
+    "value": {
+      "depends": [
+        "df03f168-196f-49ab-9f1a-4e7c587b81aa@fd73d"
+      ]
+    }
+  },
+  "df03f168-196f-49ab-9f1a-4e7c587b81aa@9991c": {
+    "url": "db://assets/model/buildings/roof-flat-top.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "df03f168-196f-49ab-9f1a-4e7c587b81aa@4f17a"
+      ]
+    }
+  },
+  "df03f168-196f-49ab-9f1a-4e7c587b81aa@9b11d": {
+    "url": "db://assets/model/buildings/roof-flat-top.fbx@9b11d",
+    "value": {
+      "depends": [
+        "df03f168-196f-49ab-9f1a-4e7c587b81aa@9991c",
+        "df03f168-196f-49ab-9f1a-4e7c587b81aa@a62fe"
+      ]
+    }
+  },
+  "0bc9c10e-ec9a-4501-8019-2daedad9d557": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-b.fbx",
+    "value": {}
+  },
+  "23320237-a8d2-4910-ab69-db4392d5f48c@a62fe": {
+    "url": "db://assets/model/buildings/roof-gable-corner.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "23320237-a8d2-4910-ab69-db4392d5f48c@fd73d": {
+    "url": "db://assets/model/buildings/roof-gable-corner.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "23320237-a8d2-4910-ab69-db4392d5f48c@4f17a": {
+    "url": "db://assets/model/buildings/roof-gable-corner.fbx@4f17a",
+    "value": {
+      "depends": [
+        "23320237-a8d2-4910-ab69-db4392d5f48c@fd73d"
+      ]
+    }
+  },
+  "23320237-a8d2-4910-ab69-db4392d5f48c@9991c": {
+    "url": "db://assets/model/buildings/roof-gable-corner.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "23320237-a8d2-4910-ab69-db4392d5f48c@4f17a"
+      ]
+    }
+  },
+  "23320237-a8d2-4910-ab69-db4392d5f48c@f86b3": {
+    "url": "db://assets/model/buildings/roof-gable-corner.fbx@f86b3",
+    "value": {
+      "depends": [
+        "23320237-a8d2-4910-ab69-db4392d5f48c@9991c",
+        "23320237-a8d2-4910-ab69-db4392d5f48c@a62fe"
+      ]
+    }
+  },
+  "2ada252f-0f7e-400e-9171-20af943966ba": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-c.fbx",
+    "value": {}
+  },
+  "397a1cfb-9c42-47c3-a365-10343b7ba630@a62fe": {
+    "url": "db://assets/model/buildings/roof-gable-end.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@a62fe": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-a.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@a62fe": {
+    "url": "db://assets/model/buildings/roof-gable.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "397a1cfb-9c42-47c3-a365-10343b7ba630@fd73d": {
+    "url": "db://assets/model/buildings/roof-gable-end.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@fd73d": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-a.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "397a1cfb-9c42-47c3-a365-10343b7ba630@4f17a": {
+    "url": "db://assets/model/buildings/roof-gable-end.fbx@4f17a",
+    "value": {
+      "depends": [
+        "397a1cfb-9c42-47c3-a365-10343b7ba630@fd73d"
+      ]
+    }
+  },
+  "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@4f17a": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-a.fbx@4f17a",
+    "value": {
+      "depends": [
+        "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@fd73d"
+      ]
+    }
+  },
+  "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@fd73d": {
+    "url": "db://assets/model/buildings/roof-gable.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "397a1cfb-9c42-47c3-a365-10343b7ba630@9991c": {
+    "url": "db://assets/model/buildings/roof-gable-end.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "397a1cfb-9c42-47c3-a365-10343b7ba630@4f17a"
+      ]
+    }
+  },
+  "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@9991c": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-a.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@4f17a"
+      ]
+    }
+  },
+  "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@4f17a": {
+    "url": "db://assets/model/buildings/roof-gable.fbx@4f17a",
+    "value": {
+      "depends": [
+        "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@fd73d"
+      ]
+    }
+  },
+  "397a1cfb-9c42-47c3-a365-10343b7ba630@97f33": {
+    "url": "db://assets/model/buildings/roof-gable-end.fbx@97f33",
+    "value": {
+      "depends": [
+        "397a1cfb-9c42-47c3-a365-10343b7ba630@9991c",
+        "397a1cfb-9c42-47c3-a365-10343b7ba630@a62fe"
+      ]
+    }
+  },
+  "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-inner.fbx",
+    "value": {}
+  },
+  "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@1fc86": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-a.fbx@1fc86",
+    "value": {
+      "depends": [
+        "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@9991c",
+        "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6@a62fe"
+      ]
+    }
+  },
+  "5d6a6503-53fb-4a77-a8b1-21920d40fb2e": {
+    "url": "db://assets/model/buildings/roof-slanted-detail.fbx",
+    "value": {}
+  },
+  "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@9991c": {
+    "url": "db://assets/model/buildings/roof-gable.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@4f17a"
+      ]
+    }
+  },
+  "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@369e6": {
+    "url": "db://assets/model/buildings/roof-gable.fbx@369e6",
+    "value": {
+      "depends": [
+        "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@9991c",
+        "47b6e05e-4d7c-4d30-9359-d40e5ef2c428@a62fe"
+      ]
+    }
+  },
+  "770eba50-ef1d-417f-8f3f-8036d5727bca": {
+    "url": "db://assets/model/buildings/roof-slanted-flat.fbx",
+    "value": {}
+  },
+  "0bc9c10e-ec9a-4501-8019-2daedad9d557@a62fe": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-b.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "0bc9c10e-ec9a-4501-8019-2daedad9d557@fd73d": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-b.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "0bc9c10e-ec9a-4501-8019-2daedad9d557@4f17a": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-b.fbx@4f17a",
+    "value": {
+      "depends": [
+        "0bc9c10e-ec9a-4501-8019-2daedad9d557@fd73d"
+      ]
+    }
+  },
+  "0bc9c10e-ec9a-4501-8019-2daedad9d557@9991c": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-b.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "0bc9c10e-ec9a-4501-8019-2daedad9d557@4f17a"
+      ]
+    }
+  },
+  "0bc9c10e-ec9a-4501-8019-2daedad9d557@c9b5c": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-b.fbx@c9b5c",
+    "value": {
+      "depends": [
+        "0bc9c10e-ec9a-4501-8019-2daedad9d557@9991c",
+        "0bc9c10e-ec9a-4501-8019-2daedad9d557@a62fe"
+      ]
+    }
+  },
+  "b475e46d-50cd-4f4d-b5b1-d3f94cd911df": {
+    "url": "db://assets/model/buildings/roof-slanted-window.fbx",
+    "value": {}
+  },
+  "2ada252f-0f7e-400e-9171-20af943966ba@84720": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-c.fbx@84720",
+    "value": {
+      "depends": [
+        "2ada252f-0f7e-400e-9171-20af943966ba@9991c",
+        "2ada252f-0f7e-400e-9171-20af943966ba@a62fe"
+      ]
+    }
+  },
+  "2ada252f-0f7e-400e-9171-20af943966ba@a62fe": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-c.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "2ada252f-0f7e-400e-9171-20af943966ba@fd73d": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-c.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "2ada252f-0f7e-400e-9171-20af943966ba@4f17a": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-c.fbx@4f17a",
+    "value": {
+      "depends": [
+        "2ada252f-0f7e-400e-9171-20af943966ba@fd73d"
+      ]
+    }
+  },
+  "2ada252f-0f7e-400e-9171-20af943966ba@9991c": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-c.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "2ada252f-0f7e-400e-9171-20af943966ba@4f17a"
+      ]
+    }
+  },
+  "2008ef07-c149-4d0a-9911-d402a0453ac2": {
+    "url": "db://assets/model/buildings/roof-slanted.fbx",
+    "value": {}
+  },
+  "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@a62fe": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-inner.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@a62fe": {
+    "url": "db://assets/model/buildings/roof-slanted-detail.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@fd73d": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-inner.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@4f17a": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-inner.fbx@4f17a",
+    "value": {
+      "depends": [
+        "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@fd73d"
+      ]
+    }
+  },
+  "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@fd73d": {
+    "url": "db://assets/model/buildings/roof-slanted-detail.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@4f17a": {
+    "url": "db://assets/model/buildings/roof-slanted-detail.fbx@4f17a",
+    "value": {
+      "depends": [
+        "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@fd73d"
+      ]
+    }
+  },
+  "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@9991c": {
+    "url": "db://assets/model/buildings/roof-slanted-detail.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@4f17a"
+      ]
+    }
+  },
+  "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@9991c": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-inner.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@4f17a"
+      ]
+    }
+  },
+  "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@32c02": {
+    "url": "db://assets/model/buildings/roof-slanted-detail.fbx@32c02",
+    "value": {
+      "depends": [
+        "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@9991c",
+        "5d6a6503-53fb-4a77-a8b1-21920d40fb2e@a62fe"
+      ]
+    }
+  },
+  "99b6c925-9c1c-4822-99de-984bd006f21c": {
+    "url": "db://assets/model/buildings/window-brown-detailed.fbx",
+    "value": {}
+  },
+  "770eba50-ef1d-417f-8f3f-8036d5727bca@a62fe": {
+    "url": "db://assets/model/buildings/roof-slanted-flat.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@f0750": {
+    "url": "db://assets/model/buildings/roof-slanted-corner-inner.fbx@f0750",
+    "value": {
+      "depends": [
+        "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@9991c",
+        "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6@a62fe"
+      ]
+    }
+  },
+  "7965a304-d8c3-4325-8905-9ef368427efd": {
+    "url": "db://assets/model/buildings/window-brown-large.fbx",
+    "value": {}
+  },
+  "770eba50-ef1d-417f-8f3f-8036d5727bca@fd73d": {
+    "url": "db://assets/model/buildings/roof-slanted-flat.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "770eba50-ef1d-417f-8f3f-8036d5727bca@4f17a": {
+    "url": "db://assets/model/buildings/roof-slanted-flat.fbx@4f17a",
+    "value": {
+      "depends": [
+        "770eba50-ef1d-417f-8f3f-8036d5727bca@fd73d"
+      ]
+    }
+  },
+  "770eba50-ef1d-417f-8f3f-8036d5727bca@9991c": {
+    "url": "db://assets/model/buildings/roof-slanted-flat.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "770eba50-ef1d-417f-8f3f-8036d5727bca@4f17a"
+      ]
+    }
+  },
+  "770eba50-ef1d-417f-8f3f-8036d5727bca@bf0c3": {
+    "url": "db://assets/model/buildings/roof-slanted-flat.fbx@bf0c3",
+    "value": {
+      "depends": [
+        "770eba50-ef1d-417f-8f3f-8036d5727bca@9991c",
+        "770eba50-ef1d-417f-8f3f-8036d5727bca@a62fe"
+      ]
+    }
+  },
+  "e2333a85-1e62-4710-8824-960234ce1907": {
+    "url": "db://assets/model/buildings/window-brown-narrow.fbx",
+    "value": {}
+  },
+  "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@a62fe": {
+    "url": "db://assets/model/buildings/roof-slanted-window.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@fd73d": {
+    "url": "db://assets/model/buildings/roof-slanted-window.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@4f17a": {
+    "url": "db://assets/model/buildings/roof-slanted-window.fbx@4f17a",
+    "value": {
+      "depends": [
+        "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@fd73d"
+      ]
+    }
+  },
+  "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@9991c": {
+    "url": "db://assets/model/buildings/roof-slanted-window.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@4f17a"
+      ]
+    }
+  },
+  "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@07389": {
+    "url": "db://assets/model/buildings/roof-slanted-window.fbx@07389",
+    "value": {
+      "depends": [
+        "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@9991c",
+        "b475e46d-50cd-4f4d-b5b1-d3f94cd911df@a62fe"
+      ]
+    }
+  },
+  "e8d25e5a-c6ae-4e71-968f-77772931b3de": {
+    "url": "db://assets/model/buildings/window-brown-round-low.fbx",
+    "value": {}
+  },
+  "2008ef07-c149-4d0a-9911-d402a0453ac2@a62fe": {
+    "url": "db://assets/model/buildings/roof-slanted.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "2008ef07-c149-4d0a-9911-d402a0453ac2@fd73d": {
+    "url": "db://assets/model/buildings/roof-slanted.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "2008ef07-c149-4d0a-9911-d402a0453ac2@4f17a": {
+    "url": "db://assets/model/buildings/roof-slanted.fbx@4f17a",
+    "value": {
+      "depends": [
+        "2008ef07-c149-4d0a-9911-d402a0453ac2@fd73d"
+      ]
+    }
+  },
+  "2008ef07-c149-4d0a-9911-d402a0453ac2@9991c": {
+    "url": "db://assets/model/buildings/roof-slanted.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "2008ef07-c149-4d0a-9911-d402a0453ac2@4f17a"
+      ]
+    }
+  },
+  "2008ef07-c149-4d0a-9911-d402a0453ac2@f3993": {
+    "url": "db://assets/model/buildings/roof-slanted.fbx@f3993",
+    "value": {
+      "depends": [
+        "2008ef07-c149-4d0a-9911-d402a0453ac2@9991c",
+        "2008ef07-c149-4d0a-9911-d402a0453ac2@a62fe"
+      ]
+    }
+  },
+  "90b8edd1-7769-4056-9f26-83194ae04ebc": {
+    "url": "db://assets/model/buildings/window-brown-round-middle.fbx",
+    "value": {}
+  },
+  "99b6c925-9c1c-4822-99de-984bd006f21c@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-detailed.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "99b6c925-9c1c-4822-99de-984bd006f21c@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-detailed.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "99b6c925-9c1c-4822-99de-984bd006f21c@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-detailed.fbx@4f17a",
+    "value": {
+      "depends": [
+        "99b6c925-9c1c-4822-99de-984bd006f21c@fd73d"
+      ]
+    }
+  },
+  "99b6c925-9c1c-4822-99de-984bd006f21c@9991c": {
+    "url": "db://assets/model/buildings/window-brown-detailed.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "99b6c925-9c1c-4822-99de-984bd006f21c@4f17a"
+      ]
+    }
+  },
+  "99b6c925-9c1c-4822-99de-984bd006f21c@10e85": {
+    "url": "db://assets/model/buildings/window-brown-detailed.fbx@10e85",
+    "value": {
+      "depends": [
+        "99b6c925-9c1c-4822-99de-984bd006f21c@9991c",
+        "99b6c925-9c1c-4822-99de-984bd006f21c@a62fe"
+      ]
+    }
+  },
+  "387f25ea-67ef-47ef-ac07-b98e20c98d53": {
+    "url": "db://assets/model/buildings/window-brown-round-narrow.fbx",
+    "value": {}
+  },
+  "e8d25e5a-c6ae-4e71-968f-77772931b3de@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-round-low.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e8d25e5a-c6ae-4e71-968f-77772931b3de@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-round-low.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e8d25e5a-c6ae-4e71-968f-77772931b3de@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-round-low.fbx@4f17a",
+    "value": {
+      "depends": [
+        "e8d25e5a-c6ae-4e71-968f-77772931b3de@fd73d"
+      ]
+    }
+  },
+  "e8d25e5a-c6ae-4e71-968f-77772931b3de@9991c": {
+    "url": "db://assets/model/buildings/window-brown-round-low.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e8d25e5a-c6ae-4e71-968f-77772931b3de@4f17a"
+      ]
+    }
+  },
+  "e8d25e5a-c6ae-4e71-968f-77772931b3de@365b9": {
+    "url": "db://assets/model/buildings/window-brown-round-low.fbx@365b9",
+    "value": {
+      "depends": [
+        "e8d25e5a-c6ae-4e71-968f-77772931b3de@9991c",
+        "e8d25e5a-c6ae-4e71-968f-77772931b3de@a62fe"
+      ]
+    }
+  },
+  "a688082a-9c02-4372-9763-50a74a0771fb": {
+    "url": "db://assets/model/buildings/window-brown-round-top.fbx",
+    "value": {}
+  },
+  "90b8edd1-7769-4056-9f26-83194ae04ebc@18196": {
+    "url": "db://assets/model/buildings/window-brown-round-middle.fbx@18196",
+    "value": {
+      "depends": [
+        "90b8edd1-7769-4056-9f26-83194ae04ebc@9991c",
+        "90b8edd1-7769-4056-9f26-83194ae04ebc@a62fe"
+      ]
+    }
+  },
+  "90b8edd1-7769-4056-9f26-83194ae04ebc@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-round-middle.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "90b8edd1-7769-4056-9f26-83194ae04ebc@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-round-middle.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "7965a304-d8c3-4325-8905-9ef368427efd@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-large.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "90b8edd1-7769-4056-9f26-83194ae04ebc@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-round-middle.fbx@4f17a",
+    "value": {
+      "depends": [
+        "90b8edd1-7769-4056-9f26-83194ae04ebc@fd73d"
+      ]
+    }
+  },
+  "90b8edd1-7769-4056-9f26-83194ae04ebc@9991c": {
+    "url": "db://assets/model/buildings/window-brown-round-middle.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "90b8edd1-7769-4056-9f26-83194ae04ebc@4f17a"
+      ]
+    }
+  },
+  "693f140e-2090-42e8-9662-53cb2095c2e5": {
+    "url": "db://assets/model/buildings/window-brown-round-wide.fbx",
+    "value": {}
+  },
+  "7965a304-d8c3-4325-8905-9ef368427efd@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-large.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "7965a304-d8c3-4325-8905-9ef368427efd@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-large.fbx@4f17a",
+    "value": {
+      "depends": [
+        "7965a304-d8c3-4325-8905-9ef368427efd@fd73d"
+      ]
+    }
+  },
+  "7965a304-d8c3-4325-8905-9ef368427efd@9991c": {
+    "url": "db://assets/model/buildings/window-brown-large.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "7965a304-d8c3-4325-8905-9ef368427efd@4f17a"
+      ]
+    }
+  },
+  "7965a304-d8c3-4325-8905-9ef368427efd@cb5f7": {
+    "url": "db://assets/model/buildings/window-brown-large.fbx@cb5f7",
+    "value": {
+      "depends": [
+        "7965a304-d8c3-4325-8905-9ef368427efd@9991c",
+        "7965a304-d8c3-4325-8905-9ef368427efd@a62fe"
+      ]
+    }
+  },
+  "606eb7b7-a45a-400b-b190-ccdca74bddd4": {
+    "url": "db://assets/model/buildings/window-brown-tall.fbx",
+    "value": {}
+  },
+  "e2333a85-1e62-4710-8824-960234ce1907@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-narrow.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2333a85-1e62-4710-8824-960234ce1907@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-narrow.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2333a85-1e62-4710-8824-960234ce1907@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-narrow.fbx@4f17a",
+    "value": {
+      "depends": [
+        "e2333a85-1e62-4710-8824-960234ce1907@fd73d"
+      ]
+    }
+  },
+  "e2333a85-1e62-4710-8824-960234ce1907@9991c": {
+    "url": "db://assets/model/buildings/window-brown-narrow.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e2333a85-1e62-4710-8824-960234ce1907@4f17a"
+      ]
+    }
+  },
+  "e2333a85-1e62-4710-8824-960234ce1907@3f670": {
+    "url": "db://assets/model/buildings/window-brown-narrow.fbx@3f670",
+    "value": {
+      "depends": [
+        "e2333a85-1e62-4710-8824-960234ce1907@9991c",
+        "e2333a85-1e62-4710-8824-960234ce1907@a62fe"
+      ]
+    }
+  },
+  "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803": {
+    "url": "db://assets/model/buildings/window-brown-wide.fbx",
+    "value": {}
+  },
+  "387f25ea-67ef-47ef-ac07-b98e20c98d53@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-round-narrow.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "387f25ea-67ef-47ef-ac07-b98e20c98d53@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-round-narrow.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "387f25ea-67ef-47ef-ac07-b98e20c98d53@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-round-narrow.fbx@4f17a",
+    "value": {
+      "depends": [
+        "387f25ea-67ef-47ef-ac07-b98e20c98d53@fd73d"
+      ]
+    }
+  },
+  "387f25ea-67ef-47ef-ac07-b98e20c98d53@9991c": {
+    "url": "db://assets/model/buildings/window-brown-round-narrow.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "387f25ea-67ef-47ef-ac07-b98e20c98d53@4f17a"
+      ]
+    }
+  },
+  "387f25ea-67ef-47ef-ac07-b98e20c98d53@3814a": {
+    "url": "db://assets/model/buildings/window-brown-round-narrow.fbx@3814a",
+    "value": {
+      "depends": [
+        "387f25ea-67ef-47ef-ac07-b98e20c98d53@9991c",
+        "387f25ea-67ef-47ef-ac07-b98e20c98d53@a62fe"
+      ]
+    }
+  },
+  "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0": {
+    "url": "db://assets/model/buildings/window-brown.fbx",
+    "value": {}
+  },
+  "a688082a-9c02-4372-9763-50a74a0771fb@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-round-top.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "a688082a-9c02-4372-9763-50a74a0771fb@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-round-top.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "a688082a-9c02-4372-9763-50a74a0771fb@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-round-top.fbx@4f17a",
+    "value": {
+      "depends": [
+        "a688082a-9c02-4372-9763-50a74a0771fb@fd73d"
+      ]
+    }
+  },
+  "a688082a-9c02-4372-9763-50a74a0771fb@9991c": {
+    "url": "db://assets/model/buildings/window-brown-round-top.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "a688082a-9c02-4372-9763-50a74a0771fb@4f17a"
+      ]
+    }
+  },
+  "a688082a-9c02-4372-9763-50a74a0771fb@b0cfb": {
+    "url": "db://assets/model/buildings/window-brown-round-top.fbx@b0cfb",
+    "value": {
+      "depends": [
+        "a688082a-9c02-4372-9763-50a74a0771fb@9991c",
+        "a688082a-9c02-4372-9763-50a74a0771fb@a62fe"
+      ]
+    }
+  },
+  "11c218a0-993c-4997-a1bb-d225d656c880": {
+    "url": "db://assets/model/buildings/window-white-detailed.fbx",
+    "value": {}
+  },
+  "606eb7b7-a45a-400b-b190-ccdca74bddd4@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-tall.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "693f140e-2090-42e8-9662-53cb2095c2e5@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-round-wide.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "606eb7b7-a45a-400b-b190-ccdca74bddd4@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-tall.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "606eb7b7-a45a-400b-b190-ccdca74bddd4@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-tall.fbx@4f17a",
+    "value": {
+      "depends": [
+        "606eb7b7-a45a-400b-b190-ccdca74bddd4@fd73d"
+      ]
+    }
+  },
+  "606eb7b7-a45a-400b-b190-ccdca74bddd4@9991c": {
+    "url": "db://assets/model/buildings/window-brown-tall.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "606eb7b7-a45a-400b-b190-ccdca74bddd4@4f17a"
+      ]
+    }
+  },
+  "693f140e-2090-42e8-9662-53cb2095c2e5@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-round-wide.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "606eb7b7-a45a-400b-b190-ccdca74bddd4@5db48": {
+    "url": "db://assets/model/buildings/window-brown-tall.fbx@5db48",
+    "value": {
+      "depends": [
+        "606eb7b7-a45a-400b-b190-ccdca74bddd4@9991c",
+        "606eb7b7-a45a-400b-b190-ccdca74bddd4@a62fe"
+      ]
+    }
+  },
+  "598bea6c-d115-43f8-a5e7-17a979a9227d": {
+    "url": "db://assets/model/buildings/window-white-large.fbx",
+    "value": {}
+  },
+  "693f140e-2090-42e8-9662-53cb2095c2e5@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-round-wide.fbx@4f17a",
+    "value": {
+      "depends": [
+        "693f140e-2090-42e8-9662-53cb2095c2e5@fd73d"
+      ]
+    }
+  },
+  "693f140e-2090-42e8-9662-53cb2095c2e5@9991c": {
+    "url": "db://assets/model/buildings/window-brown-round-wide.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "693f140e-2090-42e8-9662-53cb2095c2e5@4f17a"
+      ]
+    }
+  },
+  "693f140e-2090-42e8-9662-53cb2095c2e5@f9182": {
+    "url": "db://assets/model/buildings/window-brown-round-wide.fbx@f9182",
+    "value": {
+      "depends": [
+        "693f140e-2090-42e8-9662-53cb2095c2e5@9991c",
+        "693f140e-2090-42e8-9662-53cb2095c2e5@a62fe"
+      ]
+    }
+  },
+  "ba7724fe-9279-4007-90f8-f8b1c46295e7": {
+    "url": "db://assets/model/buildings/window-white-narrow.fbx",
+    "value": {}
+  },
+  "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@a62fe": {
+    "url": "db://assets/model/buildings/window-brown-wide.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@fd73d": {
+    "url": "db://assets/model/buildings/window-brown-wide.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@a62fe": {
+    "url": "db://assets/model/buildings/window-brown.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@4f17a": {
+    "url": "db://assets/model/buildings/window-brown-wide.fbx@4f17a",
+    "value": {
+      "depends": [
+        "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@fd73d"
+      ]
+    }
+  },
+  "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@9991c": {
+    "url": "db://assets/model/buildings/window-brown-wide.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@4f17a"
+      ]
+    }
+  },
+  "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@a5633": {
+    "url": "db://assets/model/buildings/window-brown-wide.fbx@a5633",
+    "value": {
+      "depends": [
+        "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@9991c",
+        "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803@a62fe"
+      ]
+    }
+  },
+  "da999cf1-9e6b-4a9a-879f-02653c63278e": {
+    "url": "db://assets/model/buildings/window-white-round-low.fbx",
+    "value": {}
+  },
+  "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@fd73d": {
+    "url": "db://assets/model/buildings/window-brown.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@4f17a": {
+    "url": "db://assets/model/buildings/window-brown.fbx@4f17a",
+    "value": {
+      "depends": [
+        "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@fd73d"
+      ]
+    }
+  },
+  "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@9991c": {
+    "url": "db://assets/model/buildings/window-brown.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@4f17a"
+      ]
+    }
+  },
+  "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@98a39": {
+    "url": "db://assets/model/buildings/window-brown.fbx@98a39",
+    "value": {
+      "depends": [
+        "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@9991c",
+        "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0@a62fe"
+      ]
+    }
+  },
+  "990736cd-aa65-4d70-a6b0-605dc51f4ad2": {
+    "url": "db://assets/model/buildings/window-white-round-middle.fbx",
+    "value": {}
+  },
+  "11c218a0-993c-4997-a1bb-d225d656c880@a62fe": {
+    "url": "db://assets/model/buildings/window-white-detailed.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "11c218a0-993c-4997-a1bb-d225d656c880@fd73d": {
+    "url": "db://assets/model/buildings/window-white-detailed.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "11c218a0-993c-4997-a1bb-d225d656c880@4f17a": {
+    "url": "db://assets/model/buildings/window-white-detailed.fbx@4f17a",
+    "value": {
+      "depends": [
+        "11c218a0-993c-4997-a1bb-d225d656c880@fd73d"
+      ]
+    }
+  },
+  "11c218a0-993c-4997-a1bb-d225d656c880@9991c": {
+    "url": "db://assets/model/buildings/window-white-detailed.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "11c218a0-993c-4997-a1bb-d225d656c880@4f17a"
+      ]
+    }
+  },
+  "11c218a0-993c-4997-a1bb-d225d656c880@443e6": {
+    "url": "db://assets/model/buildings/window-white-detailed.fbx@443e6",
+    "value": {
+      "depends": [
+        "11c218a0-993c-4997-a1bb-d225d656c880@9991c",
+        "11c218a0-993c-4997-a1bb-d225d656c880@a62fe"
+      ]
+    }
+  },
+  "385da667-bb8f-40cc-bb8f-5ba52e9ded4a": {
+    "url": "db://assets/model/buildings/window-white-round-narrow.fbx",
+    "value": {}
+  },
+  "598bea6c-d115-43f8-a5e7-17a979a9227d@a62fe": {
+    "url": "db://assets/model/buildings/window-white-large.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "598bea6c-d115-43f8-a5e7-17a979a9227d@fd73d": {
+    "url": "db://assets/model/buildings/window-white-large.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "598bea6c-d115-43f8-a5e7-17a979a9227d@4f17a": {
+    "url": "db://assets/model/buildings/window-white-large.fbx@4f17a",
+    "value": {
+      "depends": [
+        "598bea6c-d115-43f8-a5e7-17a979a9227d@fd73d"
+      ]
+    }
+  },
+  "598bea6c-d115-43f8-a5e7-17a979a9227d@9991c": {
+    "url": "db://assets/model/buildings/window-white-large.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "598bea6c-d115-43f8-a5e7-17a979a9227d@4f17a"
+      ]
+    }
+  },
+  "598bea6c-d115-43f8-a5e7-17a979a9227d@6f052": {
+    "url": "db://assets/model/buildings/window-white-large.fbx@6f052",
+    "value": {
+      "depends": [
+        "598bea6c-d115-43f8-a5e7-17a979a9227d@9991c",
+        "598bea6c-d115-43f8-a5e7-17a979a9227d@a62fe"
+      ]
+    }
+  },
+  "c3ba1d70-8062-4edd-afdd-4f422de4f4a7": {
+    "url": "db://assets/model/buildings/window-white-round-top.fbx",
+    "value": {}
+  },
+  "ba7724fe-9279-4007-90f8-f8b1c46295e7@a62fe": {
+    "url": "db://assets/model/buildings/window-white-narrow.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba7724fe-9279-4007-90f8-f8b1c46295e7@fd73d": {
+    "url": "db://assets/model/buildings/window-white-narrow.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba7724fe-9279-4007-90f8-f8b1c46295e7@4f17a": {
+    "url": "db://assets/model/buildings/window-white-narrow.fbx@4f17a",
+    "value": {
+      "depends": [
+        "ba7724fe-9279-4007-90f8-f8b1c46295e7@fd73d"
+      ]
+    }
+  },
+  "ba7724fe-9279-4007-90f8-f8b1c46295e7@9991c": {
+    "url": "db://assets/model/buildings/window-white-narrow.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "ba7724fe-9279-4007-90f8-f8b1c46295e7@4f17a"
+      ]
+    }
+  },
+  "ba7724fe-9279-4007-90f8-f8b1c46295e7@9808c": {
+    "url": "db://assets/model/buildings/window-white-narrow.fbx@9808c",
+    "value": {
+      "depends": [
+        "ba7724fe-9279-4007-90f8-f8b1c46295e7@9991c",
+        "ba7724fe-9279-4007-90f8-f8b1c46295e7@a62fe"
+      ]
+    }
+  },
+  "c72d40da-b247-42e6-9b26-13dc364d9bbd": {
+    "url": "db://assets/model/buildings/window-white-round-wide.fbx",
+    "value": {}
+  },
+  "990736cd-aa65-4d70-a6b0-605dc51f4ad2@a62fe": {
+    "url": "db://assets/model/buildings/window-white-round-middle.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "da999cf1-9e6b-4a9a-879f-02653c63278e@a62fe": {
+    "url": "db://assets/model/buildings/window-white-round-low.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "990736cd-aa65-4d70-a6b0-605dc51f4ad2@fd73d": {
+    "url": "db://assets/model/buildings/window-white-round-middle.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "da999cf1-9e6b-4a9a-879f-02653c63278e@fd73d": {
+    "url": "db://assets/model/buildings/window-white-round-low.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "990736cd-aa65-4d70-a6b0-605dc51f4ad2@4f17a": {
+    "url": "db://assets/model/buildings/window-white-round-middle.fbx@4f17a",
+    "value": {
+      "depends": [
+        "990736cd-aa65-4d70-a6b0-605dc51f4ad2@fd73d"
+      ]
+    }
+  },
+  "da999cf1-9e6b-4a9a-879f-02653c63278e@4f17a": {
+    "url": "db://assets/model/buildings/window-white-round-low.fbx@4f17a",
+    "value": {
+      "depends": [
+        "da999cf1-9e6b-4a9a-879f-02653c63278e@fd73d"
+      ]
+    }
+  },
+  "da999cf1-9e6b-4a9a-879f-02653c63278e@9991c": {
+    "url": "db://assets/model/buildings/window-white-round-low.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "da999cf1-9e6b-4a9a-879f-02653c63278e@4f17a"
+      ]
+    }
+  },
+  "990736cd-aa65-4d70-a6b0-605dc51f4ad2@9991c": {
+    "url": "db://assets/model/buildings/window-white-round-middle.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "990736cd-aa65-4d70-a6b0-605dc51f4ad2@4f17a"
+      ]
+    }
+  },
+  "990736cd-aa65-4d70-a6b0-605dc51f4ad2@baaae": {
+    "url": "db://assets/model/buildings/window-white-round-middle.fbx@baaae",
+    "value": {
+      "depends": [
+        "990736cd-aa65-4d70-a6b0-605dc51f4ad2@9991c",
+        "990736cd-aa65-4d70-a6b0-605dc51f4ad2@a62fe"
+      ]
+    }
+  },
+  "55bed966-6366-40f5-910f-acf6acf8763f": {
+    "url": "db://assets/model/buildings/window-white-tall.fbx",
+    "value": {}
+  },
+  "da999cf1-9e6b-4a9a-879f-02653c63278e@9df0d": {
+    "url": "db://assets/model/buildings/window-white-round-low.fbx@9df0d",
+    "value": {
+      "depends": [
+        "da999cf1-9e6b-4a9a-879f-02653c63278e@9991c",
+        "da999cf1-9e6b-4a9a-879f-02653c63278e@a62fe"
+      ]
+    }
+  },
+  "b3942f20-0a40-4525-bc38-99bde937092e": {
+    "url": "db://assets/model/buildings/window-white-wide.fbx",
+    "value": {}
+  },
+  "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@a62fe": {
+    "url": "db://assets/model/buildings/window-white-round-narrow.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@fd73d": {
+    "url": "db://assets/model/buildings/window-white-round-narrow.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@a62fe": {
+    "url": "db://assets/model/buildings/window-white-round-top.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@4f17a": {
+    "url": "db://assets/model/buildings/window-white-round-narrow.fbx@4f17a",
+    "value": {
+      "depends": [
+        "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@fd73d"
+      ]
+    }
+  },
+  "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@9991c": {
+    "url": "db://assets/model/buildings/window-white-round-narrow.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@4f17a"
+      ]
+    }
+  },
+  "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@ab5a7": {
+    "url": "db://assets/model/buildings/window-white-round-narrow.fbx@ab5a7",
+    "value": {
+      "depends": [
+        "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@9991c",
+        "385da667-bb8f-40cc-bb8f-5ba52e9ded4a@a62fe"
+      ]
+    }
+  },
+  "e3deee91-ec57-451c-bfdc-0b10163d247c": {
+    "url": "db://assets/model/buildings/window-white.fbx",
+    "value": {}
+  },
+  "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@fd73d": {
+    "url": "db://assets/model/buildings/window-white-round-top.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@4f17a": {
+    "url": "db://assets/model/buildings/window-white-round-top.fbx@4f17a",
+    "value": {
+      "depends": [
+        "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@fd73d"
+      ]
+    }
+  },
+  "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@9991c": {
+    "url": "db://assets/model/buildings/window-white-round-top.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@4f17a"
+      ]
+    }
+  },
+  "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@777f8": {
+    "url": "db://assets/model/buildings/window-white-round-top.fbx@777f8",
+    "value": {
+      "depends": [
+        "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@9991c",
+        "c3ba1d70-8062-4edd-afdd-4f422de4f4a7@a62fe"
+      ]
+    }
+  },
+  "16de7901-5114-4054-849b-771b8234a330": {
+    "url": "db://assets/model/buildings/Textures",
+    "value": {}
+  },
+  "c125e7a3-7024-4849-910c-04ce3cb25382": {
+    "url": "db://assets/model/buildings/building-block.fbx",
+    "value": {}
+  },
+  "c72d40da-b247-42e6-9b26-13dc364d9bbd@a62fe": {
+    "url": "db://assets/model/buildings/window-white-round-wide.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "c72d40da-b247-42e6-9b26-13dc364d9bbd@fd73d": {
+    "url": "db://assets/model/buildings/window-white-round-wide.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "c72d40da-b247-42e6-9b26-13dc364d9bbd@4f17a": {
+    "url": "db://assets/model/buildings/window-white-round-wide.fbx@4f17a",
+    "value": {
+      "depends": [
+        "c72d40da-b247-42e6-9b26-13dc364d9bbd@fd73d"
+      ]
+    }
+  },
+  "c72d40da-b247-42e6-9b26-13dc364d9bbd@9991c": {
+    "url": "db://assets/model/buildings/window-white-round-wide.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "c72d40da-b247-42e6-9b26-13dc364d9bbd@4f17a"
+      ]
+    }
+  },
+  "c72d40da-b247-42e6-9b26-13dc364d9bbd@18de4": {
+    "url": "db://assets/model/buildings/window-white-round-wide.fbx@18de4",
+    "value": {
+      "depends": [
+        "c72d40da-b247-42e6-9b26-13dc364d9bbd@9991c",
+        "c72d40da-b247-42e6-9b26-13dc364d9bbd@a62fe"
+      ]
+    }
+  },
+  "af752754-b2f0-473e-b4c5-19ede5536167": {
+    "url": "db://assets/model/buildings/building-corner-bottom.fbx",
+    "value": {}
+  },
+  "55bed966-6366-40f5-910f-acf6acf8763f@a62fe": {
+    "url": "db://assets/model/buildings/window-white-tall.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "55bed966-6366-40f5-910f-acf6acf8763f@fd73d": {
+    "url": "db://assets/model/buildings/window-white-tall.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "55bed966-6366-40f5-910f-acf6acf8763f@4f17a": {
+    "url": "db://assets/model/buildings/window-white-tall.fbx@4f17a",
+    "value": {
+      "depends": [
+        "55bed966-6366-40f5-910f-acf6acf8763f@fd73d"
+      ]
+    }
+  },
+  "55bed966-6366-40f5-910f-acf6acf8763f@9991c": {
+    "url": "db://assets/model/buildings/window-white-tall.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "55bed966-6366-40f5-910f-acf6acf8763f@4f17a"
+      ]
+    }
+  },
+  "55bed966-6366-40f5-910f-acf6acf8763f@d5446": {
+    "url": "db://assets/model/buildings/window-white-tall.fbx@d5446",
+    "value": {
+      "depends": [
+        "55bed966-6366-40f5-910f-acf6acf8763f@9991c",
+        "55bed966-6366-40f5-910f-acf6acf8763f@a62fe"
+      ]
+    }
+  },
+  "8ce22c9a-3993-4cd1-906e-c705fcef7a55": {
+    "url": "db://assets/model/buildings/building-corner-top.fbx",
+    "value": {}
+  },
+  "b3942f20-0a40-4525-bc38-99bde937092e@a62fe": {
+    "url": "db://assets/model/buildings/window-white-wide.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "b3942f20-0a40-4525-bc38-99bde937092e@fd73d": {
+    "url": "db://assets/model/buildings/window-white-wide.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "b3942f20-0a40-4525-bc38-99bde937092e@4f17a": {
+    "url": "db://assets/model/buildings/window-white-wide.fbx@4f17a",
+    "value": {
+      "depends": [
+        "b3942f20-0a40-4525-bc38-99bde937092e@fd73d"
+      ]
+    }
+  },
+  "b3942f20-0a40-4525-bc38-99bde937092e@9991c": {
+    "url": "db://assets/model/buildings/window-white-wide.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b3942f20-0a40-4525-bc38-99bde937092e@4f17a"
+      ]
+    }
+  },
+  "b3942f20-0a40-4525-bc38-99bde937092e@b931c": {
+    "url": "db://assets/model/buildings/window-white-wide.fbx@b931c",
+    "value": {
+      "depends": [
+        "b3942f20-0a40-4525-bc38-99bde937092e@9991c",
+        "b3942f20-0a40-4525-bc38-99bde937092e@a62fe"
+      ]
+    }
+  },
+  "1db2a741-06e9-41e6-8456-6d2e438e1f66": {
+    "url": "db://assets/model/buildings/building-corner-window-middle.fbx",
+    "value": {}
+  },
+  "e3deee91-ec57-451c-bfdc-0b10163d247c@a62fe": {
+    "url": "db://assets/model/buildings/window-white.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3deee91-ec57-451c-bfdc-0b10163d247c@fd73d": {
+    "url": "db://assets/model/buildings/window-white.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3deee91-ec57-451c-bfdc-0b10163d247c@4f17a": {
+    "url": "db://assets/model/buildings/window-white.fbx@4f17a",
+    "value": {
+      "depends": [
+        "e3deee91-ec57-451c-bfdc-0b10163d247c@fd73d"
+      ]
+    }
+  },
+  "e3deee91-ec57-451c-bfdc-0b10163d247c@9991c": {
+    "url": "db://assets/model/buildings/window-white.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e3deee91-ec57-451c-bfdc-0b10163d247c@4f17a"
+      ]
+    }
+  },
+  "e3deee91-ec57-451c-bfdc-0b10163d247c@20fb7": {
+    "url": "db://assets/model/buildings/window-white.fbx@20fb7",
+    "value": {
+      "depends": [
+        "e3deee91-ec57-451c-bfdc-0b10163d247c@9991c",
+        "e3deee91-ec57-451c-bfdc-0b10163d247c@a62fe"
+      ]
+    }
+  },
+  "1a0ab56b-c160-4b43-ab22-fab28d2e938f": {
+    "url": "db://assets/model/buildings/building-corner-window-narrow.fbx",
+    "value": {}
+  },
+  "c125e7a3-7024-4849-910c-04ce3cb25382@a62fe": {
+    "url": "db://assets/model/buildings/building-block.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "c125e7a3-7024-4849-910c-04ce3cb25382@fd73d": {
+    "url": "db://assets/model/buildings/building-block.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "c125e7a3-7024-4849-910c-04ce3cb25382@4f17a": {
+    "url": "db://assets/model/buildings/building-block.fbx@4f17a",
+    "value": {
+      "depends": [
+        "c125e7a3-7024-4849-910c-04ce3cb25382@fd73d"
+      ]
+    }
+  },
+  "c125e7a3-7024-4849-910c-04ce3cb25382@9991c": {
+    "url": "db://assets/model/buildings/building-block.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "c125e7a3-7024-4849-910c-04ce3cb25382@4f17a"
+      ]
+    }
+  },
+  "c125e7a3-7024-4849-910c-04ce3cb25382@08027": {
+    "url": "db://assets/model/buildings/building-block.fbx@08027",
+    "value": {
+      "depends": [
+        "c125e7a3-7024-4849-910c-04ce3cb25382@9991c",
+        "c125e7a3-7024-4849-910c-04ce3cb25382@a62fe"
+      ]
+    }
+  },
+  "ac741ba2-05d6-45f1-b965-c5cbda235ed9": {
+    "url": "db://assets/model/buildings/building-corner-window-sill.fbx",
+    "value": {}
+  },
+  "af752754-b2f0-473e-b4c5-19ede5536167@a62fe": {
+    "url": "db://assets/model/buildings/building-corner-bottom.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "af752754-b2f0-473e-b4c5-19ede5536167@fd73d": {
+    "url": "db://assets/model/buildings/building-corner-bottom.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "af752754-b2f0-473e-b4c5-19ede5536167@4f17a": {
+    "url": "db://assets/model/buildings/building-corner-bottom.fbx@4f17a",
+    "value": {
+      "depends": [
+        "af752754-b2f0-473e-b4c5-19ede5536167@fd73d"
+      ]
+    }
+  },
+  "af752754-b2f0-473e-b4c5-19ede5536167@9991c": {
+    "url": "db://assets/model/buildings/building-corner-bottom.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "af752754-b2f0-473e-b4c5-19ede5536167@4f17a"
+      ]
+    }
+  },
+  "af752754-b2f0-473e-b4c5-19ede5536167@0ae99": {
+    "url": "db://assets/model/buildings/building-corner-bottom.fbx@0ae99",
+    "value": {
+      "depends": [
+        "af752754-b2f0-473e-b4c5-19ede5536167@9991c",
+        "af752754-b2f0-473e-b4c5-19ede5536167@a62fe"
+      ]
+    }
+  },
+  "4db90cdb-7d58-4dc0-941e-020cd73171e6": {
+    "url": "db://assets/model/buildings/building-corner-window-top-round.fbx",
+    "value": {}
+  },
+  "8ce22c9a-3993-4cd1-906e-c705fcef7a55@a62fe": {
+    "url": "db://assets/model/buildings/building-corner-top.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "8ce22c9a-3993-4cd1-906e-c705fcef7a55@fd73d": {
+    "url": "db://assets/model/buildings/building-corner-top.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "8ce22c9a-3993-4cd1-906e-c705fcef7a55@4f17a": {
+    "url": "db://assets/model/buildings/building-corner-top.fbx@4f17a",
+    "value": {
+      "depends": [
+        "8ce22c9a-3993-4cd1-906e-c705fcef7a55@fd73d"
+      ]
+    }
+  },
+  "8ce22c9a-3993-4cd1-906e-c705fcef7a55@9991c": {
+    "url": "db://assets/model/buildings/building-corner-top.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "8ce22c9a-3993-4cd1-906e-c705fcef7a55@4f17a"
+      ]
+    }
+  },
+  "1db2a741-06e9-41e6-8456-6d2e438e1f66@a62fe": {
+    "url": "db://assets/model/buildings/building-corner-window-middle.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "8ce22c9a-3993-4cd1-906e-c705fcef7a55@6f10d": {
+    "url": "db://assets/model/buildings/building-corner-top.fbx@6f10d",
+    "value": {
+      "depends": [
+        "8ce22c9a-3993-4cd1-906e-c705fcef7a55@9991c",
+        "8ce22c9a-3993-4cd1-906e-c705fcef7a55@a62fe"
+      ]
+    }
+  },
+  "1fbb5f31-0707-4b57-a0f5-647b4ff524c8": {
+    "url": "db://assets/model/buildings/building-corner-window-top-square.fbx",
+    "value": {}
+  },
+  "1db2a741-06e9-41e6-8456-6d2e438e1f66@fd73d": {
+    "url": "db://assets/model/buildings/building-corner-window-middle.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "1db2a741-06e9-41e6-8456-6d2e438e1f66@4f17a": {
+    "url": "db://assets/model/buildings/building-corner-window-middle.fbx@4f17a",
+    "value": {
+      "depends": [
+        "1db2a741-06e9-41e6-8456-6d2e438e1f66@fd73d"
+      ]
+    }
+  },
+  "1db2a741-06e9-41e6-8456-6d2e438e1f66@9991c": {
+    "url": "db://assets/model/buildings/building-corner-window-middle.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "1db2a741-06e9-41e6-8456-6d2e438e1f66@4f17a"
+      ]
+    }
+  },
+  "1db2a741-06e9-41e6-8456-6d2e438e1f66@9c385": {
+    "url": "db://assets/model/buildings/building-corner-window-middle.fbx@9c385",
+    "value": {
+      "depends": [
+        "1db2a741-06e9-41e6-8456-6d2e438e1f66@9991c",
+        "1db2a741-06e9-41e6-8456-6d2e438e1f66@a62fe"
+      ]
+    }
+  },
+  "fe78a254-754d-45d6-86b8-566e873e6c40": {
+    "url": "db://assets/model/buildings/building-corner-window.fbx",
+    "value": {}
+  },
+  "1a0ab56b-c160-4b43-ab22-fab28d2e938f@97439": {
+    "url": "db://assets/model/buildings/building-corner-window-narrow.fbx@97439",
+    "value": {
+      "depends": [
+        "1a0ab56b-c160-4b43-ab22-fab28d2e938f@9991c",
+        "1a0ab56b-c160-4b43-ab22-fab28d2e938f@a62fe"
+      ]
+    }
+  },
+  "1a0ab56b-c160-4b43-ab22-fab28d2e938f@a62fe": {
+    "url": "db://assets/model/buildings/building-corner-window-narrow.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "1a0ab56b-c160-4b43-ab22-fab28d2e938f@fd73d": {
+    "url": "db://assets/model/buildings/building-corner-window-narrow.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "1a0ab56b-c160-4b43-ab22-fab28d2e938f@4f17a": {
+    "url": "db://assets/model/buildings/building-corner-window-narrow.fbx@4f17a",
+    "value": {
+      "depends": [
+        "1a0ab56b-c160-4b43-ab22-fab28d2e938f@fd73d"
+      ]
+    }
+  },
+  "1a0ab56b-c160-4b43-ab22-fab28d2e938f@9991c": {
+    "url": "db://assets/model/buildings/building-corner-window-narrow.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "1a0ab56b-c160-4b43-ab22-fab28d2e938f@4f17a"
+      ]
+    }
+  },
+  "a9b6066a-9d3b-4521-8a4f-b7405fced79d": {
+    "url": "db://assets/model/buildings/building-corner.fbx",
+    "value": {}
+  },
+  "ac741ba2-05d6-45f1-b965-c5cbda235ed9@a62fe": {
+    "url": "db://assets/model/buildings/building-corner-window-sill.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "ac741ba2-05d6-45f1-b965-c5cbda235ed9@fd73d": {
+    "url": "db://assets/model/buildings/building-corner-window-sill.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "ac741ba2-05d6-45f1-b965-c5cbda235ed9@4f17a": {
+    "url": "db://assets/model/buildings/building-corner-window-sill.fbx@4f17a",
+    "value": {
+      "depends": [
+        "ac741ba2-05d6-45f1-b965-c5cbda235ed9@fd73d"
+      ]
+    }
+  },
+  "ac741ba2-05d6-45f1-b965-c5cbda235ed9@9991c": {
+    "url": "db://assets/model/buildings/building-corner-window-sill.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "ac741ba2-05d6-45f1-b965-c5cbda235ed9@4f17a"
+      ]
+    }
+  },
+  "ac741ba2-05d6-45f1-b965-c5cbda235ed9@1c02d": {
+    "url": "db://assets/model/buildings/building-corner-window-sill.fbx@1c02d",
+    "value": {
+      "depends": [
+        "ac741ba2-05d6-45f1-b965-c5cbda235ed9@9991c",
+        "ac741ba2-05d6-45f1-b965-c5cbda235ed9@a62fe"
+      ]
+    }
+  },
+  "df9143ef-1dc2-4259-88e3-e67eaa906e24": {
+    "url": "db://assets/model/buildings/building-door-window-narrow.fbx",
+    "value": {}
+  },
+  "4db90cdb-7d58-4dc0-941e-020cd73171e6@a62fe": {
+    "url": "db://assets/model/buildings/building-corner-window-top-round.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe78a254-754d-45d6-86b8-566e873e6c40@a62fe": {
+    "url": "db://assets/model/buildings/building-corner-window.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@a62fe": {
+    "url": "db://assets/model/buildings/building-corner-window-top-square.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe78a254-754d-45d6-86b8-566e873e6c40@fd73d": {
+    "url": "db://assets/model/buildings/building-corner-window.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe78a254-754d-45d6-86b8-566e873e6c40@4f17a": {
+    "url": "db://assets/model/buildings/building-corner-window.fbx@4f17a",
+    "value": {
+      "depends": [
+        "fe78a254-754d-45d6-86b8-566e873e6c40@fd73d"
+      ]
+    }
+  },
+  "fe78a254-754d-45d6-86b8-566e873e6c40@9991c": {
+    "url": "db://assets/model/buildings/building-corner-window.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "fe78a254-754d-45d6-86b8-566e873e6c40@4f17a"
+      ]
+    }
+  },
+  "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@fd73d": {
+    "url": "db://assets/model/buildings/building-corner-window-top-square.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@4f17a": {
+    "url": "db://assets/model/buildings/building-corner-window-top-square.fbx@4f17a",
+    "value": {
+      "depends": [
+        "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@fd73d"
+      ]
+    }
+  },
+  "fe78a254-754d-45d6-86b8-566e873e6c40@fb36f": {
+    "url": "db://assets/model/buildings/building-corner-window.fbx@fb36f",
+    "value": {
+      "depends": [
+        "fe78a254-754d-45d6-86b8-566e873e6c40@9991c",
+        "fe78a254-754d-45d6-86b8-566e873e6c40@a62fe"
+      ]
+    }
+  },
+  "19619ff4-e6c9-41b7-8e44-5f5f49507e6f": {
+    "url": "db://assets/model/buildings/building-door-window.fbx",
+    "value": {}
+  },
+  "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@9991c": {
+    "url": "db://assets/model/buildings/building-corner-window-top-square.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@4f17a"
+      ]
+    }
+  },
+  "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@d0b6a": {
+    "url": "db://assets/model/buildings/building-corner-window-top-square.fbx@d0b6a",
+    "value": {
+      "depends": [
+        "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@9991c",
+        "1fbb5f31-0707-4b57-a0f5-647b4ff524c8@a62fe"
+      ]
+    }
+  },
+  "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc": {
+    "url": "db://assets/model/buildings/building-door.fbx",
+    "value": {}
+  },
+  "a9b6066a-9d3b-4521-8a4f-b7405fced79d@a62fe": {
+    "url": "db://assets/model/buildings/building-corner.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "a9b6066a-9d3b-4521-8a4f-b7405fced79d@fd73d": {
+    "url": "db://assets/model/buildings/building-corner.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "a9b6066a-9d3b-4521-8a4f-b7405fced79d@4f17a": {
+    "url": "db://assets/model/buildings/building-corner.fbx@4f17a",
+    "value": {
+      "depends": [
+        "a9b6066a-9d3b-4521-8a4f-b7405fced79d@fd73d"
+      ]
+    }
+  },
+  "a9b6066a-9d3b-4521-8a4f-b7405fced79d@9991c": {
+    "url": "db://assets/model/buildings/building-corner.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "a9b6066a-9d3b-4521-8a4f-b7405fced79d@4f17a"
+      ]
+    }
+  },
+  "a9b6066a-9d3b-4521-8a4f-b7405fced79d@8ef84": {
+    "url": "db://assets/model/buildings/building-corner.fbx@8ef84",
+    "value": {
+      "depends": [
+        "a9b6066a-9d3b-4521-8a4f-b7405fced79d@9991c",
+        "a9b6066a-9d3b-4521-8a4f-b7405fced79d@a62fe"
+      ]
+    }
+  },
+  "57023028-b266-43a5-a2f5-a89b4838fec8": {
+    "url": "db://assets/model/buildings/building-edges-door.fbx",
+    "value": {}
+  },
+  "df9143ef-1dc2-4259-88e3-e67eaa906e24@a62fe": {
+    "url": "db://assets/model/buildings/building-door-window-narrow.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "4db90cdb-7d58-4dc0-941e-020cd73171e6@fd73d": {
+    "url": "db://assets/model/buildings/building-corner-window-top-round.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "4db90cdb-7d58-4dc0-941e-020cd73171e6@4f17a": {
+    "url": "db://assets/model/buildings/building-corner-window-top-round.fbx@4f17a",
+    "value": {
+      "depends": [
+        "4db90cdb-7d58-4dc0-941e-020cd73171e6@fd73d"
+      ]
+    }
+  },
+  "4db90cdb-7d58-4dc0-941e-020cd73171e6@9991c": {
+    "url": "db://assets/model/buildings/building-corner-window-top-round.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "4db90cdb-7d58-4dc0-941e-020cd73171e6@4f17a"
+      ]
+    }
+  },
+  "4db90cdb-7d58-4dc0-941e-020cd73171e6@ce977": {
+    "url": "db://assets/model/buildings/building-corner-window-top-round.fbx@ce977",
+    "value": {
+      "depends": [
+        "4db90cdb-7d58-4dc0-941e-020cd73171e6@9991c",
+        "4db90cdb-7d58-4dc0-941e-020cd73171e6@a62fe"
+      ]
+    }
+  },
+  "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6": {
+    "url": "db://assets/model/buildings/building-sample-house-a.fbx",
+    "value": {}
+  },
+  "df9143ef-1dc2-4259-88e3-e67eaa906e24@fd73d": {
+    "url": "db://assets/model/buildings/building-door-window-narrow.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "df9143ef-1dc2-4259-88e3-e67eaa906e24@4f17a": {
+    "url": "db://assets/model/buildings/building-door-window-narrow.fbx@4f17a",
+    "value": {
+      "depends": [
+        "df9143ef-1dc2-4259-88e3-e67eaa906e24@fd73d"
+      ]
+    }
+  },
+  "df9143ef-1dc2-4259-88e3-e67eaa906e24@9991c": {
+    "url": "db://assets/model/buildings/building-door-window-narrow.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "df9143ef-1dc2-4259-88e3-e67eaa906e24@4f17a"
+      ]
+    }
+  },
+  "df9143ef-1dc2-4259-88e3-e67eaa906e24@7165d": {
+    "url": "db://assets/model/buildings/building-door-window-narrow.fbx@7165d",
+    "value": {
+      "depends": [
+        "df9143ef-1dc2-4259-88e3-e67eaa906e24@9991c",
+        "df9143ef-1dc2-4259-88e3-e67eaa906e24@a62fe"
+      ]
+    }
+  },
+  "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57": {
+    "url": "db://assets/model/buildings/building-sample-house-b.fbx",
+    "value": {}
+  },
+  "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@a62fe": {
+    "url": "db://assets/model/buildings/building-door.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@fd73d": {
+    "url": "db://assets/model/buildings/building-door.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@4f17a": {
+    "url": "db://assets/model/buildings/building-door.fbx@4f17a",
+    "value": {
+      "depends": [
+        "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@fd73d"
+      ]
+    }
+  },
+  "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@9991c": {
+    "url": "db://assets/model/buildings/building-door.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@4f17a"
+      ]
+    }
+  },
+  "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@05c9a": {
+    "url": "db://assets/model/buildings/building-door.fbx@05c9a",
+    "value": {
+      "depends": [
+        "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@9991c",
+        "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc@a62fe"
+      ]
+    }
+  },
+  "8023154f-b335-485a-83df-8d8cc5f10466": {
+    "url": "db://assets/model/buildings/building-sample-house-c.fbx",
+    "value": {}
+  },
+  "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@a62fe": {
+    "url": "db://assets/model/buildings/building-door-window.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@fd73d": {
+    "url": "db://assets/model/buildings/building-door-window.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@4f17a": {
+    "url": "db://assets/model/buildings/building-door-window.fbx@4f17a",
+    "value": {
+      "depends": [
+        "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@fd73d"
+      ]
+    }
+  },
+  "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@9991c": {
+    "url": "db://assets/model/buildings/building-door-window.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@4f17a"
+      ]
+    }
+  },
+  "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@a54bc": {
+    "url": "db://assets/model/buildings/building-door-window.fbx@a54bc",
+    "value": {
+      "depends": [
+        "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@9991c",
+        "19619ff4-e6c9-41b7-8e44-5f5f49507e6f@a62fe"
+      ]
+    }
+  },
+  "f103c070-98e6-4b12-9529-9762264c0fa4": {
+    "url": "db://assets/model/buildings/building-sample-tower-a.fbx",
+    "value": {}
+  },
+  "57023028-b266-43a5-a2f5-a89b4838fec8@a62fe": {
+    "url": "db://assets/model/buildings/building-edges-door.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "57023028-b266-43a5-a2f5-a89b4838fec8@fd73d": {
+    "url": "db://assets/model/buildings/building-edges-door.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "57023028-b266-43a5-a2f5-a89b4838fec8@4f17a": {
+    "url": "db://assets/model/buildings/building-edges-door.fbx@4f17a",
+    "value": {
+      "depends": [
+        "57023028-b266-43a5-a2f5-a89b4838fec8@fd73d"
+      ]
+    }
+  },
+  "57023028-b266-43a5-a2f5-a89b4838fec8@9991c": {
+    "url": "db://assets/model/buildings/building-edges-door.fbx@9991c",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "57023028-b266-43a5-a2f5-a89b4838fec8@4f17a"
+      ]
+    }
+  },
+  "57023028-b266-43a5-a2f5-a89b4838fec8@176a0": {
+    "url": "db://assets/model/buildings/building-edges-door.fbx@176a0",
+    "value": {
+      "depends": [
+        "57023028-b266-43a5-a2f5-a89b4838fec8@9991c",
+        "57023028-b266-43a5-a2f5-a89b4838fec8@a62fe"
+      ]
+    }
+  },
+  "822ce18c-38f2-477c-a5e3-bbc09c95cb50": {
+    "url": "db://assets/model/buildings/building-sample-tower-b.fbx",
+    "value": {}
+  },
+  "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@a62fe": {
+    "url": "db://assets/model/buildings/building-sample-house-a.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@fd73d": {
+    "url": "db://assets/model/buildings/building-sample-house-a.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@4f17a": {
+    "url": "db://assets/model/buildings/building-sample-house-a.fbx@4f17a",
+    "value": {
+      "depends": [
+        "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@fd73d"
+      ]
+    }
+  },
+  "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@9991c": {
+    "url": "db://assets/model/buildings/building-sample-house-a.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@4f17a"
+      ]
+    }
+  },
+  "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@df216": {
+    "url": "db://assets/model/buildings/building-sample-house-a.fbx@df216",
+    "value": {
+      "depends": [
+        "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@9991c",
+        "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6@a62fe"
+      ]
+    }
+  },
+  "2052da34-b3b2-444b-959a-d654298c81f3": {
+    "url": "db://assets/model/buildings/building-sample-tower-c.fbx",
+    "value": {}
+  },
+  "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@a62fe": {
+    "url": "db://assets/model/buildings/building-sample-house-b.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@fd73d": {
+    "url": "db://assets/model/buildings/building-sample-house-b.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@4f17a": {
+    "url": "db://assets/model/buildings/building-sample-house-b.fbx@4f17a",
+    "value": {
+      "depends": [
+        "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@fd73d"
+      ]
+    }
+  },
+  "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@9991c": {
+    "url": "db://assets/model/buildings/building-sample-house-b.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@4f17a"
+      ]
+    }
+  },
+  "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@cc97d": {
+    "url": "db://assets/model/buildings/building-sample-house-b.fbx@cc97d",
+    "value": {
+      "depends": [
+        "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@9991c",
+        "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57@a62fe"
+      ]
+    }
+  },
+  "241f3911-7870-48af-8c7b-16f7a1a94453": {
+    "url": "db://assets/model/buildings/building-sample-tower-d.fbx",
+    "value": {}
+  },
+  "8023154f-b335-485a-83df-8d8cc5f10466@a62fe": {
+    "url": "db://assets/model/buildings/building-sample-house-c.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "8023154f-b335-485a-83df-8d8cc5f10466@fd73d": {
+    "url": "db://assets/model/buildings/building-sample-house-c.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "8023154f-b335-485a-83df-8d8cc5f10466@4f17a": {
+    "url": "db://assets/model/buildings/building-sample-house-c.fbx@4f17a",
+    "value": {
+      "depends": [
+        "8023154f-b335-485a-83df-8d8cc5f10466@fd73d"
+      ]
+    }
+  },
+  "8023154f-b335-485a-83df-8d8cc5f10466@9991c": {
+    "url": "db://assets/model/buildings/building-sample-house-c.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "8023154f-b335-485a-83df-8d8cc5f10466@4f17a"
+      ]
+    }
+  },
+  "8023154f-b335-485a-83df-8d8cc5f10466@142ba": {
+    "url": "db://assets/model/buildings/building-sample-house-c.fbx@142ba",
+    "value": {
+      "depends": [
+        "8023154f-b335-485a-83df-8d8cc5f10466@9991c",
+        "8023154f-b335-485a-83df-8d8cc5f10466@a62fe"
+      ]
+    }
+  },
+  "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows-round.fbx",
+    "value": {}
+  },
+  "f103c070-98e6-4b12-9529-9762264c0fa4@a62fe": {
+    "url": "db://assets/model/buildings/building-sample-tower-a.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "f103c070-98e6-4b12-9529-9762264c0fa4@fd73d": {
+    "url": "db://assets/model/buildings/building-sample-tower-a.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "f103c070-98e6-4b12-9529-9762264c0fa4@4f17a": {
+    "url": "db://assets/model/buildings/building-sample-tower-a.fbx@4f17a",
+    "value": {
+      "depends": [
+        "f103c070-98e6-4b12-9529-9762264c0fa4@fd73d"
+      ]
+    }
+  },
+  "f103c070-98e6-4b12-9529-9762264c0fa4@9991c": {
+    "url": "db://assets/model/buildings/building-sample-tower-a.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "f103c070-98e6-4b12-9529-9762264c0fa4@4f17a"
+      ]
+    }
+  },
+  "f103c070-98e6-4b12-9529-9762264c0fa4@3bd63": {
+    "url": "db://assets/model/buildings/building-sample-tower-a.fbx@3bd63",
+    "value": {
+      "depends": [
+        "f103c070-98e6-4b12-9529-9762264c0fa4@9991c",
+        "f103c070-98e6-4b12-9529-9762264c0fa4@a62fe"
+      ]
+    }
+  },
+  "aa99720f-707e-4367-b268-6dffc9f43efc": {
+    "url": "db://assets/model/buildings/Textures/colormap.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "aa99720f-707e-4367-b268-6dffc9f43efc@6c48a": {
+    "url": "db://assets/model/buildings/Textures/colormap.png@6c48a",
+    "value": {
+      "depends": [
+        "aa99720f-707e-4367-b268-6dffc9f43efc"
+      ]
+    }
+  },
+  "822ce18c-38f2-477c-a5e3-bbc09c95cb50@a62fe": {
+    "url": "db://assets/model/buildings/building-sample-tower-b.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "822ce18c-38f2-477c-a5e3-bbc09c95cb50@fd73d": {
+    "url": "db://assets/model/buildings/building-sample-tower-b.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "822ce18c-38f2-477c-a5e3-bbc09c95cb50@4f17a": {
+    "url": "db://assets/model/buildings/building-sample-tower-b.fbx@4f17a",
+    "value": {
+      "depends": [
+        "822ce18c-38f2-477c-a5e3-bbc09c95cb50@fd73d"
+      ]
+    }
+  },
+  "822ce18c-38f2-477c-a5e3-bbc09c95cb50@9991c": {
+    "url": "db://assets/model/buildings/building-sample-tower-b.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "822ce18c-38f2-477c-a5e3-bbc09c95cb50@4f17a"
+      ]
+    }
+  },
+  "822ce18c-38f2-477c-a5e3-bbc09c95cb50@20cdb": {
+    "url": "db://assets/model/buildings/building-sample-tower-b.fbx@20cdb",
+    "value": {
+      "depends": [
+        "822ce18c-38f2-477c-a5e3-bbc09c95cb50@9991c",
+        "822ce18c-38f2-477c-a5e3-bbc09c95cb50@a62fe"
+      ]
+    }
+  },
+  "2052da34-b3b2-444b-959a-d654298c81f3@a62fe": {
+    "url": "db://assets/model/buildings/building-sample-tower-c.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "2052da34-b3b2-444b-959a-d654298c81f3@fd73d": {
+    "url": "db://assets/model/buildings/building-sample-tower-c.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "2052da34-b3b2-444b-959a-d654298c81f3@4f17a": {
+    "url": "db://assets/model/buildings/building-sample-tower-c.fbx@4f17a",
+    "value": {
+      "depends": [
+        "2052da34-b3b2-444b-959a-d654298c81f3@fd73d"
+      ]
+    }
+  },
+  "2052da34-b3b2-444b-959a-d654298c81f3@9991c": {
+    "url": "db://assets/model/buildings/building-sample-tower-c.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "2052da34-b3b2-444b-959a-d654298c81f3@4f17a"
+      ]
+    }
+  },
+  "2052da34-b3b2-444b-959a-d654298c81f3@4a29b": {
+    "url": "db://assets/model/buildings/building-sample-tower-c.fbx@4a29b",
+    "value": {
+      "depends": [
+        "2052da34-b3b2-444b-959a-d654298c81f3@9991c",
+        "2052da34-b3b2-444b-959a-d654298c81f3@a62fe"
+      ]
+    }
+  },
+  "241f3911-7870-48af-8c7b-16f7a1a94453@a62fe": {
+    "url": "db://assets/model/buildings/building-sample-tower-d.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "241f3911-7870-48af-8c7b-16f7a1a94453@fd73d": {
+    "url": "db://assets/model/buildings/building-sample-tower-d.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "241f3911-7870-48af-8c7b-16f7a1a94453@4f17a": {
+    "url": "db://assets/model/buildings/building-sample-tower-d.fbx@4f17a",
+    "value": {
+      "depends": [
+        "241f3911-7870-48af-8c7b-16f7a1a94453@fd73d"
+      ]
+    }
+  },
+  "241f3911-7870-48af-8c7b-16f7a1a94453@9991c": {
+    "url": "db://assets/model/buildings/building-sample-tower-d.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "241f3911-7870-48af-8c7b-16f7a1a94453@4f17a"
+      ]
+    }
+  },
+  "241f3911-7870-48af-8c7b-16f7a1a94453@a708e": {
+    "url": "db://assets/model/buildings/building-sample-tower-d.fbx@a708e",
+    "value": {
+      "depends": [
+        "241f3911-7870-48af-8c7b-16f7a1a94453@9991c",
+        "241f3911-7870-48af-8c7b-16f7a1a94453@a62fe"
+      ]
+    }
+  },
+  "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@a62fe": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows-round.fbx@a62fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@fd73d": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows-round.fbx@fd73d",
+    "value": {
+      "depends": []
+    }
+  },
+  "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@4f17a": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows-round.fbx@4f17a",
+    "value": {
+      "depends": [
+        "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@fd73d"
+      ]
+    }
+  },
+  "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@9991c": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows-round.fbx@9991c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@4f17a"
+      ]
+    }
+  },
+  "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@32b88": {
+    "url": "db://assets/model/buildings/building-steps-narrow-windows-round.fbx@32b88",
+    "value": {
+      "depends": [
+        "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@9991c",
+        "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c@a62fe"
+      ]
+    }
+  },
+  "5b277661-0adb-4c94-8c64-3c0166b28b94": {
+    "url": "db://assets/components/building-steps-narrow.prefab",
+    "value": {}
   }
 }

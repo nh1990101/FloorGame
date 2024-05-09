@@ -1,7 +1,7 @@
-System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _context) {
+System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, BoxCollider, Camera, Collider, Color, Component, DistanceJoint2D, ERigidBodyType, find, geometry, Graphics, HingeConstraint, Input, Layers, Node, PhysicsSystem, PlaneCollider, PointToPointConstraint, Prefab, RigidBody, RigidBody2D, tween, UITransform, Vec2, Vec3, AssetMgr, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _dec10, _dec11, _dec12, _dec13, _dec14, _dec15, _dec16, _dec17, _dec18, _dec19, _dec20, _dec21, _dec22, _dec23, _dec24, _dec25, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _descriptor9, _descriptor10, _descriptor11, _descriptor12, _descriptor13, _descriptor14, _descriptor15, _descriptor16, _descriptor17, _descriptor18, _descriptor19, _descriptor20, _descriptor21, _descriptor22, _descriptor23, _descriptor24, _crd, ccclass, property, GameController;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, BoxCollider, Camera, Collider, Color, Component, DistanceJoint2D, ERigidBodyType, find, geometry, Graphics, HingeConstraint, Input, Layers, MeshRenderer, Node, PhysicsSystem, PlaneCollider, PointToPointConstraint, Prefab, RigidBody, RigidBody2D, tween, UITransform, Vec2, Vec3, AssetMgr, Mass, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _dec10, _dec11, _dec12, _dec13, _dec14, _dec15, _dec16, _dec17, _dec18, _dec19, _dec20, _dec21, _dec22, _dec23, _dec24, _dec25, _dec26, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _descriptor9, _descriptor10, _descriptor11, _descriptor12, _descriptor13, _descriptor14, _descriptor15, _descriptor16, _descriptor17, _descriptor18, _descriptor19, _descriptor20, _descriptor21, _descriptor22, _descriptor23, _descriptor24, _descriptor25, _crd, ccclass, property, GameController;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -11,6 +11,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
   function _reportPossibleCrUseOfAssetMgr(extras) {
     _reporterNs.report("AssetMgr", "./AssetMgr", _context.meta, extras);
+  }
+
+  function _reportPossibleCrUseOfMass(extras) {
+    _reporterNs.report("Mass", "./Mass", _context.meta, extras);
   }
 
   return {
@@ -34,6 +38,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
       HingeConstraint = _cc.HingeConstraint;
       Input = _cc.Input;
       Layers = _cc.Layers;
+      MeshRenderer = _cc.MeshRenderer;
       Node = _cc.Node;
       PhysicsSystem = _cc.PhysicsSystem;
       PlaneCollider = _cc.PlaneCollider;
@@ -47,13 +52,15 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
       Vec3 = _cc.Vec3;
     }, function (_unresolved_2) {
       AssetMgr = _unresolved_2.AssetMgr;
+    }, function (_unresolved_3) {
+      Mass = _unresolved_3.Mass;
     }],
     execute: function () {
       _crd = true;
 
       _cclegacy._RF.push({}, "01c83RmJFZIE4vEMATKowNf", "GameController", undefined);
 
-      __checkObsolete__(['_decorator', 'BoxCollider', 'BoxCollider2D', 'Camera', 'Canvas', 'cclegacy', 'Collider', 'Color', 'Component', 'director', 'DistanceJoint2D', 'EColliderType', 'ERigidBody2DType', 'ERigidBodyType', 'find', 'geometry', 'Graphics', 'HingeConstraint', 'HingeJoint2D', 'ICollisionEvent', 'Input', 'instantiate', 'Layers', 'Node', 'PhysicsSystem', 'PlaneCollider', 'PointToPointConstraint', 'Prefab', 'Quat', 'resources', 'RigidBody', 'RigidBody2D', 'Size', 'Sprite', 'tween', 'Tween', 'UITransform', 'Vec2', 'Vec3']);
+      __checkObsolete__(['_decorator', 'BoxCollider', 'BoxCollider2D', 'Camera', 'Canvas', 'cclegacy', 'Collider', 'Color', 'Component', 'director', 'DistanceJoint2D', 'EColliderType', 'ERigidBody2DType', 'ERigidBodyType', 'find', 'geometry', 'Graphics', 'HingeConstraint', 'HingeJoint2D', 'ICollisionEvent', 'Input', 'instantiate', 'Layers', 'MeshRenderer', 'Node', 'PhysicsSystem', 'PlaneCollider', 'PointToPointConstraint', 'Prefab', 'Quat', 'resources', 'RigidBody', 'RigidBody2D', 'Size', 'Sprite', 'tween', 'Tween', 'UITransform', 'Vec2', 'Vec3']);
 
       ({
         ccclass,
@@ -70,6 +77,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
         displayName: "振幅衰减阻尼系数"
       }), _dec25 = property({
         displayName: "振幅系数"
+      }), _dec26 = property({
+        displayName: "命中准确系数"
       }), _dec(_class = (_class2 = class GameController extends Component {
         constructor(...args) {
           super(...args);
@@ -123,6 +132,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           /**振幅系数 */
           _initializerDefineProperty(this, "floorRockForce", _descriptor24, this);
 
+          _initializerDefineProperty(this, "dropScan", _descriptor25, this);
+
           this.dj2d = void 0;
           this.beRotateObj = void 0;
           this.scanAngle = void 0;
@@ -138,7 +149,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           /**掉落判断偏移值 */
           this.DROP_DISTANCE = void 0;
           this.HOLDER_BASE_POS = new Vec3(0, 700, 0);
-          this.MAIN_CAMERA_POS = new Vec3(0, 3, 16);
+          this.MAIN_CAMERA_POS = new Vec3(0, 3, 10);
           this.FORCE_CONTAINER_TIME = 1;
           // public MAX_DISTANCE: number;
           this.HOLDER_DIS_POS_Y = void 0;
@@ -162,6 +173,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           this._targetContainerRo = 0;
           this._floorOffset = 0;
           this._dropBox = void 0;
+          this._isUseJerryState = void 0;
+          this._isRock = true;
+          //是否摇晃
+          this._roVec = void 0;
           this._preOffSet = 0;
         }
 
@@ -185,7 +200,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
             floorCollider.material.restitution = 0;
             floorCollider.sharedMaterial.restitution = 0;
             this.floorSpeed = new Vec3();
-            this.dropVec = new Vec3(); // this.floorContainer.getComponent(RigidBody).applyLocalTorque(new Vec3(0, 0, 100))
+            this.dropVec = new Vec3();
+            this._roVec = new Vec3(); // this.floorContainer.getComponent(RigidBody).applyLocalTorque(new Vec3(0, 0, 100))
             // let tweenDuration: number = 2.0;
             // let angle = 2;
             // let embedTween = tween(this.floorTemp).to(tweenDuration, { eulerAngles: new Vec3(0, 0, angle * 2) }, { easing: "cubicOut" }).to(tweenDuration, { eulerAngles: new Vec3(0, 0, -angle * 2) }, { easing: "cubicOut" }).union();
@@ -210,23 +226,24 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
           if (this.cordStatic) {}
 
-          if (this._failFloor) {
-            this._failFloor.applyForce(this._failForcePos);
+          if (this._failFloor) {// this._failFloor.applyForce(this._failForcePos)
           }
 
           this._forceContainerTime += deltaTime;
           let containerRig = this.floorContainer.getComponent(RigidBody);
 
-          if (this._floorOffset > 0 && this._forceContainerTime < this.FORCE_CONTAINER_TIME) {
+          if (this._isRock && this._floorOffset > 0 && this._forceContainerTime < this.FORCE_CONTAINER_TIME) {
             containerRig.applyForce(this._floorContainerForce);
           }
 
-          containerRig.applyForce(this._floorContainerGav);
-          let ro = Math.abs(this.floorContainer.eulerAngles.z);
-          let vecRo = new Vec3();
-          containerRig.getLinearVelocity(vecRo);
+          if (this._isRock) {
+            containerRig.applyForce(this._floorContainerGav);
+          }
 
-          if (Math.abs(vecRo.x) <= 0.01) {
+          let ro = Math.abs(this.floorContainer.eulerAngles.z);
+          containerRig.getLinearVelocity(this._roVec);
+
+          if (Math.abs(this._roVec.x) <= 0.01) {
             this._maxContainerRo = ro;
           }
 
@@ -272,17 +289,17 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
             rig.setLinearVelocity(new Vec3(speed.x / 7, speed.y, 0));
 
             if (!this.DROP_DISTANCE) {
-              var boxW = obj.scale.x;
-              var boxH = obj.scale.y;
-              var boxWHalf = boxW / 2;
-              this.DROP_DISTANCE = Math.sqrt(boxH * boxH + boxWHalf * boxWHalf);
+              var mesh = obj.getComponent(MeshRenderer);
+              var modelCenter = mesh.model.modelBounds.halfExtents;
+              var boxH = modelCenter.y * 2;
+              var boxWHalf = modelCenter.x;
+              this.DROP_DISTANCE = Math.sqrt(boxH * boxH + boxWHalf * boxWHalf) * this.dropScan;
             }
 
             let collider = obj.getComponent(Collider); // 监听触发事件
+            // this.scheduleOnce(() => {
 
-            this.scheduleOnce(() => {
-              collider.once("onCollisionEnter", this.onCollision, this);
-            }, 0.2);
+            collider.once("onCollisionEnter", this.onCollision, this); // }, 0.1)
           }
         }
         /**固定楼层 */
@@ -319,7 +336,6 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           if (lenFloor > 0) {
             var lastFloor = this._floorNodes[lenFloor - 1];
             var rightBody = lastFloor.getComponent(RigidBody);
-            var boxCollider = rightBody.getComponent(BoxCollider);
 
             if (lenFloor > 1) {
               var preFloor = this._floorNodes[lenFloor - 2];
@@ -333,21 +349,36 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
               }
 
               console.log("距离：" + dis + ",最大距离差：" + this.DROP_DISTANCE);
+              var offset = dis - this.DROP_DISTANCE;
 
-              if (dis >= this.DROP_DISTANCE) {
-                rightBody.angularFactor = Vec3.ONE;
+              if (offset >= 0) {
+                lastFloor.getComponent(Collider).isTrigger = true;
+                rightBody.angularFactor = Vec3.ZERO;
+                var offAngle = 10.0 + offset / this.DROP_DISTANCE * 35; // rightBody.linearFactor = Vec3.ONE
+
                 var forcePos = new Vec3(0, 0, 0);
 
                 if (preFloor.worldPosition.x < lastFloor.worldPosition.x) {
+                  lastFloor.angle = -offAngle;
+                  rightBody.setLinearVelocity(new Vec3(1, -2, 2)); // Vec3.multiplyScalar(rightBody.linearFactor, Vec3.UNIT_X, 50);
+
                   forcePos.x = 10;
                   console.log("往右掉下来");
                 } else {
                   forcePos.x = -10;
+                  lastFloor.angle = offAngle;
+                  rightBody.setLinearVelocity(new Vec3(-1, -2, 2)); // Vec3.multiplyScalar(rightBody.linearFactor, Vec3.UNIT_X, -50);
+
                   console.log("往左掉下来");
                 }
 
                 this._failForcePos = forcePos;
                 this._failFloor = rightBody;
+                var mt = rightBody.getComponent(Collider).material;
+                mt.friction = 0;
+                mt.restitution = 0.1;
+                mt.rollingFriction = 0;
+                mt.spinningFriction = 0.5;
                 this.scheduleOnce(() => {
                   this.removeFloor(lastFloor);
                   this.createNewBox();
@@ -356,6 +387,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
               } else {
                 this.focuseLastFloorPos(lastFloor);
                 this.frozenFloor(rightBody);
+                var pos = lastFloor.position; //防止碰撞检测延时所以固定了Y
+
+                lastFloor.setPosition(pos.x, preFloor.position.y + preFloor.getComponent(Collider).center.y * 2, pos.z);
+                lastFloor.rotation = preFloor.rotation;
 
                 if (this.checkIsPerfactPos(lastFloor.position.x, preFloor.position.x)) {
                   //完美命中
@@ -364,6 +399,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
                   this.rockReduce();
                   console.log("完美命中");
                 } else {
+                  console.log("命中");
+
                   if (lenFloor > 3) {
                     this.rockHandler(forceDir);
                   } else {
@@ -371,7 +408,14 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
                   }
                 }
 
-                rightBody.node.rotation = preFloor.rotation;
+                if (lenFloor > 3 && this._isUseJerryState) {
+                  lastFloor.getComponent(_crd && Mass === void 0 ? (_reportPossibleCrUseOfMass({
+                    error: Error()
+                  }), Mass) : Mass).enabled = true;
+                  this._floorNodes[lenFloor - 4].getComponent(_crd && Mass === void 0 ? (_reportPossibleCrUseOfMass({
+                    error: Error()
+                  }), Mass) : Mass).enabled = false;
+                }
               }
             } else {
               this.focuseLastFloorPos(lastFloor);
@@ -415,7 +459,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
             if (obj) {
               var rig = obj.getComponent(RigidBody);
               rig.angularFactor = Vec3.ZERO;
-              rig.mass = 0;
+              rig.mass = 0.0;
               this._dropBox = rig;
               var crane = find("crane");
 
@@ -427,7 +471,9 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
               obj.setWorldPosition(this.floorBornPos.worldPosition);
               var hc = this.cord.addComponent(HingeConstraint);
               hc.pivotA = new Vec3(0, -0.5, 0);
-              hc.pivotB = new Vec3(0, 0.5, 0);
+              var collider = obj.getComponent(BoxCollider);
+              var centerB = collider.size;
+              hc.pivotB = new Vec3(0, centerB.y, 0);
               hc.connectedBody = rig; // this.isMove = false;
 
               this._curTick = 0;
@@ -616,6 +662,13 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
         writable: true,
         initializer: function () {
           return 1;
+        }
+      }), _descriptor25 = _applyDecoratedDescriptor(_class2.prototype, "dropScan", [_dec26], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return 1.0;
         }
       })), _class2)) || _class));
 

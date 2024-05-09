@@ -1,5 +1,6 @@
-import { _decorator, BoxCollider, BoxCollider2D, Camera, Canvas, cclegacy, Collider, Color, Component, director, DistanceJoint2D, EColliderType, ERigidBody2DType, ERigidBodyType, find, geometry, Graphics, HingeConstraint, HingeJoint2D, ICollisionEvent, Input, instantiate, Layers, Node, PhysicsSystem, PlaneCollider, PointToPointConstraint, Prefab, Quat, resources, RigidBody, RigidBody2D, Size, Sprite, tween, Tween, UITransform, Vec2, Vec3 } from 'cc';
+import { _decorator, BoxCollider, BoxCollider2D, Camera, Canvas, cclegacy, Collider, Color, Component, director, DistanceJoint2D, EColliderType, ERigidBody2DType, ERigidBodyType, find, geometry, Graphics, HingeConstraint, HingeJoint2D, ICollisionEvent, Input, instantiate, Layers, MeshRenderer, Node, PhysicsSystem, PlaneCollider, PointToPointConstraint, Prefab, Quat, resources, RigidBody, RigidBody2D, Size, Sprite, tween, Tween, UITransform, Vec2, Vec3 } from 'cc';
 import { AssetMgr } from './AssetMgr';
+import { Mass } from './Mass';
 const { ccclass, property } = _decorator;
 
 @ccclass('GameController')
@@ -56,6 +57,9 @@ export class GameController extends Component {
     /**振幅系数 */
     @property({ displayName: "振幅系数" })
     public floorRockForce = 1;
+    @property({ displayName: "命中准确系数" })
+    /**命中准确系数 */
+    public dropScan = 1.0;
     protected dj2d: DistanceJoint2D;
     protected beRotateObj: RigidBody2D
     private scanAngle: Vec3;
@@ -70,7 +74,7 @@ export class GameController extends Component {
     /**掉落判断偏移值 */
     private DROP_DISTANCE: number;
     private readonly HOLDER_BASE_POS = new Vec3(0, 700, 0)
-    private readonly MAIN_CAMERA_POS = new Vec3(0, 3, 16)
+    private readonly MAIN_CAMERA_POS = new Vec3(0, 3, 10)
     private readonly FORCE_CONTAINER_TIME = 1;
     // public MAX_DISTANCE: number;
     private HOLDER_DIS_POS_Y: number;
@@ -94,6 +98,9 @@ export class GameController extends Component {
     private _targetContainerRo = 0;
     private _floorOffset = 0;
     private _dropBox: RigidBody;
+    private _isUseJerryState: boolean;
+    private _isRock: boolean = true;//是否摇晃
+    private _roVec: Vec3;
     start() {
         this.assetMgr.preLoadBundles().then(this.createNewBox.bind(this));
         // PhysicsSystem.instance.restitution=
@@ -115,6 +122,7 @@ export class GameController extends Component {
             floorCollider.sharedMaterial.restitution = 0;
             this.floorSpeed = new Vec3();
             this.dropVec = new Vec3();
+            this._roVec = new Vec3();
             // this.floorContainer.getComponent(RigidBody).applyLocalTorque(new Vec3(0, 0, 100))
             // let tweenDuration: number = 2.0;
             // let angle = 2;
@@ -152,20 +160,22 @@ export class GameController extends Component {
         }
         if (this._failFloor) {
 
-            this._failFloor.applyForce(this._failForcePos)
+            // this._failFloor.applyForce(this._failForcePos)
         }
         this._forceContainerTime += deltaTime
         let containerRig = this.floorContainer.getComponent(RigidBody);
-        if (this._floorOffset > 0 && this._forceContainerTime < this.FORCE_CONTAINER_TIME) {
+        if (this._isRock && this._floorOffset > 0 && this._forceContainerTime < this.FORCE_CONTAINER_TIME) {
 
             containerRig.applyForce(this._floorContainerForce)
         }
-        containerRig.applyForce(this._floorContainerGav)
+        if (this._isRock) {
+            containerRig.applyForce(this._floorContainerGav)
+        }
 
         let ro = Math.abs(this.floorContainer.eulerAngles.z);
-        let vecRo: Vec3 = new Vec3;
-        containerRig.getLinearVelocity(vecRo)
-        if (Math.abs(vecRo.x) <= 0.01) {
+
+        containerRig.getLinearVelocity(this._roVec)
+        if (Math.abs(this._roVec.x) <= 0.01) {
             this._maxContainerRo = ro;
         }
         if (this._maxContainerRo <= this._targetContainerRo && this._targetContainerRo > 0) {
@@ -206,16 +216,17 @@ export class GameController extends Component {
             var rig = obj.getComponent(RigidBody)
             rig.setLinearVelocity(new Vec3(speed.x / 7, speed.y, 0))
             if (!this.DROP_DISTANCE) {
-                var boxW = obj.scale.x;
-                var boxH = obj.scale.y;
-                var boxWHalf = boxW / 2;
-                this.DROP_DISTANCE = Math.sqrt(boxH * boxH + boxWHalf * boxWHalf)
+                var mesh = obj.getComponent(MeshRenderer)
+                var modelCenter = mesh.model.modelBounds.halfExtents;
+                var boxH = modelCenter.y * 2;
+                var boxWHalf = modelCenter.x;
+                this.DROP_DISTANCE = Math.sqrt(boxH * boxH + boxWHalf * boxWHalf) * this.dropScan
             }
             let collider = obj.getComponent(Collider);
             // 监听触发事件
-            this.scheduleOnce(() => {
-                collider.once("onCollisionEnter", this.onCollision, this);
-            }, 0.2)
+            // this.scheduleOnce(() => {
+            collider.once("onCollisionEnter", this.onCollision, this);
+            // }, 0.1)
         }
 
     }
@@ -226,6 +237,7 @@ export class GameController extends Component {
         rightBody.type = ERigidBodyType.STATIC;
         rightBody.linearFactor = Vec3.ZERO
         rightBody.angularFactor = Vec3.ZERO
+
         // this.scheduleOnce(() => {
 
 
@@ -250,8 +262,6 @@ export class GameController extends Component {
             var lastFloor = this._floorNodes[lenFloor - 1];
 
             var rightBody = lastFloor.getComponent(RigidBody);
-            var boxCollider = rightBody.getComponent(BoxCollider)
-
 
             if (lenFloor > 1) {
                 var preFloor = this._floorNodes[lenFloor - 2];
@@ -268,28 +278,47 @@ export class GameController extends Component {
                 }
 
                 console.log("距离：" + dis + ",最大距离差：" + this.DROP_DISTANCE)
-                if (dis >= this.DROP_DISTANCE) {
-                    rightBody.angularFactor = Vec3.ONE
-
+                var offset = dis - this.DROP_DISTANCE
+                if (offset >= 0) {
+                    lastFloor.getComponent(Collider).isTrigger = true;
+                    rightBody.angularFactor = Vec3.ZERO
+                    var offAngle = (10.0 + (offset / this.DROP_DISTANCE) * 35);
+                    // rightBody.linearFactor = Vec3.ONE
                     var forcePos = new Vec3(0, 0, 0);
                     if (preFloor.worldPosition.x < lastFloor.worldPosition.x) {
+                        lastFloor.angle = -offAngle;
+                        rightBody.setLinearVelocity(new Vec3(1, -2, 2))
+                        // Vec3.multiplyScalar(rightBody.linearFactor, Vec3.UNIT_X, 50);
                         forcePos.x = 10;
                         console.log("往右掉下来")
                     } else {
                         forcePos.x = -10;
+                        lastFloor.angle = offAngle
+                        rightBody.setLinearVelocity(new Vec3(-1, -2, 2))
+                        // Vec3.multiplyScalar(rightBody.linearFactor, Vec3.UNIT_X, -50);
                         console.log("往左掉下来")
                     }
                     this._failForcePos = forcePos;
                     this._failFloor = rightBody;
+                    var mt = rightBody.getComponent(Collider).material;
+                    mt.friction = 0;
+                    mt.restitution = 0.1;
+                    mt.rollingFriction = 0;
+                    mt.spinningFriction = 0.5;
                     this.scheduleOnce(() => {
                         this.removeFloor(lastFloor)
                         this.createNewBox();
                         this._failFloor = null;
                     }, 2)
                 } else {
+
                     this.focuseLastFloorPos(lastFloor)
 
                     this.frozenFloor(rightBody)
+                    var pos = lastFloor.position;
+                    //防止碰撞检测延时所以固定了Y
+                    lastFloor.setPosition(pos.x, preFloor.position.y + preFloor.getComponent(Collider).center.y * 2, pos.z)
+                    lastFloor.rotation = preFloor.rotation;
 
                     if (this.checkIsPerfactPos(lastFloor.position.x, preFloor.position.x)) {//完美命中
                         var lastPos = lastFloor.position;
@@ -297,13 +326,18 @@ export class GameController extends Component {
                         this.rockReduce();
                         console.log("完美命中")
                     } else {
+                        console.log("命中")
                         if (lenFloor > 3) {
                             this.rockHandler(forceDir);
+
                         } else {
                             this._floorOffset += forceDir;
                         }
                     }
-                    rightBody.node.rotation = preFloor.rotation
+                    if (lenFloor > 3 && this._isUseJerryState) {
+                        lastFloor.getComponent(Mass).enabled = true;
+                        this._floorNodes[lenFloor - 4].getComponent(Mass).enabled = false;
+                    }
                 }
             } else {
                 this.focuseLastFloorPos(lastFloor)
@@ -311,6 +345,7 @@ export class GameController extends Component {
             }
         }
     }
+
     checkIsPerfactPos(matchX: number, targetX: number) {
         return Math.abs(matchX - targetX) < 0.05
     }
@@ -340,19 +375,22 @@ export class GameController extends Component {
 
                 var rig = obj.getComponent(RigidBody);
                 rig.angularFactor = Vec3.ZERO;
-                rig.mass = 0;
+                rig.mass = 0.0;
                 this._dropBox = rig;
                 var crane = find("crane")
                 if (crane) {
                     obj.setParent(crane)
                     obj.layer = Layers.Enum.UI_3D;
+
                 }
 
                 obj.setWorldPosition(this.floorBornPos.worldPosition)
 
                 var hc = this.cord.addComponent(HingeConstraint)
                 hc.pivotA = new Vec3(0, -0.5, 0);
-                hc.pivotB = new Vec3(0, 0.5, 0);
+                var collider = obj.getComponent(BoxCollider);
+                var centerB = collider.size
+                hc.pivotB = new Vec3(0, centerB.y, 0);
 
                 hc.connectedBody = rig
 

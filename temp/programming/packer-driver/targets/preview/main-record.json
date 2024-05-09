@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 40071.73700001836,
+      "mTimestamp": 30038.84769964218,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -598,7 +598,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 8276811.0704,
+      "mTimestamp": 12789145.288399696,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -656,6 +656,20 @@
               "column": 70
             }
           }
+        },
+        {
+          "value": "file:///D:/Project/cocos/test/assets/script/Mass.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 7
+            },
+            "end": {
+              "line": 8,
+              "column": 60
+            }
+          }
         }
       ],
       "type": "esm",
@@ -685,6 +699,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///D:/Project/cocos/test/assets/script/GameController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Project/cocos/test/assets/script/Mass.ts"
           },
           "messages": []
         }
@@ -796,7 +817,7 @@
     },
     "file:///D:/Project/cocos/test/assets/script/GameController.ts": {
       "mTimestamp": {
-        "mtime": 1712935082076.9138,
+        "mtime": 1715221932432.5786,
         "uuid": "01c83466-2456-4813-8bc4-3004caa3035f"
       },
       "chunkId": "436b114cd6ce3d0d270683ba3c4de65c46946f50",
@@ -816,11 +837,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 449
+              "column": 463
             },
             "end": {
               "line": 1,
-              "column": 453
+              "column": 467
             }
           }
         },
@@ -835,6 +856,20 @@
             "end": {
               "line": 2,
               "column": 37
+            }
+          }
+        },
+        {
+          "value": "./Mass",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 21
+            },
+            "end": {
+              "line": 3,
+              "column": 29
             }
           }
         }
@@ -875,12 +910,19 @@
             "url": "file:///D:/Project/cocos/test/assets/script/AssetMgr.ts"
           },
           "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Project/cocos/test/assets/script/Mass.ts"
+          },
+          "messages": []
         }
       ]
     },
     "file:///D:/Project/cocos/test/assets/script/AssetMgr.ts": {
       "mTimestamp": {
-        "mtime": 1712119932447.5906,
+        "mtime": 1714998104634.1208,
         "uuid": "b857645e-d0aa-4bd7-9866-e10c70e01d09"
       },
       "chunkId": "07c6df2c0ee8183ff11dba7703477a0d3b4c0859",
@@ -931,11 +973,126 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1712926807087,
+      "mTimestamp": 1715209144324,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
       "resolutions": []
+    },
+    "file:///D:/Project/cocos/test/assets/Mass.ts": {
+      "mTimestamp": {
+        "mtime": 1714966801043.1562,
+        "uuid": "5b1b277a-1987-45dd-b8ee-c69c5b3ef215"
+      },
+      "chunkId": "d74ee723a4173c56a1379b619a458c01cfa5356b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 80
+            },
+            "end": {
+              "line": 1,
+              "column": 84
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Project/cocos/test/assets/script/Mass.ts": {
+      "mTimestamp": {
+        "mtime": 1714997824472.2788,
+        "uuid": "5b1b277a-1987-45dd-b8ee-c69c5b3ef215"
+      },
+      "chunkId": "d7ce714109f22e60742f21fa28593d705054f89c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 105
+            },
+            "end": {
+              "line": 1,
+              "column": 109
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
     }
   }
 }

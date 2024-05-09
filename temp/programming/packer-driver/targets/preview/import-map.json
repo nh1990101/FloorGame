@@ -5,7 +5,8 @@
     "file:///C:/ProgramData/cocos/editors/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js",
     "file:///D:/Project/cocos/test/assets/Main.ts": "./chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js",
     "file:///D:/Project/cocos/test/assets/script/AssetMgr.ts": "./chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js",
-    "file:///D:/Project/cocos/test/assets/script/GameController.ts": "./chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js"
+    "file:///D:/Project/cocos/test/assets/script/GameController.ts": "./chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js",
+    "file:///D:/Project/cocos/test/assets/script/Mass.ts": "./chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -42,11 +43,17 @@
       "__unresolved_0": "./chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js",
       "__unresolved_1": "./chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js",
       "__unresolved_2": "./chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js",
-      "__unresolved_3": "./chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js"
+      "__unresolved_3": "./chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js",
+      "__unresolved_4": "./chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js"
+    },
+    "./chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js": {
+      "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
+      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
       "__unresolved_1": "./chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js",
+      "__unresolved_2": "./chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js",
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js": {
