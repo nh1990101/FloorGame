@@ -11,14 +11,10 @@ export class GameController extends Component {
     public baseBox: RigidBody2D;
     @property(RigidBody2D)
     public staticBody: RigidBody2D;
-    @property(RigidBody)
-    public cordStatic: RigidBody;
-    @property(RigidBody)
-    public cord: RigidBody;
-    @property(Graphics)
-    public myGraph: Graphics;
-    @property(Graphics)
-    public uiGraph: Graphics;
+
+    @property(Node)
+    public cord: Node;
+
     @property(Node)
     public mainUI: Node;
     @property(Camera)
@@ -45,10 +41,13 @@ export class GameController extends Component {
     public floorContainer: Node;
     @property(Node)
     public floorBornPos: Node;
- 
+
     @property({ displayName: "命中准确系数" })
     /**命中准确系数 */
     public dropScan = 1.0;
+    @property({ displayName: "锤摆最大角度" })
+    /**命中准确系数 */
+    public rockMaxAngle = 15.0;
 
     /**最大锤摆角 */
     public maxRockRotation = 0.0;
@@ -68,31 +67,21 @@ export class GameController extends Component {
     private readonly HOLDER_BASE_POS = new Vec3(0, 700, 0)
     private readonly MAIN_CAMERA_POS = new Vec3(0, 3, 10)
     private readonly FORCE_CONTAINER_TIME = 1;
-    // public MAX_DISTANCE: number;
-    private HOLDER_DIS_POS_Y: number;
- 
-    private myPosBegin: Vec3;
-    private myTargetPoint: Vec3;
+
     private dropRay: geometry.Ray
     private floorSpeed: Vec3;
     private dropVec: Vec3;
     private _floorNodes: Node[];
     private _isCanCreateNext: boolean = true;
-    private _failFloor: RigidBody;
-    private _failForcePos: Vec3;
-    private _floorContainerGav = new Vec3(0, 20, 0)
-    private _forceContainerTime = 0;
-    private _floorContainerForce = new Vec3(1, 0, 0)
-    private _gavVec = new Vec3(0, -10, 0)
+
     private _applyLastFloorForce = new Vec3(0.2, 0, 0)
     private _connectFloors: RigidBody[] = [];
-    private _maxContainerRo: number = 0;
-    private _targetContainerRo = 0;
+
     private _floorOffset = 0;
     private _dropBox: RigidBody;
     private _isUseJerryState: boolean;
-   
-    private _roVec: Vec3;
+    private _dropBoxPos: Vec3;
+    // private _dropBoxSpeed: Vec3;
     private roTime = 0;
     start() {
         this.assetMgr.preLoadBundles().then(this.createNewBox.bind(this));
@@ -101,11 +90,7 @@ export class GameController extends Component {
             var distance2D = this.staticBody.getComponent(DistanceJoint2D)
             this.dj2d = distance2D;
             this.forceVec = new Vec2(this._moveDir, 0);
-            this.myGraph.lineWidth = 10;
-            this.myGraph.lineCap = Graphics.LineCap.ROUND;
-            this.myGraph.strokeColor = Color.BLUE;
-            this.myPosBegin = new Vec3();
-            this.myTargetPoint = new Vec3();
+
             this.dropRay = new geometry.Ray
             this._floorNodes = [];
             this.holder.setPosition(this.HOLDER_BASE_POS);
@@ -115,42 +100,33 @@ export class GameController extends Component {
             floorCollider.sharedMaterial.restitution = 0;
             this.floorSpeed = new Vec3();
             this.dropVec = new Vec3();
-            this._roVec = new Vec3();
-            // this.floorContainer.getComponent(RigidBody).applyLocalTorque(new Vec3(0, 0, 100))
-            // let tweenDuration: number = 2.0;
-            // let angle = 2;
+            // this._dropBoxPos = new Vec3();
 
-
-            // let embedTween = tween(this.floorTemp).to(tweenDuration, { eulerAngles: new Vec3(0, 0, angle * 2) }, { easing: "cubicOut" }).to(tweenDuration, { eulerAngles: new Vec3(0, 0, -angle * 2) }, { easing: "cubicOut" }).union();
-
-
-
-            // tween(this.floorTemp).to(tweenDuration / 2, { eulerAngles: new Vec3(0, 0, -angle) }, { easing: "cubicOut" }).call(() => {
-            //     embedTween.repeatForever().start();
-            // }).start();
         }
         this.mainUI.on(Input.EventType.TOUCH_START, this.onClickMainUI, this)
     }
 
     update(deltaTime: number) {
 
-
-
-
         this._curTick += deltaTime;
         this.roTime += deltaTime;
-  
-        if (this.cordStatic) {
+
+        let containerRig = this.floorContainer.getComponent(RigidBody);
+
+        containerRig.node.angle = Math.sin(this.roTime * 2) * this.maxRockRotation;
+        this.cord.angle = Math.sin(this.roTime * 2) * this.rockMaxAngle;
+        if (this._dropBox && this._dropBox.node) {
+
+            if (this._dropBoxPos) {
+
+                Vec3.subtract(this._dropBoxPos, this._dropBox.node.worldPosition, this._dropBoxPos)
+                Vec3.multiplyScalar(this.floorSpeed, this._dropBoxPos, 1 / deltaTime)
+                this.floorSpeed.x *= 3
+                this.floorSpeed.y -= 5;
+            }
+            this._dropBoxPos = this._dropBox.node.worldPosition.clone();
 
         }
-    
-       
-        let containerRig = this.floorContainer.getComponent(RigidBody);
-       
-        containerRig.node.angle = Math.sin(this.roTime * 2) * this.maxRockRotation;
-
-
-
     }
     onCheckHitFunc() {
         const mask = 0xffffffff;
@@ -266,8 +242,7 @@ export class GameController extends Component {
                         // Vec3.multiplyScalar(rightBody.linearFactor, Vec3.UNIT_X, -50);
                         console.log("往左掉下来")
                     }
-                    this._failForcePos = forcePos;
-                    this._failFloor = rightBody;
+
                     var mt = rightBody.getComponent(Collider).material;
                     mt.friction = 0;
                     mt.restitution = 0.1;
@@ -276,7 +251,7 @@ export class GameController extends Component {
                     this.scheduleOnce(() => {
                         this.removeFloor(lastFloor)
                         this.createNewBox();
-                        this._failFloor = null;
+
                     }, 2)
                 } else {
 
@@ -342,24 +317,26 @@ export class GameController extends Component {
 
                 var rig = obj.getComponent(RigidBody);
                 rig.angularFactor = Vec3.ZERO;
-                rig.mass = 0.0;
+                // rig.mass = 0.0;
+                rig.getComponent(Collider).isTrigger = true;
+                rig.useGravity = false;
                 this._dropBox = rig;
                 var crane = find("crane")
                 if (crane) {
-                    obj.setParent(crane)
+                    obj.setParent(this.floorBornPos)
                     obj.layer = Layers.Enum.UI_3D;
 
                 }
 
-                obj.setWorldPosition(this.floorBornPos.worldPosition)
+                // obj.setWorldPosition(this.floorBornPos.worldPosition)
 
-                var hc = this.cord.addComponent(HingeConstraint)
-                hc.pivotA = new Vec3(0, -0.5, 0);
-                var collider = obj.getComponent(BoxCollider);
-                var centerB = collider.size
-                hc.pivotB = new Vec3(0, centerB.y, 0);
+                // var hc = this.cord.addComponent(HingeConstraint)
+                // hc.pivotA = new Vec3(0, -0.5, 0);
+                // var collider = obj.getComponent(BoxCollider);
+                // var centerB = collider.size
+                // hc.pivotB = new Vec3(0, centerB.y, 0);
 
-                hc.connectedBody = rig
+                // hc.connectedBody = rig
 
                 // this.isMove = false;
                 this._curTick = 0;
@@ -376,14 +353,14 @@ export class GameController extends Component {
             var dropFloor = this._dropBox.node
             if (dropFloor) {
 
-                var hc = this.cord.getComponent(HingeConstraint)
-                hc.destroy();
+                // var hc = this.cord.getComponent(HingeConstraint)
+                // hc.destroy();
 
-                this._dropBox.getLinearVelocity(this.floorSpeed)
+                // this._dropBox.getLinearVelocity(this.floorSpeed)
                 this.assetMgr.removeInstant(dropFloor);
-                this.floorSpeed.x *= 3
-                this.floorSpeed.y = -5;
 
+
+                console.log(this.floorSpeed)
                 this.dropVec = this.cordCamera.worldToScreen(dropFloor.worldPosition)
 
                 this.worldCamera.screenPointToRay(this.dropVec.x, this.dropVec.y, this.dropRay)
@@ -394,11 +371,11 @@ export class GameController extends Component {
 
     /**根据偏移值进行处理摇摆效果 */
     rockHandler(offset: number) {
-        this._floorOffset += Math.abs(offset)*3;
-      
+        this._floorOffset += Math.abs(offset) * 3;
+
         this.maxRockRotation = Math.atan(this._floorOffset / this._floorNodes[this._floorNodes.length - 1].position.y);
     }
-  
-  
+
+
 }
 
