@@ -1,4 +1,4 @@
-import { _decorator, BoxCollider, BoxCollider2D, Camera, Canvas, cclegacy, Collider, Color, Component, director, DistanceJoint2D, EColliderType, ERigidBody2DType, ERigidBodyType, find, geometry, Graphics, HingeConstraint, HingeJoint2D, ICollisionEvent, Input, instantiate, Layers, MeshRenderer, Node, PhysicsSystem, PlaneCollider, PointToPointConstraint, Prefab, Quat, resources, RigidBody, RigidBody2D, Size, Sprite, tween, Tween, UITransform, Vec2, Vec3 } from 'cc';
+import { _decorator, BoxCollider, BoxCollider2D, Camera, Canvas, cclegacy, Collider, Color, Component, director, DistanceJoint2D, EColliderType, ERigidBody2DType, ERigidBodyType, find, geometry, Graphics, HingeConstraint, HingeJoint2D, ICollisionEvent, Input, instantiate, Layers, lerp, MeshRenderer, Node, PhysicsSystem, PlaneCollider, PointToPointConstraint, Prefab, Quat, resources, RigidBody, RigidBody2D, Scheduler, Size, Sprite, tween, Tween, UITransform, Vec2, Vec3 } from 'cc';
 import { AssetMgr } from './AssetMgr';
 import { Mass } from './Mass';
 const { ccclass, property } = _decorator;
@@ -45,21 +45,13 @@ export class GameController extends Component {
     public floorContainer: Node;
     @property(Node)
     public floorBornPos: Node;
-    @property({ displayName: "命中衰减振幅系数" })
-    /**命中衰减振幅系数 */
-    public reduceRate = 0.1;
-    @property({ displayName: "楼层高度振幅系数" })
-    /**楼层高度振幅系数 */
-    public floorRockRate = 0.2;
-    @property({ displayName: "振幅衰减阻尼系数" })
-    /**振幅衰减阻尼系数 */
-    public floorRockDamping = 0.5;
-    /**振幅系数 */
-    @property({ displayName: "振幅系数" })
-    public floorRockForce = 1;
+ 
     @property({ displayName: "命中准确系数" })
     /**命中准确系数 */
     public dropScan = 1.0;
+
+    /**最大锤摆角 */
+    public maxRockRotation = 0.0;
     protected dj2d: DistanceJoint2D;
     protected beRotateObj: RigidBody2D
     private scanAngle: Vec3;
@@ -69,7 +61,7 @@ export class GameController extends Component {
     private forceVec: Vec2;
     private _curTick = 0;
     private readonly disForceTime = 2;
-    private readonly MaxAngle = 30;
+
     private readonly DOWN_DIR = new Vec3(0, -1, 0)
     /**掉落判断偏移值 */
     private DROP_DISTANCE: number;
@@ -78,7 +70,7 @@ export class GameController extends Component {
     private readonly FORCE_CONTAINER_TIME = 1;
     // public MAX_DISTANCE: number;
     private HOLDER_DIS_POS_Y: number;
-    private isMove = false;
+ 
     private myPosBegin: Vec3;
     private myTargetPoint: Vec3;
     private dropRay: geometry.Ray
@@ -99,8 +91,9 @@ export class GameController extends Component {
     private _floorOffset = 0;
     private _dropBox: RigidBody;
     private _isUseJerryState: boolean;
-    private _isRock: boolean = true;//是否摇晃
+   
     private _roVec: Vec3;
+    private roTime = 0;
     start() {
         this.assetMgr.preLoadBundles().then(this.createNewBox.bind(this));
         // PhysicsSystem.instance.restitution=
@@ -145,42 +138,17 @@ export class GameController extends Component {
 
 
         this._curTick += deltaTime;
-
-        if (!this.isMove) {
-            this.cord.applyForce(new Vec3(5, 0, 0));
-            // this.baseBox.applyForceToCenter(this.forceVec, true);
-            if (this._curTick > this.disForceTime) {
-
-                this.isMove = true;
-            }
-        }
-
+        this.roTime += deltaTime;
+  
         if (this.cordStatic) {
 
         }
-        if (this._failFloor) {
-
-            // this._failFloor.applyForce(this._failForcePos)
-        }
-        this._forceContainerTime += deltaTime
+    
+       
         let containerRig = this.floorContainer.getComponent(RigidBody);
-        if (this._isRock && this._floorOffset > 0 && this._forceContainerTime < this.FORCE_CONTAINER_TIME) {
+       
+        containerRig.node.angle = Math.sin(this.roTime * 2) * this.maxRockRotation;
 
-            containerRig.applyForce(this._floorContainerForce)
-        }
-        if (this._isRock) {
-            containerRig.applyForce(this._floorContainerGav)
-        }
-
-        let ro = Math.abs(this.floorContainer.eulerAngles.z);
-
-        containerRig.getLinearVelocity(this._roVec)
-        if (Math.abs(this._roVec.x) <= 0.01) {
-            this._maxContainerRo = ro;
-        }
-        if (this._maxContainerRo <= this._targetContainerRo && this._targetContainerRo > 0) {
-            containerRig.linearDamping = 0;
-        }
 
 
     }
@@ -323,7 +291,6 @@ export class GameController extends Component {
                     if (this.checkIsPerfactPos(lastFloor.position.x, preFloor.position.x)) {//完美命中
                         var lastPos = lastFloor.position;
                         lastFloor.setPosition(preFloor.position.x, lastPos.y, lastPos.z)
-                        this.rockReduce();
                         console.log("完美命中")
                     } else {
                         console.log("命中")
@@ -424,32 +391,14 @@ export class GameController extends Component {
             }
         }
     }
-    private _preOffSet = 0;
+
     /**根据偏移值进行处理摇摆效果 */
     rockHandler(offset: number) {
-        this._floorOffset += offset;
-        var strResult = ""
-        if (Math.abs(this._preOffSet) < Math.abs(offset) || this._targetContainerRo == 0) {
-            this.rockAdd(offset);
-            strResult = "加角度"
-        } else {
-            this.rockReduce();
-            strResult = "减角度"
-        }
-        this._preOffSet = offset;
-        console.log(strResult + "，Maxrotation：" + this._maxContainerRo + ",目标角度：" + this._targetContainerRo + "偏移值：" + this._floorOffset);
+        this._floorOffset += Math.abs(offset)*3;
+      
+        this.maxRockRotation = Math.atan(this._floorOffset / this._floorNodes[this._floorNodes.length - 1].position.y);
     }
-    rockAdd(offset: number) {
-        var rig = this.floorContainer.getComponent(RigidBody)
-        this._floorContainerForce.x = offset * (1 / (this._floorNodes.length * this.floorRockRate)) * this.floorRockForce
-        this._forceContainerTime = 0;
-        rig.linearDamping = 0;
-    }
-    rockReduce() {
-        var rig = this.floorContainer.getComponent(RigidBody)
-        let reduceRate = 1 - this.reduceRate
-        this._targetContainerRo = this._maxContainerRo * reduceRate
-        rig.linearDamping = this.floorRockDamping;
-    }
+  
+  
 }
 

@@ -60,7 +60,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
       _cclegacy._RF.push({}, "01c83RmJFZIE4vEMATKowNf", "GameController", undefined);
 
-      __checkObsolete__(['_decorator', 'BoxCollider', 'BoxCollider2D', 'Camera', 'Canvas', 'cclegacy', 'Collider', 'Color', 'Component', 'director', 'DistanceJoint2D', 'EColliderType', 'ERigidBody2DType', 'ERigidBodyType', 'find', 'geometry', 'Graphics', 'HingeConstraint', 'HingeJoint2D', 'ICollisionEvent', 'Input', 'instantiate', 'Layers', 'MeshRenderer', 'Node', 'PhysicsSystem', 'PlaneCollider', 'PointToPointConstraint', 'Prefab', 'Quat', 'resources', 'RigidBody', 'RigidBody2D', 'Size', 'Sprite', 'tween', 'Tween', 'UITransform', 'Vec2', 'Vec3']);
+      __checkObsolete__(['_decorator', 'BoxCollider', 'BoxCollider2D', 'Camera', 'Canvas', 'cclegacy', 'Collider', 'Color', 'Component', 'director', 'DistanceJoint2D', 'EColliderType', 'ERigidBody2DType', 'ERigidBodyType', 'find', 'geometry', 'Graphics', 'HingeConstraint', 'HingeJoint2D', 'ICollisionEvent', 'Input', 'instantiate', 'Layers', 'lerp', 'MeshRenderer', 'Node', 'PhysicsSystem', 'PlaneCollider', 'PointToPointConstraint', 'Prefab', 'Quat', 'resources', 'RigidBody', 'RigidBody2D', 'Scheduler', 'Size', 'Sprite', 'tween', 'Tween', 'UITransform', 'Vec2', 'Vec3']);
 
       ({
         ccclass,
@@ -134,6 +134,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
           _initializerDefineProperty(this, "dropScan", _descriptor25, this);
 
+          /**最大锤摆角 */
+          this.maxRockRotation = 0.0;
           this.dj2d = void 0;
           this.beRotateObj = void 0;
           this.scanAngle = void 0;
@@ -143,7 +145,6 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
           this.forceVec = void 0;
           this._curTick = 0;
           this.disForceTime = 2;
-          this.MaxAngle = 30;
           this.DOWN_DIR = new Vec3(0, -1, 0);
 
           /**掉落判断偏移值 */
@@ -174,9 +175,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
           this._floorOffset = 0;
           this._dropBox = void 0;
           this._isUseJerryState = void 0;
-          this._isRock = true;
+          this._isRock = false;
           //是否摇晃
           this._roVec = void 0;
+          this.roTime = 0;
           this._preOffSet = 0;
         }
 
@@ -215,6 +217,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
         update(deltaTime) {
           this._curTick += deltaTime;
+          this.roTime += deltaTime;
 
           if (!this.isMove) {
             this.cord.applyForce(new Vec3(5, 0, 0)); // this.baseBox.applyForceToCenter(this.forceVec, true);
@@ -240,6 +243,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
             containerRig.applyForce(this._floorContainerGav);
           }
 
+          containerRig.node.angle = Math.sin(this.roTime * 2) * this.maxRockRotation;
           var ro = Math.abs(this.floorContainer.eulerAngles.z);
           containerRig.getLinearVelocity(this._roVec);
 
@@ -506,7 +510,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
         /**根据偏移值进行处理摇摆效果 */
         rockHandler(offset) {
-          this._floorOffset += offset;
+          this._floorOffset += Math.abs(offset) * 3;
           var strResult = "";
 
           if (Math.abs(this._preOffSet) < Math.abs(offset) || this._targetContainerRo == 0) {
@@ -519,6 +523,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
           this._preOffSet = offset;
           console.log(strResult + "，Maxrotation：" + this._maxContainerRo + ",目标角度：" + this._targetContainerRo + "偏移值：" + this._floorOffset);
+          this.maxRockRotation = Math.atan(this._floorOffset / this._floorNodes[this._floorNodes.length - 1].position.y);
         }
 
         rockAdd(offset) {
@@ -532,7 +537,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
           var rig = this.floorContainer.getComponent(RigidBody);
           var reduceRate = 1 - this.reduceRate;
           this._targetContainerRo = this._maxContainerRo * reduceRate;
-          rig.linearDamping = this.floorRockDamping;
+          rig.linearDamping = this.floorRockDamping; // this.maxRockRotation *= reduceRate
         }
 
       }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "assetMgr", [_dec2], {

@@ -4000,3 +4000,1663 @@
 2024-5-9 10:35:17-debug: asset-db:refresh-all-database (109ms)
 2024-5-9 10:35:17-debug: asset-db:worker-effect-data-processing (1ms)
 2024-5-9 10:35:17-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:42:13-debug: refresh db internal success
+2024-5-9 10:42:13-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 10:42:13-debug: refresh db assets success
+2024-5-9 10:42:13-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:42:13-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:42:13-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 10:42:13-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:42:13-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:42:14-debug: refresh db internal success
+2024-5-9 10:42:14-debug: refresh db assets success
+2024-5-9 10:42:14-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:42:14-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:42:14-debug: asset-db:refresh-all-database (128ms)
+2024-5-9 10:42:14-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:42:14-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:42:14-debug: Query all assets info in project
+2024-5-9 10:42:14-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 10:42:14-debug:   Number of all scripts: 5
+2024-5-9 10:42:14-debug:   Number of other assets: 968
+2024-5-9 10:42:14-debug:   Number of all scenes: 1
+2024-5-9 10:42:14-debug: reload all scripts.
+2024-5-9 10:42:14-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 10:42:14-debug: Unregister Main
+2024-5-9 10:42:14-debug: Unregister DebugViewRuntimeControl
+2024-5-9 10:42:14-debug: Unregister GameController
+2024-5-9 10:42:14-debug: Unregister Mass
+2024-5-9 10:42:14-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 10:42:14-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 10:42:14-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 10:42:14-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 10:42:14-debug: Unregister AssetMgr
+2024-5-9 10:42:14-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 10:42:14-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 10:42:14-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 10:42:14-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 10:42:14-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:42:14-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 10:42:14-debug: [[Executor]] Register Main
+2024-5-9 10:42:14-debug: [[Executor]] Register AssetMgr
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 10:42:14-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 10:42:14-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 10:42:14-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 10:42:14-debug: [[Executor]] Register GameController
+2024-5-9 10:42:14-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 10:42:14-debug: 查询 Asset Bundle start0%
+2024-5-9 10:42:14-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 10:42:14-debug: Incremental keys: 
+2024-5-9 10:42:14-debug: [[Executor]] Register Mass
+2024-5-9 10:42:14-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 10:42:14-debug: // ---- build task 查询 Asset Bundle ---- (31ms)
+2024-5-9 10:42:14-debug: run build task 查询 Asset Bundle success in 31 ms √5%
+2024-5-9 10:42:14-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 10:42:14-debug: [Build Memory track]: 查询 Asset Bundle start:310.49MB, end 312.07MB, increase: 1.58MB
+2024-5-9 10:42:14-debug: 查询 Asset Bundle start5%
+2024-5-9 10:42:14-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 10:42:14-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 10:42:14-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 10:42:14-debug: [Build Memory track]: 查询 Asset Bundle start:312.08MB, end 312.09MB, increase: 13.48KB
+2024-5-9 10:42:14-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 10:42:14-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 10:42:14-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 10:42:14-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:312.11MB, end 312.12MB, increase: 15.77KB
+2024-5-9 10:42:14-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 10:42:14-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 10:42:14-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 10:42:14-debug: [Build Memory track]: 填充脚本数据到 settings.json start:312.14MB, end 312.15MB, increase: 14.97KB
+2024-5-9 10:42:14-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 10:42:14-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 10:42:14-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 10:42:14-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (4ms)
+2024-5-9 10:42:14-debug: run build task 整理部分构建选项内数据到 settings.json success in 4 ms √15%
+2024-5-9 10:42:14-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:312.16MB, end 312.28MB, increase: 119.71KB
+2024-5-9 10:46:20-debug: refresh db internal success
+2024-5-9 10:46:20-debug: refresh db assets success
+2024-5-9 10:46:20-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:46:20-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:46:20-debug: asset-db:refresh-all-database (144ms)
+2024-5-9 10:46:20-debug: asset-db:worker-effect-data-processing (3ms)
+2024-5-9 10:46:20-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2024-5-9 10:49:26-debug: refresh db internal success
+2024-5-9 10:49:26-debug: refresh db assets success
+2024-5-9 10:49:26-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:49:26-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:49:26-debug: asset-db:refresh-all-database (150ms)
+2024-5-9 10:49:26-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:49:26-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 10:49:34-debug: refresh db internal success
+2024-5-9 10:49:34-debug: refresh db assets success
+2024-5-9 10:49:34-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:49:34-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:49:34-debug: asset-db:refresh-all-database (125ms)
+2024-5-9 10:49:34-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 10:49:34-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 10:51:02-debug: refresh db internal success
+2024-5-9 10:51:02-debug: refresh db assets success
+2024-5-9 10:51:02-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 10:51:02-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 10:51:02-debug: asset-db:refresh-all-database (109ms)
+2024-5-9 10:51:02-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 10:51:02-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:30:57-debug: refresh db internal success
+2024-5-9 11:30:57-debug: refresh db assets success
+2024-5-9 11:30:57-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:30:57-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:30:57-debug: asset-db:refresh-all-database (163ms)
+2024-5-9 11:30:57-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:30:57-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:31:05-debug: refresh db internal success
+2024-5-9 11:31:05-debug: refresh db assets success
+2024-5-9 11:31:05-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:31:05-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:31:05-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 11:31:05-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:31:05-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:31:32-debug: refresh db internal success
+2024-5-9 11:31:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:31:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:31:33-debug: refresh db assets success
+2024-5-9 11:31:33-debug: asset-db:refresh-all-database (112ms)
+2024-5-9 11:31:33-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:31:33-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:36:43-debug: refresh db internal success
+2024-5-9 11:36:43-debug: refresh db assets success
+2024-5-9 11:36:43-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:36:43-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:36:43-debug: asset-db:refresh-all-database (116ms)
+2024-5-9 11:37:16-debug: refresh db internal success
+2024-5-9 11:37:16-debug: refresh db assets success
+2024-5-9 11:37:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:37:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:37:16-debug: asset-db:refresh-all-database (113ms)
+2024-5-9 11:37:16-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:37:16-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:37:42-debug: refresh db internal success
+2024-5-9 11:37:42-debug: refresh db assets success
+2024-5-9 11:37:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:37:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:37:42-debug: asset-db:refresh-all-database (158ms)
+2024-5-9 11:37:42-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:37:42-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:52:42-debug: refresh db internal success
+2024-5-9 11:52:42-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:52:42-debug: refresh db assets success
+2024-5-9 11:52:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:52:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:52:42-debug: asset-db:refresh-all-database (136ms)
+2024-5-9 11:52:42-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:52:42-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:52:43-debug: refresh db internal success
+2024-5-9 11:52:43-debug: refresh db assets success
+2024-5-9 11:52:43-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:52:43-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:52:43-debug: asset-db:refresh-all-database (140ms)
+2024-5-9 11:52:43-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:52:43-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:52:48-debug: start refresh asset from D:\Project\cocos\test\assets\main.scene...
+2024-5-9 11:52:48-debug: %cImport%c: D:\Project\cocos\test\assets\main.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:52:48-debug: refresh asset D:\Project\cocos\test\assets success
+2024-5-9 11:52:51-debug: refresh db internal success
+2024-5-9 11:52:51-debug: refresh db assets success
+2024-5-9 11:52:51-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:52:51-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:52:51-debug: asset-db:refresh-all-database (122ms)
+2024-5-9 11:52:51-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:52:51-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:52:52-debug: Query all assets info in project
+2024-5-9 11:52:52-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 11:52:52-debug:   Number of all scripts: 5
+2024-5-9 11:52:52-debug:   Number of other assets: 968
+2024-5-9 11:52:52-debug:   Number of all scenes: 1
+2024-5-9 11:52:52-debug: reload all scripts.
+2024-5-9 11:52:52-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 11:52:52-debug: Unregister Main
+2024-5-9 11:52:52-debug: Unregister DebugViewRuntimeControl
+2024-5-9 11:52:52-debug: Unregister AssetMgr
+2024-5-9 11:52:52-debug: Unregister GameController
+2024-5-9 11:52:52-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 11:52:52-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 11:52:52-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 11:52:52-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 11:52:52-debug: Unregister Mass
+2024-5-9 11:52:52-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 11:52:52-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 11:52:52-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 11:52:52-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 11:52:52-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:52:52-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 11:52:52-debug: [[Executor]] Register AssetMgr
+2024-5-9 11:52:52-debug: [[Executor]] Register Main
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 11:52:52-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 11:52:52-debug: [[Executor]] Register Mass
+2024-5-9 11:52:52-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 11:52:52-debug: [[Executor]] Register GameController
+2024-5-9 11:52:52-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:52:52-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:52:52-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:52:52-debug: 查询 Asset Bundle start0%
+2024-5-9 11:52:52-debug: Incremental keys: 
+2024-5-9 11:52:52-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 11:52:52-debug: // ---- build task 查询 Asset Bundle ---- (40ms)
+2024-5-9 11:52:52-debug: [Build Memory track]: 查询 Asset Bundle start:327.02MB, end 326.09MB, increase: -951.44KB
+2024-5-9 11:52:52-debug: 查询 Asset Bundle start5%
+2024-5-9 11:52:52-debug: run build task 查询 Asset Bundle success in 40 ms √5%
+2024-5-9 11:52:52-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:52:52-debug: // ---- build task 查询 Asset Bundle ---- (2ms)
+2024-5-9 11:52:52-debug: run build task 查询 Asset Bundle success in 2 ms √10%
+2024-5-9 11:52:52-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:52:52-debug: [Build Memory track]: 查询 Asset Bundle start:326.10MB, end 326.12MB, increase: 14.35KB
+2024-5-9 11:52:52-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 11:52:52-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 11:52:52-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 11:52:52-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:326.13MB, end 326.15MB, increase: 16.05KB
+2024-5-9 11:52:52-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 11:52:52-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 11:52:52-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 11:52:52-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 11:52:52-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:52:52-debug: [Build Memory track]: 填充脚本数据到 settings.json start:326.16MB, end 326.18MB, increase: 15.60KB
+2024-5-9 11:52:52-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 11:52:53-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (6ms)
+2024-5-9 11:52:53-debug: run build task 整理部分构建选项内数据到 settings.json success in 6 ms √15%
+2024-5-9 11:52:53-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:326.19MB, end 326.30MB, increase: 117.87KB
+2024-5-9 11:53:09-debug: refresh db internal success
+2024-5-9 11:53:09-debug: refresh db assets success
+2024-5-9 11:53:09-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:53:09-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:53:09-debug: asset-db:refresh-all-database (118ms)
+2024-5-9 11:53:09-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:53:09-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:53:13-debug: refresh db internal success
+2024-5-9 11:53:13-debug: refresh db assets success
+2024-5-9 11:53:13-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:53:13-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:53:13-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 11:53:13-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:53:13-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:53:31-debug: refresh db internal success
+2024-5-9 11:53:31-debug: refresh db assets success
+2024-5-9 11:53:31-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:53:31-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:53:31-debug: asset-db:refresh-all-database (115ms)
+2024-5-9 11:53:31-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:53:31-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:53:45-debug: refresh db internal success
+2024-5-9 11:53:45-debug: refresh db assets success
+2024-5-9 11:53:45-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:53:45-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:53:45-debug: asset-db:refresh-all-database (125ms)
+2024-5-9 11:53:45-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:53:45-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:53:53-debug: refresh db internal success
+2024-5-9 11:53:53-debug: refresh db assets success
+2024-5-9 11:53:53-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:53:53-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:53:53-debug: asset-db:refresh-all-database (122ms)
+2024-5-9 11:53:53-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:53:53-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:54:24-debug: refresh db internal success
+2024-5-9 11:54:24-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:54:24-debug: refresh db assets success
+2024-5-9 11:54:24-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:54:24-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:54:24-debug: asset-db:refresh-all-database (127ms)
+2024-5-9 11:54:24-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:54:24-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:54:26-debug: Query all assets info in project
+2024-5-9 11:54:26-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 11:54:26-debug:   Number of all scripts: 5
+2024-5-9 11:54:26-debug:   Number of other assets: 968
+2024-5-9 11:54:26-debug:   Number of all scenes: 1
+2024-5-9 11:54:26-debug: reload all scripts.
+2024-5-9 11:54:26-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 11:54:26-debug: Unregister DebugViewRuntimeControl
+2024-5-9 11:54:26-debug: Unregister Main
+2024-5-9 11:54:26-debug: Unregister AssetMgr
+2024-5-9 11:54:26-debug: Unregister GameController
+2024-5-9 11:54:26-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 11:54:26-debug: Unregister Mass
+2024-5-9 11:54:26-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 11:54:26-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 11:54:26-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 11:54:26-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 11:54:26-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 11:54:26-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 11:54:26-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 11:54:26-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:54:26-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 11:54:26-debug: [[Executor]] Register AssetMgr
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 11:54:26-debug: [[Executor]] Register Main
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 11:54:26-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 11:54:26-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:54:26-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 11:54:26-debug: [[Executor]] Register Mass
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:54:26-debug: Incremental keys: 
+2024-5-9 11:54:26-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:54:26-debug: 查询 Asset Bundle start0%
+2024-5-9 11:54:26-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 11:54:26-debug: [[Executor]] Register GameController
+2024-5-9 11:54:26-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 11:54:26-debug: // ---- build task 查询 Asset Bundle ---- (31ms)
+2024-5-9 11:54:26-debug: run build task 查询 Asset Bundle success in 31 ms √5%
+2024-5-9 11:54:26-debug: [Build Memory track]: 查询 Asset Bundle start:305.59MB, end 307.00MB, increase: 1.41MB
+2024-5-9 11:54:26-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:54:26-debug: 查询 Asset Bundle start5%
+2024-5-9 11:54:26-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 11:54:26-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 11:54:26-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:54:26-debug: [Build Memory track]: 查询 Asset Bundle start:307.01MB, end 307.03MB, increase: 13.57KB
+2024-5-9 11:54:26-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 11:54:26-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 11:54:26-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:307.04MB, end 307.06MB, increase: 17.25KB
+2024-5-9 11:54:26-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 11:54:26-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 11:54:26-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 11:54:26-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 11:54:26-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 11:54:26-debug: [Build Memory track]: 填充脚本数据到 settings.json start:307.07MB, end 307.08MB, increase: 14.87KB
+2024-5-9 11:54:26-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 11:54:26-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:54:26-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (6ms)
+2024-5-9 11:54:26-debug: run build task 整理部分构建选项内数据到 settings.json success in 6 ms √15%
+2024-5-9 11:54:26-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:307.10MB, end 304.61MB, increase: -2545.40KB
+2024-5-9 11:54:40-debug: refresh db internal success
+2024-5-9 11:54:40-debug: refresh db assets success
+2024-5-9 11:54:40-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:54:40-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:54:40-debug: asset-db:refresh-all-database (126ms)
+2024-5-9 11:54:40-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:54:40-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:56:39-debug: refresh db internal success
+2024-5-9 11:56:39-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:56:39-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:56:39-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:56:39-debug: refresh db assets success
+2024-5-9 11:56:39-debug: asset-db:refresh-all-database (136ms)
+2024-5-9 11:56:39-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:56:39-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:56:40-debug: Query all assets info in project
+2024-5-9 11:56:40-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 11:56:40-debug:   Number of all scenes: 1
+2024-5-9 11:56:40-debug:   Number of all scripts: 5
+2024-5-9 11:56:40-debug:   Number of other assets: 968
+2024-5-9 11:56:40-debug: reload all scripts.
+2024-5-9 11:56:40-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 11:56:40-debug: Unregister DebugViewRuntimeControl
+2024-5-9 11:56:40-debug: Unregister Mass
+2024-5-9 11:56:40-debug: Unregister AssetMgr
+2024-5-9 11:56:40-debug: Unregister GameController
+2024-5-9 11:56:40-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 11:56:40-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 11:56:40-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 11:56:40-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 11:56:40-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 11:56:40-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 11:56:40-debug: Unregister Main
+2024-5-9 11:56:40-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 11:56:40-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 11:56:40-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 11:56:40-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 11:56:40-debug: [[Executor]] Register Main
+2024-5-9 11:56:40-debug: [[Executor]] Register AssetMgr
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 11:56:40-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 11:56:40-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 11:56:40-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 11:56:40-debug: [[Executor]] Register GameController
+2024-5-9 11:56:40-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:56:40-debug: [[Executor]] Register Mass
+2024-5-9 11:56:40-debug: 查询 Asset Bundle start0%
+2024-5-9 11:56:40-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:56:40-debug: Incremental keys: 
+2024-5-9 11:56:40-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 11:56:40-debug: // ---- build task 查询 Asset Bundle ---- (42ms)
+2024-5-9 11:56:40-debug: run build task 查询 Asset Bundle success in 42 ms √5%
+2024-5-9 11:56:40-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:56:40-debug: 查询 Asset Bundle start5%
+2024-5-9 11:56:40-debug: [Build Memory track]: 查询 Asset Bundle start:310.60MB, end 312.59MB, increase: 1.99MB
+2024-5-9 11:56:40-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 11:56:40-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 11:56:40-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:56:40-debug: [Build Memory track]: 查询 Asset Bundle start:312.60MB, end 312.61MB, increase: 13.81KB
+2024-5-9 11:56:40-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 11:56:40-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2024-5-9 11:56:40-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √12%
+2024-5-9 11:56:40-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 11:56:40-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:312.63MB, end 312.64MB, increase: 16.93KB
+2024-5-9 11:56:40-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 11:56:40-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 11:56:40-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 11:56:40-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:56:40-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 11:56:40-debug: [Build Memory track]: 填充脚本数据到 settings.json start:312.66MB, end 312.67MB, increase: 15.57KB
+2024-5-9 11:56:40-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (5ms)
+2024-5-9 11:56:40-debug: run build task 整理部分构建选项内数据到 settings.json success in 5 ms √15%
+2024-5-9 11:56:40-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:312.68MB, end 312.80MB, increase: 118.26KB
+2024-5-9 11:57:02-debug: refresh db internal success
+2024-5-9 11:57:02-debug: refresh db assets success
+2024-5-9 11:57:02-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:57:02-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:57:02-debug: asset-db:refresh-all-database (116ms)
+2024-5-9 11:57:02-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:57:07-debug: refresh db internal success
+2024-5-9 11:57:07-debug: refresh db assets success
+2024-5-9 11:57:07-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:57:07-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:57:07-debug: asset-db:refresh-all-database (115ms)
+2024-5-9 11:57:07-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:57:07-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:57:12-debug: refresh db internal success
+2024-5-9 11:57:12-debug: refresh db assets success
+2024-5-9 11:57:12-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:57:12-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:57:12-debug: asset-db:refresh-all-database (110ms)
+2024-5-9 11:57:12-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:57:12-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:57:31-debug: refresh db internal success
+2024-5-9 11:57:31-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:57:31-debug: refresh db assets success
+2024-5-9 11:57:31-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:57:31-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:57:31-debug: asset-db:refresh-all-database (153ms)
+2024-5-9 11:57:31-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:57:31-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:57:33-debug: Query all assets info in project
+2024-5-9 11:57:33-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 11:57:33-debug:   Number of all scenes: 1
+2024-5-9 11:57:33-debug:   Number of all scripts: 5
+2024-5-9 11:57:33-debug:   Number of other assets: 968
+2024-5-9 11:57:33-debug: reload all scripts.
+2024-5-9 11:57:33-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 11:57:33-debug: Unregister AssetMgr
+2024-5-9 11:57:33-debug: Unregister DebugViewRuntimeControl
+2024-5-9 11:57:33-debug: Unregister Main
+2024-5-9 11:57:33-debug: Unregister GameController
+2024-5-9 11:57:33-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 11:57:33-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 11:57:33-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 11:57:33-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 11:57:33-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 11:57:33-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 11:57:33-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 11:57:33-debug: Unregister Mass
+2024-5-9 11:57:33-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 11:57:33-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 11:57:33-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 11:57:33-debug: [[Executor]] Register Main
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 11:57:33-debug: [[Executor]] Register AssetMgr
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 11:57:33-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 11:57:33-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 11:57:33-debug: [[Executor]] Register Mass
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 11:57:33-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:57:33-debug: Incremental keys: 
+2024-5-9 11:57:33-debug: [[Executor]] Register GameController
+2024-5-9 11:57:33-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:57:33-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:57:33-debug: 查询 Asset Bundle start0%
+2024-5-9 11:57:33-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 11:57:33-debug: // ---- build task 查询 Asset Bundle ---- (43ms)
+2024-5-9 11:57:33-debug: run build task 查询 Asset Bundle success in 43 ms √5%
+2024-5-9 11:57:33-debug: [Build Memory track]: 查询 Asset Bundle start:317.04MB, end 318.61MB, increase: 1.57MB
+2024-5-9 11:57:33-debug: 查询 Asset Bundle start5%
+2024-5-9 11:57:33-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:57:33-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 11:57:33-debug: [Build Memory track]: 查询 Asset Bundle start:318.62MB, end 318.63MB, increase: 12.47KB
+2024-5-9 11:57:33-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 11:57:33-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 11:57:33-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:57:33-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 11:57:33-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:318.64MB, end 318.66MB, increase: 15.15KB
+2024-5-9 11:57:33-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 11:57:33-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 11:57:33-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 11:57:33-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 11:57:33-debug: [Build Memory track]: 填充脚本数据到 settings.json start:318.67MB, end 318.69MB, increase: 17.84KB
+2024-5-9 11:57:33-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 11:57:33-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 11:57:33-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:57:33-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:318.70MB, end 318.82MB, increase: 119.02KB
+2024-5-9 11:57:33-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (9ms)
+2024-5-9 11:57:33-debug: run build task 整理部分构建选项内数据到 settings.json success in 9 ms √15%
+2024-5-9 11:57:39-debug: refresh db internal success
+2024-5-9 11:57:39-debug: refresh db assets success
+2024-5-9 11:57:39-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:57:39-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:57:39-debug: asset-db:refresh-all-database (128ms)
+2024-5-9 11:57:39-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:57:39-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:57:49-debug: refresh db internal success
+2024-5-9 11:57:49-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:57:50-debug: refresh db assets success
+2024-5-9 11:57:50-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:57:50-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:57:50-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:57:50-debug: asset-db:refresh-all-database (185ms)
+2024-5-9 11:57:50-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:57:51-debug: Query all assets info in project
+2024-5-9 11:57:51-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 11:57:51-debug:   Number of all scenes: 1
+2024-5-9 11:57:51-debug:   Number of all scripts: 5
+2024-5-9 11:57:51-debug:   Number of other assets: 968
+2024-5-9 11:57:51-debug: reload all scripts.
+2024-5-9 11:57:51-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 11:57:51-debug: Unregister DebugViewRuntimeControl
+2024-5-9 11:57:51-debug: Unregister AssetMgr
+2024-5-9 11:57:51-debug: Unregister GameController
+2024-5-9 11:57:51-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 11:57:51-debug: Unregister Main
+2024-5-9 11:57:51-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 11:57:51-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 11:57:51-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 11:57:51-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 11:57:51-debug: Unregister Mass
+2024-5-9 11:57:51-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 11:57:51-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 11:57:51-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 11:57:51-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 11:57:51-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 11:57:51-debug: [[Executor]] Register AssetMgr
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 11:57:51-debug: [[Executor]] Register Main
+2024-5-9 11:57:51-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 11:57:51-debug: [[Executor]] Register Mass
+2024-5-9 11:57:51-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:57:51-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 11:57:51-debug: [[Executor]] Register GameController
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 11:57:51-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:57:51-debug: Incremental keys: 
+2024-5-9 11:57:51-debug: 查询 Asset Bundle start0%
+2024-5-9 11:57:51-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:57:51-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 11:57:51-debug: // ---- build task 查询 Asset Bundle ---- (44ms)
+2024-5-9 11:57:51-debug: run build task 查询 Asset Bundle success in 44 ms √5%
+2024-5-9 11:57:51-debug: 查询 Asset Bundle start5%
+2024-5-9 11:57:51-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 11:57:51-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 11:57:51-debug: [Build Memory track]: 查询 Asset Bundle start:325.14MB, end 325.15MB, increase: 11.86KB
+2024-5-9 11:57:51-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 11:57:51-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:57:51-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:57:51-debug: [Build Memory track]: 查询 Asset Bundle start:323.82MB, end 325.13MB, increase: 1.31MB
+2024-5-9 11:57:51-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2024-5-9 11:57:51-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:325.17MB, end 325.18MB, increase: 17.12KB
+2024-5-9 11:57:51-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 11:57:51-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 11:57:51-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √12%
+2024-5-9 11:57:51-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 11:57:51-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 11:57:51-debug: [Build Memory track]: 填充脚本数据到 settings.json start:325.19MB, end 325.21MB, increase: 16.19KB
+2024-5-9 11:57:51-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 11:57:51-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:57:51-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (11ms)
+2024-5-9 11:57:51-debug: run build task 整理部分构建选项内数据到 settings.json success in 11 ms √15%
+2024-5-9 11:57:51-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:325.22MB, end 322.91MB, increase: -2365.50KB
+2024-5-9 11:58:00-debug: refresh db internal success
+2024-5-9 11:58:00-debug: refresh db assets success
+2024-5-9 11:58:00-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:58:00-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:58:00-debug: asset-db:refresh-all-database (109ms)
+2024-5-9 11:58:00-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:58:00-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:58:45-debug: refresh db internal success
+2024-5-9 11:58:45-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:58:45-debug: refresh db assets success
+2024-5-9 11:58:45-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:58:45-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:58:45-debug: asset-db:refresh-all-database (128ms)
+2024-5-9 11:58:45-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 11:58:45-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 11:58:47-debug: Query all assets info in project
+2024-5-9 11:58:47-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 11:58:47-debug:   Number of all scenes: 1
+2024-5-9 11:58:47-debug:   Number of all scripts: 5
+2024-5-9 11:58:47-debug:   Number of other assets: 968
+2024-5-9 11:58:47-debug: reload all scripts.
+2024-5-9 11:58:47-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 11:58:47-debug: Unregister Main
+2024-5-9 11:58:47-debug: Unregister DebugViewRuntimeControl
+2024-5-9 11:58:47-debug: Unregister Mass
+2024-5-9 11:58:47-debug: Unregister AssetMgr
+2024-5-9 11:58:47-debug: Unregister GameController
+2024-5-9 11:58:47-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 11:58:47-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 11:58:47-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 11:58:47-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 11:58:47-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 11:58:47-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 11:58:47-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 11:58:47-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 11:58:47-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:58:47-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 11:58:47-debug: [[Executor]] Register Main
+2024-5-9 11:58:47-debug: [[Executor]] Register AssetMgr
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 11:58:47-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 11:58:47-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 11:58:47-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:58:47-debug: [[Executor]] Register GameController
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 11:58:47-debug: Incremental keys: 
+2024-5-9 11:58:47-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:58:47-debug: [[Executor]] Register Mass
+2024-5-9 11:58:47-debug: 查询 Asset Bundle start0%
+2024-5-9 11:58:47-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:58:47-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 11:58:47-debug: run build task 查询 Asset Bundle success in 70 ms √5%
+2024-5-9 11:58:47-debug: [Build Memory track]: 查询 Asset Bundle start:300.27MB, end 301.96MB, increase: 1.69MB
+2024-5-9 11:58:47-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:58:47-debug: 查询 Asset Bundle start5%
+2024-5-9 11:58:47-debug: // ---- build task 查询 Asset Bundle ---- (70ms)
+2024-5-9 11:58:47-debug: // ---- build task 查询 Asset Bundle ---- (2ms)
+2024-5-9 11:58:47-debug: run build task 查询 Asset Bundle success in 2 ms √10%
+2024-5-9 11:58:47-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:58:47-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 11:58:47-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 11:58:47-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:301.99MB, end 302.01MB, increase: 13.46KB
+2024-5-9 11:58:47-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 11:58:47-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 11:58:47-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 11:58:47-debug: [Build Memory track]: 查询 Asset Bundle start:301.97MB, end 301.98MB, increase: 13.54KB
+2024-5-9 11:58:47-debug: // ---- build task 填充脚本数据到 settings.json ---- (2ms)
+2024-5-9 11:58:47-debug: run build task 填充脚本数据到 settings.json success in 2 ms √13%
+2024-5-9 11:58:47-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 11:58:47-debug: [Build Memory track]: 填充脚本数据到 settings.json start:302.02MB, end 302.03MB, increase: 15.46KB
+2024-5-9 11:58:47-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:58:47-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (6ms)
+2024-5-9 11:58:47-debug: run build task 整理部分构建选项内数据到 settings.json success in 6 ms √15%
+2024-5-9 11:58:47-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:302.05MB, end 302.18MB, increase: 140.97KB
+2024-5-9 11:58:47-debug: refresh db internal success
+2024-5-9 11:58:47-debug: refresh db assets success
+2024-5-9 11:58:47-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:58:47-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:58:47-debug: asset-db:refresh-all-database (174ms)
+2024-5-9 11:58:47-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:58:47-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:59:15-debug: refresh db internal success
+2024-5-9 11:59:15-debug: refresh db assets success
+2024-5-9 11:59:15-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:59:15-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:59:15-debug: asset-db:refresh-all-database (132ms)
+2024-5-9 11:59:15-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:59:15-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:59:26-debug: refresh db internal success
+2024-5-9 11:59:26-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 11:59:27-debug: refresh db assets success
+2024-5-9 11:59:27-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 11:59:27-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 11:59:27-debug: asset-db:refresh-all-database (160ms)
+2024-5-9 11:59:27-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 11:59:27-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 11:59:28-debug: Query all assets info in project
+2024-5-9 11:59:28-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 11:59:28-debug:   Number of all scenes: 1
+2024-5-9 11:59:28-debug:   Number of other assets: 968
+2024-5-9 11:59:28-debug:   Number of all scripts: 5
+2024-5-9 11:59:28-debug: reload all scripts.
+2024-5-9 11:59:28-debug: Unregister DebugViewRuntimeControl
+2024-5-9 11:59:28-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 11:59:28-debug: Unregister Main
+2024-5-9 11:59:28-debug: Unregister AssetMgr
+2024-5-9 11:59:28-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 11:59:28-debug: Unregister Mass
+2024-5-9 11:59:28-debug: Unregister GameController
+2024-5-9 11:59:28-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 11:59:28-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 11:59:28-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 11:59:28-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 11:59:28-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 11:59:28-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 11:59:28-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 11:59:28-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:59:28-debug: [[Executor]] Register Main
+2024-5-9 11:59:28-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 11:59:28-debug: [[Executor]] Register AssetMgr
+2024-5-9 11:59:28-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 11:59:28-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:59:28-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 11:59:28-debug: [[Executor]] Register GameController
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 11:59:28-debug: Incremental keys: 
+2024-5-9 11:59:28-debug: 查询 Asset Bundle start0%
+2024-5-9 11:59:28-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 11:59:28-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:59:28-debug: [[Executor]] Register Mass
+2024-5-9 11:59:28-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 11:59:28-debug: run build task 查询 Asset Bundle success in 36 ms √5%
+2024-5-9 11:59:28-debug: [Build Memory track]: 查询 Asset Bundle start:305.81MB, end 307.36MB, increase: 1.54MB
+2024-5-9 11:59:28-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 11:59:28-debug: // ---- build task 查询 Asset Bundle ---- (36ms)
+2024-5-9 11:59:28-debug: 查询 Asset Bundle start5%
+2024-5-9 11:59:28-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 11:59:28-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 11:59:28-debug: [Build Memory track]: 查询 Asset Bundle start:307.37MB, end 307.38MB, increase: 14.09KB
+2024-5-9 11:59:28-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:59:28-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 11:59:28-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 11:59:28-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 11:59:28-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:307.40MB, end 307.41MB, increase: 16.82KB
+2024-5-9 11:59:28-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 11:59:28-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 11:59:28-debug: [Build Memory track]: 填充脚本数据到 settings.json start:307.42MB, end 307.44MB, increase: 11.12KB
+2024-5-9 11:59:28-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2024-5-9 11:59:28-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 11:59:28-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 11:59:28-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (7ms)
+2024-5-9 11:59:28-debug: run build task 整理部分构建选项内数据到 settings.json success in 7 ms √15%
+2024-5-9 11:59:28-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:307.45MB, end 307.56MB, increase: 118.27KB
+2024-5-9 12:00:00-debug: refresh db internal success
+2024-5-9 12:00:00-debug: refresh db assets success
+2024-5-9 12:00:00-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:00:00-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:00:00-debug: asset-db:refresh-all-database (157ms)
+2024-5-9 12:00:00-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:00:00-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:00:58-debug: refresh db internal success
+2024-5-9 12:00:58-debug: refresh db assets success
+2024-5-9 12:00:58-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:00:58-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:00:58-debug: asset-db:refresh-all-database (135ms)
+2024-5-9 12:00:58-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 12:00:58-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:02:05-debug: refresh db internal success
+2024-5-9 12:02:05-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 12:02:05-debug: refresh db assets success
+2024-5-9 12:02:05-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:02:05-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:02:05-debug: asset-db:refresh-all-database (117ms)
+2024-5-9 12:02:05-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:02:05-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:02:07-debug: Query all assets info in project
+2024-5-9 12:02:07-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 12:02:07-debug:   Number of all scenes: 1
+2024-5-9 12:02:07-debug:   Number of all scripts: 5
+2024-5-9 12:02:07-debug:   Number of other assets: 968
+2024-5-9 12:02:07-debug: reload all scripts.
+2024-5-9 12:02:07-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 12:02:07-debug: Unregister DebugViewRuntimeControl
+2024-5-9 12:02:07-debug: Unregister Main
+2024-5-9 12:02:07-debug: Unregister AssetMgr
+2024-5-9 12:02:07-debug: Unregister Mass
+2024-5-9 12:02:07-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 12:02:07-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 12:02:07-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 12:02:07-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 12:02:07-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 12:02:07-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 12:02:07-debug: Unregister GameController
+2024-5-9 12:02:07-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 12:02:07-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 12:02:07-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 12:02:07-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 12:02:07-debug: [[Executor]] Register Main
+2024-5-9 12:02:07-debug: [[Executor]] Register AssetMgr
+2024-5-9 12:02:07-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 12:02:07-debug: [[Executor]] Register Mass
+2024-5-9 12:02:07-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 12:02:07-debug: [[Executor]] Register GameController
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:02:07-debug: Incremental keys: 
+2024-5-9 12:02:07-debug: 查询 Asset Bundle start0%
+2024-5-9 12:02:07-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:02:07-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:02:07-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 12:02:07-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 12:02:07-debug: // ---- build task 查询 Asset Bundle ---- (38ms)
+2024-5-9 12:02:07-debug: run build task 查询 Asset Bundle success in 38 ms √5%
+2024-5-9 12:02:07-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:02:07-debug: 查询 Asset Bundle start5%
+2024-5-9 12:02:07-debug: [Build Memory track]: 查询 Asset Bundle start:313.80MB, end 312.72MB, increase: -1104.73KB
+2024-5-9 12:02:07-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 12:02:07-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 12:02:07-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 12:02:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:02:07-debug: [Build Memory track]: 查询 Asset Bundle start:312.74MB, end 312.75MB, increase: 12.47KB
+2024-5-9 12:02:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2024-5-9 12:02:07-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √12%
+2024-5-9 12:02:07-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:312.76MB, end 312.78MB, increase: 16.57KB
+2024-5-9 12:02:07-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 12:02:07-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 12:02:07-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 12:02:07-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 12:02:07-debug: [Build Memory track]: 填充脚本数据到 settings.json start:312.79MB, end 312.81MB, increase: 16.69KB
+2024-5-9 12:02:07-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 12:02:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:02:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (5ms)
+2024-5-9 12:02:07-debug: run build task 整理部分构建选项内数据到 settings.json success in 5 ms √15%
+2024-5-9 12:02:07-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:312.82MB, end 312.94MB, increase: 119.04KB
+2024-5-9 12:02:25-debug: refresh db internal success
+2024-5-9 12:02:25-debug: refresh db assets success
+2024-5-9 12:02:25-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:02:25-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:02:25-debug: asset-db:refresh-all-database (130ms)
+2024-5-9 12:02:25-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:02:25-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:02:35-debug: refresh db internal success
+2024-5-9 12:02:35-debug: refresh db assets success
+2024-5-9 12:02:35-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:02:35-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:02:35-debug: asset-db:refresh-all-database (158ms)
+2024-5-9 12:02:35-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:02:35-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:02:47-debug: refresh db internal success
+2024-5-9 12:02:47-debug: refresh db assets success
+2024-5-9 12:02:47-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:02:47-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:02:47-debug: asset-db:refresh-all-database (159ms)
+2024-5-9 12:02:47-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 12:02:47-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:02:55-debug: refresh db internal success
+2024-5-9 12:02:55-debug: refresh db assets success
+2024-5-9 12:02:55-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:02:55-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:02:55-debug: asset-db:refresh-all-database (131ms)
+2024-5-9 12:02:55-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:02:55-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:03:02-debug: start refresh asset from D:\Project\cocos\test\assets\main.scene...
+2024-5-9 12:03:02-debug: %cImport%c: D:\Project\cocos\test\assets\main.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-9 12:03:02-debug: refresh asset D:\Project\cocos\test\assets success
+2024-5-9 12:03:03-debug: Query all assets info in project
+2024-5-9 12:03:03-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 12:03:03-debug:   Number of all scenes: 1
+2024-5-9 12:03:03-debug:   Number of all scripts: 5
+2024-5-9 12:03:03-debug:   Number of other assets: 968
+2024-5-9 12:03:03-debug: reload all scripts.
+2024-5-9 12:03:03-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 12:03:03-debug: Unregister DebugViewRuntimeControl
+2024-5-9 12:03:03-debug: Unregister Mass
+2024-5-9 12:03:03-debug: Unregister AssetMgr
+2024-5-9 12:03:03-debug: Unregister GameController
+2024-5-9 12:03:03-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 12:03:03-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 12:03:03-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 12:03:03-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 12:03:03-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 12:03:03-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 12:03:03-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 12:03:03-debug: Unregister Main
+2024-5-9 12:03:03-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 12:03:03-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 12:03:03-debug: [[Executor]] Register Main
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 12:03:03-debug: [[Executor]] Register AssetMgr
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 12:03:03-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:03:03-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 12:03:03-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:03:03-debug: Incremental keys: 
+2024-5-9 12:03:03-debug: [[Executor]] Register Mass
+2024-5-9 12:03:03-debug: [[Executor]] Register GameController
+2024-5-9 12:03:03-debug: 查询 Asset Bundle start0%
+2024-5-9 12:03:03-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:03:03-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 12:03:03-debug: // ---- build task 查询 Asset Bundle ---- (40ms)
+2024-5-9 12:03:03-debug: run build task 查询 Asset Bundle success in 40 ms √5%
+2024-5-9 12:03:03-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:03:03-debug: [Build Memory track]: 查询 Asset Bundle start:319.65MB, end 321.57MB, increase: 1.92MB
+2024-5-9 12:03:03-debug: 查询 Asset Bundle start5%
+2024-5-9 12:03:03-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 12:03:03-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 12:03:03-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:03:03-debug: [Build Memory track]: 查询 Asset Bundle start:321.58MB, end 321.60MB, increase: 13.54KB
+2024-5-9 12:03:03-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 12:03:03-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 12:03:03-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:321.61MB, end 321.63MB, increase: 16.95KB
+2024-5-9 12:03:03-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 12:03:03-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 12:03:03-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 12:03:03-debug: // ---- build task 填充脚本数据到 settings.json ---- (2ms)
+2024-5-9 12:03:03-debug: [Build Memory track]: 填充脚本数据到 settings.json start:321.64MB, end 321.65MB, increase: 15.86KB
+2024-5-9 12:03:03-debug: run build task 填充脚本数据到 settings.json success in 2 ms √13%
+2024-5-9 12:03:03-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:03:03-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 12:03:03-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (4ms)
+2024-5-9 12:03:03-debug: run build task 整理部分构建选项内数据到 settings.json success in 4 ms √15%
+2024-5-9 12:03:03-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:321.67MB, end 321.79MB, increase: 129.68KB
+2024-5-9 12:03:14-debug: refresh db internal success
+2024-5-9 12:03:14-debug: refresh db assets success
+2024-5-9 12:03:14-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:03:14-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:03:14-debug: asset-db:refresh-all-database (153ms)
+2024-5-9 12:03:14-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 12:03:14-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:03:25-debug: refresh db internal success
+2024-5-9 12:03:25-debug: refresh db assets success
+2024-5-9 12:03:25-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:03:25-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:03:25-debug: asset-db:refresh-all-database (145ms)
+2024-5-9 12:03:25-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:03:25-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2024-5-9 12:04:01-debug: start refresh asset from D:\Project\cocos\test\assets\main.scene...
+2024-5-9 12:04:01-debug: %cImport%c: D:\Project\cocos\test\assets\main.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-9 12:04:01-debug: refresh asset D:\Project\cocos\test\assets success
+2024-5-9 12:04:02-debug: Query all assets info in project
+2024-5-9 12:04:02-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 12:04:02-debug:   Number of all scripts: 5
+2024-5-9 12:04:02-debug:   Number of other assets: 968
+2024-5-9 12:04:02-debug:   Number of all scenes: 1
+2024-5-9 12:04:02-debug: reload all scripts.
+2024-5-9 12:04:02-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 12:04:02-debug: Unregister DebugViewRuntimeControl
+2024-5-9 12:04:02-debug: Unregister Mass
+2024-5-9 12:04:02-debug: Unregister AssetMgr
+2024-5-9 12:04:02-debug: Unregister GameController
+2024-5-9 12:04:02-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 12:04:02-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 12:04:02-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 12:04:02-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 12:04:02-debug: Unregister Main
+2024-5-9 12:04:02-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 12:04:02-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 12:04:02-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:04:02-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 12:04:02-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 12:04:02-debug: [[Executor]] Register AssetMgr
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 12:04:02-debug: [[Executor]] Register Mass
+2024-5-9 12:04:02-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:04:02-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 12:04:02-debug: [[Executor]] Register GameController
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 12:04:02-debug: 查询 Asset Bundle start0%
+2024-5-9 12:04:02-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:04:02-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:04:02-debug: Incremental keys: 
+2024-5-9 12:04:02-debug: [[Executor]] Register Main
+2024-5-9 12:04:02-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 12:04:02-debug: // ---- build task 查询 Asset Bundle ---- (35ms)
+2024-5-9 12:04:02-debug: run build task 查询 Asset Bundle success in 35 ms √5%
+2024-5-9 12:04:02-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:04:02-debug: [Build Memory track]: 查询 Asset Bundle start:327.23MB, end 327.85MB, increase: 640.33KB
+2024-5-9 12:04:02-debug: 查询 Asset Bundle start5%
+2024-5-9 12:04:02-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 12:04:02-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 12:04:02-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:04:02-debug: [Build Memory track]: 查询 Asset Bundle start:327.87MB, end 327.88MB, increase: 14.54KB
+2024-5-9 12:04:02-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 12:04:02-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 12:04:02-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 12:04:02-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:327.89MB, end 327.91MB, increase: 16.65KB
+2024-5-9 12:04:02-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 12:04:02-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 12:04:02-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2024-5-9 12:04:02-debug: [Build Memory track]: 填充脚本数据到 settings.json start:327.92MB, end 327.93MB, increase: 10.39KB
+2024-5-9 12:04:02-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 12:04:02-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:04:02-debug: run build task 整理部分构建选项内数据到 settings.json success in 6 ms √15%
+2024-5-9 12:04:02-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:327.94MB, end 328.06MB, increase: 118.57KB
+2024-5-9 12:04:02-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (6ms)
+2024-5-9 12:04:16-debug: refresh db internal success
+2024-5-9 12:04:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:04:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:04:16-debug: refresh db assets success
+2024-5-9 12:04:16-debug: asset-db:refresh-all-database (166ms)
+2024-5-9 12:04:16-debug: asset-db:worker-effect-data-processing (3ms)
+2024-5-9 12:04:16-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2024-5-9 12:04:32-debug: refresh db internal success
+2024-5-9 12:04:32-debug: refresh db assets success
+2024-5-9 12:04:32-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:04:32-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:04:32-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 12:04:32-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:04:50-debug: refresh db internal success
+2024-5-9 12:04:50-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 12:04:50-debug: refresh db assets success
+2024-5-9 12:04:50-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:04:50-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:04:50-debug: asset-db:refresh-all-database (142ms)
+2024-5-9 12:04:50-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:04:50-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:04:52-debug: Query all assets info in project
+2024-5-9 12:04:52-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 12:04:52-debug:   Number of all scenes: 1
+2024-5-9 12:04:52-debug:   Number of all scripts: 5
+2024-5-9 12:04:52-debug:   Number of other assets: 968
+2024-5-9 12:04:52-debug: reload all scripts.
+2024-5-9 12:04:52-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 12:04:52-debug: Unregister DebugViewRuntimeControl
+2024-5-9 12:04:52-debug: Unregister Main
+2024-5-9 12:04:52-debug: Unregister AssetMgr
+2024-5-9 12:04:52-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 12:04:52-debug: Unregister GameController
+2024-5-9 12:04:52-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 12:04:52-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 12:04:52-debug: Unregister Mass
+2024-5-9 12:04:52-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 12:04:52-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 12:04:52-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 12:04:52-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 12:04:52-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 12:04:52-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 12:04:52-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 12:04:52-debug: [[Executor]] Register Main
+2024-5-9 12:04:52-debug: [[Executor]] Register AssetMgr
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:04:52-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 12:04:52-debug: [[Executor]] Register Mass
+2024-5-9 12:04:52-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 12:04:52-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 12:04:52-debug: Incremental keys: 
+2024-5-9 12:04:52-debug: 查询 Asset Bundle start0%
+2024-5-9 12:04:52-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 12:04:52-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:04:52-debug: [[Executor]] Register GameController
+2024-5-9 12:04:52-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 12:04:52-debug: // ---- build task 查询 Asset Bundle ---- (40ms)
+2024-5-9 12:04:52-debug: run build task 查询 Asset Bundle success in 40 ms √5%
+2024-5-9 12:04:52-debug: 查询 Asset Bundle start5%
+2024-5-9 12:04:52-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:04:52-debug: [Build Memory track]: 查询 Asset Bundle start:301.94MB, end 303.60MB, increase: 1.66MB
+2024-5-9 12:04:52-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 12:04:52-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 12:04:52-debug: [Build Memory track]: 查询 Asset Bundle start:303.61MB, end 303.62MB, increase: 13.46KB
+2024-5-9 12:04:52-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 12:04:52-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:04:52-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 12:04:52-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 12:04:52-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 12:04:52-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:303.64MB, end 303.65MB, increase: 16.83KB
+2024-5-9 12:04:52-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 12:04:52-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2024-5-9 12:04:52-debug: [Build Memory track]: 填充脚本数据到 settings.json start:303.67MB, end 303.68MB, increase: 11.67KB
+2024-5-9 12:04:52-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:04:52-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 12:04:52-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (4ms)
+2024-5-9 12:04:52-debug: run build task 整理部分构建选项内数据到 settings.json success in 4 ms √15%
+2024-5-9 12:04:52-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:303.69MB, end 303.82MB, increase: 129.91KB
+2024-5-9 12:05:52-debug: refresh db internal success
+2024-5-9 12:05:52-debug: refresh db assets success
+2024-5-9 12:05:52-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:05:52-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:05:52-debug: asset-db:refresh-all-database (134ms)
+2024-5-9 12:05:52-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:05:52-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:06:15-debug: refresh db internal success
+2024-5-9 12:06:15-debug: refresh db assets success
+2024-5-9 12:06:15-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:06:15-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:06:15-debug: asset-db:refresh-all-database (238ms)
+2024-5-9 12:06:15-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:06:15-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 12:06:44-debug: Query all assets info in project
+2024-5-9 12:06:44-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 12:06:44-debug:   Number of all scenes: 1
+2024-5-9 12:06:44-debug:   Number of other assets: 968
+2024-5-9 12:06:44-debug:   Number of all scripts: 5
+2024-5-9 12:06:44-debug: reload all scripts.
+2024-5-9 12:06:44-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 12:06:44-debug: Unregister DebugViewRuntimeControl
+2024-5-9 12:06:44-debug: Unregister Mass
+2024-5-9 12:06:44-debug: Unregister AssetMgr
+2024-5-9 12:06:44-debug: Unregister GameController
+2024-5-9 12:06:44-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 12:06:44-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 12:06:44-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 12:06:44-debug: Unregister Main
+2024-5-9 12:06:44-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 12:06:44-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 12:06:44-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:06:44-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 12:06:44-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 12:06:44-debug: [[Executor]] Register AssetMgr
+2024-5-9 12:06:44-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 12:06:44-debug: [[Executor]] Register Mass
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 12:06:44-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 12:06:44-debug: [[Executor]] Register GameController
+2024-5-9 12:06:44-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 12:06:44-debug: Incremental keys: 
+2024-5-9 12:06:44-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:06:44-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:06:44-debug: 查询 Asset Bundle start0%
+2024-5-9 12:06:44-debug: [[Executor]] Register Main
+2024-5-9 12:06:44-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 12:06:44-debug: // ---- build task 查询 Asset Bundle ---- (27ms)
+2024-5-9 12:06:44-debug: run build task 查询 Asset Bundle success in 27 ms √5%
+2024-5-9 12:06:44-debug: [Build Memory track]: 查询 Asset Bundle start:307.72MB, end 309.64MB, increase: 1.92MB
+2024-5-9 12:06:44-debug: 查询 Asset Bundle start5%
+2024-5-9 12:06:44-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:06:44-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 12:06:44-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 12:06:44-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:06:44-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 12:06:44-debug: [Build Memory track]: 查询 Asset Bundle start:309.65MB, end 309.66MB, increase: 13.53KB
+2024-5-9 12:06:44-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 12:06:44-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 12:06:44-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 12:06:44-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:309.68MB, end 309.69MB, increase: 17.29KB
+2024-5-9 12:06:44-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 12:06:44-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 12:06:44-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 12:06:44-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:06:44-debug: [Build Memory track]: 填充脚本数据到 settings.json start:309.71MB, end 309.72MB, increase: 17.14KB
+2024-5-9 12:06:44-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 12:06:44-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (3ms)
+2024-5-9 12:06:44-debug: run build task 整理部分构建选项内数据到 settings.json success in 3 ms √15%
+2024-5-9 12:06:44-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:309.74MB, end 309.86MB, increase: 123.53KB
+2024-5-9 12:07:16-debug: refresh db internal success
+2024-5-9 12:07:16-debug: refresh db assets success
+2024-5-9 12:07:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:07:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:07:16-debug: asset-db:refresh-all-database (110ms)
+2024-5-9 12:07:16-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:07:16-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:07:53-debug: refresh db internal success
+2024-5-9 12:07:53-debug: refresh db assets success
+2024-5-9 12:07:53-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:07:53-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:07:53-debug: asset-db:refresh-all-database (157ms)
+2024-5-9 12:07:53-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:07:53-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:08:03-debug: start refresh asset from D:\Project\cocos\test\assets\main.scene...
+2024-5-9 12:08:03-debug: %cImport%c: D:\Project\cocos\test\assets\main.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-9 12:08:03-debug: refresh asset D:\Project\cocos\test\assets success
+2024-5-9 12:08:04-debug: Query all assets info in project
+2024-5-9 12:08:04-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 12:08:04-debug:   Number of all scenes: 1
+2024-5-9 12:08:04-debug:   Number of all scripts: 5
+2024-5-9 12:08:04-debug:   Number of other assets: 968
+2024-5-9 12:08:04-debug: reload all scripts.
+2024-5-9 12:08:04-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 12:08:04-debug: Unregister DebugViewRuntimeControl
+2024-5-9 12:08:04-debug: Unregister Main
+2024-5-9 12:08:04-debug: Unregister AssetMgr
+2024-5-9 12:08:04-debug: Unregister Mass
+2024-5-9 12:08:04-debug: Unregister GameController
+2024-5-9 12:08:04-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 12:08:04-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 12:08:04-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 12:08:04-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 12:08:04-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 12:08:04-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 12:08:04-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 12:08:04-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:08:04-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 12:08:04-debug: [[Executor]] Register Main
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 12:08:04-debug: [[Executor]] Register AssetMgr
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 12:08:04-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 12:08:04-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 12:08:04-debug: [[Executor]] Register GameController
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 12:08:04-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:08:04-debug: [[Executor]] Register Mass
+2024-5-9 12:08:04-debug: 查询 Asset Bundle start0%
+2024-5-9 12:08:04-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:08:04-debug: Incremental keys: 
+2024-5-9 12:08:04-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 12:08:04-debug: // ---- build task 查询 Asset Bundle ---- (37ms)
+2024-5-9 12:08:04-debug: run build task 查询 Asset Bundle success in 37 ms √5%
+2024-5-9 12:08:04-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:08:04-debug: [Build Memory track]: 查询 Asset Bundle start:313.33MB, end 315.21MB, increase: 1.88MB
+2024-5-9 12:08:04-debug: 查询 Asset Bundle start5%
+2024-5-9 12:08:04-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 12:08:04-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 12:08:04-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:08:04-debug: [Build Memory track]: 查询 Asset Bundle start:315.22MB, end 315.24MB, increase: 19.85KB
+2024-5-9 12:08:04-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 12:08:04-debug: run build task 整理部分构建选项内数据到 settings.json success in 0 ms √12%
+2024-5-9 12:08:04-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:315.25MB, end 315.27MB, increase: 13.18KB
+2024-5-9 12:08:04-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 12:08:04-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 12:08:04-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2024-5-9 12:08:04-debug: [Build Memory track]: 填充脚本数据到 settings.json start:315.28MB, end 315.29MB, increase: 11.08KB
+2024-5-9 12:08:04-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:08:04-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 12:08:04-debug: run build task 整理部分构建选项内数据到 settings.json success in 3 ms √15%
+2024-5-9 12:08:04-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (3ms)
+2024-5-9 12:08:04-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:315.30MB, end 315.42MB, increase: 117.07KB
+2024-5-9 12:08:26-debug: refresh db internal success
+2024-5-9 12:08:26-debug: refresh db assets success
+2024-5-9 12:08:26-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:08:26-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:08:26-debug: asset-db:refresh-all-database (138ms)
+2024-5-9 12:08:26-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:08:26-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:11:55-debug: refresh db internal success
+2024-5-9 12:11:55-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 12:11:55-debug: refresh db assets success
+2024-5-9 12:11:55-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:11:55-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:11:55-debug: asset-db:refresh-all-database (132ms)
+2024-5-9 12:11:55-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:11:55-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:11:56-debug: Query all assets info in project
+2024-5-9 12:11:56-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 12:11:56-debug:   Number of all scenes: 1
+2024-5-9 12:11:56-debug:   Number of all scripts: 5
+2024-5-9 12:11:56-debug:   Number of other assets: 968
+2024-5-9 12:11:56-debug: reload all scripts.
+2024-5-9 12:11:56-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 12:11:56-debug: Unregister DebugViewRuntimeControl
+2024-5-9 12:11:56-debug: Unregister AssetMgr
+2024-5-9 12:11:56-debug: Unregister Mass
+2024-5-9 12:11:56-debug: Unregister GameController
+2024-5-9 12:11:56-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 12:11:56-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 12:11:56-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 12:11:56-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 12:11:56-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 12:11:56-debug: Unregister Main
+2024-5-9 12:11:56-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 12:11:56-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 12:11:56-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 12:11:56-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 12:11:56-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:11:56-debug: [[Executor]] Register AssetMgr
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 12:11:56-debug: [[Executor]] Register Main
+2024-5-9 12:11:56-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 12:11:56-debug: [[Executor]] Register Mass
+2024-5-9 12:11:56-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:11:56-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 12:11:56-debug: [[Executor]] Register GameController
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 12:11:56-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:11:56-debug: Incremental keys: 
+2024-5-9 12:11:56-debug: 查询 Asset Bundle start0%
+2024-5-9 12:11:56-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:11:56-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 12:11:56-debug: // ---- build task 查询 Asset Bundle ---- (39ms)
+2024-5-9 12:11:56-debug: run build task 查询 Asset Bundle success in 39 ms √5%
+2024-5-9 12:11:56-debug: [Build Memory track]: 查询 Asset Bundle start:318.54MB, end 319.83MB, increase: 1.29MB
+2024-5-9 12:11:56-debug: 查询 Asset Bundle start5%
+2024-5-9 12:11:56-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:11:56-debug: // ---- build task 查询 Asset Bundle ---- (2ms)
+2024-5-9 12:11:56-debug: run build task 查询 Asset Bundle success in 2 ms √10%
+2024-5-9 12:11:56-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:11:56-debug: [Build Memory track]: 查询 Asset Bundle start:319.85MB, end 319.86MB, increase: 12.72KB
+2024-5-9 12:11:56-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 12:11:56-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 12:11:56-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 12:11:56-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:319.87MB, end 319.89MB, increase: 15.33KB
+2024-5-9 12:11:56-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 12:11:56-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 12:11:56-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
+2024-5-9 12:11:56-debug: [Build Memory track]: 填充脚本数据到 settings.json start:319.90MB, end 319.91MB, increase: 11.63KB
+2024-5-9 12:11:56-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 12:11:56-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:11:56-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (11ms)
+2024-5-9 12:11:56-debug: run build task 整理部分构建选项内数据到 settings.json success in 11 ms √15%
+2024-5-9 12:11:56-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:319.93MB, end 320.06MB, increase: 130.04KB
+2024-5-9 12:12:11-debug: refresh db internal success
+2024-5-9 12:12:11-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 12:12:11-debug: refresh db assets success
+2024-5-9 12:12:11-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 12:12:11-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 12:12:11-debug: asset-db:refresh-all-database (119ms)
+2024-5-9 12:12:11-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 12:12:11-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 12:12:12-debug: Query all assets info in project
+2024-5-9 12:12:12-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 12:12:12-debug:   Number of all scenes: 1
+2024-5-9 12:12:12-debug:   Number of all scripts: 5
+2024-5-9 12:12:12-debug:   Number of other assets: 968
+2024-5-9 12:12:12-debug: reload all scripts.
+2024-5-9 12:12:13-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 12:12:13-debug: Unregister Main
+2024-5-9 12:12:13-debug: Unregister DebugViewRuntimeControl
+2024-5-9 12:12:13-debug: Unregister GameController
+2024-5-9 12:12:13-debug: Unregister Mass
+2024-5-9 12:12:13-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 12:12:13-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 12:12:13-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 12:12:13-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 12:12:13-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 12:12:13-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 12:12:13-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 12:12:13-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 12:12:13-debug: Unregister AssetMgr
+2024-5-9 12:12:13-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 12:12:13-debug: [[Executor]] Register AssetMgr
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 12:12:13-debug: [[Executor]] Register Main
+2024-5-9 12:12:13-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 12:12:13-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 12:12:13-debug: [[Executor]] Register Mass
+2024-5-9 12:12:13-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:12:13-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 12:12:13-debug: [[Executor]] Register GameController
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 12:12:13-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 12:12:13-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:12:13-debug: Incremental keys: 
+2024-5-9 12:12:13-debug: 查询 Asset Bundle start0%
+2024-5-9 12:12:13-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 12:12:13-debug: // ---- build task 查询 Asset Bundle ---- (53ms)
+2024-5-9 12:12:13-debug: run build task 查询 Asset Bundle success in 53 ms √5%
+2024-5-9 12:12:13-debug: [Build Memory track]: 查询 Asset Bundle start:323.42MB, end 322.59MB, increase: -848.14KB
+2024-5-9 12:12:13-debug: 查询 Asset Bundle start5%
+2024-5-9 12:12:13-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 12:12:13-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 12:12:13-debug: [Build Memory track]: 查询 Asset Bundle start:322.60MB, end 322.62MB, increase: 13.79KB
+2024-5-9 12:12:13-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 12:12:13-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 12:12:13-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:12:13-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 12:12:13-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 12:12:13-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 12:12:13-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:322.63MB, end 322.65MB, increase: 17.68KB
+2024-5-9 12:12:13-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 12:12:13-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 12:12:13-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 12:12:13-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 12:12:13-debug: [Build Memory track]: 填充脚本数据到 settings.json start:322.66MB, end 322.67MB, increase: 14.61KB
+2024-5-9 12:12:13-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 12:12:13-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (5ms)
+2024-5-9 12:12:13-debug: run build task 整理部分构建选项内数据到 settings.json success in 5 ms √15%
+2024-5-9 12:12:13-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:322.69MB, end 322.80MB, increase: 118.48KB
+2024-5-9 13:00:00-debug: refresh db internal success
+2024-5-9 13:00:00-debug: refresh db assets success
+2024-5-9 13:00:00-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 13:00:00-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 13:00:00-debug: asset-db:refresh-all-database (125ms)
+2024-5-9 13:00:00-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-9 13:00:00-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 13:02:28-debug: refresh db internal success
+2024-5-9 13:02:28-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 13:02:28-debug: refresh db assets success
+2024-5-9 13:02:28-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 13:02:28-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 13:02:28-debug: asset-db:refresh-all-database (120ms)
+2024-5-9 13:02:31-debug: refresh db internal success
+2024-5-9 13:02:31-debug: refresh db assets success
+2024-5-9 13:02:31-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 13:02:31-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 13:02:31-debug: asset-db:refresh-all-database (130ms)
+2024-5-9 13:02:31-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 13:02:31-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 13:02:32-debug: Query all assets info in project
+2024-5-9 13:02:32-debug:   Number of all scenes: 1
+2024-5-9 13:02:32-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 13:02:32-debug:   Number of all scripts: 5
+2024-5-9 13:02:32-debug:   Number of other assets: 968
+2024-5-9 13:02:32-debug: reload all scripts.
+2024-5-9 13:02:32-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 13:02:32-debug: Unregister DebugViewRuntimeControl
+2024-5-9 13:02:32-debug: Unregister Main
+2024-5-9 13:02:32-debug: Unregister AssetMgr
+2024-5-9 13:02:32-debug: Unregister GameController
+2024-5-9 13:02:32-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 13:02:32-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 13:02:32-debug: Unregister Mass
+2024-5-9 13:02:32-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 13:02:32-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 13:02:32-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 13:02:32-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 13:02:32-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 13:02:32-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 13:02:32-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 13:02:32-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 13:02:32-debug: [[Executor]] Register AssetMgr
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 13:02:32-debug: [[Executor]] Register Main
+2024-5-9 13:02:32-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 13:02:32-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 13:02:32-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 13:02:32-debug: [[Executor]] Register Mass
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 13:02:32-debug: [[Executor]] Register GameController
+2024-5-9 13:02:32-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 13:02:32-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 13:02:32-debug: 查询 Asset Bundle start0%
+2024-5-9 13:02:32-debug: Incremental keys: 
+2024-5-9 13:02:32-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 13:02:32-debug: // ---- build task 查询 Asset Bundle ---- (33ms)
+2024-5-9 13:02:32-debug: run build task 查询 Asset Bundle success in 33 ms √5%
+2024-5-9 13:02:32-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 13:02:32-debug: [Build Memory track]: 查询 Asset Bundle start:300.14MB, end 301.92MB, increase: 1.78MB
+2024-5-9 13:02:32-debug: 查询 Asset Bundle start5%
+2024-5-9 13:02:32-debug: run build task 查询 Asset Bundle success in 0 ms √10%
+2024-5-9 13:02:32-debug: [Build Memory track]: 查询 Asset Bundle start:301.93MB, end 301.94MB, increase: 10.03KB
+2024-5-9 13:02:32-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 13:02:32-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 13:02:32-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 13:02:32-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 13:02:32-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 13:02:32-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:301.95MB, end 301.97MB, increase: 16.46KB
+2024-5-9 13:02:32-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 13:02:32-debug: // ---- build task 填充脚本数据到 settings.json ---- (2ms)
+2024-5-9 13:02:32-debug: run build task 填充脚本数据到 settings.json success in 2 ms √13%
+2024-5-9 13:02:32-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 13:02:32-debug: [Build Memory track]: 填充脚本数据到 settings.json start:301.98MB, end 302.00MB, increase: 15.25KB
+2024-5-9 13:02:32-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 13:02:32-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (5ms)
+2024-5-9 13:02:32-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:302.01MB, end 302.14MB, increase: 130.39KB
+2024-5-9 13:02:32-debug: run build task 整理部分构建选项内数据到 settings.json success in 5 ms √15%
+2024-5-9 13:04:21-debug: refresh db internal success
+2024-5-9 13:04:21-debug: refresh db assets success
+2024-5-9 13:04:21-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 13:04:21-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 13:04:21-debug: asset-db:refresh-all-database (112ms)
+2024-5-9 13:04:21-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 13:04:21-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 13:05:33-debug: refresh db internal success
+2024-5-9 13:05:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 13:05:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 13:05:33-debug: refresh db assets success
+2024-5-9 13:05:33-debug: asset-db:refresh-all-database (112ms)
+2024-5-9 13:05:33-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 13:05:33-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 13:06:18-debug: refresh db internal success
+2024-5-9 13:06:18-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 13:06:18-debug: refresh db assets success
+2024-5-9 13:06:18-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 13:06:18-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 13:06:18-debug: asset-db:refresh-all-database (123ms)
+2024-5-9 13:06:18-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 13:06:18-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-9 13:06:19-debug: Query all assets info in project
+2024-5-9 13:06:19-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 13:06:19-debug:   Number of all scenes: 1
+2024-5-9 13:06:19-debug:   Number of all scripts: 5
+2024-5-9 13:06:19-debug:   Number of other assets: 968
+2024-5-9 13:06:19-debug: reload all scripts.
+2024-5-9 13:06:19-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 13:06:19-debug: Unregister DebugViewRuntimeControl
+2024-5-9 13:06:19-debug: Unregister Mass
+2024-5-9 13:06:19-debug: Unregister Main
+2024-5-9 13:06:19-debug: Unregister AssetMgr
+2024-5-9 13:06:19-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 13:06:19-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 13:06:19-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 13:06:19-debug: Unregister GameController
+2024-5-9 13:06:19-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 13:06:19-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 13:06:19-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 13:06:19-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 13:06:19-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 13:06:19-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 13:06:19-debug: [[Executor]] Register Main
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 13:06:19-debug: [[Executor]] Register AssetMgr
+2024-5-9 13:06:19-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 13:06:19-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 13:06:19-debug: [[Executor]] Register Mass
+2024-5-9 13:06:19-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 13:06:19-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 13:06:19-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 13:06:19-debug: [[Executor]] Register GameController
+2024-5-9 13:06:19-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 13:06:19-debug: 查询 Asset Bundle start0%
+2024-5-9 13:06:19-debug: Incremental keys: 
+2024-5-9 13:06:19-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 13:06:19-debug: // ---- build task 查询 Asset Bundle ---- (26ms)
+2024-5-9 13:06:19-debug: run build task 查询 Asset Bundle success in 26 ms √5%
+2024-5-9 13:06:19-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 13:06:19-debug: [Build Memory track]: 查询 Asset Bundle start:305.92MB, end 307.54MB, increase: 1.62MB
+2024-5-9 13:06:19-debug: 查询 Asset Bundle start5%
+2024-5-9 13:06:19-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 13:06:19-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 13:06:19-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 13:06:19-debug: [Build Memory track]: 查询 Asset Bundle start:307.55MB, end 307.56MB, increase: 13.46KB
+2024-5-9 13:06:19-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 13:06:19-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-9 13:06:19-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
+2024-5-9 13:06:19-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 13:06:19-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 13:06:19-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:307.58MB, end 307.59MB, increase: 16.79KB
+2024-5-9 13:06:19-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 13:06:19-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 13:06:19-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 13:06:19-debug: [Build Memory track]: 填充脚本数据到 settings.json start:307.60MB, end 307.62MB, increase: 15.63KB
+2024-5-9 13:06:19-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 13:06:19-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (6ms)
+2024-5-9 13:06:19-debug: run build task 整理部分构建选项内数据到 settings.json success in 6 ms √15%
+2024-5-9 13:06:19-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:307.63MB, end 307.75MB, increase: 118.18KB
+2024-5-9 13:11:03-debug: refresh db internal success
+2024-5-9 13:11:03-debug: %cImport%c: D:\Project\cocos\test\assets\script\GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-9 13:11:03-debug: refresh db assets success
+2024-5-9 13:11:03-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-9 13:11:03-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-9 13:11:03-debug: asset-db:refresh-all-database (131ms)
+2024-5-9 13:11:03-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-9 13:11:03-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-9 13:11:04-debug: Query all assets info in project
+2024-5-9 13:11:04-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-9 13:11:05-debug:   Number of all scenes: 1
+2024-5-9 13:11:05-debug:   Number of all scripts: 5
+2024-5-9 13:11:05-debug:   Number of other assets: 968
+2024-5-9 13:11:05-debug: reload all scripts.
+2024-5-9 13:11:05-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-9 13:11:05-debug: Unregister DebugViewRuntimeControl
+2024-5-9 13:11:05-debug: Unregister Main
+2024-5-9 13:11:05-debug: Unregister Mass
+2024-5-9 13:11:05-debug: Unregister GameController
+2024-5-9 13:11:05-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-9 13:11:05-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-9 13:11:05-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
+2024-5-9 13:11:05-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
+2024-5-9 13:11:05-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
+2024-5-9 13:11:05-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-9 13:11:05-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-9 13:11:05-debug: Invalidating 'pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js'
+2024-5-9 13:11:05-debug: Unregister AssetMgr
+2024-5-9 13:11:05-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 13:11:05-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
+2024-5-9 13:11:05-debug: [[Executor]] Register AssetMgr
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
+2024-5-9 13:11:05-debug: [[Executor]] Register Main
+2024-5-9 13:11:05-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-9 13:11:05-warn: The type of "Mass.damping" must be CCFloat or CCInteger, not Number.
+2024-5-9 13:11:05-warn: The type of "Mass.stiffness" must be CCFloat or CCInteger, not Number.
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/d7/d7ce714109f22e60742f21fa28593d705054f89c.js" loaded.
+2024-5-9 13:11:05-debug: [[Executor]] Register Mass
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
+2024-5-9 13:11:05-debug: Incremental keys: 
+2024-5-9 13:11:05-debug: [[Executor]] Register GameController
+2024-5-9 13:11:05-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-9 13:11:05-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 13:11:05-debug: 查询 Asset Bundle start0%
+2024-5-9 13:11:05-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2024-5-9 13:11:05-debug: // ---- build task 查询 Asset Bundle ---- (46ms)
+2024-5-9 13:11:05-debug: run build task 查询 Asset Bundle success in 46 ms √5%
+2024-5-9 13:11:05-debug: [Build Memory track]: 查询 Asset Bundle start:312.83MB, end 311.26MB, increase: -1604.67KB
+2024-5-9 13:11:05-debug: 查询 Asset Bundle start5%
+2024-5-9 13:11:05-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-9 13:11:05-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-9 13:11:05-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-9 13:11:05-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 13:11:05-debug: [Build Memory track]: 查询 Asset Bundle start:311.27MB, end 311.29MB, increase: 13.49KB
+2024-5-9 13:11:05-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-9 13:11:05-debug: run build task 整理部分构建选项内数据到 settings.json success in 0 ms √12%
+2024-5-9 13:11:05-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:311.30MB, end 311.31MB, increase: 13.09KB
+2024-5-9 13:11:05-debug: 填充脚本数据到 settings.json start12%
+2024-5-9 13:11:05-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-9 13:11:05-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-9 13:11:05-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-9 13:11:05-debug: [Build Memory track]: 填充脚本数据到 settings.json start:311.33MB, end 311.34MB, increase: 15.21KB
+2024-5-9 13:11:05-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-9 13:11:05-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-9 13:11:05-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (4ms)
+2024-5-9 13:11:05-debug: run build task 整理部分构建选项内数据到 settings.json success in 4 ms √15%
+2024-5-9 13:11:05-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:311.35MB, end 311.47MB, increase: 122.86KB

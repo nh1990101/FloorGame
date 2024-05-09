@@ -825,7 +825,7 @@
     "node": {
       "__id__": 28
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": null,
     "_material": null,
     "_isTrigger": true,
@@ -851,7 +851,7 @@
     "node": {
       "__id__": 28
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": null,
     "_group": 1,
     "_type": 1,
@@ -882,7 +882,7 @@
     "node": {
       "__id__": 28
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": null,
     "_enableCollision": false,
     "_connectedBody": {
@@ -1177,6 +1177,7 @@
     "floorRockDamping": 0.5,
     "floorRockForce": 1,
     "dropScan": 0.9,
+    "maxRockRotation": 20,
     "_id": "90wRYOv7hFWp/xh7bwQnlG"
   },
   {
