@@ -1,0 +1,15 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1715780785008.3337,
+  "outputTimeStamps": {
+    "PolygonConstruction_Texture_01_A.png": 1715780804074.1624,
+    "log.json": 1715780804146.1787,
+    "out.bin": 1715780804141.1775,
+    "out.gltf": 1715780804145.1792,
+    ".fbm/DB7D1369/cranerBt.fbm/PolygonConstruction_Texture_01_A.png": 1715780804074.1624
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

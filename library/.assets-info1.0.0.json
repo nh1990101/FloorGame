@@ -5,7 +5,7 @@
       "time": 1704681516188.7312
     },
     "D:\\Project\\cocos\\test\\assets\\main.scene": {
-      "time": 1715238337511.5425,
+      "time": 1715241398412.67,
       "uuid": "884899de-d9b2-4a42-978d-c1cabd138c65"
     },
     "D:\\Project\\cocos\\test\\assets\\Main.ts.meta": {
@@ -116,58 +116,6 @@
     },
     "D:\\Project\\cocos\\test\\assets\\model\\Trucks.fbx.meta": {
       "time": 1712985490140.2527
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Construction-Materials.fbx": {
-      "time": 1612819372247.2446,
-      "uuid": "ce696ca6-7e48-48dc-966b-792e9fae2803"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Building.fbx": {
-      "time": 1612819091964.8455,
-      "uuid": "e481b1e2-0d25-4c74-b5d3-18cd60102477"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Containers-Cargo.fbx": {
-      "time": 1612819214065.0166,
-      "uuid": "afcf3672-bc20-408e-91e2-29787a8c28db"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\_HouseConstructionSite-AllInOneObject_.fbx": {
-      "time": 1612798495132.69,
-      "uuid": "6abd59a5-7b29-4913-a460-e573ea8565bd"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Containers.fbx": {
-      "time": 1612819232895.0427,
-      "uuid": "40989f90-544a-4d2c-9cbb-56b278d764eb"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Containers-Office.fbx": {
-      "time": 1612819251395.0686,
-      "uuid": "cb419b7c-5407-4881-97c0-ac4955d76dcc"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Crane-Mounted.fbx": {
-      "time": 1612819157324.937,
-      "uuid": "44c7ec40-1773-4cb8-8ad0-1657768ae191"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Crane-On-Ground.fbx": {
-      "time": 1612819135514.9065,
-      "uuid": "7334f914-eff7-40f5-b155-5142e736f278"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Fence.fbx": {
-      "time": 1612819318013.1653,
-      "uuid": "d22e4a29-928f-4122-994e-04774d564aca"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Ground.fbx": {
-      "time": 1612819024654.7512,
-      "uuid": "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Ramp.fbx": {
-      "time": 1612819351137.215,
-      "uuid": "db4396ba-d1b7-48d6-8884-cf1c206057d6"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Road.fbx": {
-      "time": 1612819062684.8044,
-      "uuid": "ad61cdda-e2d6-411e-817f-ea92fc18f4e0"
-    },
-    "D:\\Project\\cocos\\test\\assets\\model\\Trucks.fbx": {
-      "time": 1612819280125.109,
-      "uuid": "9a4705db-ab40-4080-bd03-a4d8bfd707c3"
     },
     "D:\\Project\\cocos\\test\\assets\\shader.meta": {
       "time": 1714970363440.5376
@@ -1001,6 +949,1539 @@
     "D:\\Project\\cocos\\test\\assets\\model\\buildings\\building-steps-narrow-windows-round.fbx": {
       "time": 1707397317000,
       "uuid": "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components": {
+      "time": 1715948670131.3342,
+      "uuid": "ef374fce-2e2a-45c5-a592-a70f2b70aca2"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material": {
+      "time": 1715435123915.6086,
+      "uuid": "4e026fbd-bfd3-4965-af77-5a75df35cecf"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model": {
+      "time": 1716012825429.991,
+      "uuid": "576be1a8-2fc8-4952-8515-ece916f575f6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script": {
+      "time": 1715869638833.9456,
+      "uuid": "8082c1a5-6f8f-4f2f-af36-468aefd094bc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\shader": {
+      "time": 1715759657233.777,
+      "uuid": "187fa107-e626-46cc-84eb-49d292709b95"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture": {
+      "time": 1715560900738.6926,
+      "uuid": "d2151cc7-fcd0-419f-aaa0-331c5dd43b48"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings": {
+      "time": 1715067621670.3025,
+      "uuid": "740c94e8-7b06-4579-91b2-0c8b63c403a6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\Textures": {
+      "time": 1715067621671.302,
+      "uuid": "16de7901-5114-4054-849b-771b8234a330"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\MassObj.effect": {
+      "time": 1714826705610.4006,
+      "uuid": "74bf6023-6926-4efc-9c4b-e1e7ec456f4a"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\Main.ts": {
+      "time": 1711202721430.0603,
+      "uuid": "73612c0f-66e1-4fc9-a1d8-ddfc11afc2b8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script\\AssetMgr.ts": {
+      "time": 1714998104634.1208,
+      "uuid": "b857645e-d0aa-4bd7-9866-e10c70e01d09"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script\\GameController.ts": {
+      "time": 1716284868685.5496,
+      "uuid": "01c83466-2456-4813-8bc4-3004caa3035f"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script\\Mass.ts": {
+      "time": 1714997824472.2788,
+      "uuid": "5b1b277a-1987-45dd-b8ee-c69c5b3ef215"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components.meta": {
+      "time": 1712037195606.995
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material.meta": {
+      "time": 1711943009477.5503
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model.meta": {
+      "time": 1712985480603.6877
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script.meta": {
+      "time": 1711943202878.5845
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\shader.meta": {
+      "time": 1714970363440.5376
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture.meta": {
+      "time": 1714970799044.9722
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings.meta": {
+      "time": 1715067621545.2732
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\Textures.meta": {
+      "time": 1715067626670.7256
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\Main.ts.meta": {
+      "time": 1704681636392.2805
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script\\AssetMgr.ts.meta": {
+      "time": 1712037368298.2104
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script\\GameController.ts.meta": {
+      "time": 1711943243805.8203
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script\\Mass.ts.meta": {
+      "time": 1714970357264.8071
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\MassObj.effect.meta": {
+      "time": 1714970415298.852
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\BaseBox.prefab": {
+      "time": 1712112186531.4426,
+      "uuid": "8f4c029b-c939-45bd-bb2a-00ae4c3d2f3d"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\BoxFloor.prefab": {
+      "time": 1715935897175.1616,
+      "uuid": "6e6bd96a-0986-4a92-a168-29d690893d38"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\boxColor.mtl": {
+      "time": 1714972427611.9778,
+      "uuid": "b3416136-980a-4388-aedf-22a030a8b5a4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\FloorMtl.mtl": {
+      "time": 1714982506249.8254,
+      "uuid": "35a93864-3f00-425b-80eb-4a86651fd91e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\MassMtl.mtl": {
+      "time": 1714973348508.7659,
+      "uuid": "4c1885aa-3468-4504-b342-76152e3c5dbf"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\Brick_Diffuse.JPG": {
+      "time": 1712967013441.1118,
+      "uuid": "94d1ed35-9498-4c11-90d1-2eb29e7ebc88"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\Brick_Normal.JPG": {
+      "time": 1712967013389.0999,
+      "uuid": "2a78f71b-43dd-428d-aac9-651b8364b61a"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-block.fbx": {
+      "time": 1707397316000,
+      "uuid": "c125e7a3-7024-4849-910c-04ce3cb25382"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-bottom.fbx": {
+      "time": 1707397316000,
+      "uuid": "af752754-b2f0-473e-b4c5-19ede5536167"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-top.fbx": {
+      "time": 1707397316000,
+      "uuid": "8ce22c9a-3993-4cd1-906e-c705fcef7a55"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-middle.fbx": {
+      "time": 1707397316000,
+      "uuid": "1db2a741-06e9-41e6-8456-6d2e438e1f66"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-narrow.fbx": {
+      "time": 1707397316000,
+      "uuid": "1a0ab56b-c160-4b43-ab22-fab28d2e938f"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-sill.fbx": {
+      "time": 1707397316000,
+      "uuid": "ac741ba2-05d6-45f1-b965-c5cbda235ed9"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-top-round.fbx": {
+      "time": 1707397316000,
+      "uuid": "4db90cdb-7d58-4dc0-941e-020cd73171e6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-top-square.fbx": {
+      "time": 1707397316000,
+      "uuid": "1fbb5f31-0707-4b57-a0f5-647b4ff524c8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window.fbx": {
+      "time": 1707397316000,
+      "uuid": "fe78a254-754d-45d6-86b8-566e873e6c40"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner.fbx": {
+      "time": 1707397316000,
+      "uuid": "a9b6066a-9d3b-4521-8a4f-b7405fced79d"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-door-window-narrow.fbx": {
+      "time": 1707397316000,
+      "uuid": "df9143ef-1dc2-4259-88e3-e67eaa906e24"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-door-window.fbx": {
+      "time": 1707397316000,
+      "uuid": "19619ff4-e6c9-41b7-8e44-5f5f49507e6f"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-door.fbx": {
+      "time": 1707397316000,
+      "uuid": "9c64b4d2-876e-403b-baf9-b4ca8b19c8bc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-edges-door.fbx": {
+      "time": 1707397316000,
+      "uuid": "57023028-b266-43a5-a2f5-a89b4838fec8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-house-a.fbx": {
+      "time": 1707397317000,
+      "uuid": "ba1e5fb4-ac63-4c33-96ce-777f9edd5ca6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-house-b.fbx": {
+      "time": 1707397317000,
+      "uuid": "556d4fd2-f3fa-4a9b-929b-0ff7aec78e57"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-house-c.fbx": {
+      "time": 1707397317000,
+      "uuid": "8023154f-b335-485a-83df-8d8cc5f10466"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-tower-a.fbx": {
+      "time": 1707397317000,
+      "uuid": "f103c070-98e6-4b12-9529-9762264c0fa4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-tower-b.fbx": {
+      "time": 1707397317000,
+      "uuid": "822ce18c-38f2-477c-a5e3-bbc09c95cb50"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-tower-c.fbx": {
+      "time": 1707397317000,
+      "uuid": "2052da34-b3b2-444b-959a-d654298c81f3"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-tower-d.fbx": {
+      "time": 1707397317000,
+      "uuid": "241f3911-7870-48af-8c7b-16f7a1a94453"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-steps-narrow-windows-round.fbx": {
+      "time": 1707397317000,
+      "uuid": "211a3d2a-6712-4457-a5aa-7fb0cbb4c92c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-steps-narrow-windows.fbx": {
+      "time": 1707397317000,
+      "uuid": "dc73c6dc-e7f6-4316-9375-d046d41f6dc2"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-steps-narrow.fbx": {
+      "time": 1707397317000,
+      "uuid": "b74731f2-8ca1-47aa-b9bc-7147680d525d"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-steps-wide.fbx": {
+      "time": 1707397317000,
+      "uuid": "d0ab23a4-fadd-4b5f-88a7-060e3ddbc9b2"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-awnings.fbx": {
+      "time": 1707397317000,
+      "uuid": "756637e0-5767-4639-95d4-95950a627a9e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-balcony.fbx": {
+      "time": 1707397317000,
+      "uuid": "f2f5b4a7-1420-4fe9-a702-e3ddb1c4318c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-door-window-round.fbx": {
+      "time": 1707397317000,
+      "uuid": "8e36f18d-b8a8-41ef-b552-420908196047"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-door-window.fbx": {
+      "time": 1707397317000,
+      "uuid": "b57cf449-8694-4980-939d-2ef9badb621f"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-large-left.fbx": {
+      "time": 1707397317000,
+      "uuid": "11b2d320-1066-45d8-ac60-e6b636766d97"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-large-middle.fbx": {
+      "time": 1707397317000,
+      "uuid": "fb5c3769-c1ad-47ec-b552-d685ed220dea"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-large-right.fbx": {
+      "time": 1707397318000,
+      "uuid": "e270f932-3c80-4dea-bc77-342a9a2a4233"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-large.fbx": {
+      "time": 1707397317000,
+      "uuid": "c78c0636-7dae-4fbf-94c3-93d42ced5f0d"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-left-sill.fbx": {
+      "time": 1707397318000,
+      "uuid": "b8b32bce-30a1-4f37-801e-fa4ede85c126"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-left.fbx": {
+      "time": 1707397318000,
+      "uuid": "55ba76a7-475e-454c-8c6e-b65bd5331ab7"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-right-sill.fbx": {
+      "time": 1707397318000,
+      "uuid": "954dd60e-303c-4afa-974c-8f9ad5b102fb"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-right.fbx": {
+      "time": 1707397318000,
+      "uuid": "ff71a7d5-97e4-4ec0-8385-5be88e76e15c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-sill.fbx": {
+      "time": 1707397318000,
+      "uuid": "5a2483cb-03fb-42c3-8b97-46922f5ec008"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-wide-sill.fbx": {
+      "time": 1707397318000,
+      "uuid": "83746d44-cd4f-480a-b5ee-962ee6b8e783"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-wide.fbx": {
+      "time": 1707397318000,
+      "uuid": "ee59dfa3-7f4c-4346-a612-6c4d1d354cb1"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window.fbx": {
+      "time": 1707397317000,
+      "uuid": "370eebeb-eae2-4b31-bcf6-f37df06ee197"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-high-middle.fbx": {
+      "time": 1707397318000,
+      "uuid": "7a5edb0a-b4a4-4973-b106-b377218f8c3a"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-high-top-round.fbx": {
+      "time": 1707397318000,
+      "uuid": "01ccd917-e4b8-4f59-ae3c-97aaa13a1e86"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-high-top-square.fbx": {
+      "time": 1707397318000,
+      "uuid": "5f0ad627-5483-4e26-a096-2448b479edd1"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-round.fbx": {
+      "time": 1707397318000,
+      "uuid": "eba75dd9-d315-4d9e-a6b3-49aee1364927"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-sills-round.fbx": {
+      "time": 1707397318000,
+      "uuid": "482697a0-8b71-4658-a653-dea6d52512e2"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-sills.fbx": {
+      "time": 1707397318000,
+      "uuid": "e2c53b2d-eaa7-480c-9cf0-9f4954851f4c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows.fbx": {
+      "time": 1707397318000,
+      "uuid": "f9272ce8-9afd-4cea-b6fe-7f8821bd5a34"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\detail-ac-a.fbx": {
+      "time": 1707397318000,
+      "uuid": "9ff8874b-27b4-4772-8b10-c42fc234177e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\detail-ac-b.fbx": {
+      "time": 1707397318000,
+      "uuid": "42e41129-53ce-4f2c-821e-30d2cdbde36e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-brown-glass.fbx": {
+      "time": 1707397318000,
+      "uuid": "045db598-453c-456b-92c9-99cd6388a8ca"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-brown-window.fbx": {
+      "time": 1707397318000,
+      "uuid": "b8b83d25-ee7f-4133-9fd4-5ec03d142fa0"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-brown.fbx": {
+      "time": 1707397318000,
+      "uuid": "fd595653-ebac-4eaa-8b05-d1720901dc56"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-white-glass.fbx": {
+      "time": 1707397319000,
+      "uuid": "5b50b769-3048-4fcc-9cb5-1c769859e806"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-white-window.fbx": {
+      "time": 1707397319000,
+      "uuid": "25a4dbdd-e8c1-41e2-b6e0-510f8d286e80"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-white.fbx": {
+      "time": 1707397319000,
+      "uuid": "f5518155-be0b-4699-afb5-8e22e5e34c1f"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-awning-a.fbx": {
+      "time": 1707397319000,
+      "uuid": "12fe307e-eea8-4940-9208-2a5e50061df1"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-awning-b.fbx": {
+      "time": 1707397319000,
+      "uuid": "5a82f275-d819-41af-b491-39ac977a9880"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-awning-c.fbx": {
+      "time": 1707397319000,
+      "uuid": "49570eb9-213c-44f4-8332-b2b57089662c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-center-corner.fbx": {
+      "time": 1707397319000,
+      "uuid": "29c66176-529f-4e0d-a656-2a15db1f9ec4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-center.fbx": {
+      "time": 1707397319000,
+      "uuid": "2b6f1f2e-969f-4359-8fde-a0137c4f2dfc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-corner-slanted-passage.fbx": {
+      "time": 1707397319000,
+      "uuid": "93510d5c-b3ac-455d-91ad-88f2ba2b6e71"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-corner-slanted.fbx": {
+      "time": 1707397319000,
+      "uuid": "f822f4f5-5572-4390-adfe-ec3f30f2a3d1"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-corner.fbx": {
+      "time": 1707397319000,
+      "uuid": "3b4d0e1a-7e37-448b-b52a-a8e0184d0ccb"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-end.fbx": {
+      "time": 1707397319000,
+      "uuid": "588d0f30-e34c-4447-b724-4595151ce8a8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-side.fbx": {
+      "time": 1707397319000,
+      "uuid": "e3ae0baa-016d-42cd-9abf-f5dad57f863d"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-straight.fbx": {
+      "time": 1707397319000,
+      "uuid": "70d2603a-ec65-490d-8239-f11ba3c0bb68"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-center.fbx": {
+      "time": 1707397319000,
+      "uuid": "fb500668-e66b-4e31-823c-880278e9f583"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-corner-high.fbx": {
+      "time": 1707397319000,
+      "uuid": "9cdfda0b-601c-4e26-8512-ea5daf20586c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-corner.fbx": {
+      "time": 1707397319000,
+      "uuid": "197f8202-9254-4c22-b755-c3b28f0f8f58"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-detail-a.fbx": {
+      "time": 1707397319000,
+      "uuid": "b62bb061-12d2-47a3-b314-4ed6440ad015"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-detail-b.fbx": {
+      "time": 1707397319000,
+      "uuid": "20f5a62e-db37-48b6-a4b4-160ee3a96a5e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-detail-c.fbx": {
+      "time": 1707397319000,
+      "uuid": "75a65021-bd30-4d8e-9fdd-be77927186a5"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-detail-d.fbx": {
+      "time": 1707397319000,
+      "uuid": "05e09be4-dc42-45ff-b1b1-a19b6582edb1"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-top.fbx": {
+      "time": 1707397320000,
+      "uuid": "df03f168-196f-49ab-9f1a-4e7c587b81aa"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-gable-corner.fbx": {
+      "time": 1707397320000,
+      "uuid": "23320237-a8d2-4910-ab69-db4392d5f48c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-gable-end.fbx": {
+      "time": 1707397320000,
+      "uuid": "397a1cfb-9c42-47c3-a365-10343b7ba630"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-gable.fbx": {
+      "time": 1707397320000,
+      "uuid": "47b6e05e-4d7c-4d30-9359-d40e5ef2c428"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-corner-a.fbx": {
+      "time": 1707397320000,
+      "uuid": "bbb7a5fa-d8e8-458c-99bc-b6415e0017a6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-corner-b.fbx": {
+      "time": 1707397320000,
+      "uuid": "0bc9c10e-ec9a-4501-8019-2daedad9d557"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-corner-c.fbx": {
+      "time": 1707397320000,
+      "uuid": "2ada252f-0f7e-400e-9171-20af943966ba"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-corner-inner.fbx": {
+      "time": 1707397320000,
+      "uuid": "e35ac790-8b44-4fd8-aa81-c6ed061cdbf6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-detail.fbx": {
+      "time": 1707397320000,
+      "uuid": "5d6a6503-53fb-4a77-a8b1-21920d40fb2e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-flat.fbx": {
+      "time": 1707397320000,
+      "uuid": "770eba50-ef1d-417f-8f3f-8036d5727bca"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-window.fbx": {
+      "time": 1707397320000,
+      "uuid": "b475e46d-50cd-4f4d-b5b1-d3f94cd911df"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted.fbx": {
+      "time": 1707397320000,
+      "uuid": "2008ef07-c149-4d0a-9911-d402a0453ac2"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-detailed.fbx": {
+      "time": 1707397320000,
+      "uuid": "99b6c925-9c1c-4822-99de-984bd006f21c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-large.fbx": {
+      "time": 1707397320000,
+      "uuid": "7965a304-d8c3-4325-8905-9ef368427efd"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-narrow.fbx": {
+      "time": 1707397320000,
+      "uuid": "e2333a85-1e62-4710-8824-960234ce1907"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-low.fbx": {
+      "time": 1707397320000,
+      "uuid": "e8d25e5a-c6ae-4e71-968f-77772931b3de"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-middle.fbx": {
+      "time": 1707397320000,
+      "uuid": "90b8edd1-7769-4056-9f26-83194ae04ebc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-narrow.fbx": {
+      "time": 1707397320000,
+      "uuid": "387f25ea-67ef-47ef-ac07-b98e20c98d53"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-top.fbx": {
+      "time": 1707397320000,
+      "uuid": "a688082a-9c02-4372-9763-50a74a0771fb"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-wide.fbx": {
+      "time": 1707397321000,
+      "uuid": "693f140e-2090-42e8-9662-53cb2095c2e5"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-tall.fbx": {
+      "time": 1707397321000,
+      "uuid": "606eb7b7-a45a-400b-b190-ccdca74bddd4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-wide.fbx": {
+      "time": 1707397321000,
+      "uuid": "aa9946a9-8bfd-48e3-bbda-aa51aaa6d803"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown.fbx": {
+      "time": 1707397320000,
+      "uuid": "7cc1bb55-b6f2-4064-b71c-0cc0f0d067c0"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-detailed.fbx": {
+      "time": 1707397321000,
+      "uuid": "11c218a0-993c-4997-a1bb-d225d656c880"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-large.fbx": {
+      "time": 1707397321000,
+      "uuid": "598bea6c-d115-43f8-a5e7-17a979a9227d"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-narrow.fbx": {
+      "time": 1707397321000,
+      "uuid": "ba7724fe-9279-4007-90f8-f8b1c46295e7"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-low.fbx": {
+      "time": 1707397321000,
+      "uuid": "da999cf1-9e6b-4a9a-879f-02653c63278e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-middle.fbx": {
+      "time": 1707397321000,
+      "uuid": "990736cd-aa65-4d70-a6b0-605dc51f4ad2"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-narrow.fbx": {
+      "time": 1707397321000,
+      "uuid": "385da667-bb8f-40cc-bb8f-5ba52e9ded4a"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-top.fbx": {
+      "time": 1707397321000,
+      "uuid": "c3ba1d70-8062-4edd-afdd-4f422de4f4a7"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-wide.fbx": {
+      "time": 1707397321000,
+      "uuid": "c72d40da-b247-42e6-9b26-13dc364d9bbd"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-tall.fbx": {
+      "time": 1707397321000,
+      "uuid": "55bed966-6366-40f5-910f-acf6acf8763f"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-wide.fbx": {
+      "time": 1707397321000,
+      "uuid": "b3942f20-0a40-4525-bc38-99bde937092e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white.fbx": {
+      "time": 1707397321000,
+      "uuid": "e3deee91-ec57-451c-bfdc-0b10163d247c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\Textures\\colormap.png": {
+      "time": 1707397336000,
+      "uuid": "aa99720f-707e-4367-b268-6dffc9f43efc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\FloorMtl.mtl.meta": {
+      "time": 1714973414807.375
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\boxColor.mtl.meta": {
+      "time": 1711943033624.6665
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\BaseBox.prefab.meta": {
+      "time": 1712032682976.6438
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\BoxFloor.prefab.meta": {
+      "time": 1712114111350.9133
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\MassMtl.mtl.meta": {
+      "time": 1714970449414.116
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\Brick_Diffuse.JPG.meta": {
+      "time": 1714970799082.6382
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\Brick_Normal.JPG.meta": {
+      "time": 1714970799080.6377
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-block.fbx.meta": {
+      "time": 1715691256995.7292
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-top.fbx.meta": {
+      "time": 1715067627190.8425
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-bottom.fbx.meta": {
+      "time": 1715067627125.8267
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-middle.fbx.meta": {
+      "time": 1715067627217.8474
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-narrow.fbx.meta": {
+      "time": 1715067627325.8728
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-sill.fbx.meta": {
+      "time": 1715067627388.8855
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-top-round.fbx.meta": {
+      "time": 1715067627617.9373
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window-top-square.fbx.meta": {
+      "time": 1715067627468.9038
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner-window.fbx.meta": {
+      "time": 1715067627461.902
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-corner.fbx.meta": {
+      "time": 1715067627569.928
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-door-window-narrow.fbx.meta": {
+      "time": 1715067627638.9424
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-door-window.fbx.meta": {
+      "time": 1715067627748.9685
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-door.fbx.meta": {
+      "time": 1715067627713.9592
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-edges-door.fbx.meta": {
+      "time": 1715681975496.7178
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-house-a.fbx.meta": {
+      "time": 1715067627849.99
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-house-c.fbx.meta": {
+      "time": 1715067627953.0142
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-house-b.fbx.meta": {
+      "time": 1715067627884.9976
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-tower-a.fbx.meta": {
+      "time": 1715067628000.0242
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-tower-b.fbx.meta": {
+      "time": 1715067628089.044
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-tower-c.fbx.meta": {
+      "time": 1715067628108.0483
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-sample-tower-d.fbx.meta": {
+      "time": 1715067628141.0564
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-steps-narrow-windows-round.fbx.meta": {
+      "time": 1715067628193.0667
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-steps-narrow-windows.fbx.meta": {
+      "time": 1715067622261.4043
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-steps-narrow.fbx.meta": {
+      "time": 1715067622249.403
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-steps-wide.fbx.meta": {
+      "time": 1715067622257.4082
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-awnings.fbx.meta": {
+      "time": 1715067622237.4
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-balcony.fbx.meta": {
+      "time": 1715067622252.4026
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-door-window-round.fbx.meta": {
+      "time": 1715067622503.816
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-door-window.fbx.meta": {
+      "time": 1715067622576.8318
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-large-right.fbx.meta": {
+      "time": 1715067622581.8335
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-large-left.fbx.meta": {
+      "time": 1715067622498.8145
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-large-middle.fbx.meta": {
+      "time": 1715067622614.4038
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-large.fbx.meta": {
+      "time": 1715067622718.4282
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-left-sill.fbx.meta": {
+      "time": 1715067622993.885
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-left.fbx.meta": {
+      "time": 1715067622815.4495
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-right-sill.fbx.meta": {
+      "time": 1715067622813.4497
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-right.fbx.meta": {
+      "time": 1715067622864.8328
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-sill.fbx.meta": {
+      "time": 1715067622934.8499
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-wide-sill.fbx.meta": {
+      "time": 1715067623060.8992
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window-wide.fbx.meta": {
+      "time": 1715067623095.9062
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-window.fbx.meta": {
+      "time": 1715067623124.9138
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-high-middle.fbx.meta": {
+      "time": 1715067623174.924
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-high-top-round.fbx.meta": {
+      "time": 1715067623244.9404
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-round.fbx.meta": {
+      "time": 1715067623351.964
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-sills.fbx.meta": {
+      "time": 1715067623422.9233
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-high-top-square.fbx.meta": {
+      "time": 1715067623323.958
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows-sills-round.fbx.meta": {
+      "time": 1715067623381.913
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\building-windows.fbx.meta": {
+      "time": 1715067623466.9326
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\detail-ac-b.fbx.meta": {
+      "time": 1715067623618.852
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\detail-ac-a.fbx.meta": {
+      "time": 1715067623543.9507
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-brown-window.fbx.meta": {
+      "time": 1715067623683.8672
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-brown-glass.fbx.meta": {
+      "time": 1715067623644.858
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-brown.fbx.meta": {
+      "time": 1715067623706.872
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-white-glass.fbx.meta": {
+      "time": 1715067623789.8906
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-white-window.fbx.meta": {
+      "time": 1715067623857.9065
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\door-white.fbx.meta": {
+      "time": 1715067623890.849
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-awning-a.fbx.meta": {
+      "time": 1715067623930.4656
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-awning-b.fbx.meta": {
+      "time": 1715067623955.7136
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-awning-c.fbx.meta": {
+      "time": 1715067624048.133
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-center-corner.fbx.meta": {
+      "time": 1715067624151.1567
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-center.fbx.meta": {
+      "time": 1715067624142.1548
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-corner-slanted-passage.fbx.meta": {
+      "time": 1715067624206.1677
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-corner-slanted.fbx.meta": {
+      "time": 1715067624246.1787
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-corner.fbx.meta": {
+      "time": 1715067624288.1875
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-end.fbx.meta": {
+      "time": 1715067624372.2058
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-side.fbx.meta": {
+      "time": 1715067624457.226
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-border-straight.fbx.meta": {
+      "time": 1715067624482.2307
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-center.fbx.meta": {
+      "time": 1715067624524.2395
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-corner-high.fbx.meta": {
+      "time": 1715067624554.2488
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-corner.fbx.meta": {
+      "time": 1715067624648.268
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-detail-b.fbx.meta": {
+      "time": 1715067624785.3003
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-detail-a.fbx.meta": {
+      "time": 1715067624700.2798
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-detail-c.fbx.meta": {
+      "time": 1715067624818.3071
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-detail-d.fbx.meta": {
+      "time": 1715067624815.3076
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-flat-top.fbx.meta": {
+      "time": 1715067624919.329
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-gable-end.fbx.meta": {
+      "time": 1715067625049.3591
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-gable-corner.fbx.meta": {
+      "time": 1715067624956.337
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-gable.fbx.meta": {
+      "time": 1715067625066.362
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-corner-a.fbx.meta": {
+      "time": 1715067625058.3606
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-corner-b.fbx.meta": {
+      "time": 1715067625180.389
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-corner-inner.fbx.meta": {
+      "time": 1715067625327.4211
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-corner-c.fbx.meta": {
+      "time": 1715067625240.4023
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-detail.fbx.meta": {
+      "time": 1715067625320.4226
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-flat.fbx.meta": {
+      "time": 1715067625369.4307
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted-window.fbx.meta": {
+      "time": 1715067625438.4458
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\roof-slanted.fbx.meta": {
+      "time": 1715067625543.472
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-detailed.fbx.meta": {
+      "time": 1715067625575.4773
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-large.fbx.meta": {
+      "time": 1715067625852.3413
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-narrow.fbx.meta": {
+      "time": 1715067625885.9895
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-low.fbx.meta": {
+      "time": 1715067625777.8596
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-middle.fbx.meta": {
+      "time": 1715067625825.393
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-narrow.fbx.meta": {
+      "time": 1715067625945.687
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-top.fbx.meta": {
+      "time": 1715067626124.261
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-round-wide.fbx.meta": {
+      "time": 1715067626183.2737
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-tall.fbx.meta": {
+      "time": 1715067626174.2725
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown-wide.fbx.meta": {
+      "time": 1715067626232.381
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-brown.fbx.meta": {
+      "time": 1715067626255.7283
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-detailed.fbx.meta": {
+      "time": 1715067626400.2769
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-large.fbx.meta": {
+      "time": 1715067626435.671
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-narrow.fbx.meta": {
+      "time": 1715067626477.6829
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-middle.fbx.meta": {
+      "time": 1715067626537.6946
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-low.fbx.meta": {
+      "time": 1715067626539.6948
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-narrow.fbx.meta": {
+      "time": 1715067626645.718
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-top.fbx.meta": {
+      "time": 1715067626668.7236
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-round-wide.fbx.meta": {
+      "time": 1715067626746.7415
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-tall.fbx.meta": {
+      "time": 1715067626797.7534
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white-wide.fbx.meta": {
+      "time": 1715067626840.7627
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\window-white.fbx.meta": {
+      "time": 1715067626882.7722
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\buildings\\Textures\\colormap.png.meta": {
+      "time": 1715067628014.027
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\internal.meta": {
+      "time": 1715347057943.3
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\internal\\default_skybox.meta": {
+      "time": 1715347057944.3003
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\internal\\default_skybox\\default_skybox_diffusion.png.meta": {
+      "time": 1715347058026.3193
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\internal": {
+      "time": 1715347057936.2988,
+      "uuid": "35929f4e-dfb7-4d07-995b-9d6d12bffc2f"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\internal\\default_skybox": {
+      "time": 1715347057933.2979,
+      "uuid": "5e7689c6-6f8a-4345-a18c-ab28564e66fb"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\internal\\default_skybox\\default_skybox_diffusion.png": {
+      "time": 1715347057930.2976,
+      "uuid": "3bff79f8-3411-4ae7-8553-bc5096d7847e"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space.jpg.meta": {
+      "time": 1715430615729.4812
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space.jpg": {
+      "time": 1715418683241.495,
+      "uuid": "91ef1974-c832-4bd5-bc64-e659174a86bc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\SkyMtl.mtl.meta": {
+      "time": 1715430968008.485
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\SkyMtl.mtl": {
+      "time": 1715432966073.3806,
+      "uuid": "3d6c1640-a702-4815-9614-57b11dcb5aa4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-back.png.meta": {
+      "time": 1715432227625.359
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-down.png.meta": {
+      "time": 1715432227623.36
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-front.png.meta": {
+      "time": 1715432227628.3606
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-left.png.meta": {
+      "time": 1715432227630.361
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-right.png.meta": {
+      "time": 1715432227632.3606
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-down.png": {
+      "time": 1715432130717.413,
+      "uuid": "282dd5f7-8a2f-4575-af7f-09f3091895cc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-back.png": {
+      "time": 1715432102681.954,
+      "uuid": "ee9cc54c-4e3c-4777-8051-6b284226d8c8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-front.png": {
+      "time": 1715432154631.9717,
+      "uuid": "27086804-2c78-4597-a2eb-d51f3746c65b"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-left.png": {
+      "time": 1715432174135.0737,
+      "uuid": "45fc0017-3dc8-4c3c-b798-9d79dc34d010"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\space-right.png": {
+      "time": 1715432192934.3137,
+      "uuid": "6397b7d8-ca05-45c0-87d8-49991fa292a8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\skyCube.cubemap.meta": {
+      "time": 1715432372047.3215
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\skyCube.cubemap": {
+      "time": 1715432346333.0525,
+      "uuid": "d49645e4-52eb-48de-a2ab-ffec62c3e469"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\atmos2.png.meta": {
+      "time": 1715432769479.896
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\atmos1.png.meta": {
+      "time": 1715432769498.9004
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\atmos2.png": {
+      "time": 1715432732299.2832,
+      "uuid": "908e6363-3bc5-4759-bc9f-eb3ae47504b7"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\atmos1.png": {
+      "time": 1715432715496.6365,
+      "uuid": "cf295fc6-a884-4533-b903-e60d1db1c230"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\SkyMtl2.mtl.meta": {
+      "time": 1715432929349.3481
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\SkyMtl2.mtl": {
+      "time": 1715775838297.1477,
+      "uuid": "9d669ff0-bbd4-40f2-9549-706bfe810fa3"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\earth1.png.meta": {
+      "time": 1715433391093.359
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\earth2.png.meta": {
+      "time": 1715433391091.3586
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\earth3.png.meta": {
+      "time": 1715433391073.8403
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\earth3.png": {
+      "time": 1715433378395.364,
+      "uuid": "4044a59f-2652-45ae-b13e-7eb86a3420a8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\earth2.png": {
+      "time": 1715433361656.3906,
+      "uuid": "2ac497d9-ce8b-4550-a9d1-3d5be3087cfc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\earth1.png": {
+      "time": 1715433342657.8933,
+      "uuid": "c15f95b9-afe9-4834-8654-761b4f89331a"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth1.mtl.meta": {
+      "time": 1715433401702.4058
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth1.mtl": {
+      "time": 1715433434638.8684,
+      "uuid": "ea90c363-39ea-4f37-8516-0faad7a35fd7"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth2.mtl.meta": {
+      "time": 1715433491910.3694
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth2.mtl": {
+      "time": 1715433516645.8342,
+      "uuid": "36c8ff93-c804-4a60-9705-3968b56fa0f6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth3.mtl.meta": {
+      "time": 1715433523761.4485
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earth3.mtl": {
+      "time": 1715433550773.7354,
+      "uuid": "91bdbb7a-3a7b-4a36-a05d-be804d023a23"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earthTerrain.terrain.meta": {
+      "time": 1715434183742.6255
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earthTerrain.terrain": {
+      "time": 1715434183731.6199,
+      "uuid": "3d8a243a-4dc9-4971-863c-84607378cfc4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\earthShader.effect.meta": {
+      "time": 1715478479188.4502
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\earthShader.effect": {
+      "time": 1715479035499.183,
+      "uuid": "bab6062e-03a2-4901-a1ae-a31fb1931baf"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earthMtl.mtl.meta": {
+      "time": 1715478479229.461
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\material\\earthMtl.mtl": {
+      "time": 1715740689161.2932,
+      "uuid": "41a1880a-ea94-450f-839b-34cd420f8277"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\mountain.png.meta": {
+      "time": 1715560903262.502
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\texture\\mountain.png": {
+      "time": 1715560869323.066,
+      "uuid": "b2a3c736-61d9-48a8-a041-ab616e07c227"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid.meta": {
+      "time": 1715589015663.188
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files.meta": {
+      "time": 1715589015663.188
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources.meta": {
+      "time": 1715589015664.186
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\HouseConstructionSite-SingleObject.blend.meta": {
+      "time": 1715589015692.1907
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\HouseConstructionSite.blend.meta": {
+      "time": 1715589015707.1948
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\ImphenziaPalette01-256-Gradient.png.meta": {
+      "time": 1715589015752.2043
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\INFO.txt.meta": {
+      "time": 1715589015708.194
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Overview.png.meta": {
+      "time": 1715589015791.2134
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Building.fbx.meta": {
+      "time": 1715691563387.6648
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Construction-Materials.fbx.meta": {
+      "time": 1715589016203.4707
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Containers-Cargo.fbx.meta": {
+      "time": 1715589016087.445
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Containers-Office.fbx.meta": {
+      "time": 1715589016151.4573
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Containers.fbx.meta": {
+      "time": 1715589016157.459
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Crane-Mounted.fbx.meta": {
+      "time": 1715589016638.358
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Crane-On-Ground.fbx.meta": {
+      "time": 1715589016703.3723
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Fence.fbx.meta": {
+      "time": 1715589016365.505
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Ground.fbx.meta": {
+      "time": 1715691135724.4292
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Ramp.fbx.meta": {
+      "time": 1715589016740.3967
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Road.fbx.meta": {
+      "time": 1715590851922.0593
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Trucks.fbx.meta": {
+      "time": 1715689855110.3708
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\_HouseConstructionSite-AllInOneObject_.fbx.meta": {
+      "time": 1715589018236.0076
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters-border.png.meta": {
+      "time": 1715589016756.3843
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters-only-black.png.meta": {
+      "time": 1715589016782.3923
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters-only-white.png.meta": {
+      "time": 1715589016790.391
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters-only.png.meta": {
+      "time": 1715589016815.3977
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters.png.meta": {
+      "time": 1715589016818.399
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid": {
+      "time": 1715589015638.181,
+      "uuid": "ccefe677-eb3f-4778-a320-c054e8595af5"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files": {
+      "time": 1715589015651.1826,
+      "uuid": "dbd77825-6b47-4593-847c-23807965f8d9"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources": {
+      "time": 1715589015657.1836,
+      "uuid": "3ea18d9f-13ce-4087-8590-55d142c16094"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\HouseConstructionSite-SingleObject.blend": {
+      "time": 1612824423804.5176,
+      "uuid": "6682711f-88f4-41ad-9f99-f2d577b933c4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\HouseConstructionSite.blend": {
+      "time": 1612822253119.3691,
+      "uuid": "fa6a7f63-1fd7-4ffd-b699-e1aa1a2f5c71"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\INFO.txt": {
+      "time": 1612824628637.8994,
+      "uuid": "c81c5455-5c25-40de-a91f-e735a8ab7f9b"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\ImphenziaPalette01-256-Gradient.png": {
+      "time": 1601686792827.1128,
+      "uuid": "a6e46640-52cf-44ce-855f-a1770da8c74d"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Overview.png": {
+      "time": 1612824974913.7148,
+      "uuid": "5f37ee77-0278-4c55-8e8b-6f1788df82a5"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Containers-Cargo.fbx": {
+      "time": 1612819214065.0166,
+      "uuid": "d6be4028-2fbf-4d01-a0e7-106934c61cd2"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Containers-Office.fbx": {
+      "time": 1612819251395.0686,
+      "uuid": "3a7384bd-7552-469a-a034-1b19c477a9f0"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Containers.fbx": {
+      "time": 1612819232895.0427,
+      "uuid": "8a07ffeb-e7ca-4042-892d-f1905337ebf7"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Construction-Materials.fbx": {
+      "time": 1612819372247.2446,
+      "uuid": "d5467eb1-eb1c-4663-adaf-fb7839c9d566"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Fence.fbx": {
+      "time": 1612819318013.1653,
+      "uuid": "4fef351f-6db3-4e34-855c-50e7f01b3407"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Crane-Mounted.fbx": {
+      "time": 1612819157324.937,
+      "uuid": "a52cc3c6-0ae9-4ea0-9fb7-710d1ca065b3"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Building.fbx": {
+      "time": 1612819091964.8455,
+      "uuid": "33d0d8a0-3d99-486f-b69b-1f65773f5421"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Crane-On-Ground.fbx": {
+      "time": 1612819135514.9065,
+      "uuid": "e159dd89-5eb4-44b0-ab10-59bbe53c13dd"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Ground.fbx": {
+      "time": 1612819024654.7512,
+      "uuid": "cdae53a0-2255-4078-a058-6b92e6c29951"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Ramp.fbx": {
+      "time": 1612819351137.215,
+      "uuid": "7db7f6de-d52e-45e5-b4ad-384484897f66"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters-border.png": {
+      "time": 1608984453062.6,
+      "uuid": "b2240f3b-fe90-4709-99a5-0e86d7e99d1a"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters-only-black.png": {
+      "time": 1608984965957.3193,
+      "uuid": "a759ea7d-e2f9-40e9-820f-905734f655db"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters-only-white.png": {
+      "time": 1608984933437.2737,
+      "uuid": "32a49a0a-7fa0-42ef-854d-2fbd69088603"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters-only.png": {
+      "time": 1608984823103.118,
+      "uuid": "3973a361-cb81-49e8-990b-e9092c4db8e5"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\Majadroid Brand Resources\\md-majadroid-letters.png": {
+      "time": 1608983905311.833,
+      "uuid": "9ab83dc3-fbb9-451d-a97d-264a43d33514"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Road.fbx": {
+      "time": 1612819062684.8044,
+      "uuid": "976c5a71-55e7-411c-8c54-7d5aab8417b4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Trucks.fbx": {
+      "time": 1612819280125.109,
+      "uuid": "fccd29f7-1b4f-4a6e-ab82-392d1df94915"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\_HouseConstructionSite-AllInOneObject_.fbx": {
+      "time": 1612798495132.69,
+      "uuid": "cba82e57-6bc3-4041-a11f-dea67d052349"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com.meta": {
+      "time": 1715740365090.14
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex.meta": {
+      "time": 1715740365091.14
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\  648308882921-传奇素材包-素材说明.txt.meta": {
+      "time": 1715740365103.1433
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\2d素材库-传奇素材包-素材免费下载.url.meta": {
+      "time": 1715740365111.1448
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\2d素材库素材免费下载.url.meta": {
+      "time": 1715740365107.1443
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型.meta": {
+      "time": 1715740365093.141
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\爱给网-2d素材库-免费下载.txt.meta": {
+      "time": 1715740365105.1428
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.FBX.meta": {
+      "time": 1715775939317.8638
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.jpg.meta": {
+      "time": 1715740365153.1528
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.max.meta": {
+      "time": 1715740365145.1533
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.mtl.meta": {
+      "time": 1715740365142.1506
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.obj.meta": {
+      "time": 1715740365151.152
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\地面.jpeg.meta": {
+      "time": 1715740365166.157
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\天空球.jpeg.meta": {
+      "time": 1715740365177.1577
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\房屋1.jpeg.meta": {
+      "time": 1715740365183.16
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\房屋2.jpeg.meta": {
+      "time": 1715740365191.163
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex\\Material #25_diffuse.png.meta": {
+      "time": 1715740365343.1958
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex\\Material #26_diffuse.png.meta": {
+      "time": 1715740365686.2727
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex\\Material #28_diffuse.png.meta": {
+      "time": 1715740366026.87
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex\\Material #29_diffuse.png.meta": {
+      "time": 1715740365993.862
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com": {
+      "time": 1715766477173.439,
+      "uuid": "1912b7cf-c204-4afc-8487-7ad6b9e1b176"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex": {
+      "time": 1715740365085.1377,
+      "uuid": "6cd4d55d-fe00-4be5-8ab5-a2c1aec273fa"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型": {
+      "time": 1715740365081.138,
+      "uuid": "5963903a-11a5-4089-ab19-242643546e4a"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\  648308882921-传奇素材包-素材说明.txt": {
+      "time": 1646887740000,
+      "uuid": "04594171-db67-414d-8f12-5e9e55b2382b"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\爱给网-2d素材库-免费下载.txt": {
+      "time": 1646887740000,
+      "uuid": "f7d79e61-734e-41cd-8c4d-cb10b7019cb0"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\2d素材库素材免费下载.url": {
+      "time": 1646887740000,
+      "uuid": "aa8adf29-5134-4d69-a42a-501d840cbbb6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\2d素材库-传奇素材包-素材免费下载.url": {
+      "time": 1646887740000,
+      "uuid": "d142697f-f0d7-48bc-bf58-cf680c7e7e42"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.mtl": {
+      "time": 1646887738000,
+      "uuid": "51a07fe9-0ab1-4b35-b9e0-672d3c8246c0"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.max": {
+      "time": 1646887738000,
+      "uuid": "3a25d37d-db89-40d4-9309-f4ceb5c3d396"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.obj": {
+      "time": 1646887740000,
+      "uuid": "2919c0f0-283e-4e68-924b-16ba6daa25cc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.jpg": {
+      "time": 1646887738000,
+      "uuid": "cbdade1c-b591-4b41-9e26-ba33f0334c07"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\地面.jpeg": {
+      "time": 1646887740000,
+      "uuid": "5f1026f6-053b-4481-85b2-04b3fe6594af"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\天空球.jpeg": {
+      "time": 1646887740000,
+      "uuid": "b0e6cb0d-6d67-488b-a658-c37493bbcba8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\房屋1.jpeg": {
+      "time": 1646887740000,
+      "uuid": "dd9b8e4d-e03d-4af3-9336-a703a6078d34"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\房屋2.jpeg": {
+      "time": 1646887740000,
+      "uuid": "63d32e30-15cb-4734-91be-983186ae7ba7"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex\\Material #25_diffuse.png": {
+      "time": 1715740016993.3462,
+      "uuid": "eb2a6477-ee7e-4440-a658-ff3826c22b06"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex\\Material #26_diffuse.png": {
+      "time": 1715740017785.7644,
+      "uuid": "988cce30-5f09-40e5-863e-cae3c470edb7"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex\\Material #29_diffuse.png": {
+      "time": 1715740021109.4438,
+      "uuid": "4fd2236f-5902-4f24-a464-f42a59b3d942"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\tex\\Material #28_diffuse.png": {
+      "time": 1715740020418.557,
+      "uuid": "df3882df-5715-49bf-88bd-2732ac38507c"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\4003.卡通城市3D模型\\卡通城市3D模型.FBX": {
+      "time": 1646887738000,
+      "uuid": "0b31877d-6bc0-4a46-9437-5b3b7c65b88f"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\builtin-standard.effect.meta": {
+      "time": 1715759657230.775
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\shader\\builtin-standard.effect": {
+      "time": 1704681115463.2615,
+      "uuid": "6a5d7d21-0be5-48f1-a87b-0597781838b2"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\cranerBt.fbx.meta": {
+      "time": 1715780804475.2563
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\cranerBt.fbx": {
+      "time": 1715780785008.3337,
+      "uuid": "f00db710-43f7-458c-8930-0cf24d57e88d"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\craneGrow.fbx.meta": {
+      "time": 1715824006072.9458
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\craneHolder.fbx.meta": {
+      "time": 1715781015236.042
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\craneGrow.fbx": {
+      "time": 1715780979708.3035,
+      "uuid": "12d56cc6-6cec-4c61-9959-7a05be58957a"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\craneHolder.fbx": {
+      "time": 1715781003227.364,
+      "uuid": "472af0e0-0cf9-4b56-8366-040ae06a56e6"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\CraneGrow.prefab.meta": {
+      "time": 1715781172243.6147
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\CraneGrow.prefab": {
+      "time": 1715824008995.4048,
+      "uuid": "5115fdff-1fbc-4fb4-9271-0a56f4cfbc49"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\MainUI.prefab.meta": {
+      "time": 1715862154535.8374
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\MainUI.prefab": {
+      "time": 1716283183571.7354,
+      "uuid": "5ed76401-2c3a-4682-acf8-110353a3cfb8"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\BaseBtn.prefab.meta": {
+      "time": 1715863091243.1929
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\BaseBtn.prefab": {
+      "time": 1715863091241.192,
+      "uuid": "a3b35c37-866e-4a94-8dae-b583f5011ed4"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\UI.meta": {
+      "time": 1715868658843.7156
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\UI": {
+      "time": 1716282352774.2976,
+      "uuid": "00a5da32-f987-4be0-8771-958fca8b0ad9"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\UI\\common.plist.meta": {
+      "time": 1716282352900.0447
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\UI\\common.png.meta": {
+      "time": 1715868664502.3718
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\UI\\common.plist": {
+      "time": 1716282347500.848,
+      "uuid": "b3548d82-6e88-43f3-b96e-9e5069d7acc1"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\UI\\common.png": {
+      "time": 1716282347498.8467,
+      "uuid": "bc2d510c-d7f9-41f4-9138-c4f7959da517"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script\\MainUI.ts.meta": {
+      "time": 1715869638840.9536
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\script\\MainUI.ts": {
+      "time": 1716282840596.8857,
+      "uuid": "ba4c79c5-84e9-43a3-b8f7-e329bbc74767"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\scene.meta": {
+      "time": 1715910690671.5774
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\scene": {
+      "time": 1715910719183.8772,
+      "uuid": "c0434d61-2793-474b-8da1-fc7da4a76be3"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\scene\\main.scene.meta": {
+      "time": 1704681516188.7312
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\scene\\main.scene": {
+      "time": 1716283459390.9436,
+      "uuid": "884899de-d9b2-4a42-978d-c1cabd138c65"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\scene\\resourceModel.scene.meta": {
+      "time": 1715910719193.7937
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\scene\\resourceModel.scene": {
+      "time": 1716192588499.228,
+      "uuid": "37f11f24-bec2-4336-aaec-5281eddfa5bb"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\firstFloor.fbx.meta": {
+      "time": 1715940294755.9297
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\firstFloor.fbx": {
+      "time": 1715940286805.6506,
+      "uuid": "ff4fb41c-c23f-4c90-9852-82b8c9b955c9"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\floor1_1.fbx.meta": {
+      "time": 1715947965512.779
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\floor1_1.fbx": {
+      "time": 1716012807871.7832,
+      "uuid": "00601f69-cc3b-424d-a3f6-136822efccdc"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\floor_1_1.prefab.meta": {
+      "time": 1715946457614.0447
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\floor_1_1.prefab": {
+      "time": 1716013230853.1604,
+      "uuid": "93815f3b-fdc2-4f66-87cc-a1a6a7a44644"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\floor1_0.fbx.meta": {
+      "time": 1715948607764.275
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\model\\floor1_0.fbx": {
+      "time": 1716011559015.433,
+      "uuid": "3649ff69-5138-4671-81bf-cf1ce38d9d05"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\floor_1_0.prefab.meta": {
+      "time": 1715948670141.3328
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\components\\floor_1_0.prefab": {
+      "time": 1716011679670.286,
+      "uuid": "f9f93368-fd16-4ef1-8ae0-cb9c9a0d1c99"
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\UI\\otherpng.meta": {
+      "time": 1716281963545.7776
+    },
+    "D:\\Project\\cocos\\Tower\\assets\\UI\\otherpng": {
+      "time": 1716282028496.2092,
+      "uuid": "64541a42-a8a0-46b1-ab5a-bb597bd8f5b5"
     }
   },
   "missing": {
@@ -1038,6 +2519,1686 @@
       "path": "D:\\Project\\cocos\\test\\assets\\components\\building-steps-narrow.prefab",
       "time": 1715067788054.0754,
       "removeTime": 1715067860656
+    },
+    "36414d3d-f464-42e5-9ede-ce3a92293c24": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛",
+      "time": 1715343310348.1538,
+      "removeTime": 1715344336860
+    },
+    "a7a8ec8f-0c5f-4c05-bae0-22daad36c9de": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛",
+      "time": 1715343285137.9077,
+      "removeTime": 1715344336861
+    },
+    "070ccda5-f731-48e9-8f3b-a107ab6a3fd6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\source",
+      "time": 1715343285107.3015,
+      "removeTime": 1715344336861
+    },
+    "a67b74e8-e63b-4ff3-8dc2-b8b005201c29": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures",
+      "time": 1715343285093.2979,
+      "removeTime": 1715344336861
+    },
+    "c1b4957d-f7b5-43a3-acc5-3fff229ed12d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\scene.scene",
+      "time": 1715343310520.9849,
+      "removeTime": 1715344336861
+    },
+    "cde48905-fa21-4bcf-8159-e313be5be795": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\source\\Mappaart.fbx",
+      "time": 1715343285018.2815,
+      "removeTime": 1715344336861
+    },
+    "922e6b63-1830-411e-aec5-45438a68a06c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\https-2F2Fvdist.aws_.mashable.com2Fcms2F20172F82F279d3ec0-b7.png",
+      "time": 1715343284270.2908,
+      "removeTime": 1715344336861
+    },
+    "ba7eca14-3ae7-49c3-942d-82624390cf2f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\lile1-01.png",
+      "time": 1715343284254.2861,
+      "removeTime": 1715344336861
+    },
+    "0b11528d-69bb-41f3-9de2-5240f30abe58": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\LILE2122-01.png",
+      "time": 1715343284259.2903,
+      "removeTime": 1715344336861
+    },
+    "d96d9054-d262-4350-b254-0905c04447c5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\LILLE33-01.png",
+      "time": 1715343284268.291,
+      "removeTime": 1715344336862
+    },
+    "0f9a64c4-3590-4b61-8f29-877c79a061eb": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\LILLE5-01.png",
+      "time": 1715343284212.5437,
+      "removeTime": 1715344336862
+    },
+    "9ed63eb0-61b7-4a39-82b8-0184411c823f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\LILLE666-01.png",
+      "time": 1715343284280.2932,
+      "removeTime": 1715344336862
+    },
+    "43cae1c2-8775-42e3-8164-5be3a2fadb0e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\LILLLLE7777££-01.png",
+      "time": 1715343284273.2913,
+      "removeTime": 1715344336862
+    },
+    "6d8419fc-83d8-4c79-9c1f-9cf646a3d338": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\lLLILE4-01.png",
+      "time": 1715343284272.2937,
+      "removeTime": 1715344336862
+    },
+    "945b7e5e-f03b-4ad9-a46a-cf3b365f9062": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\osuf1vt8w0uz-01.png",
+      "time": 1715343284226.282,
+      "removeTime": 1715344336862
+    },
+    "451aa20f-1941-43c5-b010-a68cda6233ea": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\osuf1vt8w0uz-02.png",
+      "time": 1715343284230.2822,
+      "removeTime": 1715344336862
+    },
+    "122a297d-3189-402f-bd2d-1a75ebaf3e55": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\osuf1vt8w0uz-03.png",
+      "time": 1715343284228.2815,
+      "removeTime": 1715344336862
+    },
+    "a9fc00f0-4ef6-4236-9111-bb5ae2567319": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\osuf1vt8w0uz-04.png",
+      "time": 1715343284218.2808,
+      "removeTime": 1715344336862
+    },
+    "f6d2eee9-9f37-4fea-9c26-18bf77e40a0e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\osuf1vt8w0uz-05.png",
+      "time": 1715343284207.5405,
+      "removeTime": 1715344336862
+    },
+    "bea68462-4c00-4b55-809a-3dab47caf560": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\osuf1vt8w0uz-06.png",
+      "time": 1715343284199.5403,
+      "removeTime": 1715344336863
+    },
+    "446a3ef0-df20-4ef2-9556-ea571d6f0cd5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\osuf1vt8w0uz-07.png",
+      "time": 1715343284205.5413,
+      "removeTime": 1715344336863
+    },
+    "0f6c3a99-f548-497b-a125-c51ef82cf11b": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\osuf1vt8w0uz-08.png",
+      "time": 1715343284282.2937,
+      "removeTime": 1715344336863
+    },
+    "8220b6ad-d13f-4820-8edc-b3c877f64ed6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\rope_texture_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_125.jpeg",
+      "time": 1715343284285.2944,
+      "removeTime": 1715344336863
+    },
+    "7ca6bcb5-d202-46f2-a4fd-f4eaed87f84c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\rope_texture_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_125.png",
+      "time": 1715343284253.286,
+      "removeTime": 1715344336863
+    },
+    "056e7bd1-3c09-433c-95f1-229aa70ce866": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3D海边小岛\\3D海边小岛\\textures\\Sans titre - 1-01.png",
+      "time": 1715343284289.2947,
+      "removeTime": 1715344336863
+    },
+    "6f8ca53c-2bb3-4728-98b1-5addc9336b0f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源",
+      "time": 1715343135090.828,
+      "removeTime": 1715344961006
+    },
+    "594939b1-e363-4228-8e72-97e9a6eea2e5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar",
+      "time": 1715320794117.2097,
+      "removeTime": 1715344961006
+    },
+    "5cd2c3e4-b09f-4184-a233-4a137e9c7877": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format",
+      "time": 1715320794223.6692,
+      "removeTime": 1715344961006
+    },
+    "ba6d26a1-7343-432e-ba78-ad94d43f2934": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs",
+      "time": 1715320794113.5376,
+      "removeTime": 1715344961006
+    },
+    "b4e0ac4a-cb98-402c-bd2d-9851bd7c7325": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\scene.scene",
+      "time": 1715343143883.1274,
+      "removeTime": 1715344961006
+    },
+    "caca3b6e-e895-47be-8c6f-8d9b28d76c66": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\ambulance.fbx",
+      "time": 1715320793785.5598,
+      "removeTime": 1715344961006
+    },
+    "af07720f-4722-4fbc-afd7-c505195708d3": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\delivery.fbx",
+      "time": 1715320793868.2097,
+      "removeTime": 1715344961006
+    },
+    "a706dd99-e82a-4bad-8710-80d224caa603": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\deliveryFlat.fbx",
+      "time": 1715320793842.0198,
+      "removeTime": 1715344961006
+    },
+    "f3b92034-c7ff-4bab-892e-72b250e5a958": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\firetruck.fbx",
+      "time": 1715320793910.144,
+      "removeTime": 1715344961007
+    },
+    "4b3b06b2-3408-40d4-a4c3-ecdce9fda4bb": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\garbageTruck.fbx",
+      "time": 1715320793938.4453,
+      "removeTime": 1715344961007
+    },
+    "071b8936-eec5-48e1-b70b-d1e943e81c06": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\hatchbackSports.fbx",
+      "time": 1715320793802.5928,
+      "removeTime": 1715344961007
+    },
+    "2b288f09-07ed-4556-956e-7b3903e9fcba": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\police.fbx",
+      "time": 1715320793947.4465,
+      "removeTime": 1715344961007
+    },
+    "defa55fa-9780-4840-b498-1e52eb7bdea6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\race.fbx",
+      "time": 1715320793847.827,
+      "removeTime": 1715344961007
+    },
+    "596c3149-077d-4c38-8b91-9e8098b4f47f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\raceFuture.fbx",
+      "time": 1715320793902.623,
+      "removeTime": 1715344961007
+    },
+    "1f9adeed-9217-4c6e-87eb-1f5e121e49d5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\sedan.fbx",
+      "time": 1715320793963.4524,
+      "removeTime": 1715344961007
+    },
+    "e0483166-032d-435c-bd4b-c70c0c3c85e1": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\sedanSports.fbx",
+      "time": 1715320793851.826,
+      "removeTime": 1715344961007
+    },
+    "ddf77d85-c8eb-4d7a-8e98-e47cd6f57516": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\suv.fbx",
+      "time": 1715320793809.168,
+      "removeTime": 1715344961007
+    },
+    "44df7f44-5721-47e2-aa72-43893a1abc68": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\suvLuxury.fbx",
+      "time": 1715320793862.651,
+      "removeTime": 1715344961007
+    },
+    "a8dd9d62-764d-4441-b653-2890e4f12a1f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\taxi.fbx",
+      "time": 1715320793819.17,
+      "removeTime": 1715344961007
+    },
+    "4d77f515-4371-4b43-9b0c-d4420e618a5f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\tractor.fbx",
+      "time": 1715320793915.8674,
+      "removeTime": 1715344961007
+    },
+    "565aafba-fa65-46bc-b781-06491a1f8b06": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\tractorPolice.fbx",
+      "time": 1715320793856.655,
+      "removeTime": 1715344961007
+    },
+    "b9731a17-18a8-4683-8053-ed024ba62e13": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\tractorShovel.fbx",
+      "time": 1715320793873.2102,
+      "removeTime": 1715344961008
+    },
+    "7988c6fe-d9be-4230-a014-1e23925276b4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\truck.fbx",
+      "time": 1715320793968.4514,
+      "removeTime": 1715344961008
+    },
+    "2c5e157c-a969-463d-a444-334453088ebd": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\truckFlat.fbx",
+      "time": 1715320793887.3845,
+      "removeTime": 1715344961008
+    },
+    "92f1d198-be3d-4a03-9b12-c8468d4f7a5b": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\van.fbx",
+      "time": 1715320793923.8606,
+      "removeTime": 1715344961008
+    },
+    "4951903f-0e7d-4bb8-859c-efe94d2b9e0f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\wheelDark.fbx",
+      "time": 1715320793892.3862,
+      "removeTime": 1715344961008
+    },
+    "9890603e-2747-4729-a778-616cb9d73c34": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\wheelDefault.fbx",
+      "time": 1715320793896.6587,
+      "removeTime": 1715344961008
+    },
+    "22076355-f64e-4505-92e6-43797d500142": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\wheelRacing.fbx",
+      "time": 1715320793940.4475,
+      "removeTime": 1715344961008
+    },
+    "7ff5291c-1f54-4a14-b5f6-f697fe44e8b4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\wheelTractorBack.fbx",
+      "time": 1715320793793.5603,
+      "removeTime": 1715344961008
+    },
+    "beae3122-4d17-45c5-b115-42db3ff4d1ed": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\wheelTractorDarkBack.fbx",
+      "time": 1715320793955.4487,
+      "removeTime": 1715344961008
+    },
+    "d33f42cc-1dd1-4acb-9648-0406c5b08f84": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\wheelTractorDarkFront.fbx",
+      "time": 1715320793970.452,
+      "removeTime": 1715344961008
+    },
+    "7aca1432-cbc3-412c-a6d9-a997892bee3c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\wheelTractorFront.fbx",
+      "time": 1715320793881.3855,
+      "removeTime": 1715344961009
+    },
+    "0637c6ad-d05f-40c4-bb51-68216dd33407": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\FBX format\\wheelTruck.fbx",
+      "time": 1715320793927.8625,
+      "removeTime": 1715344961009
+    },
+    "b25d0027-8fd4-46db-8510-6074d4b37dac": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\ambulance.prefab",
+      "time": 1715343152354.2273,
+      "removeTime": 1715344961009
+    },
+    "efa8dcc1-1da0-4255-ab30-293dfb859d9e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\delivery.prefab",
+      "time": 1715343152383.2354,
+      "removeTime": 1715344961009
+    },
+    "31a46821-f0cf-4023-8664-7bc6f2201942": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\deliveryFlat.prefab",
+      "time": 1715343152387.2356,
+      "removeTime": 1715344961009
+    },
+    "da1b6476-e56a-41f7-870f-858deb28df93": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\firetruck.prefab",
+      "time": 1715343152420.242,
+      "removeTime": 1715344961009
+    },
+    "38b7ae99-5ea3-4c93-9a1c-4c128f7beaf9": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\garbageTruck.prefab",
+      "time": 1715343152429.2458,
+      "removeTime": 1715344961009
+    },
+    "fd306d9c-f76a-49e9-b731-1c25631fa4f2": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\hatchbackSports.prefab",
+      "time": 1715343152430.2454,
+      "removeTime": 1715344961009
+    },
+    "86e468dd-2fb1-4abc-b295-3e30580cf589": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\police.prefab",
+      "time": 1715343152428.244,
+      "removeTime": 1715344961009
+    },
+    "71ec1d96-1819-49db-8ff5-ae88a3f6d20a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\race.prefab",
+      "time": 1715343152457.2512,
+      "removeTime": 1715344961009
+    },
+    "4c8a8208-02a2-4295-a52e-459d442b2ba8": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\raceFuture.prefab",
+      "time": 1715343152463.2534,
+      "removeTime": 1715344961009
+    },
+    "adc3e8fb-bc5c-4da2-b88f-5f063ca4870a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\sedan.prefab",
+      "time": 1715343152470.2537,
+      "removeTime": 1715344961010
+    },
+    "ff315020-0e63-40b8-b710-5e387c2e73f2": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\sedanSports.prefab",
+      "time": 1715343152468.2532,
+      "removeTime": 1715344961010
+    },
+    "1b5f8a56-bbcf-48d2-8c0d-fe094ad2cc5e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\suv.prefab",
+      "time": 1715343152489.2578,
+      "removeTime": 1715344961010
+    },
+    "b923fcdb-7730-45d7-ba50-05fcd1c9a74e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\suvLuxury.prefab",
+      "time": 1715343152493.2583,
+      "removeTime": 1715344961010
+    },
+    "c710a2e1-0bc8-4aa1-b7bf-9c70fa065fa5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\taxi.prefab",
+      "time": 1715343152497.26,
+      "removeTime": 1715344961010
+    },
+    "f9ab61fb-b918-433a-8595-63ef93c43392": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\tractor.prefab",
+      "time": 1715343152501.26,
+      "removeTime": 1715344961010
+    },
+    "8c6d8c06-9dee-4a01-8991-df3bfdcd01dd": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\tractorPolice.prefab",
+      "time": 1715343152501.26,
+      "removeTime": 1715344961010
+    },
+    "be8e9dde-edac-4ce8-bcc4-e3ded5529f3f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\tractorShovel.prefab",
+      "time": 1715343152534.8665,
+      "removeTime": 1715344961010
+    },
+    "3c17565c-74c1-48e9-85b0-7331e389cec7": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\truck.prefab",
+      "time": 1715343152533.868,
+      "removeTime": 1715344961010
+    },
+    "756e8917-94c0-490b-a255-a5bc536527e5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\truckFlat.prefab",
+      "time": 1715343152534.8665,
+      "removeTime": 1715344961010
+    },
+    "6db75372-fb18-4789-8285-07aa04ae8703": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\van.prefab",
+      "time": 1715343152538.868,
+      "removeTime": 1715344961010
+    },
+    "3ef79121-758c-4703-a17e-128483133865": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\wheelDark.prefab",
+      "time": 1715343152545.8748,
+      "removeTime": 1715344961010
+    },
+    "92f9417a-d3f9-4fe6-a6fc-179fc7ebf523": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\wheelDefault.prefab",
+      "time": 1715343152569.8755,
+      "removeTime": 1715344961011
+    },
+    "3e5f9dd8-f187-4d2d-83c5-50223f99bb86": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\wheelRacing.prefab",
+      "time": 1715343152569.8755,
+      "removeTime": 1715344961011
+    },
+    "bfab26a9-f38b-4c2f-b66a-32f97ba3a71e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\wheelTractorBack.prefab",
+      "time": 1715343152573.8765,
+      "removeTime": 1715344961011
+    },
+    "7b3891b2-7f4b-4001-9043-1d7370edaa93": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\wheelTractorDarkBack.prefab",
+      "time": 1715343152573.8765,
+      "removeTime": 1715344961011
+    },
+    "182f87ca-b395-43fa-9037-45d20c644279": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\wheelTractorDarkFront.prefab",
+      "time": 1715343152582.8782,
+      "removeTime": 1715344961011
+    },
+    "aa06102a-201a-4cd6-8ee3-668683c29a7d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\wheelTractorFront.prefab",
+      "time": 1715343152593.88,
+      "removeTime": 1715344961011
+    },
+    "db83c776-ffa6-431d-ac35-7b119a247f4c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\低模汽车资源\\kennyCar\\Prefabs\\wheelTruck.prefab",
+      "time": 1715343152594.8801,
+      "removeTime": 1715344961011
+    },
+    "e986b6b6-e2b2-423a-b149-4fa9417e2498": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件",
+      "time": 1715320746705.146,
+      "removeTime": 1715344963241
+    },
+    "9c6c59e2-53e5-4fad-bfea-c8142e288577": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules",
+      "time": 1715320746923.3933,
+      "removeTime": 1715344963241
+    },
+    "a72a5070-c90d-449e-b303-eb5ee8404f0d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab",
+      "time": 1715320746700.1448,
+      "removeTime": 1715344963241
+    },
+    "033779e6-06ac-46f1-b39e-157941920d4e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\scene.scene",
+      "time": 1715343141643.8623,
+      "removeTime": 1715344963241
+    },
+    "8a8587de-85ec-45f0-bf96-e8d5316879eb": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\detail_awning.fbx",
+      "time": 1715320746164.469,
+      "removeTime": 1715344963241
+    },
+    "c817589b-ffc3-4481-b7d6-5a98cabebe0e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\detail_awningWide.fbx",
+      "time": 1715320746241.485,
+      "removeTime": 1715344963241
+    },
+    "46ae565c-36d4-421b-a52c-e7ba158dbd7b": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\detail_overhang.fbx",
+      "time": 1715320746347.9404,
+      "removeTime": 1715344963241
+    },
+    "0863d3d0-a5f1-4134-a980-85a54a8a4e00": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\detail_overhangWide.fbx",
+      "time": 1715320746285.495,
+      "removeTime": 1715344963241
+    },
+    "59c0ba7a-c689-4783-93d2-02d88ed6ff7f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\detail_umbrella.fbx",
+      "time": 1715320746236.4875,
+      "removeTime": 1715344963242
+    },
+    "6cc4f488-0bd0-4af8-887e-c613e532a56f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\detail_umbrellaDetailed.fbx",
+      "time": 1715320746407.9536,
+      "removeTime": 1715344963242
+    },
+    "ae001cd7-54fb-461a-9564-17b871995a48": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\large_buildingA.fbx",
+      "time": 1715320746377.9463,
+      "removeTime": 1715344963242
+    },
+    "f0848faa-2717-4d22-a541-76070a1e5070": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\large_buildingB.fbx",
+      "time": 1715320746359.9426,
+      "removeTime": 1715344963242
+    },
+    "cde7d3fd-63ae-4b2a-b5b5-39dbbaae7ecc": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\large_buildingC.fbx",
+      "time": 1715320746337.506,
+      "removeTime": 1715344963242
+    },
+    "7c3a47f9-ed16-43fe-9a06-72c899a39ecd": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\large_buildingD.fbx",
+      "time": 1715320746295.4968,
+      "removeTime": 1715344963242
+    },
+    "9b813313-bbca-4995-9dd0-14db602bb9ec": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\large_buildingE.fbx",
+      "time": 1715320746274.493,
+      "removeTime": 1715344963242
+    },
+    "514fc3bc-61b4-45cd-9498-e9ff14948e07": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\large_buildingF.fbx",
+      "time": 1715320746301.4985,
+      "removeTime": 1715344963242
+    },
+    "ed12ed37-1c3c-47d4-b7cb-f59c62c28671": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\large_buildingG.fbx",
+      "time": 1715320746327.505,
+      "removeTime": 1715344963243
+    },
+    "e4cc6003-dff1-4434-a6e7-7fbca8e928cb": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingA.fbx",
+      "time": 1715320746322.5034,
+      "removeTime": 1715344963243
+    },
+    "ae222d30-074d-4a86-a04a-2f27bebfb4c0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingB.fbx",
+      "time": 1715320746287.4956,
+      "removeTime": 1715344963243
+    },
+    "734d10b7-c575-4eeb-8c55-17e3b6c00bfe": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingC.fbx",
+      "time": 1715320746278.494,
+      "removeTime": 1715344963243
+    },
+    "d391a487-abe6-49a9-b556-d016dc509630": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingD.fbx",
+      "time": 1715320746355.9414,
+      "removeTime": 1715344963243
+    },
+    "0c081b43-4f24-4812-8f61-6eceb57f9ca4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingE.fbx",
+      "time": 1715320746343.9402,
+      "removeTime": 1715344963243
+    },
+    "b87c5cbc-0827-41a6-828c-497af65caf7e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingF.fbx",
+      "time": 1715320746364.9456,
+      "removeTime": 1715344963243
+    },
+    "b6fd5924-a314-4f38-b961-d549ff643756": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingG.fbx",
+      "time": 1715320746370.945,
+      "removeTime": 1715344963243
+    },
+    "d8916ec0-9c61-4778-b243-b69cbb212f0e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingH.fbx",
+      "time": 1715320746238.485,
+      "removeTime": 1715344963243
+    },
+    "6894954f-5dbf-4838-b527-17c3016eafdb": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingI.fbx",
+      "time": 1715320746232.4844,
+      "removeTime": 1715344963244
+    },
+    "06678a4e-e41b-4936-8fcb-399bd1f175ba": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingJ.fbx",
+      "time": 1715320746208.478,
+      "removeTime": 1715344963244
+    },
+    "d2d7f154-c054-4a70-b6d0-4987221a0a3a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingK.fbx",
+      "time": 1715320746228.4822,
+      "removeTime": 1715344963244
+    },
+    "3c5561df-5b16-4f29-82e4-93244625b2c8": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingL.fbx",
+      "time": 1715320746251.489,
+      "removeTime": 1715344963244
+    },
+    "ba8068a5-c10a-4b6d-8fdb-59cef51d51e7": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingM.fbx",
+      "time": 1715320746253.4902,
+      "removeTime": 1715344963244
+    },
+    "a363f74c-881b-4ae9-aac9-4d24bf88bd26": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_buildingN.fbx",
+      "time": 1715320746265.491,
+      "removeTime": 1715344963244
+    },
+    "a14a4113-5771-4975-bf66-e5adf7ed3a73": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_wideA.fbx",
+      "time": 1715320746394.9514,
+      "removeTime": 1715344963244
+    },
+    "1c28e8ee-8e0a-438c-b6eb-906ffccad803": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\low_wideB.fbx",
+      "time": 1715320746381.9475,
+      "removeTime": 1715344963244
+    },
+    "cff2d537-955e-46d8-9c9a-4c259a3f192d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\roof_center.fbx",
+      "time": 1715320746390.9492,
+      "removeTime": 1715344963245
+    },
+    "33a01ec7-eebb-4018-bb9b-d5390cd3e207": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\roof_corner.fbx",
+      "time": 1715320746368.9475,
+      "removeTime": 1715344963245
+    },
+    "51361b5d-a2dd-4ab5-81a1-48c21f8be4d0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\roof_overhang.fbx",
+      "time": 1715320746113.4565,
+      "removeTime": 1715344963245
+    },
+    "30f54794-68c6-440a-af89-59269535954b": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\roof_side.fbx",
+      "time": 1715320746161.4702,
+      "removeTime": 1715344963245
+    },
+    "c623c39a-a27c-443f-a622-ef67b8d0bef4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\sign_billboard.fbx",
+      "time": 1715320746093.4517,
+      "removeTime": 1715344963245
+    },
+    "3f767b0e-f8ce-4a9a-b92d-2cb55c9fe985": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\sign_hospital.fbx",
+      "time": 1715320746414.9575,
+      "removeTime": 1715344963245
+    },
+    "143698be-6564-42d4-94dc-50ea9428141a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\skyscraperA.fbx",
+      "time": 1715320746109.4553,
+      "removeTime": 1715344963245
+    },
+    "0c03a252-3d9f-4308-9f96-12e296fb7ab2": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\skyscraperB.fbx",
+      "time": 1715320746086.45,
+      "removeTime": 1715344963245
+    },
+    "c1d01a68-141e-4eef-9f43-e4a5e7fab32d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\skyscraperC.fbx",
+      "time": 1715320746101.4539,
+      "removeTime": 1715344963245
+    },
+    "f4796d20-ffc8-44b8-9c94-65425f9f08e5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\skyscraperD.fbx",
+      "time": 1715320746149.4663,
+      "removeTime": 1715344963246
+    },
+    "6e706ec9-3ee0-41cd-9d60-fa960e633c41": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\skyscraperE.fbx",
+      "time": 1715320746186.4739,
+      "removeTime": 1715344963246
+    },
+    "12fd3a39-1333-46ea-a039-1c316d793943": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\skyscraperF.fbx",
+      "time": 1715320746205.4788,
+      "removeTime": 1715344963246
+    },
+    "1b47bada-1ec1-41c6-b867-61e9854df857": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\small_buildingA.fbx",
+      "time": 1715320746192.4753,
+      "removeTime": 1715344963246
+    },
+    "30671019-d85c-410c-a1ae-6bc51c7bb4df": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\small_buildingB.fbx",
+      "time": 1715320746143.4663,
+      "removeTime": 1715344963246
+    },
+    "0c694650-c96d-4d80-aaa8-8216cd27dca9": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\small_buildingC.fbx",
+      "time": 1715320746189.4734,
+      "removeTime": 1715344963246
+    },
+    "37244517-f7e2-486b-b567-d356c9f10ce9": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\small_buildingD.fbx",
+      "time": 1715320746091.451,
+      "removeTime": 1715344963246
+    },
+    "0a8a912d-d9b4-4087-b480-9a65423007b6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\small_buildingE.fbx",
+      "time": 1715320746097.453,
+      "removeTime": 1715344963246
+    },
+    "f2ecf332-0ad4-4778-88b7-25831d1875e4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\small_buildingF.fbx",
+      "time": 1715320746138.4624,
+      "removeTime": 1715344963246
+    },
+    "b7709ece-591d-46b0-935b-6ccfdf7e1ec0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_doorA.fbx",
+      "time": 1715320746308.5005,
+      "removeTime": 1715344963247
+    },
+    "db577eed-48e7-46a0-be17-84ccd5903907": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_doorB.fbx",
+      "time": 1715320746283.494,
+      "removeTime": 1715344963247
+    },
+    "72bf1f7a-2479-4e44-8deb-084cb64fc0f3": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_solid.fbx",
+      "time": 1715320746248.4873,
+      "removeTime": 1715344963247
+    },
+    "0c748b08-ac30-4027-9658-80c1b1fb4d4e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_windowA.fbx",
+      "time": 1715320746195.4768,
+      "removeTime": 1715344963247
+    },
+    "3f49fae3-85e0-44cb-bd98-50769ed67198": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_windowB.fbx",
+      "time": 1715320746154.465,
+      "removeTime": 1715344963247
+    },
+    "90f088a6-22f3-4f39-a377-d3cd1f233c65": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_windowC.fbx",
+      "time": 1715320746181.4744,
+      "removeTime": 1715344963247
+    },
+    "bcade991-1e00-409a-939c-5b088fe0bdec": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_windowD.fbx",
+      "time": 1715320746079.743,
+      "removeTime": 1715344963247
+    },
+    "350ad571-3c0c-448a-b2c9-bfdb0bb23eab": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_windowE.fbx",
+      "time": 1715320746104.4536,
+      "removeTime": 1715344963247
+    },
+    "b6ca922e-1c53-492c-b733-71681bb4eb67": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\modules\\wall_windowF.fbx",
+      "time": 1715320746141.463,
+      "removeTime": 1715344963247
+    },
+    "d8d9629e-8f92-4c87-a397-1970758fdb46": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\detail_awning.prefab",
+      "time": 1715343146233.724,
+      "removeTime": 1715344963248
+    },
+    "11266ad7-a9fa-46f8-b542-cf649e7c2cc4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\detail_awningWide.prefab",
+      "time": 1715343146238.7249,
+      "removeTime": 1715344963248
+    },
+    "970fbf76-eef8-46da-bca8-95216f892155": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\detail_overhang.prefab",
+      "time": 1715343146266.7327,
+      "removeTime": 1715344963248
+    },
+    "cc1cd48c-ae64-45e8-baa5-cde3d76f241a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\detail_overhangWide.prefab",
+      "time": 1715343146273.7324,
+      "removeTime": 1715344963248
+    },
+    "18b7b2d8-e63d-488f-9a44-c571892dc6e0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\detail_umbrella.prefab",
+      "time": 1715343146299.7385,
+      "removeTime": 1715344963248
+    },
+    "f083499f-142f-47e5-830d-14dd7ecd7807": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\detail_umbrellaDetailed.prefab",
+      "time": 1715343146303.739,
+      "removeTime": 1715344963248
+    },
+    "97e5affa-2479-4c58-bd90-f7dddf18790f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\large_buildingA.prefab",
+      "time": 1715343146306.74,
+      "removeTime": 1715344963248
+    },
+    "1f1a1c45-894d-491a-9310-03695a9813ee": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\large_buildingB.prefab",
+      "time": 1715343146309.7402,
+      "removeTime": 1715344963248
+    },
+    "4cae1544-5e55-4e87-a226-773a5e001b8f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\large_buildingC.prefab",
+      "time": 1715343146348.7505,
+      "removeTime": 1715344963248
+    },
+    "27faee22-3588-4e70-8aa1-b7fef94e389f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\large_buildingD.prefab",
+      "time": 1715343146342.7478,
+      "removeTime": 1715344963249
+    },
+    "b5d4f1f6-152f-4e34-be0a-eaea5d2690cd": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\large_buildingE.prefab",
+      "time": 1715343146348.7505,
+      "removeTime": 1715344963249
+    },
+    "209fde4b-2a02-444a-9aa5-6d46391f639c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\large_buildingF.prefab",
+      "time": 1715343146347.7495,
+      "removeTime": 1715344963249
+    },
+    "340025bb-70d6-4f2a-b25e-df26c2cb1123": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\large_buildingG.prefab",
+      "time": 1715343146372.755,
+      "removeTime": 1715344963249
+    },
+    "134cbc64-3e36-40e9-9c28-395b1fb106e6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingA.prefab",
+      "time": 1715343146372.755,
+      "removeTime": 1715344963249
+    },
+    "68d43f34-b426-48f2-9ea0-a009f0ae7081": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingB.prefab",
+      "time": 1715343146377.7554,
+      "removeTime": 1715344963249
+    },
+    "0bf34389-6bb1-4650-ad6b-d700b8b59444": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingC.prefab",
+      "time": 1715343146379.7568,
+      "removeTime": 1715344963249
+    },
+    "c467167b-7cb7-4af6-a105-927f68168e4c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingD.prefab",
+      "time": 1715343146381.7566,
+      "removeTime": 1715344963249
+    },
+    "20ece900-531a-4b8c-bf4f-0c309c46c497": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingE.prefab",
+      "time": 1715343146401.7622,
+      "removeTime": 1715344963250
+    },
+    "100c1a74-76cf-410c-a634-c8372da82106": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingF.prefab",
+      "time": 1715343146401.7622,
+      "removeTime": 1715344963250
+    },
+    "94441453-e911-4b09-8d68-c54252834fe4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingG.prefab",
+      "time": 1715343146409.7632,
+      "removeTime": 1715344963250
+    },
+    "b69f0df9-7759-46fe-a3c9-23d03979e3a3": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingH.prefab",
+      "time": 1715343146409.7632,
+      "removeTime": 1715344963250
+    },
+    "df8577a0-95a8-4efd-b23e-a548fa29a6b8": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingI.prefab",
+      "time": 1715343146410.7632,
+      "removeTime": 1715344963250
+    },
+    "562c7719-42df-48d9-937e-2f2d5cee55f0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingJ.prefab",
+      "time": 1715343146445.7717,
+      "removeTime": 1715344963250
+    },
+    "a468b67d-38fb-49ee-a91c-1fbfd2aba384": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingK.prefab",
+      "time": 1715343146445.7717,
+      "removeTime": 1715344963250
+    },
+    "b024bc10-5648-42bf-9ffb-5618fb32cb24": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingL.prefab",
+      "time": 1715343146445.7717,
+      "removeTime": 1715344963250
+    },
+    "3056c050-fad5-4f1e-83eb-127b285b8fb6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingM.prefab",
+      "time": 1715343146446.7715,
+      "removeTime": 1715344963250
+    },
+    "e8247b12-3c4a-4236-a7c7-387260ae0df6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\城市建筑模型套件\\prefab\\low_buildingN.prefab",
+      "time": 1715343146478.778,
+      "removeTime": 1715344963251
+    },
+    "2d4f7c42-0fdb-48d7-b256-fd2a24b38be1": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材",
+      "time": 1715343135084.827,
+      "removeTime": 1715344970270
+    },
+    "81ef698d-9f34-4392-aabb-d2fa9c376957": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型",
+      "time": 1715322504563.7832,
+      "removeTime": 1715344970270
+    },
+    "ea1f4676-df1f-41a3-9ca1-0c722b0ea9ef": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format",
+      "time": 1715322505042.3762,
+      "removeTime": 1715344970270
+    },
+    "bbaf0e2f-a9a3-4679-b306-115d9a8144e1": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\License.txt",
+      "time": 1715322503826.4995,
+      "removeTime": 1715344970270
+    },
+    "13c43545-da3d-443d-881f-121c8a1626cc": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\scene.scene",
+      "time": 1715343141438.729,
+      "removeTime": 1715344970270
+    },
+    "b2ded577-18f2-433c-a5bf-bd1666ee74ad": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\bannerTowerGreen.fbx",
+      "time": 1715322504446.1118,
+      "removeTime": 1715344970270
+    },
+    "8c101601-c709-4afc-a8b8-7913633b9ac6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\bannerTowerRed.fbx",
+      "time": 1715322504401.101,
+      "removeTime": 1715344970270
+    },
+    "e0eb1738-e9e3-4db1-9360-52a0db563d7d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\barrierRed.fbx",
+      "time": 1715322503846.503,
+      "removeTime": 1715344970270
+    },
+    "0c319543-4c45-4436-8353-e260e8666562": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\barrierWall.fbx",
+      "time": 1715322503964.4915,
+      "removeTime": 1715344970270
+    },
+    "64e061bc-c2f6-4496-bc93-ae98cfd53477": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\barrierWhite.fbx",
+      "time": 1715322504238.0647,
+      "removeTime": 1715344970270
+    },
+    "465926a4-f0a7-4e84-9f00-0968c8c0833a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\billboard.fbx",
+      "time": 1715322504510.1257,
+      "removeTime": 1715344970270
+    },
+    "54f34288-33f3-4d65-aebc-5b90e04dc416": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\billboardDouble_exclusive.fbx",
+      "time": 1715322503903.4778,
+      "removeTime": 1715344970271
+    },
+    "7576e657-cba8-484e-82d4-73b62630077a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\billboardLow.fbx",
+      "time": 1715322503935.4841,
+      "removeTime": 1715344970271
+    },
+    "cbe35028-d682-48c0-a225-5b39e0622888": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\billboardLower.fbx",
+      "time": 1715322504145.0452,
+      "removeTime": 1715344970271
+    },
+    "601c38e5-f7aa-4945-a2e0-cf6f57794cb5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\camera_exclusive.fbx",
+      "time": 1715322504240.0654,
+      "removeTime": 1715344970271
+    },
+    "f5be27c8-a2b1-4089-8b91-033af2411c84": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\fenceCurved.fbx",
+      "time": 1715322503840.502,
+      "removeTime": 1715344970271
+    },
+    "f5c273a9-22d3-4cbe-a2a2-31e1e5a3906d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\fenceStraight.fbx",
+      "time": 1715322504367.0933,
+      "removeTime": 1715344970271
+    },
+    "a8f76923-2772-45d2-b7ad-f558b1810651": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\flagCheckers.fbx",
+      "time": 1715322504109.0356,
+      "removeTime": 1715344970271
+    },
+    "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\flagCheckersSmall.fbx",
+      "time": 1715322504350.0896,
+      "removeTime": 1715344970271
+    },
+    "c536d287-9a4c-4849-89c3-6451b683ae2d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\flagGreen.fbx",
+      "time": 1715322504126.039,
+      "removeTime": 1715344970271
+    },
+    "1e32ab40-a082-4fe0-981e-c9f6e9fb9b4f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\flagRed.fbx",
+      "time": 1715322504405.1023,
+      "removeTime": 1715344970271
+    },
+    "bc24eeed-3c27-4377-b117-c00174150344": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\flagTankco.fbx",
+      "time": 1715322504523.131,
+      "removeTime": 1715344970271
+    },
+    "9cfa7004-d96b-44af-8fca-d9ca15e160a2": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\grandStand.fbx",
+      "time": 1715322504268.0703,
+      "removeTime": 1715344970272
+    },
+    "acd3f966-4e57-42ff-94ec-5d7fd8f52c5e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\grandStandAwning.fbx",
+      "time": 1715322504434.1086,
+      "removeTime": 1715344970272
+    },
+    "d282f2fd-a8b9-4191-bc5e-e61454f359ce": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\grandStandCovered.fbx",
+      "time": 1715322503927.4849,
+      "removeTime": 1715344970272
+    },
+    "d263244b-3a73-416a-9cf0-87d29d12062e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\grandStandCoveredRound.fbx",
+      "time": 1715322504170.0505,
+      "removeTime": 1715344970272
+    },
+    "2c9fa6d5-922b-468d-abb2-ba688bea3a83": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\grandStandRound.fbx",
+      "time": 1715322504288.0757,
+      "removeTime": 1715344970272
+    },
+    "c90ad77d-5e47-4a89-b5d9-d8a2a987a397": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\grass.fbx",
+      "time": 1715322504275.0737,
+      "removeTime": 1715344970272
+    },
+    "6b942ea1-0be6-4212-83ee-c98693e8fec9": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\lightColored.fbx",
+      "time": 1715322504408.1028,
+      "removeTime": 1715344970272
+    },
+    "5ef6030f-5be2-4502-88d2-f9f9f3dad90b": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\lightPostLarge.fbx",
+      "time": 1715322503909.4783,
+      "removeTime": 1715344970272
+    },
+    "2d82b49b-9f45-4aba-a972-ead63471b1b4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\lightPostModern.fbx",
+      "time": 1715322504139.0413,
+      "removeTime": 1715344970272
+    },
+    "de05f7ca-e174-4675-89ea-57b2d3f71451": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\lightPost_exclusive.fbx",
+      "time": 1715322504062.026,
+      "removeTime": 1715344970272
+    },
+    "450a2970-1e3a-47b1-be6e-70a41f1af039": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\lightRed.fbx",
+      "time": 1715322504473.1199,
+      "removeTime": 1715344970272
+    },
+    "744337f3-12aa-4e1e-adb6-3d03d3e82672": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\lightRedDouble.fbx",
+      "time": 1715322504071.027,
+      "removeTime": 1715344970272
+    },
+    "2e187b23-69ef-49ff-96d3-ade54d65e73c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\overhead.fbx",
+      "time": 1715322504134.0408,
+      "removeTime": 1715344970272
+    },
+    "6ebbd8be-2cd3-4462-9df5-22b90458ea66": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\overheadLights.fbx",
+      "time": 1715322504426.1067,
+      "removeTime": 1715344970272
+    },
+    "b5aae6fb-7d6b-49be-bc7e-1a099a2a9a24": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\overheadRound.fbx",
+      "time": 1715322503857.505,
+      "removeTime": 1715344970273
+    },
+    "0d0e0bf7-6664-47b7-a976-55f8c6e79234": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\overheadRoundColored.fbx",
+      "time": 1715322504513.1265,
+      "removeTime": 1715344970273
+    },
+    "de0efca7-05e1-4006-ae95-4c88dc0de256": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\pitsGarage.fbx",
+      "time": 1715322504065.026,
+      "removeTime": 1715344970273
+    },
+    "fcb28245-d657-45ee-9c96-5cd9b1386639": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\pitsGarageClosed.fbx",
+      "time": 1715322504344.0889,
+      "removeTime": 1715344970273
+    },
+    "43330a1d-b574-433a-beba-f617136f0f78": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\pitsGarageCorner.fbx",
+      "time": 1715322504026.0168,
+      "removeTime": 1715344970273
+    },
+    "3ac10856-41e6-47cb-89c4-13cedb2fe950": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\pitsOffice.fbx",
+      "time": 1715322503956.4895,
+      "removeTime": 1715344970273
+    },
+    "ed47a42b-3b56-4920-8f78-b90ca3914dfb": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\pitsOfficeCorner.fbx",
+      "time": 1715322504175.05,
+      "removeTime": 1715344970273
+    },
+    "80439b7e-37c7-4874-89a8-ac32067c1506": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\pitsOfficeRoof.fbx",
+      "time": 1715322504034.0188,
+      "removeTime": 1715344970273
+    },
+    "4124dfc3-0d9d-42be-94f5-2a31d5029bdd": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\pylon.fbx",
+      "time": 1715322504370.0938,
+      "removeTime": 1715344970273
+    },
+    "ae149715-e31f-4ab7-8e8d-d0bd3922294f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\raceCarGreen.fbx",
+      "time": 1715322504259.07,
+      "removeTime": 1715344970273
+    },
+    "a7fa70bf-f0a7-4699-9de4-477de3438fe5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\raceCarOrange.fbx",
+      "time": 1715322503921.4807,
+      "removeTime": 1715344970273
+    },
+    "8f3aaeda-68f6-4b58-bd4e-66147ef71df7": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\raceCarRed.fbx",
+      "time": 1715322504220.061,
+      "removeTime": 1715344970273
+    },
+    "85bdd5fa-6d1a-4edb-80b3-f97b31cd4722": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\raceCarWhite.fbx",
+      "time": 1715322504483.1199,
+      "removeTime": 1715344970273
+    },
+    "6b72c165-6efc-4eb8-aaaa-4bfe622fe79e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\radarEquipment.fbx",
+      "time": 1715322504391.1003,
+      "removeTime": 1715344970273
+    },
+    "7aed4e0c-3247-4278-b551-84091b1b7a34": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\rail.fbx",
+      "time": 1715322504395.102,
+      "removeTime": 1715344970274
+    },
+    "75df9e80-f2ad-44a6-8b74-2ca7e194012b": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\railDouble.fbx",
+      "time": 1715322504046.0208,
+      "removeTime": 1715344970274
+    },
+    "540043bb-4d38-4ed0-a290-2279854cc805": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\ramp.fbx",
+      "time": 1715322504206.057,
+      "removeTime": 1715344970274
+    },
+    "bcf8a672-b4ec-464d-9009-5722c5c3a4f1": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadBump.fbx",
+      "time": 1715322504266.0715,
+      "removeTime": 1715344970274
+    },
+    "d7629eb0-3f05-42a4-9991-c25685286d25": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerBridgeLarge.fbx",
+      "time": 1715322504363.0928,
+      "removeTime": 1715344970274
+    },
+    "4c6ad31b-0e3e-4200-8bc0-87fb80510b73": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerBridgeLarger.fbx",
+      "time": 1715322503837.5,
+      "removeTime": 1715344970274
+    },
+    "295bf043-c1a8-477f-bde8-c549f96735f8": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerBridgeSmall.fbx",
+      "time": 1715322504204.0579,
+      "removeTime": 1715344970274
+    },
+    "6c2967c4-c0e7-430e-93b3-cb35fd9628d5": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLarge.fbx",
+      "time": 1715322503946.486,
+      "removeTime": 1715344970274
+    },
+    "8bc9caa5-ade8-4d8f-bbd4-5a92bf1e3a20": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargeBorder.fbx",
+      "time": 1715322504493.1223,
+      "removeTime": 1715344970274
+    },
+    "377886f1-0dd1-4ae6-a87e-fdd355a59e26": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargeBorderInner.fbx",
+      "time": 1715322504519.128,
+      "removeTime": 1715344970274
+    },
+    "2799da15-6204-4cc6-b6a5-75e286f6127a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLarger.fbx",
+      "time": 1715322504154.0474,
+      "removeTime": 1715344970274
+    },
+    "63747495-1e7c-435b-b796-441c68d72c36": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargerBorder.fbx",
+      "time": 1715322504214.06,
+      "removeTime": 1715344970275
+    },
+    "23472917-7bb5-4082-a0ba-13da9f857795": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargerBorderInner.fbx",
+      "time": 1715322504458.1135,
+      "removeTime": 1715344970275
+    },
+    "5a846456-7cce-41c4-ae7e-9fffaf41a83c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargerSand.fbx",
+      "time": 1715322504340.0876,
+      "removeTime": 1715344970275
+    },
+    "47e03c9f-c8ef-4516-abaf-0834d92e157d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargerSandInner.fbx",
+      "time": 1715322504030.0183,
+      "removeTime": 1715344970275
+    },
+    "ce59ee5c-6013-4bd1-ada4-ce0072f39467": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargerWall.fbx",
+      "time": 1715322504417.105,
+      "removeTime": 1715344970275
+    },
+    "2cdc9718-684c-4c0c-9127-58401f65fa3b": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargerWallInner.fbx",
+      "time": 1715322504449.1143,
+      "removeTime": 1715344970275
+    },
+    "89bfcf2e-ac19-429c-837b-94668dee0fcd": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargeSand.fbx",
+      "time": 1715322504227.0645,
+      "removeTime": 1715344970275
+    },
+    "c2de51c9-63bd-458d-a7f3-3d0465cae04a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargeSandInner.fbx",
+      "time": 1715322504412.1057,
+      "removeTime": 1715344970275
+    },
+    "f53de4bf-e6e8-453a-88e9-dd7d47aa4d37": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargeWall.fbx",
+      "time": 1715322504454.1135,
+      "removeTime": 1715344970275
+    },
+    "067cb97d-2f0a-44be-8b9d-feb8befef6bf": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerLargeWallInner.fbx",
+      "time": 1715322504151.0442,
+      "removeTime": 1715344970275
+    },
+    "8bc0f844-bdd0-43a2-b08b-4b0a889efc52": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerSmall.fbx",
+      "time": 1715322503843.5022,
+      "removeTime": 1715344970276
+    },
+    "e930de31-6602-4d4e-bdeb-90cf1a3f4f78": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerSmallBorder.fbx",
+      "time": 1715322504249.0679,
+      "removeTime": 1715344970276
+    },
+    "524cabac-ce09-4dbe-8c72-185cfe30fc90": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerSmallSand.fbx",
+      "time": 1715322503881.5105,
+      "removeTime": 1715344970276
+    },
+    "2c7407e6-20ab-4ee0-8bbf-e7d358ae29a3": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerSmallSquare.fbx",
+      "time": 1715322504173.0498,
+      "removeTime": 1715344970276
+    },
+    "82e91acf-3f59-41ce-8c80-3d71e4d35a28": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCornerSmallWall.fbx",
+      "time": 1715322504179.053,
+      "removeTime": 1715344970276
+    },
+    "d0580551-38ed-45d7-a927-bc711344e80e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCrossing.fbx",
+      "time": 1715322504507.1255,
+      "removeTime": 1715344970276
+    },
+    "b43deb40-eafc-47d0-9d1f-754d0a7f416a": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCurved.fbx",
+      "time": 1715322504106.0342,
+      "removeTime": 1715344970276
+    },
+    "a67430be-bfb8-435f-9222-a218fec9c01e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadCurvedSplit.fbx",
+      "time": 1715322504284.0747,
+      "removeTime": 1715344970276
+    },
+    "f99661aa-f2fe-4593-98f7-1142831c6fb9": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadEnd.fbx",
+      "time": 1715322503899.4758,
+      "removeTime": 1715344970276
+    },
+    "28c962ab-3166-49f1-b3ca-923efd7b9104": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadPitEntry.fbx",
+      "time": 1715322503906.4795,
+      "removeTime": 1715344970276
+    },
+    "2b6f69a8-e90b-4fdf-8c7d-566044bc9331": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadPitGarage.fbx",
+      "time": 1715322504273.0725,
+      "removeTime": 1715344970276
+    },
+    "0a4b2c47-1d38-48e6-be87-f1c893734eef": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadPitStraight.fbx",
+      "time": 1715322504032.0186,
+      "removeTime": 1715344970276
+    },
+    "b12a2976-0586-4179-a4a7-53b07699caf0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadPitStraightLong.fbx",
+      "time": 1715322504486.1204,
+      "removeTime": 1715344970276
+    },
+    "2e2f2849-a5ea-4b96-ab7d-f1b0931ed811": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadRamp.fbx",
+      "time": 1715322504051.023,
+      "removeTime": 1715344970277
+    },
+    "29c533b9-12b9-487b-a60b-54d3c0f140b2": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadRampLong.fbx",
+      "time": 1715322504222.0623,
+      "removeTime": 1715344970277
+    },
+    "b5834b8a-0251-462b-adc9-2b18a9d10423": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadRampLongCurved.fbx",
+      "time": 1715322504161.0505,
+      "removeTime": 1715344970277
+    },
+    "f513c80d-5328-484f-b763-7cffd5d6cae8": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadRampLongCurvedWall.fbx",
+      "time": 1715322504116.0366,
+      "removeTime": 1715344970277
+    },
+    "9ae5437f-aa7b-49dd-957a-7128fa7b9e56": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadRampLongWall.fbx",
+      "time": 1715322504509.1255,
+      "removeTime": 1715344970277
+    },
+    "b745f919-b6a2-42f4-a745-d7edb0d8a26e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadRampWall.fbx",
+      "time": 1715322504421.1072,
+      "removeTime": 1715344970277
+    },
+    "6f0917ef-7d5d-4209-9fa1-d45a10f92714": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadSide.fbx",
+      "time": 1715322504358.0916,
+      "removeTime": 1715344970277
+    },
+    "290843d8-b6d5-4f72-a473-ebe1c88b46f3": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadSplit.fbx",
+      "time": 1715322504243.0664,
+      "removeTime": 1715344970277
+    },
+    "ce6e5ba6-a1d3-4e49-a555-a9fbe503e92d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadSplitLarge.fbx",
+      "time": 1715322504437.1091,
+      "removeTime": 1715344970277
+    },
+    "3e4d0c88-526e-4364-a0f7-46b033bc6bee": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadSplitLarger.fbx",
+      "time": 1715322504353.091,
+      "removeTime": 1715344970277
+    },
+    "8235ebc6-3864-4bde-b86c-83da6f0465f1": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadSplitRound.fbx",
+      "time": 1715322504058.0237,
+      "removeTime": 1715344970277
+    },
+    "17497cbf-9df7-4102-9c2c-d67a5204aa5d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadSplitRoundLarge.fbx",
+      "time": 1715322504262.072,
+      "removeTime": 1715344970277
+    },
+    "a46050be-67a6-477f-8bf2-fb284d701452": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadSplitSmall.fbx",
+      "time": 1715322504465.115,
+      "removeTime": 1715344970278
+    },
+    "9bd1ee88-b3ae-4ac7-b5f7-892c06edcff0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStart.fbx",
+      "time": 1715322504190.0542,
+      "removeTime": 1715344970278
+    },
+    "5863736a-f108-46fb-99ef-c6f62f031b3f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStartPositions.fbx",
+      "time": 1715322504308.0803,
+      "removeTime": 1715344970278
+    },
+    "ae8623b8-b60a-4286-b106-b011ecfdff47": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraight.fbx",
+      "time": 1715322504232.0635,
+      "removeTime": 1715344970278
+    },
+    "da727c49-ce1d-4cee-ad69-21b729a90d0e": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightArrow.fbx",
+      "time": 1715322504331.0864,
+      "removeTime": 1715344970278
+    },
+    "004a84e3-e939-44ba-9cb5-20e0346e3bc8": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightBridge.fbx",
+      "time": 1715322504042.02,
+      "removeTime": 1715344970278
+    },
+    "0a84ec78-a196-4f8e-a3a1-d4a59922f106": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightBridgeMid.fbx",
+      "time": 1715322504189.0537,
+      "removeTime": 1715344970278
+    },
+    "0c519340-cd5d-43f3-b751-3a68ad3cd714": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightBridgeStart.fbx",
+      "time": 1715322504388.0981,
+      "removeTime": 1715344970278
+    },
+    "8cbc4484-1292-4c2e-a9ac-f9e96e63e797": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightLong.fbx",
+      "time": 1715322504157.0457,
+      "removeTime": 1715344970278
+    },
+    "2f38a952-cded-4012-b1b4-c4a0f890dcc8": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightLongBump.fbx",
+      "time": 1715322504201.0576,
+      "removeTime": 1715344970278
+    },
+    "aa497685-9a86-471d-96c3-67c5b14a5e11": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightLongBumpRound.fbx",
+      "time": 1715322504321.0857,
+      "removeTime": 1715344970278
+    },
+    "f9b06fdc-1c22-4f95-9fe7-748e164e09f9": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightLongMid.fbx",
+      "time": 1715322504442.1108,
+      "removeTime": 1715344970278
+    },
+    "8c63e9ed-6512-4d75-a9e0-cfe671b1f8e3": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\roadStraightSkew.fbx",
+      "time": 1715322504415.1045,
+      "removeTime": 1715344970278
+    },
+    "ee73e4f6-ea8a-4e6c-b70b-efadc894c936": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\tent.fbx",
+      "time": 1715322503924.482,
+      "removeTime": 1715344970278
+    },
+    "84761068-57d2-4683-92a5-8397f1711c50": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\tentClosed.fbx",
+      "time": 1715322504452.1125,
+      "removeTime": 1715344970279
+    },
+    "72872979-80ce-47d9-a677-613fbf93b184": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\tentClosedLong.fbx",
+      "time": 1715322504022.0166,
+      "removeTime": 1715344970279
+    },
+    "45e80a2d-563e-4747-b679-9dbe7f3be6d6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\tentLong.fbx",
+      "time": 1715322504252.068,
+      "removeTime": 1715344970279
+    },
+    "d242a9e9-40bc-40b4-af27-976392924fe0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\tentRoof.fbx",
+      "time": 1715322504490.1223,
+      "removeTime": 1715344970279
+    },
+    "82da247e-b229-4118-940d-e885814d1783": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\tentRoofDouble.fbx",
+      "time": 1715322504142.0442,
+      "removeTime": 1715344970279
+    },
+    "5f09ab79-5887-4d47-97b3-a60f7986b838": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\treeLarge.fbx",
+      "time": 1715322504326.0842,
+      "removeTime": 1715344970279
+    },
+    "05857db2-bb3b-426e-8184-26025910a748": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3d赛道赛车素材\\3D赛道模型\\FBX format\\treeSmall.fbx",
+      "time": 1715322504209.0583,
+      "removeTime": 1715344970279
+    },
+    "0d7d167a-928e-4c9c-a497-f2b8dc8adec2": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\home_business_centers.006.fbx",
+      "time": 1715387565212.7888,
+      "removeTime": 1715389227412
+    },
+    "9fc3443a-8541-47bc-ad51-a7ce9a4b64d2": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\skyscraoer.005.fbx",
+      "time": 1715389270179.5576,
+      "removeTime": 1715391468738
+    },
+    "749048c2-0e7a-427c-8b31-bf18a8e50204": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\earth.FBX",
+      "time": 1680904818000,
+      "removeTime": 1715398667384
+    },
+    "574fb239-d427-45f0-ad05-9023dd17bfa6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\material\\skyBox.cubemap",
+      "time": 1715418789854.2417,
+      "removeTime": 1715431029775
+    },
+    "9bdc1e5a-0934-4974-b6ff-34a5611fc656": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\texture\\material.mtl",
+      "time": 1715432280659.2312,
+      "removeTime": 1715432292850
+    },
+    "0c666b67-77a1-4f34-81df-937d7f8544ec": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\material\\SkyBox.mtl",
+      "time": 1715432307211.4067,
+      "removeTime": 1715432314188
+    },
+    "82bdd799-bd69-4dfe-9c8b-b3c09c2ffa4d": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\material\\terrain.terrain",
+      "time": 1715433997631.4363,
+      "removeTime": 1715434007225
+    },
+    "3936e403-6cc8-4fe2-a618-4157d85b88b4": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\mountain.fbx",
+      "time": 1715564591412.5286,
+      "removeTime": 1715564757273
+    },
+    "583ec159-5356-4389-ac05-8e79cf4f9b3f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\mountain.fbx",
+      "time": 1715565181569.0383,
+      "removeTime": 1715565234978
+    },
+    "43c0c540-7c8c-44c1-80ac-779bc7376b9c": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\Tile_pack_city_3_city.fbx",
+      "time": 1715400201303.9724,
+      "removeTime": 1715565503762
+    },
+    "ad61cdda-e2d6-411e-817f-ea92fc18f4e0": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Road.fbx",
+      "time": 1612819062684.8044,
+      "removeTime": 1715680829746
+    },
+    "db4396ba-d1b7-48d6-8884-cf1c206057d6": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Ramp.fbx",
+      "time": 1612819351137.215,
+      "removeTime": 1715680829746
+    },
+    "9a4705db-ab40-4080-bd03-a4d8bfd707c3": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Trucks.fbx",
+      "time": 1612819280125.109,
+      "removeTime": 1715680829746
+    },
+    "40989f90-544a-4d2c-9cbb-56b278d764eb": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Containers.fbx",
+      "time": 1612819232895.0427,
+      "removeTime": 1715680829744
+    },
+    "afcf3672-bc20-408e-91e2-29787a8c28db": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Containers-Cargo.fbx",
+      "time": 1612819214065.0166,
+      "removeTime": 1715680829743
+    },
+    "cb419b7c-5407-4881-97c0-ac4955d76dcc": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Containers-Office.fbx",
+      "time": 1612819251395.0686,
+      "removeTime": 1715680829744
+    },
+    "ce696ca6-7e48-48dc-966b-792e9fae2803": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Construction-Materials.fbx",
+      "time": 1612819372247.2446,
+      "removeTime": 1715680829742
+    },
+    "6abd59a5-7b29-4913-a460-e573ea8565bd": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\_HouseConstructionSite-AllInOneObject_.fbx",
+      "time": 1612798495132.69,
+      "removeTime": 1715680829744
+    },
+    "7334f914-eff7-40f5-b155-5142e736f278": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Crane-On-Ground.fbx",
+      "time": 1612819135514.9065,
+      "removeTime": 1715680829745
+    },
+    "36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Ground.fbx",
+      "time": 1612819024654.7512,
+      "removeTime": 1715680829745
+    },
+    "e481b1e2-0d25-4c74-b5d3-18cd60102477": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Building.fbx",
+      "time": 1612819091964.8455,
+      "removeTime": 1715680829743
+    },
+    "d22e4a29-928f-4122-994e-04774d564aca": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Fence.fbx",
+      "time": 1612819318013.1653,
+      "removeTime": 1715680829745
+    },
+    "44c7ec40-1773-4cb8-8ad0-1657768ae191": {
+      "path": "D:\\Project\\cocos\\test\\assets\\model\\Crane-Mounted.fbx",
+      "time": 1612819157324.937,
+      "removeTime": 1715680829745
+    },
+    "288bcfca-1d4a-4cdf-98a6-1f91af51b9fe": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\Cartoon_Lowpoly_City_Pack.fbx",
+      "time": 1654536236000,
+      "removeTime": 1715738905444
+    },
+    "ceced526-2dd6-49f1-b0a0-344ef0bb5db2": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\卡通城市3D模型.FBX",
+      "time": 1646887738000,
+      "removeTime": 1715739134571
+    },
+    "a959b415-cc05-406a-aaf3-d853925d9616": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\卡通城市3D模型.mtl",
+      "time": 1646887738000,
+      "removeTime": 1715739136864
+    },
+    "e98af660-ab88-4bd2-935e-99c3df7bb13b": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\minicity.fbx",
+      "time": 1715739493024.9343,
+      "removeTime": 1715739672427
+    },
+    "83adbe52-8687-41b4-885a-623ce26516b6": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\minicity.fbx",
+      "time": 1715740021256.4773,
+      "removeTime": 1715740083680
+    },
+    "136d1aaf-c6cd-4083-9f8b-a3a3b35d6232": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\minicity.fbx",
+      "time": 1715740021256.4773,
+      "removeTime": 1715766477188
+    },
+    "5115fdff-1fbc-4fb4-9271-0a56f4cfbc49": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\components\\craneGrow.prefab",
+      "time": 1715781154131.8247,
+      "removeTime": 1715781172235
+    },
+    "884899de-d9b2-4a42-978d-c1cabd138c65": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\main.scene",
+      "time": 1715847420719.9224,
+      "removeTime": 1715910693480
+    },
+    "2fdd85a1-01b1-4f1a-9174-54cb972668ac": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\Low Poly Simple Urban City 3D Asset Pack.fbx",
+      "time": 1670715261563.2815,
+      "removeTime": 1715910904122
+    },
+    "2e19028f-20c3-4e7f-ba5c-8db7b39820d0": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\房子.c4d",
+      "time": 1685137634000,
+      "removeTime": 1715938321965
+    },
+    "f9a567d6-029d-4656-a9ad-6cbd03132561": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\house.fbx",
+      "time": 1700915415090.7495,
+      "removeTime": 1715938431480
+    },
+    "f95961c6-2b13-497e-a0e8-902cef5a0794": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\房子.obj",
+      "time": 1715938365078.8835,
+      "removeTime": 1715938439804
+    },
+    "7b497e84-7ee8-4b0d-bb82-98ec1db27dd7": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\house.fbx",
+      "time": 1715938410176.3787,
+      "removeTime": 1715939996547
+    },
+    "e6a6d0d5-ca69-44dd-bc86-de22178c0105": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\firstFloor.fbx",
+      "time": 1715938195692.9148,
+      "removeTime": 1715939998559
+    },
+    "3da82054-bc57-49dd-8b7e-b70788c33490": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\model\\firstFloor2.fbx",
+      "time": 1715940172005.5813,
+      "removeTime": 1715940298853
+    },
+    "7412befc-73a5-4001-ac65-05ef72a73dc7": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\components\\firstFloor.prefab",
+      "time": 1715944708330.7527,
+      "removeTime": 1715944715064
+    },
+    "f82c8e54-4fd6-480a-9e5e-ac89fb291a09": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\components\\floor1_0.prefab",
+      "time": 1715944751622.6914,
+      "removeTime": 1715945656463
+    },
+    "a751cf4a-e0e7-43e7-95ea-c28d7a57a3f3": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\components\\floor1_1.prefab",
+      "time": 1715944765589.2737,
+      "removeTime": 1715945658359
+    },
+    "7052c83b-0751-4289-9fa0-06b039d36012": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\components\\floor_1_1.prefab",
+      "time": 1715946194171.0393,
+      "removeTime": 1715946385623
+    },
+    "214d8c7b-fc8c-43bb-b884-301e22ecb7b7": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\components\\house1.prefab",
+      "time": 1715938803797.0176,
+      "removeTime": 1715946399000
+    },
+    "44ee6357-a8c2-4489-aa56-3c75cb27f459": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\components\\house2.prefab",
+      "time": 1715938808393.6838,
+      "removeTime": 1715946403379
+    },
+    "019992fe-a0aa-441f-83ea-ee685bcc4123": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\components\\baseFloor.prefab",
+      "time": 1715944800037.8435,
+      "removeTime": 1715946411220
+    },
+    "518c61b2-4047-430e-84b4-cdd067179f0f": {
+      "path": "D:\\Project\\cocos\\Tower\\assets\\UI\\otherpng\\floorIcon.png",
+      "time": 1716281902690.7847,
+      "removeTime": 1716282028503
     }
   }
 }

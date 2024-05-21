@@ -1,0 +1,17 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1680904818000,
+  "outputTimeStamps": {
+    "Water.jpg": 1715396882865.939,
+    "out.bin": 1715396888154.3147,
+    "World_Map_Colors.jpg": 1715396882855.9343,
+    "log.json": 1715396888345.9648,
+    "out.gltf": 1715396888317.3503,
+    ".fbm/A1EA122C/earth.fbm/Water.jpg": 1715396882865.939,
+    ".fbm/A1EA122C/earth.fbm/World_Map_Colors.jpg": 1715396882855.9343
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

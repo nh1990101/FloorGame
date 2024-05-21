@@ -1,0 +1,70 @@
+[
+  {
+    "level": 0,
+    "message": "Frame rate: 30"
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Cinema_4D_编辑器",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "房子_obj",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "___2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "___1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "___1_3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "___2_2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Frame rate: 30"
+  },
+  {
+    "level": 0,
+    "message": "Take CINEMA_4D___: 1s"
+  }
+]

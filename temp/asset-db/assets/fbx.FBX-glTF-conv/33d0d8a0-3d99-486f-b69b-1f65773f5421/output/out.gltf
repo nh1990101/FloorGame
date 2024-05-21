@@ -1,0 +1,272 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 19103,
+      "max": [
+        31.500001907348633,
+        60.93019485473633,
+        26.499998092651367
+      ],
+      "min": [
+        -30.000003814697266,
+        0.0,
+        -25.000003814697266
+      ],
+      "name": "Cube/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 19103,
+      "name": "Cube/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 19103,
+      "name": "Cube/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 32124,
+      "name": "Cube/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 611296,
+      "byteStride": 32,
+      "name": "Cube",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64248,
+      "byteOffset": 611296,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 675544,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 24.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 8,
+          "hour": 22,
+          "millisecond": 694,
+          "minute": 18,
+          "month": 2,
+          "second": 11,
+          "year": 2021
+        },
+        "creator": "Blender (stable FBX IO) - 2.90.1 - 4.21.3",
+        "sceneInfo": {
+          "author": "",
+          "comment": "",
+          "keywords": "",
+          "original": {
+            "applicationName": "Blender (stable FBX IO)",
+            "applicationVendor": "Blender Foundation",
+            "applicationVersion": "2.90.1",
+            "fileName": "/foobar.fbx"
+          },
+          "revision": "",
+          "subject": "",
+          "title": "",
+          "url": "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Building.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\33d0d8a0-3d99-486f-b69b-1f65773f5421\\output\\.fbm\\6F2E2912\\Building.fbm/ImphenziaPalette01-256-Gradient.png",
+          "relativeFileName": "..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\33d0d8a0-3d99-486f-b69b-1f65773f5421\\output\\.fbm\\6F2E2912\\Building.fbm\\ImphenziaPalette01-256-Gradient.png"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "ImphenziaPalette01-256-Gradient.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.05087608844041824,
+                  0.05087608844041824,
+                  0.05087608844041824
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 0.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 0
+                },
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflection": {
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "reflectionFactor": {
+                "value": 0.0
+              },
+              "shadingModel": "Phong",
+              "shininess": {
+                "value": 0.07438002342041727
+              },
+              "specular": {
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "specularFactor": {
+                "value": 0.25
+              },
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "phong"
+          }
+        }
+      },
+      "name": "Submission_Diffuse_Shader"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cube",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Building"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

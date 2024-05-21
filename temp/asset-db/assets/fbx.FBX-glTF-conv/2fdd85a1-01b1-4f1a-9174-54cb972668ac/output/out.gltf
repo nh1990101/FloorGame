@@ -1,0 +1,7934 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1426,
+      "max": [
+        0.06525000184774399,
+        0.17338000237941742,
+        0.09724300354719162
+      ],
+      "min": [
+        -0.06525000184774399,
+        3.083952920857018e-20,
+        -0.09724300354719162
+      ],
+      "name": "Building_9/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1426,
+      "name": "Building_9/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1426,
+      "name": "Building_9/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 2472,
+      "name": "Building_9/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1482,
+      "max": [
+        0.09759999811649323,
+        0.24959999322891235,
+        0.12625209987163544
+      ],
+      "min": [
+        -0.09759999811649323,
+        3.083952920857018e-20,
+        -0.12625209987163544
+      ],
+      "name": "Building_8/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1482,
+      "name": "Building_8/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1482,
+      "name": "Building_8/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 2700,
+      "name": "Building_8/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1198,
+      "max": [
+        0.09759999811649323,
+        0.24959999322891235,
+        0.08300421386957169
+      ],
+      "min": [
+        -0.09759999811649323,
+        3.083952920857018e-20,
+        -0.08300421386957169
+      ],
+      "name": "Building_7/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1198,
+      "name": "Building_7/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1198,
+      "name": "Building_7/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 2154,
+      "name": "Building_7/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 944,
+      "max": [
+        0.08749999850988388,
+        0.17919999361038208,
+        0.0637499988079071
+      ],
+      "min": [
+        -0.08749999850988388,
+        3.083952920857018e-20,
+        -0.0637499988079071
+      ],
+      "name": "Building_6/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 944,
+      "name": "Building_6/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 944,
+      "name": "Building_6/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 1668,
+      "name": "Building_6/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 1100,
+      "max": [
+        0.0637499988079071,
+        0.17919999361038208,
+        0.08749999850988388
+      ],
+      "min": [
+        -0.0637499988079071,
+        3.083952920857018e-20,
+        -0.08749999850988388
+      ],
+      "name": "Building_5/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1100,
+      "name": "Building_5/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1100,
+      "name": "Building_5/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 1950,
+      "name": "Building_5/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 946,
+      "max": [
+        0.0637499988079071,
+        0.17919999361038208,
+        0.08749999850988388
+      ],
+      "min": [
+        -0.0637499988079071,
+        1.7794408598914238e-17,
+        -0.08749999850988388
+      ],
+      "name": "Building_4/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 946,
+      "name": "Building_4/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 946,
+      "name": "Building_4/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 1668,
+      "name": "Building_4/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 1790,
+      "max": [
+        0.08749999850988388,
+        0.24959999322891235,
+        0.07861194014549255
+      ],
+      "min": [
+        -0.08749999850988388,
+        -1.773272904935861e-17,
+        -0.07861194014549255
+      ],
+      "name": "Building_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1790,
+      "name": "Building_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1790,
+      "name": "Building_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5123,
+      "count": 3114,
+      "name": "Building_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 1520,
+      "max": [
+        0.06750000268220901,
+        0.24959999322891235,
+        0.08749999850988388
+      ],
+      "min": [
+        -0.06750000268220901,
+        3.083952920857018e-20,
+        -0.08749999850988388
+      ],
+      "name": "Building_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1520,
+      "name": "Building_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1520,
+      "name": "Building_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5123,
+      "count": 2706,
+      "name": "Building_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 979,
+      "max": [
+        0.0950288474559784,
+        0.13686399161815643,
+        0.10386012494564056
+      ],
+      "min": [
+        -0.0950288474559784,
+        3.083952920857018e-20,
+        -0.10386012494564056
+      ],
+      "name": "Building_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 979,
+      "name": "Building_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 979,
+      "name": "Building_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5123,
+      "count": 1725,
+      "name": "Building_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 174,
+      "max": [
+        0.14700525999069214,
+        0.001949334517121315,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700525999069214,
+        -0.001949334517121315,
+        -0.04999997466802597
+      ],
+      "name": "Road_Roadworks/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 174,
+      "name": "Road_Roadworks/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 174,
+      "name": "Road_Roadworks/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5123,
+      "count": 294,
+      "name": "Road_Roadworks/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 254,
+      "max": [
+        0.20999999344348907,
+        0.001208862173371017,
+        0.20999999344348907
+      ],
+      "min": [
+        -0.20999999344348907,
+        -0.001208862173371017,
+        -0.20999999344348907
+      ],
+      "name": "Road_Crossroads_4/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 254,
+      "name": "Road_Crossroads_4/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 254,
+      "name": "Road_Crossroads_4/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5123,
+      "count": 510,
+      "name": "Road_Crossroads_4/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 510,
+      "max": [
+        0.20999999344348907,
+        0.0011886926367878914,
+        0.20999999344348907
+      ],
+      "min": [
+        -0.20999999344348907,
+        -0.0011886926367878914,
+        -0.20999999344348907
+      ],
+      "name": "Road_Crossroads_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 510,
+      "name": "Road_Crossroads_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 510,
+      "name": "Road_Crossroads_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5123,
+      "count": 846,
+      "name": "Road_Crossroads_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 190,
+      "max": [
+        0.20999999344348907,
+        0.000974196067545563,
+        0.20999999344348907
+      ],
+      "min": [
+        -0.20999999344348907,
+        -0.000974196067545563,
+        -0.20999999344348907
+      ],
+      "name": "Road_Crossroads_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 24,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 190,
+      "name": "Road_Crossroads_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 24,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 190,
+      "name": "Road_Crossroads_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5123,
+      "count": 366,
+      "name": "Road_Crossroads_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 493,
+      "max": [
+        0.20999999344348907,
+        0.000974196067545563,
+        0.20999999344348907
+      ],
+      "min": [
+        -0.20999999344348907,
+        -0.000974196067545563,
+        -0.20999999344348907
+      ],
+      "name": "Road_Crossroads_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 26,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 493,
+      "name": "Road_Crossroads_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 26,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 493,
+      "name": "Road_Crossroads_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 27,
+      "componentType": 5123,
+      "count": 1230,
+      "name": "Road_Crossroads_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 28,
+      "componentType": 5126,
+      "count": 202,
+      "max": [
+        0.14700525999069214,
+        0.0315161868929863,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700525999069214,
+        -0.0315161868929863,
+        -0.04999997466802597
+      ],
+      "name": "Road_Manhole_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 28,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 202,
+      "name": "Road_Manhole_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 28,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 202,
+      "name": "Road_Manhole_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 29,
+      "componentType": 5123,
+      "count": 408,
+      "name": "Road_Manhole_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 30,
+      "componentType": 5126,
+      "count": 570,
+      "max": [
+        0.14700525999069214,
+        0.0009740000241436064,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700525999069214,
+        -0.0009740000241436064,
+        -0.04999997466802597
+      ],
+      "name": "Road_Manhole_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 30,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 570,
+      "name": "Road_Manhole_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 30,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 570,
+      "name": "Road_Manhole_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 31,
+      "componentType": 5123,
+      "count": 1074,
+      "name": "Road_Manhole_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 32,
+      "componentType": 5126,
+      "count": 216,
+      "max": [
+        0.20999999344348907,
+        0.0014473345363512635,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.20999999344348907,
+        -0.0014473345363512635,
+        -0.04999997466802597
+      ],
+      "name": "Road_Railroad_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 32,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 216,
+      "name": "Road_Railroad_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 32,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 216,
+      "name": "Road_Railroad_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 33,
+      "componentType": 5123,
+      "count": 390,
+      "name": "Road_Railroad_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 408,
+      "max": [
+        0.20999999344348907,
+        0.0011888310546055436,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.20999999344348907,
+        -0.0011888310546055436,
+        -0.04999997466802597
+      ],
+      "name": "Road_Railroad_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 34,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 408,
+      "name": "Road_Railroad_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 34,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 408,
+      "name": "Road_Railroad_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 35,
+      "componentType": 5123,
+      "count": 630,
+      "name": "Road_Railroad_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 36,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.14700525999069214,
+        0.0009740000241436064,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700525999069214,
+        -0.0009740000241436064,
+        -0.04999997466802597
+      ],
+      "name": "Road_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 36,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 68,
+      "name": "Road_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 36,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 68,
+      "name": "Road_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 37,
+      "componentType": 5123,
+      "count": 114,
+      "name": "Road_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        0.14700525999069214,
+        0.0009740000241436064,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700525999069214,
+        -0.0009740000241436064,
+        -0.04999997466802597
+      ],
+      "name": "Road_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 38,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 52,
+      "name": "Road_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 38,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 52,
+      "name": "Road_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 39,
+      "componentType": 5123,
+      "count": 78,
+      "name": "Road_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 40,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        0.14700525999069214,
+        0.0009740000241436064,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700525999069214,
+        -0.0009740000241436064,
+        -0.04999997466802597
+      ],
+      "name": "Road_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 40,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 80,
+      "name": "Road_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 40,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 80,
+      "name": "Road_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 41,
+      "componentType": 5123,
+      "count": 162,
+      "name": "Road_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 42,
+      "componentType": 5126,
+      "count": 66,
+      "max": [
+        0.14700525999069214,
+        0.0009740000241436064,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700525999069214,
+        -0.0009740000241436064,
+        -0.04999997466802597
+      ],
+      "name": "Road_Stopline_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 42,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 66,
+      "name": "Road_Stopline_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 42,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 66,
+      "name": "Road_Stopline_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 43,
+      "componentType": 5123,
+      "count": 126,
+      "name": "Road_Stopline_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 44,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.14700525999069214,
+        0.0009740000241436064,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700525999069214,
+        -0.0009740000241436064,
+        -0.04999997466802597
+      ],
+      "name": "Road_Stopline_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 44,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 100,
+      "name": "Road_Stopline_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 44,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 100,
+      "name": "Road_Stopline_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 45,
+      "componentType": 5123,
+      "count": 222,
+      "name": "Road_Stopline_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 46,
+      "componentType": 5126,
+      "count": 136,
+      "max": [
+        0.14700615406036377,
+        0.0009740000241436064,
+        0.04999997466802597
+      ],
+      "min": [
+        -0.14700615406036377,
+        -0.0009740000241436064,
+        -0.04999997466802597
+      ],
+      "name": "Road_Crosswalk/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 46,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 136,
+      "name": "Road_Crosswalk/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 46,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 136,
+      "name": "Road_Crosswalk/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 47,
+      "componentType": 5123,
+      "count": 330,
+      "name": "Road_Crosswalk/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 48,
+      "componentType": 5126,
+      "count": 1838,
+      "max": [
+        0.05053500086069107,
+        0.03976000100374222,
+        0.01935500092804432
+      ],
+      "min": [
+        -0.05053500086069107,
+        -2.25786992527806e-18,
+        -0.01935500092804432
+      ],
+      "name": "Main_Truck_4/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 48,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1838,
+      "name": "Main_Truck_4/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 48,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1838,
+      "name": "Main_Truck_4/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 49,
+      "componentType": 5123,
+      "count": 3324,
+      "name": "Main_Truck_4/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 50,
+      "componentType": 5126,
+      "count": 1838,
+      "max": [
+        0.05053500086069107,
+        0.03976000100374222,
+        0.01935500092804432
+      ],
+      "min": [
+        -0.05053500086069107,
+        -2.25786992527806e-18,
+        -0.01935500092804432
+      ],
+      "name": "Main_Truck_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 50,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1838,
+      "name": "Main_Truck_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 50,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1838,
+      "name": "Main_Truck_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 51,
+      "componentType": 5123,
+      "count": 3324,
+      "name": "Main_Truck_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 52,
+      "componentType": 5126,
+      "count": 1838,
+      "max": [
+        0.05053500086069107,
+        0.03976000100374222,
+        0.01935500092804432
+      ],
+      "min": [
+        -0.05053500086069107,
+        -2.25786992527806e-18,
+        -0.01935500092804432
+      ],
+      "name": "Main_Truck_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 52,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1838,
+      "name": "Main_Truck_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 52,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1838,
+      "name": "Main_Truck_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 53,
+      "componentType": 5123,
+      "count": 3324,
+      "name": "Main_Truck_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 54,
+      "componentType": 5126,
+      "count": 1827,
+      "max": [
+        0.05053549259901047,
+        0.03975681960582733,
+        0.01935582421720028
+      ],
+      "min": [
+        -0.05053549259901047,
+        -2.2531669899053896e-18,
+        -0.01935582421720028
+      ],
+      "name": "Main_Truck_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 54,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1827,
+      "name": "Main_Truck_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 54,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1827,
+      "name": "Main_Truck_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 55,
+      "componentType": 5123,
+      "count": 3324,
+      "name": "Main_Truck_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 56,
+      "componentType": 5126,
+      "count": 1122,
+      "max": [
+        0.03683537617325783,
+        0.02634781412780285,
+        0.014976956881582737
+      ],
+      "min": [
+        -0.03683537617325783,
+        -5.639987623334686e-21,
+        -0.014976956881582737
+      ],
+      "name": "Taxi/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 56,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1122,
+      "name": "Taxi/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 56,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1122,
+      "name": "Taxi/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 57,
+      "componentType": 5123,
+      "count": 1968,
+      "name": "Taxi/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 58,
+      "componentType": 5126,
+      "count": 1102,
+      "max": [
+        0.03624796122312546,
+        0.024327510967850685,
+        0.016045397147536278
+      ],
+      "min": [
+        -0.03624796122312546,
+        -5.639987623334686e-21,
+        -0.016045397147536278
+      ],
+      "name": "Police/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 58,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1102,
+      "name": "Police/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 58,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1102,
+      "name": "Police/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 59,
+      "componentType": 5123,
+      "count": 1932,
+      "name": "Police/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 60,
+      "componentType": 5126,
+      "count": 1429,
+      "max": [
+        0.038783490657806396,
+        0.03777093440294266,
+        0.016168083995580673
+      ],
+      "min": [
+        -0.038783490657806396,
+        3.292704550014419e-20,
+        -0.016168083995580673
+      ],
+      "name": "Ambulance/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 60,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1429,
+      "name": "Ambulance/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 60,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1429,
+      "name": "Ambulance/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 61,
+      "componentType": 5123,
+      "count": 2472,
+      "name": "Ambulance/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 62,
+      "componentType": 5126,
+      "count": 982,
+      "max": [
+        0.05470513924956322,
+        0.04044312983751297,
+        0.015939723700284958
+      ],
+      "min": [
+        -0.05470513924956322,
+        3.292704550014419e-20,
+        -0.015939723700284958
+      ],
+      "name": "Gas_Truck/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 62,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 982,
+      "name": "Gas_Truck/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 62,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 982,
+      "name": "Gas_Truck/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 63,
+      "componentType": 5123,
+      "count": 1722,
+      "name": "Gas_Truck/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 64,
+      "componentType": 5126,
+      "count": 1187,
+      "max": [
+        0.05545254051685333,
+        0.03990933299064636,
+        0.016666017472743988
+      ],
+      "min": [
+        -0.05545254051685333,
+        3.292704550014419e-20,
+        -0.016666017472743988
+      ],
+      "name": "Fire_Truck/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 64,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1187,
+      "name": "Fire_Truck/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 64,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1187,
+      "name": "Fire_Truck/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 65,
+      "componentType": 5123,
+      "count": 2142,
+      "name": "Fire_Truck/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 66,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        0.05440572276711464,
+        0.06096017360687256,
+        0.03322913125157356
+      ],
+      "min": [
+        -0.05440572276711464,
+        -3.2412538771395293e-18,
+        -0.03322913125157356
+      ],
+      "name": "Bulldozer/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 66,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 962,
+      "name": "Bulldozer/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 66,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 962,
+      "name": "Bulldozer/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 67,
+      "componentType": 5123,
+      "count": 1716,
+      "name": "Bulldozer/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 68,
+      "componentType": 5126,
+      "count": 1019,
+      "max": [
+        0.015416120178997517,
+        0.07039614766836166,
+        0.052526842802762985
+      ],
+      "min": [
+        -0.01714283972978592,
+        -7.065394634984963e-18,
+        -0.052526842802762985
+      ],
+      "name": "Excavator/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 68,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1019,
+      "name": "Excavator/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 68,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1019,
+      "name": "Excavator/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 69,
+      "componentType": 5123,
+      "count": 1824,
+      "name": "Excavator/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 70,
+      "componentType": 5126,
+      "count": 1102,
+      "max": [
+        0.09630488604307175,
+        0.07041878998279572,
+        0.014589372090995312
+      ],
+      "min": [
+        -0.09630488604307175,
+        -1.555269349807464e-20,
+        -0.014589372090995312
+      ],
+      "name": "Tram_4/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 70,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1102,
+      "name": "Tram_4/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 70,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1102,
+      "name": "Tram_4/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 71,
+      "componentType": 5123,
+      "count": 2244,
+      "name": "Tram_4/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 72,
+      "componentType": 5126,
+      "count": 1396,
+      "max": [
+        0.1267583668231964,
+        0.07041878998279572,
+        0.014589372090995312
+      ],
+      "min": [
+        -0.1267583668231964,
+        -1.555269349807464e-20,
+        -0.014589372090995312
+      ],
+      "name": "Tram_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 72,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1396,
+      "name": "Tram_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 72,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1396,
+      "name": "Tram_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 73,
+      "componentType": 5123,
+      "count": 2760,
+      "name": "Tram_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 74,
+      "componentType": 5126,
+      "count": 1457,
+      "max": [
+        0.14024801552295685,
+        0.07041878998279572,
+        0.014589372090995312
+      ],
+      "min": [
+        -0.14024801552295685,
+        -1.555269349807464e-20,
+        -0.014589372090995312
+      ],
+      "name": "Tram_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 74,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1457,
+      "name": "Tram_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 74,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1457,
+      "name": "Tram_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 75,
+      "componentType": 5123,
+      "count": 2964,
+      "name": "Tram_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 76,
+      "componentType": 5126,
+      "count": 2058,
+      "max": [
+        0.21450123190879822,
+        0.07041878998279572,
+        0.014589372090995312
+      ],
+      "min": [
+        -0.21450123190879822,
+        -1.555269349807464e-20,
+        -0.014589372090995312
+      ],
+      "name": "Tram_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 76,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 2058,
+      "name": "Tram_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 76,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 2058,
+      "name": "Tram_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 77,
+      "componentType": 5123,
+      "count": 4200,
+      "name": "Tram_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 78,
+      "componentType": 5126,
+      "count": 1160,
+      "max": [
+        0.08489461988210678,
+        0.06537575274705887,
+        0.01845497451722622
+      ],
+      "min": [
+        -0.08489461988210678,
+        -4.0123557800645244e-18,
+        -0.01845497451722622
+      ],
+      "name": "Train/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 78,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1160,
+      "name": "Train/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 78,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1160,
+      "name": "Train/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 79,
+      "componentType": 5123,
+      "count": 1914,
+      "name": "Train/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 80,
+      "componentType": 5126,
+      "count": 774,
+      "max": [
+        0.08489461988210678,
+        0.03302336111664772,
+        0.01845497451722622
+      ],
+      "min": [
+        -0.08489461988210678,
+        -1.555269349807464e-20,
+        -0.01845497451722622
+      ],
+      "name": "Train_Carriage/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 80,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 774,
+      "name": "Train_Carriage/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 80,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 774,
+      "name": "Train_Carriage/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 81,
+      "componentType": 5123,
+      "count": 1290,
+      "name": "Train_Carriage/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 82,
+      "componentType": 5126,
+      "count": 814,
+      "max": [
+        0.037019677460193634,
+        0.020312193781137466,
+        0.014789094217121601
+      ],
+      "min": [
+        -0.037019677460193634,
+        1.8524292091915715e-18,
+        -0.014789094217121601
+      ],
+      "name": "Car_3_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 82,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 814,
+      "name": "Car_3_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 82,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 814,
+      "name": "Car_3_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 83,
+      "componentType": 5123,
+      "count": 1404,
+      "name": "Car_3_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 84,
+      "componentType": 5126,
+      "count": 814,
+      "max": [
+        0.037019677460193634,
+        0.020312193781137466,
+        0.014789094217121601
+      ],
+      "min": [
+        -0.037019677460193634,
+        1.8524292091915715e-18,
+        -0.014789094217121601
+      ],
+      "name": "Car_3_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 84,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 814,
+      "name": "Car_3_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 84,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 814,
+      "name": "Car_3_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 85,
+      "componentType": 5123,
+      "count": 1404,
+      "name": "Car_3_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 86,
+      "componentType": 5126,
+      "count": 814,
+      "max": [
+        0.037019677460193634,
+        0.020312193781137466,
+        0.014789094217121601
+      ],
+      "min": [
+        -0.037019677460193634,
+        1.8524292091915715e-18,
+        -0.014789094217121601
+      ],
+      "name": "Car_3_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 86,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 814,
+      "name": "Car_3_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 86,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 814,
+      "name": "Car_3_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 87,
+      "componentType": 5123,
+      "count": 1404,
+      "name": "Car_3_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 88,
+      "componentType": 5126,
+      "count": 1013,
+      "max": [
+        0.036816518753767014,
+        0.023484760895371437,
+        0.014909529127180576
+      ],
+      "min": [
+        -0.036816518753767014,
+        -1.943645310469938e-18,
+        -0.014909529127180576
+      ],
+      "name": "Car_1_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 88,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1013,
+      "name": "Car_1_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 88,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1013,
+      "name": "Car_1_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 89,
+      "componentType": 5123,
+      "count": 1758,
+      "name": "Car_1_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 90,
+      "componentType": 5126,
+      "count": 1013,
+      "max": [
+        0.036816518753767014,
+        0.023484760895371437,
+        0.014909529127180576
+      ],
+      "min": [
+        -0.036816518753767014,
+        -1.943645310469938e-18,
+        -0.014909529127180576
+      ],
+      "name": "Car_1_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 90,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1013,
+      "name": "Car_1_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 90,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1013,
+      "name": "Car_1_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 91,
+      "componentType": 5123,
+      "count": 1758,
+      "name": "Car_1_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 92,
+      "componentType": 5126,
+      "count": 1013,
+      "max": [
+        0.036816518753767014,
+        0.023484760895371437,
+        0.014909529127180576
+      ],
+      "min": [
+        -0.036816518753767014,
+        -1.943645310469938e-18,
+        -0.014909529127180576
+      ],
+      "name": "Car_1_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 92,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1013,
+      "name": "Car_1_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 92,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1013,
+      "name": "Car_1_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 93,
+      "componentType": 5123,
+      "count": 1758,
+      "name": "Car_1_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 94,
+      "componentType": 5126,
+      "count": 920,
+      "max": [
+        0.03703080117702484,
+        0.01941940374672413,
+        0.014839250594377518
+      ],
+      "min": [
+        -0.03703080117702484,
+        -5.639987623334686e-21,
+        -0.014839250594377518
+      ],
+      "name": "Car_2_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 94,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 920,
+      "name": "Car_2_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 94,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 920,
+      "name": "Car_2_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 95,
+      "componentType": 5123,
+      "count": 1584,
+      "name": "Car_2_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 96,
+      "componentType": 5126,
+      "count": 920,
+      "max": [
+        0.03703080117702484,
+        0.01941940374672413,
+        0.014839250594377518
+      ],
+      "min": [
+        -0.03703080117702484,
+        -5.639987623334686e-21,
+        -0.014839250594377518
+      ],
+      "name": "Car_2_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 96,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 920,
+      "name": "Car_2_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 96,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 920,
+      "name": "Car_2_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 97,
+      "componentType": 5123,
+      "count": 1584,
+      "name": "Car_2_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 98,
+      "componentType": 5126,
+      "count": 920,
+      "max": [
+        0.03703080117702484,
+        0.01941940374672413,
+        0.014839250594377518
+      ],
+      "min": [
+        -0.03703080117702484,
+        -5.639987623334686e-21,
+        -0.014839250594377518
+      ],
+      "name": "Car_2_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 98,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 920,
+      "name": "Car_2_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 98,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 920,
+      "name": "Car_2_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 99,
+      "componentType": 5123,
+      "count": 1584,
+      "name": "Car_2_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 100,
+      "componentType": 5126,
+      "count": 910,
+      "max": [
+        0.03897221013903618,
+        0.03301052376627922,
+        0.015031933784484863
+      ],
+      "min": [
+        -0.03897221013903618,
+        -6.709637798608436e-19,
+        -0.015031933784484863
+      ],
+      "name": "Pickup_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 100,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 910,
+      "name": "Pickup_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 100,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 910,
+      "name": "Pickup_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 101,
+      "componentType": 5123,
+      "count": 1728,
+      "name": "Pickup_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 102,
+      "componentType": 5126,
+      "count": 910,
+      "max": [
+        0.03897221013903618,
+        0.03301052376627922,
+        0.015031933784484863
+      ],
+      "min": [
+        -0.03897221013903618,
+        -6.709637798608436e-19,
+        -0.015031933784484863
+      ],
+      "name": "Pickup_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 102,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 910,
+      "name": "Pickup_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 102,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 910,
+      "name": "Pickup_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 103,
+      "componentType": 5123,
+      "count": 1728,
+      "name": "Pickup_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 104,
+      "componentType": 5126,
+      "count": 910,
+      "max": [
+        0.03897221013903618,
+        0.03301052376627922,
+        0.015031933784484863
+      ],
+      "min": [
+        -0.03897221013903618,
+        -6.709637798608436e-19,
+        -0.015031933784484863
+      ],
+      "name": "Pickup_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 104,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 910,
+      "name": "Pickup_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 104,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 910,
+      "name": "Pickup_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 105,
+      "componentType": 5123,
+      "count": 1728,
+      "name": "Pickup_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 106,
+      "componentType": 5126,
+      "count": 767,
+      "max": [
+        0.038964636623859406,
+        0.03663836419582367,
+        0.016790721565485
+      ],
+      "min": [
+        -0.038964636623859406,
+        2.2533731646730684e-18,
+        -0.016790721565485
+      ],
+      "name": "Truck_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 106,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 767,
+      "name": "Truck_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 106,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 767,
+      "name": "Truck_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 107,
+      "componentType": 5123,
+      "count": 1311,
+      "name": "Truck_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 108,
+      "componentType": 5126,
+      "count": 767,
+      "max": [
+        0.038964636623859406,
+        0.03663836419582367,
+        0.016790721565485
+      ],
+      "min": [
+        -0.038964636623859406,
+        2.2533731646730684e-18,
+        -0.016790721565485
+      ],
+      "name": "Truck_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 108,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 767,
+      "name": "Truck_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 108,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 767,
+      "name": "Truck_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 109,
+      "componentType": 5123,
+      "count": 1311,
+      "name": "Truck_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 110,
+      "componentType": 5126,
+      "count": 767,
+      "max": [
+        0.038964636623859406,
+        0.03663836419582367,
+        0.016790721565485
+      ],
+      "min": [
+        -0.038964636623859406,
+        2.2533731646730684e-18,
+        -0.016790721565485
+      ],
+      "name": "Truck_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 110,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 767,
+      "name": "Truck_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 110,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 767,
+      "name": "Truck_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 111,
+      "componentType": 5123,
+      "count": 1311,
+      "name": "Truck_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 112,
+      "componentType": 5126,
+      "count": 713,
+      "max": [
+        0.05538785085082054,
+        0.03969889506697655,
+        0.016804248094558716
+      ],
+      "min": [
+        -0.05538785085082054,
+        3.292704550014419e-20,
+        -0.016804248094558716
+      ],
+      "name": "Bus_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 112,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 713,
+      "name": "Bus_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 112,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 713,
+      "name": "Bus_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 113,
+      "componentType": 5123,
+      "count": 1392,
+      "name": "Bus_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 114,
+      "componentType": 5126,
+      "count": 713,
+      "max": [
+        0.05538785085082054,
+        0.03969889506697655,
+        0.016804248094558716
+      ],
+      "min": [
+        -0.05538785085082054,
+        3.292704550014419e-20,
+        -0.016804248094558716
+      ],
+      "name": "Bus_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 114,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 713,
+      "name": "Bus_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 114,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 713,
+      "name": "Bus_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 115,
+      "componentType": 5123,
+      "count": 1392,
+      "name": "Bus_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 116,
+      "componentType": 5126,
+      "count": 713,
+      "max": [
+        0.05538785085082054,
+        0.03969889506697655,
+        0.016804248094558716
+      ],
+      "min": [
+        -0.05538785085082054,
+        3.292704550014419e-20,
+        -0.016804248094558716
+      ],
+      "name": "Bus_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 116,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 713,
+      "name": "Bus_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 116,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 713,
+      "name": "Bus_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 117,
+      "componentType": 5123,
+      "count": 1392,
+      "name": "Bus_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 118,
+      "componentType": 5126,
+      "count": 1055,
+      "max": [
+        0.0032966111321002245,
+        0.08097833395004272,
+        0.11667254567146301
+      ],
+      "min": [
+        -0.006043028552085161,
+        -1.3877787497621727e-19,
+        -0.0032699410803616047
+      ],
+      "name": "Traffic_Light_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 118,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1055,
+      "name": "Traffic_Light_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 118,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1055,
+      "name": "Traffic_Light_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 119,
+      "componentType": 5123,
+      "count": 1602,
+      "name": "Traffic_Light_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 120,
+      "componentType": 5126,
+      "count": 573,
+      "max": [
+        0.005539930425584316,
+        0.08097833395004272,
+        0.00343577959574759
+      ],
+      "min": [
+        -0.005539930425584316,
+        -1.3877787497621727e-19,
+        -0.00343577959574759
+      ],
+      "name": "Traffic_Light_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 120,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 573,
+      "name": "Traffic_Light_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 120,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 573,
+      "name": "Traffic_Light_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 121,
+      "componentType": 5123,
+      "count": 894,
+      "name": "Traffic_Light_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 122,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.00462217815220356,
+        0.0924902856349945,
+        0.00462217815220356
+      ],
+      "min": [
+        -0.00462217815220356,
+        -4.1194711198967725e-18,
+        -0.06870768964290619
+      ],
+      "name": "Big_Road_Sing_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 122,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 328,
+      "name": "Big_Road_Sing_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 122,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 328,
+      "name": "Big_Road_Sing_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 123,
+      "componentType": 5123,
+      "count": 570,
+      "name": "Big_Road_Sing_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 124,
+      "componentType": 5126,
+      "count": 680,
+      "max": [
+        0.00462217815220356,
+        0.0924902856349945,
+        0.11462217569351196
+      ],
+      "min": [
+        -0.00462217815220356,
+        -1.3877787497621727e-19,
+        -0.11462217569351196
+      ],
+      "name": "Big_Road_Sing_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 124,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 680,
+      "name": "Big_Road_Sing_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 124,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 680,
+      "name": "Big_Road_Sing_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 125,
+      "componentType": 5123,
+      "count": 1200,
+      "name": "Big_Road_Sing_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 126,
+      "componentType": 5126,
+      "count": 318,
+      "max": [
+        0.005967204459011555,
+        0.01893940567970276,
+        0.014239990152418613
+      ],
+      "min": [
+        -0.005967204459011555,
+        -1.3877787497621727e-19,
+        -0.014239990152418613
+      ],
+      "name": "Road_Barrier/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 126,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 318,
+      "name": "Road_Barrier/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 126,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 318,
+      "name": "Road_Barrier/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 127,
+      "componentType": 5123,
+      "count": 516,
+      "name": "Road_Barrier/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 128,
+      "componentType": 5126,
+      "count": 392,
+      "max": [
+        0.004512549843639135,
+        0.015486898832023144,
+        0.011362344957888126
+      ],
+      "min": [
+        -0.004512549843639135,
+        -1.3877787497621727e-19,
+        -0.011362344957888126
+      ],
+      "name": "Road_Work_Sign_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 128,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 392,
+      "name": "Road_Work_Sign_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 128,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 392,
+      "name": "Road_Work_Sign_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 129,
+      "componentType": 5123,
+      "count": 624,
+      "name": "Road_Work_Sign_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 130,
+      "componentType": 5126,
+      "count": 336,
+      "max": [
+        0.0058737038634717464,
+        0.014399017207324505,
+        0.011362344957888126
+      ],
+      "min": [
+        -0.0058737038634717464,
+        -1.3877787497621727e-19,
+        -0.011362344957888126
+      ],
+      "name": "Road_Work_Sign_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 130,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 336,
+      "name": "Road_Work_Sign_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 130,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 336,
+      "name": "Road_Work_Sign_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 131,
+      "componentType": 5123,
+      "count": 492,
+      "name": "Road_Work_Sign_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 132,
+      "componentType": 5126,
+      "count": 159,
+      "max": [
+        0.002700862940400839,
+        0.007195950485765934,
+        0.002700862940400839
+      ],
+      "min": [
+        -0.002700862940400839,
+        -2.454817493223873e-18,
+        -0.002700862940400839
+      ],
+      "name": "Cone/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 132,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 159,
+      "name": "Cone/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 132,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 159,
+      "name": "Cone/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 133,
+      "componentType": 5123,
+      "count": 240,
+      "name": "Cone/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 134,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        0.0009395391680300236,
+        0.007126365788280964,
+        0.007126365788280964
+      ],
+      "min": [
+        -0.0009395391680300236,
+        -0.007126365788280964,
+        -0.007126365788280964
+      ],
+      "name": "Road_Sign_7/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 134,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 52,
+      "name": "Road_Sign_7/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 134,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 52,
+      "name": "Road_Sign_7/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 135,
+      "componentType": 5123,
+      "count": 90,
+      "name": "Road_Sign_7/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 136,
+      "componentType": 5126,
+      "count": 50,
+      "max": [
+        0.0004918209742754698,
+        0.03392253816127777,
+        0.0055430117063224316
+      ],
+      "min": [
+        -0.0004918209742754698,
+        1.4997062645067363e-18,
+        -0.0055430117063224316
+      ],
+      "name": "Road_Sign_6/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 136,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 50,
+      "name": "Road_Sign_6/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 136,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 50,
+      "name": "Road_Sign_6/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 137,
+      "componentType": 5123,
+      "count": 84,
+      "name": "Road_Sign_6/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 138,
+      "componentType": 5126,
+      "count": 58,
+      "max": [
+        0.00044880001223646104,
+        0.030975813046097755,
+        0.004353783559054136
+      ],
+      "min": [
+        -0.00044880001223646104,
+        1.7544705519451324e-18,
+        -0.004353783559054136
+      ],
+      "name": "Road_Sign_5/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 138,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 58,
+      "name": "Road_Sign_5/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 138,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 58,
+      "name": "Road_Sign_5/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 139,
+      "componentType": 5123,
+      "count": 90,
+      "name": "Road_Sign_5/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 140,
+      "componentType": 5126,
+      "count": 44,
+      "max": [
+        0.0005231186514720321,
+        0.031662531197071075,
+        0.005796154960989952
+      ],
+      "min": [
+        -0.0005231186514720321,
+        1.6525648990083199e-18,
+        -0.005796154960989952
+      ],
+      "name": "Road_Sign_4/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 140,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 44,
+      "name": "Road_Sign_4/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 140,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 44,
+      "name": "Road_Sign_4/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 141,
+      "componentType": 5123,
+      "count": 72,
+      "name": "Road_Sign_4/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 142,
+      "componentType": 5126,
+      "count": 44,
+      "max": [
+        0.000553298625163734,
+        0.03449968248605728,
+        0.006130548659712076
+      ],
+      "min": [
+        -0.000553298625163734,
+        1.4997062645067363e-18,
+        -0.006130548659712076
+      ],
+      "name": "Road_Sign_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 142,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 44,
+      "name": "Road_Sign_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 142,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 44,
+      "name": "Road_Sign_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 143,
+      "componentType": 5123,
+      "count": 72,
+      "name": "Road_Sign_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 144,
+      "componentType": 5126,
+      "count": 85,
+      "max": [
+        0.0005840373924002051,
+        0.0329076424241066,
+        0.005956965498626232
+      ],
+      "min": [
+        -0.0005840373924002051,
+        1.1194251773292375e-18,
+        -0.005956965498626232
+      ],
+      "name": "Road_Sign_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 144,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 85,
+      "name": "Road_Sign_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 144,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 85,
+      "name": "Road_Sign_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 145,
+      "componentType": 5123,
+      "count": 168,
+      "name": "Road_Sign_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 146,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        0.000447109981905669,
+        0.032925933599472046,
+        0.007126365788280964
+      ],
+      "min": [
+        -0.000447109981905669,
+        1.7544705519451324e-18,
+        -0.007126365788280964
+      ],
+      "name": "Road_Sign_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 146,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 52,
+      "name": "Road_Sign_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 146,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 52,
+      "name": "Road_Sign_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 147,
+      "componentType": 5123,
+      "count": 90,
+      "name": "Road_Sign_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 148,
+      "componentType": 5126,
+      "count": 136,
+      "max": [
+        0.009168639779090881,
+        0.007260115351527929,
+        0.009168639779090881
+      ],
+      "min": [
+        -0.009168639779090881,
+        0.0,
+        -0.009168639779090881
+      ],
+      "name": "Box_4/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 148,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 136,
+      "name": "Box_4/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 148,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 136,
+      "name": "Box_4/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 149,
+      "componentType": 5123,
+      "count": 204,
+      "name": "Box_4/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 150,
+      "componentType": 5126,
+      "count": 168,
+      "max": [
+        0.004340699873864651,
+        0.008681399747729301,
+        0.004340699873864651
+      ],
+      "min": [
+        -0.004340699873864651,
+        0.0,
+        -0.004340699873864651
+      ],
+      "name": "Box_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 150,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 168,
+      "name": "Box_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 150,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 168,
+      "name": "Box_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 151,
+      "componentType": 5123,
+      "count": 324,
+      "name": "Box_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 152,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.008518224582076073,
+        0.008475633338093758,
+        0.0037979481276124716
+      ],
+      "min": [
+        -0.008518224582076073,
+        1.0991928565340732e-18,
+        -0.0038087540306150913
+      ],
+      "name": "Box_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 152,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 24,
+      "name": "Box_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 152,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 24,
+      "name": "Box_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 153,
+      "componentType": 5123,
+      "count": 36,
+      "name": "Box_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 154,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.004340699873864651,
+        0.008681399747729301,
+        0.004340699873864651
+      ],
+      "min": [
+        -0.004340699873864651,
+        0.0,
+        -0.004340699873864651
+      ],
+      "name": "Box_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 154,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 24,
+      "name": "Box_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 154,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 24,
+      "name": "Box_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 155,
+      "componentType": 5123,
+      "count": 36,
+      "name": "Box_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 156,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        0.014400985091924667,
+        0.03924327343702316,
+        0.030540717765688896
+      ],
+      "min": [
+        -0.014400985091924667,
+        0.0,
+        -0.030540717765688896
+      ],
+      "name": "Tram_Stop/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 156,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 208,
+      "name": "Tram_Stop/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 156,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 208,
+      "name": "Tram_Stop/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 157,
+      "componentType": 5123,
+      "count": 336,
+      "name": "Tram_Stop/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 158,
+      "componentType": 5126,
+      "count": 378,
+      "max": [
+        0.010145927779376507,
+        0.06665100157260895,
+        0.010121061466634274
+      ],
+      "min": [
+        -0.010145927779376507,
+        0.0,
+        -0.010121061466634274
+      ],
+      "name": "Tree_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 158,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 378,
+      "name": "Tree_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 158,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 378,
+      "name": "Tree_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 159,
+      "componentType": 5123,
+      "count": 462,
+      "name": "Tree_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 160,
+      "componentType": 5126,
+      "count": 358,
+      "max": [
+        0.010656457394361496,
+        0.07868315279483795,
+        0.011229028925299644
+      ],
+      "min": [
+        -0.010656457394361496,
+        0.0,
+        -0.011229028925299644
+      ],
+      "name": "Tree_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 160,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 358,
+      "name": "Tree_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 160,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 358,
+      "name": "Tree_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 161,
+      "componentType": 5123,
+      "count": 432,
+      "name": "Tree_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 162,
+      "componentType": 5126,
+      "count": 228,
+      "max": [
+        0.01254512369632721,
+        0.08097833395004272,
+        0.0033331741578876972
+      ],
+      "min": [
+        -0.01254512369632721,
+        6.661337998858429e-18,
+        -0.0033331741578876972
+      ],
+      "name": "Light/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 162,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 228,
+      "name": "Light/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 162,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 228,
+      "name": "Light/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 163,
+      "componentType": 5123,
+      "count": 354,
+      "name": "Light/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 164,
+      "componentType": 5126,
+      "count": 776,
+      "max": [
+        0.008059227839112282,
+        0.023960277438163757,
+        0.01600302942097187
+      ],
+      "min": [
+        -0.008059227839112282,
+        0.0,
+        -0.01600302942097187
+      ],
+      "name": "Trash_Big/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 164,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 776,
+      "name": "Trash_Big/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 164,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 776,
+      "name": "Trash_Big/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 165,
+      "componentType": 5123,
+      "count": 1224,
+      "name": "Trash_Big/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 166,
+      "componentType": 5126,
+      "count": 400,
+      "max": [
+        0.009425528347492218,
+        0.036878377199172974,
+        0.027068069204688072
+      ],
+      "min": [
+        -0.009425528347492218,
+        0.0,
+        -0.027068069204688072
+      ],
+      "name": "Bus_Stop/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 166,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 400,
+      "name": "Bus_Stop/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 166,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 400,
+      "name": "Bus_Stop/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 167,
+      "componentType": 5123,
+      "count": 684,
+      "name": "Bus_Stop/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 168,
+      "componentType": 5126,
+      "count": 373,
+      "max": [
+        0.0050630331970751286,
+        0.02018788829445839,
+        0.039199672639369965
+      ],
+      "min": [
+        -0.0050630331970751286,
+        0.0,
+        -0.039199672639369965
+      ],
+      "name": "Barrier/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 168,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 373,
+      "name": "Barrier/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 168,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 373,
+      "name": "Barrier/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 169,
+      "componentType": 5123,
+      "count": 558,
+      "name": "Barrier/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 170,
+      "componentType": 5126,
+      "count": 529,
+      "max": [
+        0.008461684919893742,
+        0.02407284453511238,
+        0.0062555717304348946
+      ],
+      "min": [
+        -0.008461684919893742,
+        0.0,
+        -0.0062555717304348946
+      ],
+      "name": "Hot_Dog/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 170,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 529,
+      "name": "Hot_Dog/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 170,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 529,
+      "name": "Hot_Dog/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 171,
+      "componentType": 5123,
+      "count": 834,
+      "name": "Hot_Dog/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 172,
+      "componentType": 5126,
+      "count": 422,
+      "max": [
+        0.003344575874507427,
+        0.016407480463385582,
+        0.0042890082113444805
+      ],
+      "min": [
+        -0.003344575874507427,
+        1.1102229998097382e-18,
+        -0.0042890082113444805
+      ],
+      "name": "Newspaper_Stand/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 172,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 422,
+      "name": "Newspaper_Stand/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 172,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 422,
+      "name": "Newspaper_Stand/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 173,
+      "componentType": 5123,
+      "count": 678,
+      "name": "Newspaper_Stand/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 174,
+      "componentType": 5126,
+      "count": 263,
+      "max": [
+        0.004027221351861954,
+        0.007720038760453463,
+        0.0042529297061264515
+      ],
+      "min": [
+        -0.003546752966940403,
+        0.0,
+        -0.00425300607457757
+      ],
+      "name": "Trash_Bag_3/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 174,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 263,
+      "name": "Trash_Bag_3/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 174,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 263,
+      "name": "Trash_Bag_3/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 175,
+      "componentType": 5123,
+      "count": 384,
+      "name": "Trash_Bag_3/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 176,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        0.003966026473790407,
+        0.009297939948737621,
+        0.0040411376394331455
+      ],
+      "min": [
+        -0.003966026473790407,
+        0.0,
+        -0.0040411376394331455
+      ],
+      "name": "Trash_Bag_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 176,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 256,
+      "name": "Trash_Bag_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 176,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 256,
+      "name": "Trash_Bag_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 177,
+      "componentType": 5123,
+      "count": 378,
+      "name": "Trash_Bag_2/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 178,
+      "componentType": 5126,
+      "count": 262,
+      "max": [
+        0.0030577469151467085,
+        0.009047451429069042,
+        0.004145279061049223
+      ],
+      "min": [
+        -0.0030577469151467085,
+        0.0,
+        -0.004145279061049223
+      ],
+      "name": "Trash_Bag_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 178,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 262,
+      "name": "Trash_Bag_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 178,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 262,
+      "name": "Trash_Bag_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 179,
+      "componentType": 5123,
+      "count": 384,
+      "name": "Trash_Bag_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 180,
+      "componentType": 5126,
+      "count": 374,
+      "max": [
+        0.0050194598734378815,
+        0.013607390224933624,
+        0.0050194598734378815
+      ],
+      "min": [
+        -0.0050194598734378815,
+        0.0,
+        -0.0050194598734378815
+      ],
+      "name": "Trash_Small/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 180,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 374,
+      "name": "Trash_Small/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 180,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 374,
+      "name": "Trash_Small/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 181,
+      "componentType": 5123,
+      "count": 606,
+      "name": "Trash_Small/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 182,
+      "componentType": 5126,
+      "count": 109,
+      "max": [
+        0.0013608000008389354,
+        0.014132183976471424,
+        0.0011784873204305768
+      ],
+      "min": [
+        -0.0013608000008389354,
+        0.0,
+        -0.0011784873204305768
+      ],
+      "name": "Fence/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 182,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 109,
+      "name": "Fence/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 182,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 109,
+      "name": "Fence/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 183,
+      "componentType": 5123,
+      "count": 174,
+      "name": "Fence/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 184,
+      "componentType": 5126,
+      "count": 559,
+      "max": [
+        0.003361932933330536,
+        0.01430255826562643,
+        0.0037202967796474695
+      ],
+      "min": [
+        -0.003361932933330536,
+        0.0,
+        -0.0037202967796474695
+      ],
+      "name": "Hydrant/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 184,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 559,
+      "name": "Hydrant/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 184,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 559,
+      "name": "Hydrant/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 185,
+      "componentType": 5123,
+      "count": 912,
+      "name": "Hydrant/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 186,
+      "componentType": 5126,
+      "count": 326,
+      "max": [
+        0.004624813329428434,
+        0.012614400126039982,
+        0.004624813329428434
+      ],
+      "min": [
+        -0.004624813329428434,
+        0.0,
+        -0.004624813329428434
+      ],
+      "name": "Fuel_Barrel/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 186,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 326,
+      "name": "Fuel_Barrel/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 186,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 326,
+      "name": "Fuel_Barrel/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 187,
+      "componentType": 5123,
+      "count": 624,
+      "name": "Fuel_Barrel/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 45632,
+      "byteStride": 32,
+      "name": "Building_9",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4944,
+      "byteOffset": 45632,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 47424,
+      "byteOffset": 50576,
+      "byteStride": 32,
+      "name": "Building_8",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5400,
+      "byteOffset": 98000,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38336,
+      "byteOffset": 103400,
+      "byteStride": 32,
+      "name": "Building_7",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4308,
+      "byteOffset": 141736,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30208,
+      "byteOffset": 146044,
+      "byteStride": 32,
+      "name": "Building_6",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3336,
+      "byteOffset": 176252,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35200,
+      "byteOffset": 179588,
+      "byteStride": 32,
+      "name": "Building_5",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3900,
+      "byteOffset": 214788,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30272,
+      "byteOffset": 218688,
+      "byteStride": 32,
+      "name": "Building_4",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3336,
+      "byteOffset": 248960,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 57280,
+      "byteOffset": 252296,
+      "byteStride": 32,
+      "name": "Building_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6228,
+      "byteOffset": 309576,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48640,
+      "byteOffset": 315804,
+      "byteStride": 32,
+      "name": "Building_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5412,
+      "byteOffset": 364444,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31328,
+      "byteOffset": 369856,
+      "byteStride": 32,
+      "name": "Building_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3450,
+      "byteOffset": 401184,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5568,
+      "byteOffset": 404634,
+      "byteStride": 32,
+      "name": "Road_Roadworks",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 588,
+      "byteOffset": 410202,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8128,
+      "byteOffset": 410790,
+      "byteStride": 32,
+      "name": "Road_Crossroads_4",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1020,
+      "byteOffset": 418918,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16320,
+      "byteOffset": 419938,
+      "byteStride": 32,
+      "name": "Road_Crossroads_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1692,
+      "byteOffset": 436258,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6080,
+      "byteOffset": 437950,
+      "byteStride": 32,
+      "name": "Road_Crossroads_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 732,
+      "byteOffset": 444030,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15776,
+      "byteOffset": 444762,
+      "byteStride": 32,
+      "name": "Road_Crossroads_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2460,
+      "byteOffset": 460538,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6464,
+      "byteOffset": 462998,
+      "byteStride": 32,
+      "name": "Road_Manhole_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "byteOffset": 469462,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18240,
+      "byteOffset": 470278,
+      "byteStride": 32,
+      "name": "Road_Manhole_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2148,
+      "byteOffset": 488518,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6912,
+      "byteOffset": 490666,
+      "byteStride": 32,
+      "name": "Road_Railroad_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 780,
+      "byteOffset": 497578,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13056,
+      "byteOffset": 498358,
+      "byteStride": 32,
+      "name": "Road_Railroad_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1260,
+      "byteOffset": 511414,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2176,
+      "byteOffset": 512674,
+      "byteStride": 32,
+      "name": "Road_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 228,
+      "byteOffset": 514850,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1664,
+      "byteOffset": 515078,
+      "byteStride": 32,
+      "name": "Road_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 156,
+      "byteOffset": 516742,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2560,
+      "byteOffset": 516898,
+      "byteStride": 32,
+      "name": "Road_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 324,
+      "byteOffset": 519458,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2112,
+      "byteOffset": 519782,
+      "byteStride": 32,
+      "name": "Road_Stopline_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 252,
+      "byteOffset": 521894,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3200,
+      "byteOffset": 522146,
+      "byteStride": 32,
+      "name": "Road_Stopline_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 444,
+      "byteOffset": 525346,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4352,
+      "byteOffset": 525790,
+      "byteStride": 32,
+      "name": "Road_Crosswalk",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 660,
+      "byteOffset": 530142,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58816,
+      "byteOffset": 530802,
+      "byteStride": 32,
+      "name": "Main_Truck_4",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6648,
+      "byteOffset": 589618,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58816,
+      "byteOffset": 596266,
+      "byteStride": 32,
+      "name": "Main_Truck_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6648,
+      "byteOffset": 655082,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58816,
+      "byteOffset": 661730,
+      "byteStride": 32,
+      "name": "Main_Truck_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6648,
+      "byteOffset": 720546,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58464,
+      "byteOffset": 727194,
+      "byteStride": 32,
+      "name": "Main_Truck_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6648,
+      "byteOffset": 785658,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35904,
+      "byteOffset": 792306,
+      "byteStride": 32,
+      "name": "Taxi",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3936,
+      "byteOffset": 828210,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35264,
+      "byteOffset": 832146,
+      "byteStride": 32,
+      "name": "Police",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3864,
+      "byteOffset": 867410,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 45728,
+      "byteOffset": 871274,
+      "byteStride": 32,
+      "name": "Ambulance",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4944,
+      "byteOffset": 917002,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31424,
+      "byteOffset": 921946,
+      "byteStride": 32,
+      "name": "Gas_Truck",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3444,
+      "byteOffset": 953370,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37984,
+      "byteOffset": 956814,
+      "byteStride": 32,
+      "name": "Fire_Truck",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4284,
+      "byteOffset": 994798,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30784,
+      "byteOffset": 999082,
+      "byteStride": 32,
+      "name": "Bulldozer",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3432,
+      "byteOffset": 1029866,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32608,
+      "byteOffset": 1033298,
+      "byteStride": 32,
+      "name": "Excavator",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3648,
+      "byteOffset": 1065906,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35264,
+      "byteOffset": 1069554,
+      "byteStride": 32,
+      "name": "Tram_4",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4488,
+      "byteOffset": 1104818,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44672,
+      "byteOffset": 1109306,
+      "byteStride": 32,
+      "name": "Tram_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5520,
+      "byteOffset": 1153978,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 46624,
+      "byteOffset": 1159498,
+      "byteStride": 32,
+      "name": "Tram_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5928,
+      "byteOffset": 1206122,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 65856,
+      "byteOffset": 1212050,
+      "byteStride": 32,
+      "name": "Tram_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8400,
+      "byteOffset": 1277906,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37120,
+      "byteOffset": 1286306,
+      "byteStride": 32,
+      "name": "Train",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3828,
+      "byteOffset": 1323426,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24768,
+      "byteOffset": 1327254,
+      "byteStride": 32,
+      "name": "Train_Carriage",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2580,
+      "byteOffset": 1352022,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26048,
+      "byteOffset": 1354602,
+      "byteStride": 32,
+      "name": "Car_3_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2808,
+      "byteOffset": 1380650,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26048,
+      "byteOffset": 1383458,
+      "byteStride": 32,
+      "name": "Car_3_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2808,
+      "byteOffset": 1409506,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26048,
+      "byteOffset": 1412314,
+      "byteStride": 32,
+      "name": "Car_3_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2808,
+      "byteOffset": 1438362,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32416,
+      "byteOffset": 1441170,
+      "byteStride": 32,
+      "name": "Car_1_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3516,
+      "byteOffset": 1473586,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32416,
+      "byteOffset": 1477102,
+      "byteStride": 32,
+      "name": "Car_1_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3516,
+      "byteOffset": 1509518,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32416,
+      "byteOffset": 1513034,
+      "byteStride": 32,
+      "name": "Car_1_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3516,
+      "byteOffset": 1545450,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29440,
+      "byteOffset": 1548966,
+      "byteStride": 32,
+      "name": "Car_2_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3168,
+      "byteOffset": 1578406,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29440,
+      "byteOffset": 1581574,
+      "byteStride": 32,
+      "name": "Car_2_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3168,
+      "byteOffset": 1611014,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29440,
+      "byteOffset": 1614182,
+      "byteStride": 32,
+      "name": "Car_2_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3168,
+      "byteOffset": 1643622,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29120,
+      "byteOffset": 1646790,
+      "byteStride": 32,
+      "name": "Pickup_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3456,
+      "byteOffset": 1675910,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29120,
+      "byteOffset": 1679366,
+      "byteStride": 32,
+      "name": "Pickup_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3456,
+      "byteOffset": 1708486,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29120,
+      "byteOffset": 1711942,
+      "byteStride": 32,
+      "name": "Pickup_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3456,
+      "byteOffset": 1741062,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24544,
+      "byteOffset": 1744518,
+      "byteStride": 32,
+      "name": "Truck_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2622,
+      "byteOffset": 1769062,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24544,
+      "byteOffset": 1771684,
+      "byteStride": 32,
+      "name": "Truck_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2622,
+      "byteOffset": 1796228,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24544,
+      "byteOffset": 1798850,
+      "byteStride": 32,
+      "name": "Truck_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2622,
+      "byteOffset": 1823394,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22816,
+      "byteOffset": 1826016,
+      "byteStride": 32,
+      "name": "Bus_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2784,
+      "byteOffset": 1848832,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22816,
+      "byteOffset": 1851616,
+      "byteStride": 32,
+      "name": "Bus_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2784,
+      "byteOffset": 1874432,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22816,
+      "byteOffset": 1877216,
+      "byteStride": 32,
+      "name": "Bus_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2784,
+      "byteOffset": 1900032,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33760,
+      "byteOffset": 1902816,
+      "byteStride": 32,
+      "name": "Traffic_Light_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3204,
+      "byteOffset": 1936576,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18336,
+      "byteOffset": 1939780,
+      "byteStride": 32,
+      "name": "Traffic_Light_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1788,
+      "byteOffset": 1958116,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10496,
+      "byteOffset": 1959904,
+      "byteStride": 32,
+      "name": "Big_Road_Sing_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1140,
+      "byteOffset": 1970400,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21760,
+      "byteOffset": 1971540,
+      "byteStride": 32,
+      "name": "Big_Road_Sing_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2400,
+      "byteOffset": 1993300,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10176,
+      "byteOffset": 1995700,
+      "byteStride": 32,
+      "name": "Road_Barrier",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1032,
+      "byteOffset": 2005876,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12544,
+      "byteOffset": 2006908,
+      "byteStride": 32,
+      "name": "Road_Work_Sign_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1248,
+      "byteOffset": 2019452,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10752,
+      "byteOffset": 2020700,
+      "byteStride": 32,
+      "name": "Road_Work_Sign_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 984,
+      "byteOffset": 2031452,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5088,
+      "byteOffset": 2032436,
+      "byteStride": 32,
+      "name": "Cone",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 480,
+      "byteOffset": 2037524,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1664,
+      "byteOffset": 2038004,
+      "byteStride": 32,
+      "name": "Road_Sign_7",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 180,
+      "byteOffset": 2039668,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1600,
+      "byteOffset": 2039848,
+      "byteStride": 32,
+      "name": "Road_Sign_6",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 168,
+      "byteOffset": 2041448,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1856,
+      "byteOffset": 2041616,
+      "byteStride": 32,
+      "name": "Road_Sign_5",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 180,
+      "byteOffset": 2043472,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1408,
+      "byteOffset": 2043652,
+      "byteStride": 32,
+      "name": "Road_Sign_4",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 2045060,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1408,
+      "byteOffset": 2045204,
+      "byteStride": 32,
+      "name": "Road_Sign_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 2046612,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2720,
+      "byteOffset": 2046756,
+      "byteStride": 32,
+      "name": "Road_Sign_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 336,
+      "byteOffset": 2049476,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1664,
+      "byteOffset": 2049812,
+      "byteStride": 32,
+      "name": "Road_Sign_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 180,
+      "byteOffset": 2051476,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4352,
+      "byteOffset": 2051656,
+      "byteStride": 32,
+      "name": "Box_4",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 408,
+      "byteOffset": 2056008,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5376,
+      "byteOffset": 2056416,
+      "byteStride": 32,
+      "name": "Box_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 648,
+      "byteOffset": 2061792,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 2062440,
+      "byteStride": 32,
+      "name": "Box_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 72,
+      "byteOffset": 2063208,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 2063280,
+      "byteStride": 32,
+      "name": "Box_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 72,
+      "byteOffset": 2064048,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6656,
+      "byteOffset": 2064120,
+      "byteStride": 32,
+      "name": "Tram_Stop",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 672,
+      "byteOffset": 2070776,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12096,
+      "byteOffset": 2071448,
+      "byteStride": 32,
+      "name": "Tree_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 924,
+      "byteOffset": 2083544,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11456,
+      "byteOffset": 2084468,
+      "byteStride": 32,
+      "name": "Tree_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 864,
+      "byteOffset": 2095924,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7296,
+      "byteOffset": 2096788,
+      "byteStride": 32,
+      "name": "Light",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 708,
+      "byteOffset": 2104084,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24832,
+      "byteOffset": 2104792,
+      "byteStride": 32,
+      "name": "Trash_Big",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2448,
+      "byteOffset": 2129624,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12800,
+      "byteOffset": 2132072,
+      "byteStride": 32,
+      "name": "Bus_Stop",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1368,
+      "byteOffset": 2144872,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11936,
+      "byteOffset": 2146240,
+      "byteStride": 32,
+      "name": "Barrier",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1116,
+      "byteOffset": 2158176,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16928,
+      "byteOffset": 2159292,
+      "byteStride": 32,
+      "name": "Hot_Dog",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1668,
+      "byteOffset": 2176220,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13504,
+      "byteOffset": 2177888,
+      "byteStride": 32,
+      "name": "Newspaper_Stand",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1356,
+      "byteOffset": 2191392,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8416,
+      "byteOffset": 2192748,
+      "byteStride": 32,
+      "name": "Trash_Bag_3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 2201164,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8192,
+      "byteOffset": 2201932,
+      "byteStride": 32,
+      "name": "Trash_Bag_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 756,
+      "byteOffset": 2210124,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8384,
+      "byteOffset": 2210880,
+      "byteStride": 32,
+      "name": "Trash_Bag_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 2219264,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11968,
+      "byteOffset": 2220032,
+      "byteStride": 32,
+      "name": "Trash_Small",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1212,
+      "byteOffset": 2232000,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3488,
+      "byteOffset": 2233212,
+      "byteStride": 32,
+      "name": "Fence",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 348,
+      "byteOffset": 2236700,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17888,
+      "byteOffset": 2237048,
+      "byteStride": 32,
+      "name": "Hydrant",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1824,
+      "byteOffset": 2254936,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10432,
+      "byteOffset": 2256760,
+      "byteStride": 32,
+      "name": "Fuel_Barrel",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1248,
+      "byteOffset": 2267192,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2268440,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 24,
+          "hour": 15,
+          "millisecond": 393,
+          "minute": 44,
+          "month": 11,
+          "second": 20,
+          "year": 2022
+        },
+        "creator": "FBX SDK/FBX Plugins version 2019.5",
+        "sceneInfo": {
+          "author": "",
+          "comment": "",
+          "keywords": "",
+          "original": {
+            "applicationName": "MAXON CINEMA 4D Studio (RC - R19) 19.053",
+            "applicationVendor": "",
+            "applicationVersion": "",
+            "fileName": ""
+          },
+          "revision": "",
+          "subject": "",
+          "title": "",
+          "url": "D:\\Project\\cocos\\Tower\\assets\\model\\Low Poly Simple Urban City 3D Asset Pack.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\2fdd85a1-01b1-4f1a-9174-54cb972668ac\\output\\.fbm\\F01EBF\\Low Poly Simple Urban City 3D Asset Pack.fbm/tex.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\2fdd85a1-01b1-4f1a-9174-54cb972668ac\\output\\.fbm\\F01EBF\\Low Poly Simple Urban City 3D Asset Pack.fbm\\tex.png"
+        }
+      },
+      "name": "tex.png",
+      "uri": "tex.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "texture": {
+                  "extensions": {
+                    "KHR_texture_transform": {
+                      "offset": [
+                        0.0,
+                        -1.0
+                      ],
+                      "scale": [
+                        1.0,
+                        1.0
+                      ]
+                    }
+                  },
+                  "index": 0
+                },
+                "value": [
+                  0.33,
+                  0.3168,
+                  0.32120000000000004
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "shadingModel": "Lambert",
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "lambert"
+          }
+        }
+      },
+      "name": "Mat"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Building_9",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Building_8",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Building_7",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Building_6",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Building_5",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Building_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Building_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Building_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 29,
+            "POSITION": 28,
+            "TEXCOORD_0": 30
+          },
+          "indices": 31,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Building_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 33,
+            "POSITION": 32,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Roadworks",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 37,
+            "POSITION": 36,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Crossroads_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 41,
+            "POSITION": 40,
+            "TEXCOORD_0": 42
+          },
+          "indices": 43,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Crossroads_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 45,
+            "POSITION": 44,
+            "TEXCOORD_0": 46
+          },
+          "indices": 47,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Crossroads_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 49,
+            "POSITION": 48,
+            "TEXCOORD_0": 50
+          },
+          "indices": 51,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Crossroads_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 53,
+            "POSITION": 52,
+            "TEXCOORD_0": 54
+          },
+          "indices": 55,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Manhole_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 57,
+            "POSITION": 56,
+            "TEXCOORD_0": 58
+          },
+          "indices": 59,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Manhole_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 61,
+            "POSITION": 60,
+            "TEXCOORD_0": 62
+          },
+          "indices": 63,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Railroad_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 65,
+            "POSITION": 64,
+            "TEXCOORD_0": 66
+          },
+          "indices": 67,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Railroad_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 69,
+            "POSITION": 68,
+            "TEXCOORD_0": 70
+          },
+          "indices": 71,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 73,
+            "POSITION": 72,
+            "TEXCOORD_0": 74
+          },
+          "indices": 75,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 77,
+            "POSITION": 76,
+            "TEXCOORD_0": 78
+          },
+          "indices": 79,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 81,
+            "POSITION": 80,
+            "TEXCOORD_0": 82
+          },
+          "indices": 83,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Stopline_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 85,
+            "POSITION": 84,
+            "TEXCOORD_0": 86
+          },
+          "indices": 87,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Stopline_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 89,
+            "POSITION": 88,
+            "TEXCOORD_0": 90
+          },
+          "indices": 91,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Crosswalk",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 93,
+            "POSITION": 92,
+            "TEXCOORD_0": 94
+          },
+          "indices": 95,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Main_Truck_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 97,
+            "POSITION": 96,
+            "TEXCOORD_0": 98
+          },
+          "indices": 99,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Main_Truck_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 101,
+            "POSITION": 100,
+            "TEXCOORD_0": 102
+          },
+          "indices": 103,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Main_Truck_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 105,
+            "POSITION": 104,
+            "TEXCOORD_0": 106
+          },
+          "indices": 107,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Main_Truck_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 109,
+            "POSITION": 108,
+            "TEXCOORD_0": 110
+          },
+          "indices": 111,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Taxi",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 113,
+            "POSITION": 112,
+            "TEXCOORD_0": 114
+          },
+          "indices": 115,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Police",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 117,
+            "POSITION": 116,
+            "TEXCOORD_0": 118
+          },
+          "indices": 119,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Ambulance",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 121,
+            "POSITION": 120,
+            "TEXCOORD_0": 122
+          },
+          "indices": 123,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Gas_Truck",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 125,
+            "POSITION": 124,
+            "TEXCOORD_0": 126
+          },
+          "indices": 127,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Fire_Truck",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 129,
+            "POSITION": 128,
+            "TEXCOORD_0": 130
+          },
+          "indices": 131,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Bulldozer",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 133,
+            "POSITION": 132,
+            "TEXCOORD_0": 134
+          },
+          "indices": 135,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Excavator",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 137,
+            "POSITION": 136,
+            "TEXCOORD_0": 138
+          },
+          "indices": 139,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tram_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 141,
+            "POSITION": 140,
+            "TEXCOORD_0": 142
+          },
+          "indices": 143,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tram_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 145,
+            "POSITION": 144,
+            "TEXCOORD_0": 146
+          },
+          "indices": 147,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tram_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 149,
+            "POSITION": 148,
+            "TEXCOORD_0": 150
+          },
+          "indices": 151,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tram_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 153,
+            "POSITION": 152,
+            "TEXCOORD_0": 154
+          },
+          "indices": 155,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Train",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 157,
+            "POSITION": 156,
+            "TEXCOORD_0": 158
+          },
+          "indices": 159,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Train_Carriage",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 161,
+            "POSITION": 160,
+            "TEXCOORD_0": 162
+          },
+          "indices": 163,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_3_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 165,
+            "POSITION": 164,
+            "TEXCOORD_0": 166
+          },
+          "indices": 167,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_3_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 169,
+            "POSITION": 168,
+            "TEXCOORD_0": 170
+          },
+          "indices": 171,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_3_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 173,
+            "POSITION": 172,
+            "TEXCOORD_0": 174
+          },
+          "indices": 175,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_1_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 177,
+            "POSITION": 176,
+            "TEXCOORD_0": 178
+          },
+          "indices": 179,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_1_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 181,
+            "POSITION": 180,
+            "TEXCOORD_0": 182
+          },
+          "indices": 183,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_1_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 185,
+            "POSITION": 184,
+            "TEXCOORD_0": 186
+          },
+          "indices": 187,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_2_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 189,
+            "POSITION": 188,
+            "TEXCOORD_0": 190
+          },
+          "indices": 191,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_2_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 193,
+            "POSITION": 192,
+            "TEXCOORD_0": 194
+          },
+          "indices": 195,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Car_2_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 197,
+            "POSITION": 196,
+            "TEXCOORD_0": 198
+          },
+          "indices": 199,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Pickup_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 201,
+            "POSITION": 200,
+            "TEXCOORD_0": 202
+          },
+          "indices": 203,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Pickup_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 205,
+            "POSITION": 204,
+            "TEXCOORD_0": 206
+          },
+          "indices": 207,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Pickup_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 209,
+            "POSITION": 208,
+            "TEXCOORD_0": 210
+          },
+          "indices": 211,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Truck_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 213,
+            "POSITION": 212,
+            "TEXCOORD_0": 214
+          },
+          "indices": 215,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Truck_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 217,
+            "POSITION": 216,
+            "TEXCOORD_0": 218
+          },
+          "indices": 219,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Truck_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 221,
+            "POSITION": 220,
+            "TEXCOORD_0": 222
+          },
+          "indices": 223,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Bus_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 225,
+            "POSITION": 224,
+            "TEXCOORD_0": 226
+          },
+          "indices": 227,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Bus_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 229,
+            "POSITION": 228,
+            "TEXCOORD_0": 230
+          },
+          "indices": 231,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Bus_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 233,
+            "POSITION": 232,
+            "TEXCOORD_0": 234
+          },
+          "indices": 235,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Traffic_Light_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 237,
+            "POSITION": 236,
+            "TEXCOORD_0": 238
+          },
+          "indices": 239,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Traffic_Light_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 241,
+            "POSITION": 240,
+            "TEXCOORD_0": 242
+          },
+          "indices": 243,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Big_Road_Sing_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 245,
+            "POSITION": 244,
+            "TEXCOORD_0": 246
+          },
+          "indices": 247,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Big_Road_Sing_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 249,
+            "POSITION": 248,
+            "TEXCOORD_0": 250
+          },
+          "indices": 251,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Barrier",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 253,
+            "POSITION": 252,
+            "TEXCOORD_0": 254
+          },
+          "indices": 255,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Work_Sign_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 257,
+            "POSITION": 256,
+            "TEXCOORD_0": 258
+          },
+          "indices": 259,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Work_Sign_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 261,
+            "POSITION": 260,
+            "TEXCOORD_0": 262
+          },
+          "indices": 263,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Cone",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 265,
+            "POSITION": 264,
+            "TEXCOORD_0": 266
+          },
+          "indices": 267,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Sign_7",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 269,
+            "POSITION": 268,
+            "TEXCOORD_0": 270
+          },
+          "indices": 271,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Sign_6",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 273,
+            "POSITION": 272,
+            "TEXCOORD_0": 274
+          },
+          "indices": 275,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Sign_5",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 277,
+            "POSITION": 276,
+            "TEXCOORD_0": 278
+          },
+          "indices": 279,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Sign_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 281,
+            "POSITION": 280,
+            "TEXCOORD_0": 282
+          },
+          "indices": 283,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Sign_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 285,
+            "POSITION": 284,
+            "TEXCOORD_0": 286
+          },
+          "indices": 287,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Sign_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 289,
+            "POSITION": 288,
+            "TEXCOORD_0": 290
+          },
+          "indices": 291,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Road_Sign_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 293,
+            "POSITION": 292,
+            "TEXCOORD_0": 294
+          },
+          "indices": 295,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Box_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 297,
+            "POSITION": 296,
+            "TEXCOORD_0": 298
+          },
+          "indices": 299,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Box_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 301,
+            "POSITION": 300,
+            "TEXCOORD_0": 302
+          },
+          "indices": 303,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Box_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 305,
+            "POSITION": 304,
+            "TEXCOORD_0": 306
+          },
+          "indices": 307,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Box_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 309,
+            "POSITION": 308,
+            "TEXCOORD_0": 310
+          },
+          "indices": 311,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tram_Stop",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 313,
+            "POSITION": 312,
+            "TEXCOORD_0": 314
+          },
+          "indices": 315,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tree_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 317,
+            "POSITION": 316,
+            "TEXCOORD_0": 318
+          },
+          "indices": 319,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tree_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 321,
+            "POSITION": 320,
+            "TEXCOORD_0": 322
+          },
+          "indices": 323,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Light",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 325,
+            "POSITION": 324,
+            "TEXCOORD_0": 326
+          },
+          "indices": 327,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Trash_Big",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 329,
+            "POSITION": 328,
+            "TEXCOORD_0": 330
+          },
+          "indices": 331,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Bus_Stop",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 333,
+            "POSITION": 332,
+            "TEXCOORD_0": 334
+          },
+          "indices": 335,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Barrier",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 337,
+            "POSITION": 336,
+            "TEXCOORD_0": 338
+          },
+          "indices": 339,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Hot_Dog",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 341,
+            "POSITION": 340,
+            "TEXCOORD_0": 342
+          },
+          "indices": 343,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Newspaper_Stand",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 345,
+            "POSITION": 344,
+            "TEXCOORD_0": 346
+          },
+          "indices": 347,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Trash_Bag_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 349,
+            "POSITION": 348,
+            "TEXCOORD_0": 350
+          },
+          "indices": 351,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Trash_Bag_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 353,
+            "POSITION": 352,
+            "TEXCOORD_0": 354
+          },
+          "indices": 355,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Trash_Bag_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 357,
+            "POSITION": 356,
+            "TEXCOORD_0": 358
+          },
+          "indices": 359,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Trash_Small",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 361,
+            "POSITION": 360,
+            "TEXCOORD_0": 362
+          },
+          "indices": 363,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Fence",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 365,
+            "POSITION": 364,
+            "TEXCOORD_0": 366
+          },
+          "indices": 367,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Hydrant",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 369,
+            "POSITION": 368,
+            "TEXCOORD_0": 370
+          },
+          "indices": 371,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Fuel_Barrel",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 373,
+            "POSITION": 372,
+            "TEXCOORD_0": 374
+          },
+          "indices": 375,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        11,
+        27,
+        70
+      ],
+      "name": "Low_Poly_Simple_Urban_City_3D_Asset_Pack",
+      "translation": [
+        0.0,
+        0.0004718562704510987,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "Buildings",
+      "rotation": [
+        -6.123234262925839e-17,
+        1.0,
+        -6.123234262925839e-17,
+        -6.123234262925839e-17
+      ],
+      "translation": [
+        -0.007964393123984337,
+        -0.0004718562704510987,
+        -1.4242336750030518
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Building_9",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        1.2000000476837158,
+        9.687421850029847e-17,
+        2.8421708795129297e-16
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "Building_8",
+      "translation": [
+        0.30000001192092896,
+        -2.0005328373009247e-17,
+        0.0
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "Building_7",
+      "translation": [
+        -0.30000001192092896,
+        -9.348413456503564e-17,
+        0.0
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "Building_6",
+      "translation": [
+        -0.8999999761581421,
+        -1.6696293910270081e-16,
+        -2.8421708795129297e-16
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "Building_5",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.8999999761581421,
+        5.34734811277396e-17,
+        2.8421708795129297e-16
+      ]
+    },
+    {
+      "mesh": 5,
+      "name": "Building_4",
+      "rotation": [
+        -4.329780301713277e-17,
+        0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        -1.2000000476837158,
+        2.9367757246939665e-16,
+        -2.8421708795129297e-16
+      ]
+    },
+    {
+      "mesh": 6,
+      "name": "Building_3",
+      "translation": [
+        -0.6000000238418579,
+        -1.2356220173014194e-16,
+        -2.8421708795129297e-16
+      ]
+    },
+    {
+      "mesh": 7,
+      "name": "Building_2",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.6000000238418579,
+        1.6734075550184563e-17,
+        2.8421708795129297e-16
+      ]
+    },
+    {
+      "mesh": 8,
+      "name": "Building_1",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        6.328271160954053e-17,
+        -5.674473560492551e-17,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "name": "Road",
+      "rotation": [
+        -6.123234262925839e-17,
+        1.0,
+        -6.123234262925839e-17,
+        -6.123234262925839e-17
+      ],
+      "translation": [
+        -0.007964393123984337,
+        0.00061123474733904,
+        -0.6276040077209473
+      ]
+    },
+    {
+      "mesh": 9,
+      "name": "Road_Roadworks",
+      "translation": [
+        0.2750000059604645,
+        0.0011445088312029839,
+        -0.17982421815395355
+      ]
+    },
+    {
+      "mesh": 10,
+      "name": "Road_Crossroads_4",
+      "translation": [
+        -0.824999988079071,
+        0.00188498105853796,
+        0.2701757848262787
+      ]
+    },
+    {
+      "mesh": 11,
+      "name": "Road_Crossroads_3",
+      "translation": [
+        0.824999988079071,
+        0.0023341437336057425,
+        0.2701757848262787
+      ]
+    },
+    {
+      "mesh": 12,
+      "name": "Road_Crossroads_2",
+      "translation": [
+        0.2750000059604645,
+        0.002119647338986397,
+        0.2701757848262787
+      ]
+    },
+    {
+      "mesh": 13,
+      "name": "Road_Crossroads_1",
+      "translation": [
+        -0.2750000059604645,
+        0.002119647338986397,
+        0.2701757848262787
+      ]
+    },
+    {
+      "mesh": 14,
+      "name": "Road_Manhole_2",
+      "rotation": [
+        -6.123234262925839e-17,
+        1.0,
+        -6.123234262925839e-17,
+        -6.123234262925839e-17
+      ],
+      "translation": [
+        0.824999988079071,
+        -0.028422344475984573,
+        -0.17982421815395355
+      ]
+    },
+    {
+      "mesh": 15,
+      "name": "Road_Manhole_1",
+      "translation": [
+        -0.824999988079071,
+        0.0021198433823883533,
+        -0.17982421815395355
+      ]
+    },
+    {
+      "mesh": 16,
+      "name": "Road_Railroad_2",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        -1.25,
+        0.0016465088119730353,
+        0.2701757848262787
+      ]
+    },
+    {
+      "mesh": 17,
+      "name": "Road_Railroad_1",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        1.25,
+        0.002334005432203412,
+        0.2701757848262787
+      ]
+    },
+    {
+      "mesh": 18,
+      "name": "Road_3",
+      "rotation": [
+        -4.329780301713277e-17,
+        0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        4.440892164675075e-17,
+        0.0021198433823883533,
+        -0.18035155534744263
+      ]
+    },
+    {
+      "mesh": 19,
+      "name": "Road_2",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.550000011920929,
+        0.0021198433823883533,
+        -0.18035155534744263
+      ]
+    },
+    {
+      "mesh": 20,
+      "name": "Road_1",
+      "translation": [
+        -0.2750000059604645,
+        0.0021198433823883533,
+        -0.17982421815395355
+      ]
+    },
+    {
+      "mesh": 21,
+      "name": "Road_Stopline_2",
+      "rotation": [
+        -4.329780301713277e-17,
+        0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        1.100000023841858,
+        0.0021198433823883533,
+        -0.18035155534744263
+      ]
+    },
+    {
+      "mesh": 22,
+      "name": "Road_Stopline_1",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.550000011920929,
+        0.0021198433823883533,
+        -0.18035155534744263
+      ]
+    },
+    {
+      "mesh": 23,
+      "name": "Road_Crosswalk",
+      "rotation": [
+        4.329780301713277e-17,
+        -0.7071067690849304,
+        4.329780301713277e-17,
+        0.7071067690849304
+      ],
+      "translation": [
+        -1.100000023841858,
+        0.0021198433823883533,
+        -0.18035155534744263
+      ]
+    },
+    {
+      "children": [
+        28,
+        33,
+        41,
+        48,
+        58,
+        62,
+        66
+      ],
+      "name": "Vehicles",
+      "translation": [
+        -0.007964393123984337,
+        -0.0004718562704510987,
+        0.5746999979019165
+      ]
+    },
+    {
+      "children": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "name": "Main_Hero_Trucks",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.07654630392789841,
+        -2.6842974542759372e-18,
+        -0.19601047039031982
+      ]
+    },
+    {
+      "mesh": 24,
+      "name": "Main_Truck_4",
+      "translation": [
+        7.105427198782324e-17,
+        -1.136622469059368e-18,
+        0.07500000298023224
+      ]
+    },
+    {
+      "mesh": 25,
+      "name": "Main_Truck_3",
+      "translation": [
+        0.0,
+        -1.136622469059368e-18,
+        -0.07500000298023224
+      ]
+    },
+    {
+      "mesh": 26,
+      "name": "Main_Truck_2",
+      "translation": [
+        7.105427198782324e-17,
+        -1.136622469059368e-18,
+        0.22499999403953552
+      ]
+    },
+    {
+      "mesh": 27,
+      "name": "Main_Truck_1",
+      "translation": [
+        0.0,
+        3.4973518899180906e-18,
+        -0.22499999403953552
+      ]
+    },
+    {
+      "children": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "name": "Emergency_Vehicles",
+      "translation": [
+        -0.17363756895065308,
+        -3.8379956195153906e-18,
+        -0.08000427484512329
+      ]
+    },
+    {
+      "mesh": 28,
+      "name": "Taxi",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.20136243104934692,
+        -1.0596340358756272e-20,
+        0.29001548886299133
+      ]
+    },
+    {
+      "mesh": 29,
+      "name": "Police",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.3513624370098114,
+        -1.0596340358756272e-20,
+        0.29001548886299133
+      ]
+    },
+    {
+      "mesh": 30,
+      "name": "Ambulance",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.6251838803291321,
+        -2.600729355081311e-20,
+        -0.11600619554519653
+      ]
+    },
+    {
+      "mesh": 31,
+      "name": "Gas_Truck",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.12481611967086792,
+        8.855776612838626e-18,
+        -0.11600619554519653
+      ]
+    },
+    {
+      "mesh": 32,
+      "name": "Fire_Truck",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.2748161256313324,
+        -8.907791384117185e-18,
+        -0.11600619554519653
+      ]
+    },
+    {
+      "mesh": 33,
+      "name": "Bulldozer",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.8980106711387634,
+        -2.600729355081311e-20,
+        -0.11600619554519653
+      ]
+    },
+    {
+      "mesh": 34,
+      "name": "Excavator",
+      "translation": [
+        1.2251838445663452,
+        -2.600729355081311e-20,
+        -0.11600619554519653
+      ]
+    },
+    {
+      "children": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "name": "Trams",
+      "rotation": [
+        -6.123234262925839e-17,
+        1.0,
+        -6.123234262925839e-17,
+        -6.123234262925839e-17
+      ],
+      "translation": [
+        -0.021237211301922798,
+        -3.831944379744259e-18,
+        -0.5662326216697693
+      ]
+    },
+    {
+      "mesh": 35,
+      "name": "Tram_4",
+      "translation": [
+        -1.044885516166687,
+        -1.2796923474536726e-16,
+        6.431537622120231e-05
+      ]
+    },
+    {
+      "mesh": 36,
+      "name": "Tram_3",
+      "translation": [
+        -0.6948854327201843,
+        -8.510660152233129e-17,
+        6.431537622120231e-05
+      ]
+    },
+    {
+      "mesh": 37,
+      "name": "Tram_2",
+      "translation": [
+        -0.27255624532699585,
+        -3.3386716823424506e-17,
+        5.999999848427251e-05
+      ]
+    },
+    {
+      "mesh": 38,
+      "name": "Tram_1",
+      "translation": [
+        0.257747083902359,
+        3.155670875832649e-17,
+        5.999999848427251e-05
+      ]
+    },
+    {
+      "mesh": 39,
+      "name": "Train",
+      "translation": [
+        0.7299772500991821,
+        9.158556977076923e-17,
+        -0.00012863075244240463
+      ]
+    },
+    {
+      "mesh": 40,
+      "name": "Train_Carriage",
+      "translation": [
+        1.0024110078811646,
+        1.2050819796903696e-16,
+        -0.00012863075244240463
+      ]
+    },
+    {
+      "children": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "name": "Cars",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.375,
+        9.495688497793323e-18,
+        0.21001121401786804
+      ]
+    },
+    {
+      "mesh": 41,
+      "name": "Car_3_3"
+    },
+    {
+      "mesh": 42,
+      "name": "Car_3_2",
+      "translation": [
+        -1.4210854397564648e-16,
+        -8.89238018212471e-18,
+        -0.15000000596046448
+      ]
+    },
+    {
+      "mesh": 43,
+      "name": "Car_3_1",
+      "translation": [
+        0.0,
+        -8.89238018212471e-18,
+        0.15000000596046448
+      ]
+    },
+    {
+      "mesh": 44,
+      "name": "Car_1_3",
+      "translation": [
+        0.0,
+        2.2193864639728572e-17,
+        -0.44999998807907104
+      ]
+    },
+    {
+      "mesh": 45,
+      "name": "Car_1_2",
+      "translation": [
+        0.0,
+        2.2193864639728572e-17,
+        -0.6000000238418579
+      ]
+    },
+    {
+      "mesh": 46,
+      "name": "Car_1_1",
+      "translation": [
+        0.0,
+        2.2193864639728572e-17,
+        -0.30000001192092896
+      ]
+    },
+    {
+      "mesh": 47,
+      "name": "Car_2_3",
+      "translation": [
+        0.0,
+        -1.3333273008544275e-17,
+        0.6000000238418579
+      ]
+    },
+    {
+      "mesh": 48,
+      "name": "Car_2_2",
+      "translation": [
+        -1.4210854397564648e-16,
+        -1.3333273008544275e-17,
+        0.30000001192092896
+      ]
+    },
+    {
+      "mesh": 49,
+      "name": "Car_2_1",
+      "translation": [
+        1.4210854397564648e-16,
+        -1.3333273008544275e-17,
+        0.44999998807907104
+      ]
+    },
+    {
+      "children": [
+        59,
+        60,
+        61
+      ],
+      "name": "Pickups",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.824999988079071,
+        -3.826987913513841e-18,
+        0.21001121401786804
+      ]
+    },
+    {
+      "mesh": 50,
+      "name": "Pickup_3",
+      "translation": [
+        1.4210854397564648e-16,
+        -1.0596340358756272e-20,
+        0.15000000596046448
+      ]
+    },
+    {
+      "mesh": 51,
+      "name": "Pickup_2",
+      "translation": [
+        0.0,
+        -1.0596340358756272e-20,
+        -0.15000000596046448
+      ]
+    },
+    {
+      "mesh": 52,
+      "name": "Pickup_1"
+    },
+    {
+      "children": [
+        63,
+        64,
+        65
+      ],
+      "name": "Trucks",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.751546323299408,
+        -3.8423991155063166e-18,
+        -0.19601047039031982
+      ]
+    },
+    {
+      "mesh": 53,
+      "name": "Truck_3",
+      "translation": [
+        7.105427198782324e-17,
+        -2.600729355081311e-20,
+        0.15000000596046448
+      ]
+    },
+    {
+      "mesh": 54,
+      "name": "Truck_2"
+    },
+    {
+      "mesh": 55,
+      "name": "Truck_1",
+      "translation": [
+        -7.105427198782324e-17,
+        -2.600729355081311e-20,
+        -0.15000000596046448
+      ]
+    },
+    {
+      "children": [
+        67,
+        68,
+        69
+      ],
+      "name": "Buses",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.748453676700592,
+        -8.283290701154963e-18,
+        -0.19601047039031982
+      ]
+    },
+    {
+      "mesh": 56,
+      "name": "Bus_1",
+      "translation": [
+        -1.4210854397564648e-16,
+        -2.600729355081311e-20,
+        -0.15000000596046448
+      ]
+    },
+    {
+      "mesh": 57,
+      "name": "Bus_2"
+    },
+    {
+      "mesh": 58,
+      "name": "Bus_3",
+      "translation": [
+        0.0,
+        -2.600729355081311e-20,
+        0.15000000596046448
+      ]
+    },
+    {
+      "children": [
+        71,
+        87,
+        92
+      ],
+      "name": "Props",
+      "translation": [
+        0.02389318123459816,
+        0.0003324777935631573,
+        1.4771376848220825
+      ]
+    },
+    {
+      "children": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "name": "Road_Signs",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.8318575620651245,
+        0.003217336256057024,
+        0.11142832785844803
+      ]
+    },
+    {
+      "mesh": 59,
+      "name": "Traffic_Light_2",
+      "translation": [
+        0.32499927282333374,
+        -0.0040216706693172455,
+        0.41569194197654724
+      ]
+    },
+    {
+      "mesh": 60,
+      "name": "Traffic_Light_1",
+      "translation": [
+        0.32499927282333374,
+        -0.0040216706693172455,
+        0.6428657174110413
+      ]
+    },
+    {
+      "mesh": 61,
+      "name": "Big_Road_Sing_2",
+      "translation": [
+        0.32499927282333374,
+        -0.0040216706693172455,
+        0.29049649834632874
+      ]
+    },
+    {
+      "mesh": 62,
+      "name": "Big_Road_Sing_1",
+      "translation": [
+        0.32499927282333374,
+        -0.0040216706693172455,
+        -0.009503512643277645
+      ]
+    },
+    {
+      "mesh": 63,
+      "name": "Road_Barrier",
+      "translation": [
+        2.8421708795129297e-16,
+        -0.0040216706693172455,
+        0.4000000059604645
+      ]
+    },
+    {
+      "mesh": 64,
+      "name": "Road_Work_Sign_2",
+      "translation": [
+        2.8421708795129297e-16,
+        -0.0040216706693172455,
+        0.5
+      ]
+    },
+    {
+      "mesh": 65,
+      "name": "Road_Work_Sign_1",
+      "translation": [
+        0.0,
+        -0.0040216706693172455,
+        0.6000000238418579
+      ]
+    },
+    {
+      "mesh": 66,
+      "name": "Cone",
+      "translation": [
+        0.0,
+        -0.0040216706693172455,
+        1.899999976158142
+      ]
+    },
+    {
+      "mesh": 67,
+      "name": "Road_Sign_7",
+      "translation": [
+        0.0,
+        0.024130022153258324,
+        -0.30000001192092896
+      ]
+    },
+    {
+      "mesh": 68,
+      "name": "Road_Sign_6",
+      "translation": [
+        0.0,
+        -0.0040216706693172455,
+        0.20000000298023224
+      ]
+    },
+    {
+      "mesh": 69,
+      "name": "Road_Sign_5",
+      "translation": [
+        -2.8421708795129297e-16,
+        -0.0040216706693172455,
+        0.30000001192092896
+      ]
+    },
+    {
+      "mesh": 70,
+      "name": "Road_Sign_4",
+      "translation": [
+        0.0,
+        -0.0040216706693172455,
+        0.10000000149011612
+      ]
+    },
+    {
+      "mesh": 71,
+      "name": "Road_Sign_3",
+      "translation": [
+        0.0,
+        -0.0040216706693172455,
+        -1.4210854397564648e-16
+      ]
+    },
+    {
+      "mesh": 72,
+      "name": "Road_Sign_2",
+      "translation": [
+        0.0,
+        -0.0040216706693172455,
+        -0.10000000149011612
+      ]
+    },
+    {
+      "mesh": 73,
+      "name": "Road_Sign_1",
+      "translation": [
+        0.0,
+        -0.0040216706693172455,
+        -0.20000000298023224
+      ]
+    },
+    {
+      "children": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "name": "Boxes",
+      "rotation": [
+        -6.123234262925839e-17,
+        1.0,
+        -6.123234262925839e-17,
+        -6.123234262925839e-17
+      ],
+      "translation": [
+        0.5181424021720886,
+        -0.000804334064014256,
+        0.11142832785844803
+      ]
+    },
+    {
+      "mesh": 74,
+      "name": "Box_4",
+      "translation": [
+        -0.15000000596046448,
+        -1.8369702788777518e-17,
+        -2.8421708795129297e-16
+      ]
+    },
+    {
+      "mesh": 75,
+      "name": "Box_3",
+      "translation": [
+        -0.05000000074505806,
+        -6.123233849335533e-18,
+        -2.8421708795129297e-16
+      ]
+    },
+    {
+      "mesh": 76,
+      "name": "Box_2",
+      "translation": [
+        0.15000000596046448,
+        1.8369702788777518e-17,
+        0.0
+      ]
+    },
+    {
+      "mesh": 77,
+      "name": "Box_1",
+      "translation": [
+        0.05000000074505806,
+        6.123233849335533e-18,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "name": "Other",
+      "translation": [
+        0.3541089594364166,
+        -0.000804334064014256,
+        -0.05107131600379944
+      ]
+    },
+    {
+      "mesh": 78,
+      "name": "Tram_Stop",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.09640910476446152,
+        0.0,
+        -0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 79,
+      "name": "Tree_1",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.2236711084842682,
+        0.0,
+        -0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 80,
+      "name": "Tree_2",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.3236711025238037,
+        0.0,
+        -0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 81,
+      "name": "Light",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.42784133553504944,
+        0.0,
+        -0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 82,
+      "name": "Trash_Big",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.3100971579551697,
+        0.0,
+        -0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 83,
+      "name": "Bus_Stop",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.04134597256779671,
+        0.0,
+        -0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 84,
+      "name": "Barrier",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.18434478342533112,
+        0.0,
+        -0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 85,
+      "name": "Hot_Dog",
+      "rotation": [
+        -6.123234262925839e-17,
+        1.0,
+        -6.123234262925839e-17,
+        -6.123234262925839e-17
+      ],
+      "translation": [
+        0.4235369861125946,
+        0.0,
+        -0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 86,
+      "name": "Newspaper_Stand",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.4859665334224701,
+        0.0,
+        0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 87,
+      "name": "Trash_Bag_3",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.6140334606170654,
+        0.0,
+        0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 88,
+      "name": "Trash_Bag_2",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.5140334963798523,
+        0.0,
+        0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 89,
+      "name": "Trash_Bag_1",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.4140334725379944,
+        0.0,
+        0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 90,
+      "name": "Trash_Small",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.38596653938293457,
+        0.0,
+        0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 91,
+      "name": "Fence",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.18596652150154114,
+        0.0,
+        0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 92,
+      "name": "Hydrant",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.08596652746200562,
+        0.0,
+        0.16249963641166687
+      ]
+    },
+    {
+      "mesh": 93,
+      "name": "Fuel_Barrel",
+      "rotation": [
+        -0.0,
+        0.7071067690849304,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        -0.28596651554107666,
+        0.0,
+        0.16249963641166687
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "tex.png",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

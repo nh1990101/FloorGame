@@ -1,0 +1,15 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1612819351137.215,
+  "outputTimeStamps": {
+    "ImphenziaPalette01-256-Gradient.png": 1715589016574.5515,
+    "log.json": 1715589016586.3447,
+    "out.bin": 1715589016581.344,
+    "out.gltf": 1715589016585.3447,
+    ".fbm/CCA12774/Ramp.fbm/ImphenziaPalette01-256-Gradient.png": 1715589016574.5515
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

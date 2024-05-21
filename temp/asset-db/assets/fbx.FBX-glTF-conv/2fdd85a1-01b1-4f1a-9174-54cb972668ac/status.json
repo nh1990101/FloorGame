@@ -1,0 +1,15 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1670715261563.2815,
+  "outputTimeStamps": {
+    "out.gltf": 1715910629049.7346,
+    "log.json": 1715910629051.733,
+    "out.bin": 1715910629040.73,
+    "tex.png": 1715910628244.868,
+    ".fbm/F01EBF/Low Poly Simple Urban City 3D Asset Pack.fbm/tex.png": 1715910628244.868
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

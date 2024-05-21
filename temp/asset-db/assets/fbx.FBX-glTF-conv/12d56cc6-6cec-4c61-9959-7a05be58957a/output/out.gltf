@@ -1,0 +1,260 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 514,
+      "max": [
+        1.0007555484771729,
+        2.001513719558716,
+        2.4870049953460693
+      ],
+      "min": [
+        -1.0007482767105103,
+        0.0,
+        -2.4870059490203857
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 514,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 514,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 906,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 16448,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1812,
+      "byteOffset": 16448,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 18260,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 15,
+          "hour": 21,
+          "millisecond": 637,
+          "minute": 49,
+          "month": 5,
+          "second": 39,
+          "year": 2024
+        },
+        "creator": "FBX SDK/FBX Plugins version 2020.3.4",
+        "sceneInfo": {
+          "author": "Unity Technologies",
+          "comment": "",
+          "keywords": "Nodes Meshes Materials Textures Cameras Lights Skins Animation",
+          "original": {
+            "applicationName": "Unity FBX Exporter",
+            "applicationVendor": "",
+            "applicationVersion": "5.1.1",
+            "fileName": ""
+          },
+          "revision": "1.0",
+          "subject": "",
+          "title": "Created by FBX Exporter from Unity Technologies",
+          "url": "D:\\Project\\cocos\\Tower\\assets\\model\\craneGrow.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\12d56cc6-6cec-4c61-9959-7a05be58957a\\output\\.fbm\\EFC513E0\\craneGrow.fbm/PolygonConstruction_Texture_01_A.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\12d56cc6-6cec-4c61-9959-7a05be58957a\\output\\.fbm\\EFC513E0\\craneGrow.fbm\\PolygonConstruction_Texture_01_A.png"
+        }
+      },
+      "name": "DiffuseColor_Texture",
+      "uri": "PolygonConstruction_Texture_01_A.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 0
+                },
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "shadingModel": "Lambert",
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "lambert"
+          }
+        }
+      },
+      "name": "PolygonConstruction_Mat_01_A"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "SM_Prop_Crane_Section_01",
+      "rotation": [
+        0.7071067690849304,
+        0.0,
+        0.0,
+        0.7071067690849304
+      ],
+      "scale": [
+        1.0,
+        1.000000238418579,
+        1.000000238418579
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "DiffuseColor_Texture",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

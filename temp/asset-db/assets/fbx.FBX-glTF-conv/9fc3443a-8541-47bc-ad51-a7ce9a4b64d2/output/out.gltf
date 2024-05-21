@@ -1,0 +1,254 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2585,
+      "max": [
+        3.267256498336792,
+        30.700210571289063,
+        3.40625262260437
+      ],
+      "min": [
+        -3.269116163253784,
+        -0.02664913423359394,
+        -3.406252384185791
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 2585,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 2585,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 4272,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 82720,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8544,
+      "byteOffset": 82720,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 91264,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 11,
+          "hour": 9,
+          "millisecond": 154,
+          "minute": 1,
+          "month": 5,
+          "second": 10,
+          "year": 2024
+        },
+        "creator": "FBX SDK/FBX Plugins version 2020.3.4",
+        "sceneInfo": {
+          "author": "Unity Technologies",
+          "comment": "",
+          "keywords": "Nodes Meshes Materials Textures Cameras Lights Skins Animation",
+          "original": {
+            "applicationName": "Unity FBX Exporter",
+            "applicationVendor": "",
+            "applicationVersion": "5.1.1",
+            "fileName": ""
+          },
+          "revision": "1.0",
+          "subject": "",
+          "title": "Created by FBX Exporter from Unity Technologies",
+          "url": "D:\\Project\\cocos\\Tower\\assets\\model\\skyscraoer.005.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\9fc3443a-8541-47bc-ad51-a7ce9a4b64d2\\output\\.fbm\\56601521\\skyscraoer.005.fbm/City_low_poly_1024.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\9fc3443a-8541-47bc-ad51-a7ce9a4b64d2\\output\\.fbm\\56601521\\skyscraoer.005.fbm\\City_low_poly_1024.png"
+        }
+      },
+      "name": "DiffuseColor_Texture",
+      "uri": "City_low_poly_1024.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 0
+                },
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "shadingModel": "Lambert",
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "lambert"
+          }
+        }
+      },
+      "name": "City_low_poly"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "skyscraoer_005",
+      "translation": [
+        -31.147382736206055,
+        9.5367431640625e-07,
+        -21.265615463256836
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "DiffuseColor_Texture",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

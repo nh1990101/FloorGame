@@ -1,0 +1,539 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 742,
+      "max": [
+        67.99994659423828,
+        0.0,
+        68.00008392333984
+      ],
+      "min": [
+        -68.00008392333984,
+        -0.20000000298023224,
+        -68.0
+      ],
+      "name": "Plane.001/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 742,
+      "name": "Plane.001/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 742,
+      "name": "Plane.001/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 1488,
+      "name": "Plane.001/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 80384,
+      "max": [
+        50.0,
+        71.31101989746094,
+        50.0
+      ],
+      "min": [
+        -50.0,
+        -0.02347719669342041,
+        -49.97651672363281
+      ],
+      "name": "HouseConstructionSite_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 80384,
+      "name": "HouseConstructionSite_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 80384,
+      "name": "HouseConstructionSite_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 129420,
+      "name": "HouseConstructionSite_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        50.0,
+        0.0,
+        50.0
+      ],
+      "min": [
+        -50.0,
+        0.0,
+        -50.0
+      ],
+      "name": "HouseConstructionSite_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 4,
+      "name": "HouseConstructionSite_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 4,
+      "name": "HouseConstructionSite_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 6,
+      "name": "HouseConstructionSite_Material0/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 23744,
+      "byteStride": 32,
+      "name": "Plane.001",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2976,
+      "byteOffset": 23744,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2572288,
+      "byteOffset": 26720,
+      "byteStride": 32,
+      "name": "HouseConstructionSite_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 517680,
+      "byteOffset": 2599008,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 128,
+      "byteOffset": 3116688,
+      "byteStride": 32,
+      "name": "HouseConstructionSite_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12,
+      "byteOffset": 3116816,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3116828,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 24.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 8,
+          "hour": 16,
+          "millisecond": 272,
+          "minute": 34,
+          "month": 2,
+          "second": 54,
+          "year": 2021
+        },
+        "creator": "Blender (stable FBX IO) - 2.90.1 - 4.21.3",
+        "sceneInfo": {
+          "author": "",
+          "comment": "",
+          "keywords": "",
+          "original": {
+            "applicationName": "Blender (stable FBX IO)",
+            "applicationVendor": "Blender Foundation",
+            "applicationVersion": "2.90.1",
+            "fileName": "/foobar.fbx"
+          },
+          "revision": "",
+          "subject": "",
+          "title": "",
+          "url": "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\_HouseConstructionSite-AllInOneObject_.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\cba82e57-6bc3-4041-a11f-dea67d052349\\output\\.fbm\\A3B357C\\_HouseConstructionSite-AllInOneObject_.fbm/ImphenziaPalette01-256-Gradient.png",
+          "relativeFileName": "..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\cba82e57-6bc3-4041-a11f-dea67d052349\\output\\.fbm\\A3B357C\\_HouseConstructionSite-AllInOneObject_.fbm\\ImphenziaPalette01-256-Gradient.png"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "ImphenziaPalette01-256-Gradient.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\Maik\\Entwicklung\\CC0-Projekte\\LowPoly Construction Site\\LowPoly-Construction-Site-By-Majadroid\\fbx files\\HouseConstructionSite-SingleObject.fbm\\ImphenziaPalette01-256-Gradient.png",
+          "relativeFileName": "HouseConstructionSite-SingleObject.fbm\\ImphenziaPalette01-256-Gradient.png"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.05087608844041824,
+                  0.05087608844041824,
+                  0.05087608844041824
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 0.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 0
+                },
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflection": {
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "reflectionFactor": {
+                "value": 0.0
+              },
+              "shadingModel": "Phong",
+              "shininess": {
+                "value": 0.07438002342041727
+              },
+              "specular": {
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "specularFactor": {
+                "value": 0.25
+              },
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "phong"
+          }
+        }
+      },
+      "name": "Submission_Diffuse_Shader"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.05087608844041824,
+                  0.05087608844041824,
+                  0.05087608844041824
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 0.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 1
+                },
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflection": {
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "reflectionFactor": {
+                "value": 0.0
+              },
+              "shadingModel": "Phong",
+              "shininess": {
+                "value": 0.07438002342041727
+              },
+              "specular": {
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "specularFactor": {
+                "value": 0.25
+              },
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "phong"
+          }
+        }
+      },
+      "name": "Submission_Diffuse_Shader.001"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Plane.001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Plane.006",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Roads"
+    },
+    {
+      "mesh": 1,
+      "name": "HouseConstructionSite"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

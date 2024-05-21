@@ -1,0 +1,712 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 7152,
+      "max": [
+        0.9491161108016968,
+        1.8160263299942017,
+        0.4869065582752228
+      ],
+      "min": [
+        -0.8117629885673523,
+        0.24733898043632507,
+        -0.12080011516809464
+      ],
+      "name": "3__MatMainBuildings_3__MatMainBuildings_5_3__MatMainBuildings/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 7152,
+      "name": "3__MatMainBuildings_3__MatMainBuildings_5_3__MatMainBuildings/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 7152,
+      "name": "3__MatMainBuildings_3__MatMainBuildings_5_3__MatMainBuildings/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 29175,
+      "name": "3__MatMainBuildings_3__MatMainBuildings_5_3__MatMainBuildings/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 28578,
+      "max": [
+        1.4436800479888916,
+        2.251387357711792,
+        0.4981015920639038
+      ],
+      "min": [
+        -1.4386756420135498,
+        -0.5759000182151794,
+        -0.32151904702186584
+      ],
+      "name": "2__MatGeneralBuilding_2__MatGeneralBuilding_3_2__MatGeneralBuildi/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 28578,
+      "name": "2__MatGeneralBuilding_2__MatGeneralBuilding_3_2__MatGeneralBuildi/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 28578,
+      "name": "2__MatGeneralBuilding_2__MatGeneralBuilding_3_2__MatGeneralBuildi/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 124077,
+      "name": "2__MatGeneralBuilding_2__MatGeneralBuilding_3_2__MatGeneralBuildi/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3226,
+      "max": [
+        2.121389865875244,
+        2.947625160217285,
+        0.0024114949628710747
+      ],
+      "min": [
+        -2.1213796138763428,
+        -1.292490005493164,
+        -0.8252961039543152
+      ],
+      "name": "Object001/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 3226,
+      "name": "Object001/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 3226,
+      "name": "Object001/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 7548,
+      "name": "Object001/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 228864,
+      "byteStride": 32,
+      "name": "3__MatMainBuildings_3__MatMainBuildings_5_3__MatMainBuildings",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58350,
+      "byteOffset": 228864,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 914496,
+      "byteOffset": 287214,
+      "byteStride": 32,
+      "name": "2__MatGeneralBuilding_2__MatGeneralBuilding_3_2__MatGeneralBuildi",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 248154,
+      "byteOffset": 1201710,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 103232,
+      "byteOffset": 1449864,
+      "byteStride": 32,
+      "name": "Object001",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15096,
+      "byteOffset": 1553096,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1568192,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 15,
+          "hour": 10,
+          "millisecond": 162,
+          "minute": 27,
+          "month": 5,
+          "second": 1,
+          "year": 2024
+        },
+        "creator": "FBX SDK/FBX Plugins version 2020.3.4",
+        "sceneInfo": {
+          "author": "",
+          "comment": "",
+          "keywords": "",
+          "original": {
+            "applicationName": "Autodesk 3ds Max 2014",
+            "applicationVendor": "",
+            "applicationVersion": "",
+            "fileName": ""
+          },
+          "revision": "",
+          "subject": "",
+          "title": "",
+          "url": "D:\\Project\\cocos\\Tower\\assets\\3dmax卡通低多边形城市街道房屋建筑学校医院花草树木场景(_爱给网_aigei_com\\minicity.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\136d1aaf-c6cd-4083-9f8b-a3a3b35d6232\\output\\.fbm\\488E51FD\\minicity.fbm/Material #29_diffuse.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\136d1aaf-c6cd-4083-9f8b-a3a3b35d6232\\output\\.fbm\\488E51FD\\minicity.fbm\\Material #29_diffuse.png"
+        }
+      },
+      "name": "Material #29_diffuse.png",
+      "uri": "Material #29_diffuse.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\136d1aaf-c6cd-4083-9f8b-a3a3b35d6232\\output\\.fbm\\488E51FD\\minicity.fbm/Material #28_diffuse.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\136d1aaf-c6cd-4083-9f8b-a3a3b35d6232\\output\\.fbm\\488E51FD\\minicity.fbm\\Material #28_diffuse.png"
+        }
+      },
+      "name": "Material #28_diffuse.png",
+      "uri": "Material #28_diffuse.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\136d1aaf-c6cd-4083-9f8b-a3a3b35d6232\\output\\.fbm\\488E51FD\\minicity.fbm/Material #26_diffuse.png",
+          "relativeFileName": "..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\136d1aaf-c6cd-4083-9f8b-a3a3b35d6232\\output\\.fbm\\488E51FD\\minicity.fbm\\Material #26_diffuse.png"
+        }
+      },
+      "name": "Material #26_diffuse.png",
+      "uri": "Material #26_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.2,
+                  0.2,
+                  0.2
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 0
+                },
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflection": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflectionFactor": {
+                "value": 0.0
+              },
+              "shadingModel": "Phong",
+              "shininess": {
+                "value": 1.9999999999999998
+              },
+              "specular": {
+                "value": [
+                  0.8999999761581421,
+                  0.8999999761581421,
+                  0.8999999761581421
+                ]
+              },
+              "specularFactor": {
+                "value": 1.0
+              },
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "phong"
+          }
+        }
+      },
+      "name": "Material #29"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.2,
+                  0.2,
+                  0.2
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 1
+                },
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflection": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflectionFactor": {
+                "value": 0.0
+              },
+              "shadingModel": "Phong",
+              "shininess": {
+                "value": 1.9999999999999998
+              },
+              "specular": {
+                "value": [
+                  0.8999999761581421,
+                  0.8999999761581421,
+                  0.8999999761581421
+                ]
+              },
+              "specularFactor": {
+                "value": 1.0
+              },
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "phong"
+          }
+        }
+      },
+      "name": "Material #28"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.2,
+                  0.2,
+                  0.2
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 1.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 2
+                },
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  1.0,
+                  1.0,
+                  1.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflection": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflectionFactor": {
+                "value": 0.0
+              },
+              "shadingModel": "Phong",
+              "shininess": {
+                "value": 1.9999999999999998
+              },
+              "specular": {
+                "value": [
+                  0.8999999761581421,
+                  0.8999999761581421,
+                  0.8999999761581421
+                ]
+              },
+              "specularFactor": {
+                "value": 1.0
+              },
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "phong"
+          }
+        }
+      },
+      "name": "Material #26"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "3__MatMainBuildings_3__MatMainBuildings_5_3__MatMainBuildings",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "2__MatGeneralBuilding_2__MatGeneralBuilding_3_2__MatGeneralBuildi",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "name": "Object001",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.29035475850105286,
+        0.6468784213066101,
+        -0.2887578010559082,
+        0.6433205604553223
+      ],
+      "translation": [
+        -0.38290372490882874,
+        4.8561882972717285,
+        4.551159858703613
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "3__MatMainBuildings_3__MatMainBuildings_5_3__MatMainBuildings",
+      "rotation": [
+        -0.7071067690849304,
+        -0.0,
+        0.0,
+        0.7071067690849304
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "2__MatGeneralBuilding_2__MatGeneralBuilding_3_2__MatGeneralBuildi",
+      "rotation": [
+        -0.7071067690849304,
+        -0.0,
+        0.0,
+        0.7071067690849304
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "Object001",
+      "rotation": [
+        -0.7071067690849304,
+        -0.0,
+        0.0,
+        0.7071067690849304
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "Material #29_diffuse.png",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "Material #28_diffuse.png",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "Material #26_diffuse.png",
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

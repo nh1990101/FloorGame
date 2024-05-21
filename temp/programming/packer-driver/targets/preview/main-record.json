@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 30038.84769964218,
+      "mTimestamp": 38226.65970003605,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -598,7 +598,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 31741059.093699932,
+      "mTimestamp": 120758165.9802,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -616,7 +616,7 @@
           }
         },
         {
-          "value": "file:///D:/Project/cocos/test/assets/Main.ts",
+          "value": "file:///D:/Project/cocos/Tower/assets/Main.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -625,12 +625,12 @@
             },
             "end": {
               "line": 5,
-              "column": 53
+              "column": 54
             }
           }
         },
         {
-          "value": "file:///D:/Project/cocos/test/assets/script/AssetMgr.ts",
+          "value": "file:///D:/Project/cocos/Tower/assets/script/AssetMgr.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -639,12 +639,12 @@
             },
             "end": {
               "line": 6,
-              "column": 64
+              "column": 65
             }
           }
         },
         {
-          "value": "file:///D:/Project/cocos/test/assets/script/GameController.ts",
+          "value": "file:///D:/Project/cocos/Tower/assets/script/GameController.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -653,12 +653,12 @@
             },
             "end": {
               "line": 7,
-              "column": 70
+              "column": 71
             }
           }
         },
         {
-          "value": "file:///D:/Project/cocos/test/assets/script/Mass.ts",
+          "value": "file:///D:/Project/cocos/Tower/assets/script/MainUI.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -667,7 +667,21 @@
             },
             "end": {
               "line": 8,
-              "column": 60
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Project/cocos/Tower/assets/script/Mass.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 7
+            },
+            "end": {
+              "line": 9,
+              "column": 61
             }
           }
         }
@@ -684,28 +698,35 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Project/cocos/test/assets/Main.ts"
+            "url": "file:///D:/Project/cocos/Tower/assets/Main.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Project/cocos/test/assets/script/AssetMgr.ts"
+            "url": "file:///D:/Project/cocos/Tower/assets/script/AssetMgr.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Project/cocos/test/assets/script/GameController.ts"
+            "url": "file:///D:/Project/cocos/Tower/assets/script/GameController.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Project/cocos/test/assets/script/Mass.ts"
+            "url": "file:///D:/Project/cocos/Tower/assets/script/MainUI.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Project/cocos/Tower/assets/script/Mass.ts"
           },
           "messages": []
         }
@@ -973,7 +994,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1715209144324,
+      "mTimestamp": 1716164112494,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -1071,6 +1092,330 @@
           },
           "messages": []
         },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Project/cocos/Tower/assets/Main.ts": {
+      "mTimestamp": {
+        "mtime": 1711202721430.0603,
+        "uuid": "73612c0f-66e1-4fc9-a1d8-ddfc11afc2b8"
+      },
+      "chunkId": "7ab150023291ae80d54fc6c1770b813a0c5a363e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 50
+            },
+            "end": {
+              "line": 1,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Project/cocos/Tower/assets/script/AssetMgr.ts": {
+      "mTimestamp": {
+        "mtime": 1714998104634.1208,
+        "uuid": "b857645e-d0aa-4bd7-9866-e10c70e01d09"
+      },
+      "chunkId": "232da731d56ea08e7a9e64182f89b01e6a9f5556",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 110
+            },
+            "end": {
+              "line": 5,
+              "column": 114
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Project/cocos/Tower/assets/script/GameController.ts": {
+      "mTimestamp": {
+        "mtime": 1716284868685.5496,
+        "uuid": "01c83466-2456-4813-8bc4-3004caa3035f"
+      },
+      "chunkId": "d81486086012ee0d18f977faf5c93d8de5ab1542",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 534
+            },
+            "end": {
+              "line": 1,
+              "column": 538
+            }
+          }
+        },
+        {
+          "value": "./AssetMgr",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 25
+            },
+            "end": {
+              "line": 2,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./MainUI",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 23
+            },
+            "end": {
+              "line": 4,
+              "column": 33
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Project/cocos/Tower/assets/script/AssetMgr.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Project/cocos/Tower/assets/script/MainUI.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Project/cocos/Tower/assets/script/Mass.ts": {
+      "mTimestamp": {
+        "mtime": 1714997824472.2788,
+        "uuid": "5b1b277a-1987-45dd-b8ee-c69c5b3ef215"
+      },
+      "chunkId": "5612b59a7ea95e099cfdaad915f9cab20bfee2db",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 105
+            },
+            "end": {
+              "line": 1,
+              "column": 109
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Project/cocos/Tower/assets/script/MainUI.ts": {
+      "mTimestamp": {
+        "mtime": 1716282840596.8857,
+        "uuid": "ba4c79c5-84e9-43a3-b8f7-e329bbc74767"
+      },
+      "chunkId": "940ce7cc79d5a02fb2de2dcd749e2119013190a6",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
         {
           "resolved": {
             "type": "module",

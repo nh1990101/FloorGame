@@ -1,0 +1,13 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1716011559015.433,
+  "outputTimeStamps": {
+    "log.json": 1716011581252.4253,
+    "out.bin": 1716011581247.4243,
+    "out.gltf": 1716011581251.426
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

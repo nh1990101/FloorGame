@@ -1,0 +1,15 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1700915415090.7495,
+  "outputTimeStamps": {
+    "out.bin": 1715931134015.43,
+    "log.json": 1715931134019.4326,
+    "Negozio3.png": 1715931134000.4265,
+    "out.gltf": 1715931134018.4312,
+    ".fbm/A275123C/house.fbm/Negozio3.png": 1715931134000.4265
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

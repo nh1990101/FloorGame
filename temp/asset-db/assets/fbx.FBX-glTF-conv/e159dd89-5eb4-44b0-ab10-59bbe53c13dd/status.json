@@ -1,0 +1,15 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1612819135514.9065,
+  "outputTimeStamps": {
+    "ImphenziaPalette01-256-Gradient.png": 1715589016287.4854,
+    "out.bin": 1715589016386.5095,
+    "out.gltf": 1715589016391.5103,
+    "log.json": 1715589016392.5095,
+    ".fbm/96802B93/Crane-On-Ground.fbm/ImphenziaPalette01-256-Gradient.png": 1715589016287.4854
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

@@ -5,7 +5,8 @@
         "version": "Windows 10 Enterprise"
     },
     "sceneListMap": {
-        "884899de-d9b2-4a42-978d-c1cabd138c65": "D:\\Project\\cocos\\test\\assets\\main.scene"
+        "37f11f24-bec2-4336-aaec-5281eddfa5bb": "D:\\Project\\cocos\\Tower\\assets\\scene\\resourceModel.scene",
+        "884899de-d9b2-4a42-978d-c1cabd138c65": "D:\\Project\\cocos\\Tower\\assets\\scene\\main.scene"
     },
     "deviceMd5": "964a8520fbdf6999a231e1c7ac0d1059"
 }

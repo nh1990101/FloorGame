@@ -82,13 +82,13 @@
     "_center": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0.31,
+      "y": 0.41,
       "z": 0
     },
     "_size": {
       "__type__": "cc.Vec3",
       "x": 1,
-      "y": 0.65,
+      "y": 0.88,
       "z": 1
     },
     "_id": ""
@@ -160,7 +160,7 @@
       "__uuid__": "57023028-b266-43a5-a2f5-a89b4838fec8@a62fe",
       "__expectedType__": "cc.Mesh"
     },
-    "_shadowCastingMode": 0,
+    "_shadowCastingMode": 1,
     "_shadowReceivingMode": 0,
     "_shadowBias": 0,
     "_shadowNormalBias": 0,

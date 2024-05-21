@@ -1,0 +1,15 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1612819232895.0427,
+  "outputTimeStamps": {
+    "ImphenziaPalette01-256-Gradient.png": 1715589015912.242,
+    "out.bin": 1715589015938.246,
+    "log.json": 1715589015943.2483,
+    "out.gltf": 1715589015941.2466,
+    ".fbm/C38929FA/Containers.fbm/ImphenziaPalette01-256-Gradient.png": 1715589015912.242
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

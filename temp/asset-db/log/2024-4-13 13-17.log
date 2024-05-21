@@ -1,524 +1,0 @@
-2024-4-13 13:17:04-log: Cannot access game frame or container.
-2024-4-13 13:17:05-debug: asset-db:require-engine-code (3141ms)
-2024-4-13 13:17:06-log: Cocos Creator v3.8.1
-2024-4-13 13:17:06-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:20.89MB, end 91.36MB, increase: 70.47MB
-2024-4-13 13:17:06-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:95.34MB, end 98.95MB, increase: 3.61MB
-2024-4-13 13:17:06-debug: [Assets Memory track]: asset-db-plugin-enable: project start:95.51MB, end 98.95MB, increase: 3.44MB
-2024-4-13 13:17:06-debug: [Assets Memory track]: asset-db-plugin-register: programming start:92.02MB, end 95.29MB, increase: 3.27MB
-2024-4-13 13:17:06-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:91.39MB, end 98.96MB, increase: 7.57MB
-2024-4-13 13:17:06-debug: asset-db:worker-init: initPlugin (206ms)
-2024-4-13 13:17:06-debug: [Assets Memory track]: asset-db:worker-init start:20.89MB, end 94.00MB, increase: 73.11MB
-2024-4-13 13:17:06-debug: Run asset db hook programming:beforePreStart ...
-2024-4-13 13:17:06-debug: Run asset db hook programming:beforePreStart success!
-2024-4-13 13:17:06-debug: Run asset db hook engine-extends:beforePreStart success!
-2024-4-13 13:17:22-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:114.97MB, end 329.84MB, increase: 214.88MB
-2024-4-13 13:17:22-debug: run package(builder) handler(enable) success!
-2024-4-13 13:17:06-debug: Run asset db hook engine-extends:beforePreStart ...
-2024-4-13 13:17:22-debug: run package(shortcuts) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(animation-graph) handler(enable) start
-2024-4-13 13:17:22-debug: run package(animation-graph) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(shortcuts) handler(enable) start
-2024-4-13 13:17:22-debug: run package(about) handler(enable) success!
-2024-4-13 13:17:09-debug: run package(builder) handler(enable) start
-2024-4-13 13:17:22-debug: run package(assets) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(assets) handler(enable) start
-2024-4-13 13:17:22-debug: run package(console) handler(enable) start
-2024-4-13 13:17:22-debug: run package(crash-reporter) handler(enable) start
-2024-4-13 13:17:22-debug: run package(crash-reporter) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(extension) handler(enable) start
-2024-4-13 13:17:22-debug: run package(console) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(extension) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(hierarchy) handler(enable) start
-2024-4-13 13:17:22-debug: run package(hierarchy) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(inspector) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(about) handler(enable) start
-2024-4-13 13:17:22-debug: run package(light-probe) handler(enable) start
-2024-4-13 13:17:22-debug: run package(light-probe) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(inspector) handler(enable) start
-2024-4-13 13:17:22-debug: run package(lightmap) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(node-library) handler(enable) start
-2024-4-13 13:17:22-debug: run package(node-library) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(package-asset) handler(enable) start
-2024-4-13 13:17:22-debug: run package(package-asset) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(process) handler(enable) start
-2024-4-13 13:17:22-debug: run package(process) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(reference-image) handler(enable) start
-2024-4-13 13:17:22-debug: run package(reference-image) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(reflection-probe) handler(enable) start
-2024-4-13 13:17:22-debug: run package(reflection-probe) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(engine-extends) handler(enable) start
-2024-4-13 13:17:22-debug: run package(engine-extends) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(adsense-h5g-plugin) handler(enable) start
-2024-4-13 13:17:22-debug: run package(adsense-h5g-plugin) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(alipay-mini-game) handler(enable) start
-2024-4-13 13:17:22-debug: run package(alipay-mini-game) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(android) handler(enable) start
-2024-4-13 13:17:22-debug: run package(android) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(bytedance-mini-game) handler(enable) start
-2024-4-13 13:17:22-debug: run package(bytedance-mini-game) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(certificate) handler(enable) start
-2024-4-13 13:17:22-debug: run package(certificate) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(channel-upload-tools) handler(enable) start
-2024-4-13 13:17:22-debug: run package(channel-upload-tools) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(fb-instant-games) handler(enable) start
-2024-4-13 13:17:22-debug: run package(fb-instant-games) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(huawei-agc) handler(enable) start
-2024-4-13 13:17:22-debug: run package(huawei-agc) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(huawei-quick-game) handler(enable) start
-2024-4-13 13:17:22-debug: run package(huawei-quick-game) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(ios) handler(enable) start
-2024-4-13 13:17:22-debug: run package(ios) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(lightmap) handler(enable) start
-2024-4-13 13:17:22-debug: run package(linux) handler(enable) start
-2024-4-13 13:17:22-debug: run package(linux) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(mac) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(native) handler(enable) start
-2024-4-13 13:17:22-debug: run package(native) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(ohos) handler(enable) start
-2024-4-13 13:17:22-debug: run package(ohos) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(openharmony) handler(enable) start
-2024-4-13 13:17:22-debug: run package(openharmony) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(oppo-mini-game) handler(enable) start
-2024-4-13 13:17:22-debug: run package(oppo-mini-game) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(mac) handler(enable) start
-2024-4-13 13:17:22-debug: run package(runtime-dev-tools) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(taobao-creative-app) handler(enable) start
-2024-4-13 13:17:22-debug: run package(taobao-creative-app) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(taobao-mini-game) handler(enable) start
-2024-4-13 13:17:22-debug: run package(runtime-dev-tools) handler(enable) start
-2024-4-13 13:17:22-debug: run package(taobao-mini-game) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(vivo-mini-game) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(vivo-mini-game) handler(enable) start
-2024-4-13 13:17:22-debug: run package(web-desktop) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(web-mobile) handler(enable) start
-2024-4-13 13:17:22-debug: run package(web-mobile) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(web-desktop) handler(enable) start
-2024-4-13 13:17:22-debug: run package(wechatgame) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(wechatgame) handler(enable) start
-2024-4-13 13:17:22-debug: run package(wechatprogram) handler(enable) start
-2024-4-13 13:17:22-debug: run package(wechatprogram) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(windows) handler(enable) start
-2024-4-13 13:17:22-debug: run package(windows) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(xiaomi-quick-game) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(xiaomi-quick-game) handler(enable) start
-2024-4-13 13:17:22-debug: run package(cocos-service) handler(enable) start
-2024-4-13 13:17:22-debug: run package(im-plugin) handler(enable) success!
-2024-4-13 13:17:22-debug: asset-db:worker-init (16477ms)
-2024-4-13 13:17:22-debug: asset-db-hook-programming-beforePreStart (11989ms)
-2024-4-13 13:17:22-debug: asset-db-hook-engine-extends-beforePreStart (11988ms)
-2024-4-13 13:17:22-debug: run package(placeholder) handler(enable) start
-2024-4-13 13:17:22-debug: run package(im-plugin) handler(enable) start
-2024-4-13 13:17:22-debug: run package(placeholder) handler(enable) success!
-2024-4-13 13:17:22-debug: run package(cocos-service) handler(enable) success!
-2024-4-13 13:17:22-debug: Preimport db internal success
-2024-4-13 13:17:22-debug: Run asset db hook programming:afterPreStart ...
-2024-4-13 13:17:22-debug: Preimport db assets success
-2024-4-13 13:17:23-debug: Set detail map pack:///resolution-detail-map.json: {}
-2024-4-13 13:17:23-debug: Run asset db hook programming:afterPreStart success!
-2024-4-13 13:17:23-debug: Run asset db hook engine-extends:afterPreStart success!
-2024-4-13 13:17:23-debug: [Assets Memory track]: asset-db:worker-init: preStart start:94.00MB, end 329.00MB, increase: 235.00MB
-2024-4-13 13:17:23-debug: Run asset db hook engine-extends:afterPreStart ...
-2024-4-13 13:17:23-debug: Start up the 'internal' database...
-2024-4-13 13:17:23-debug: asset-db-hook-programming-afterPreStart (1313ms)
-2024-4-13 13:17:23-debug: asset-db:worker-effect-data-processing (706ms)
-2024-4-13 13:17:23-debug: asset-db-hook-engine-extends-afterPreStart (706ms)
-2024-4-13 13:17:23-debug: start asset-db(internal) with asset: 463
-2024-4-13 13:17:23-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:114.06MB, end 333.14MB, increase: 219.08MB
-2024-4-13 13:17:23-debug: Start up the 'assets' database...
-2024-4-13 13:17:23-debug: start asset-db(assets) with asset: 10
-2024-4-13 13:17:23-debug: asset-db:worker-startup-database[internal] (15852ms)
-2024-4-13 13:17:23-debug: asset-db:worker-startup-database[assets] (1511ms)
-2024-4-13 13:17:23-debug: asset-db:start-database (17582ms)
-2024-4-13 13:17:23-debug: asset-db:ready (26554ms)
-2024-4-13 13:17:25-debug: [Build Memory track]: builder:worker-init start:329.13MB, end 339.01MB, increase: 9.88MB
-2024-4-13 13:17:23-debug: init worker message success
-2024-4-13 13:17:25-debug: programming:execute-script (1201ms)
-2024-4-13 13:17:25-debug: builder:worker-init (1187ms)
-2024-4-13 13:17:27-debug: programming:execute-script (8ms)
-2024-4-13 13:17:43-debug: refresh db internal success
-2024-4-13 13:17:43-debug: refresh db assets success
-2024-4-13 13:17:43-debug: Run asset db hook engine-extends:afterRefresh ...
-2024-4-13 13:17:43-debug: Run asset db hook engine-extends:afterRefresh success!
-2024-4-13 13:17:43-debug: asset-db:refresh-all-database (87ms)
-2024-4-13 13:17:43-debug: asset-db:worker-effect-data-processing (1ms)
-2024-4-13 13:17:43-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
-2024-4-13 13:17:50-debug: refresh db internal success
-2024-4-13 13:17:50-debug: refresh db assets success
-2024-4-13 13:17:50-debug: Run asset db hook engine-extends:afterRefresh ...
-2024-4-13 13:17:50-debug: Run asset db hook engine-extends:afterRefresh success!
-2024-4-13 13:17:50-debug: asset-db:refresh-all-database (75ms)
-2024-4-13 13:17:50-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2024-4-13 13:18:00-debug: start refresh asset from D:\Project\cocos\test\assets\model...
-2024-4-13 13:18:00-debug: %cImport%c: D:\Project\cocos\test\assets\modelbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:00-debug: refresh asset D:\Project\cocos\test\assets success
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Construction-Materials.fbx...
-2024-4-13 13:18:05-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Containers-Cargo.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Containers-Office.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Containers.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Crane-Mounted.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Fence.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Crane-On-Ground.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Building.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Ground.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Ramp.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Trucks.fbx...
-2024-4-13 13:18:05-debug: start refresh asset from D:\Project\cocos\test\assets\model\Road.fbx...
-2024-4-13 13:18:05-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\ce696ca6-7e48-48dc-966b-792e9fae2803\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\ce696ca6-7e48-48dc-966b-792e9fae2803\status.json'
-2024-4-13 13:18:06-debug: Frame rate: 24 [{asset(ce696ca6-7e48-48dc-966b-792e9fae2803)}]
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@181b3background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@a4d51background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@d7daebackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@52e41background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@334f6background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@d33b5background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@3a858background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@09513background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@17dd0background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Construction-Materials.fbx@c3c41background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Building.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\e481b1e2-0d25-4c74-b5d3-18cd60102477\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\e481b1e2-0d25-4c74-b5d3-18cd60102477\status.json'
-2024-4-13 13:18:06-debug: Frame rate: 24 [{asset(e481b1e2-0d25-4c74-b5d3-18cd60102477)}]
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Building.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Building.fbx@2f6d1background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Building.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Building.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Building.fbx@d9255background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Cargo.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\afcf3672-bc20-408e-91e2-29787a8c28db\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\afcf3672-bc20-408e-91e2-29787a8c28db\status.json'
-2024-4-13 13:18:06-debug: Frame rate: 24 [{asset(afcf3672-bc20-408e-91e2-29787a8c28db)}]
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Cargo.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Cargo.fbx@cf560background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Cargo.fbx@b61babackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Cargo.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Cargo.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Cargo.fbx@b5b18background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:06-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\6abd59a5-7b29-4913-a460-e573ea8565bd\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\6abd59a5-7b29-4913-a460-e573ea8565bd\status.json'
-2024-4-13 13:18:07-debug: Frame rate: 24 [{asset(6abd59a5-7b29-4913-a460-e573ea8565bd)}]
-2024-4-13 13:18:08-debug: Found FBX-glTF-conv specified extras: {  "fileName": "C:\\Users\\Maik\\Entwicklung\\CC0-Projekte\\LowPoly Construction Site\\LowPoly-Construction-Site-By-Majadroid\\fbx files\\HouseConstructionSite-SingleObject.fbm\\ImphenziaPalette01-256-Gradient.png",  "relativeFileName": "HouseConstructionSite-SingleObject.fbm\\ImphenziaPalette01-256-Gradient.png"}
-2024-4-13 13:18:08-debug: Image(Name: base_color_texture, Expected path: undefined) is not found, fuzzy search starts.
-2024-4-13 13:18:08-debug: Fuzzy search failed.
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@31354background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@a5f8bbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@8fac0background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@5e49ebackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@ef396background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@0a1efbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@05da8background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\_HouseConstructionSite-AllInOneObject_.fbx@ee4a2background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\40989f90-544a-4d2c-9cbb-56b278d764eb\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\40989f90-544a-4d2c-9cbb-56b278d764eb\status.json'
-2024-4-13 13:18:08-debug: Frame rate: 24 [{asset(40989f90-544a-4d2c-9cbb-56b278d764eb)}]
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@0842bbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@00870background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@bf48ebackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@ea49cbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@54ccbbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers.fbx@244fbbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\cb419b7c-5407-4881-97c0-ac4955d76dcc\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\cb419b7c-5407-4881-97c0-ac4955d76dcc\status.json'
-2024-4-13 13:18:08-debug: Frame rate: 24 [{asset(cb419b7c-5407-4881-97c0-ac4955d76dcc)}]
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbx@73684background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbx@c6e33background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbx@97b51background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbx@0a48abackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Containers-Office.fbx@5a805background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-Mounted.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\44c7ec40-1773-4cb8-8ad0-1657768ae191\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\44c7ec40-1773-4cb8-8ad0-1657768ae191\status.json'
-2024-4-13 13:18:08-debug: Frame rate: 24 [{asset(44c7ec40-1773-4cb8-8ad0-1657768ae191)}]
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-Mounted.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-Mounted.fbx@6bf16background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-Mounted.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-Mounted.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-Mounted.fbx@4bf0fbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-On-Ground.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:08-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\7334f914-eff7-40f5-b155-5142e736f278\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\7334f914-eff7-40f5-b155-5142e736f278\status.json'
-2024-4-13 13:18:09-debug: Frame rate: 24 [{asset(7334f914-eff7-40f5-b155-5142e736f278)}]
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-On-Ground.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-On-Ground.fbx@4ea01background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-On-Ground.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-On-Ground.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Crane-On-Ground.fbx@0e686background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Fence.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\d22e4a29-928f-4122-994e-04774d564aca\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\d22e4a29-928f-4122-994e-04774d564aca\status.json'
-2024-4-13 13:18:09-debug: Frame rate: 24 [{asset(d22e4a29-928f-4122-994e-04774d564aca)}]
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Fence.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Fence.fbx@45f73background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Fence.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Fence.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Fence.fbx@75a22background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae\status.json'
-2024-4-13 13:18:09-debug: Frame rate: 24 [{asset(36d33d90-dcb4-4d3b-8ae6-f6aa8a4c5cae)}]
-2024-4-13 13:18:09-debug: Found FBX-glTF-conv specified extras: {  "fileName": "C:\\Users\\Maik\\Entwicklung\\CC0-Projekte\\LowPoly Construction Site\\LowPoly-Construction-Site-By-Majadroid\\fbx files\\Ground.fbm\\ImphenziaPalette01-256-Gradient.png",  "relativeFileName": "Ground.fbm\\ImphenziaPalette01-256-Gradient.png"}
-2024-4-13 13:18:09-debug: Image(Name: base_color_texture, Expected path: undefined) is not found, fuzzy search starts.
-2024-4-13 13:18:09-debug: Fuzzy search failed.
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbx@31354background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbx@8fac0background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbx@5e49ebackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbx@ef396background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbx@0a1efbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbx@05da8background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ground.fbx@7621ebackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ramp.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\db4396ba-d1b7-48d6-8884-cf1c206057d6\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\db4396ba-d1b7-48d6-8884-cf1c206057d6\status.json'
-2024-4-13 13:18:09-debug: Frame rate: 24 [{asset(db4396ba-d1b7-48d6-8884-cf1c206057d6)}]
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ramp.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ramp.fbx@fc108background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ramp.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ramp.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Ramp.fbx@aa299background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Road.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\ad61cdda-e2d6-411e-817f-ea92fc18f4e0\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\ad61cdda-e2d6-411e-817f-ea92fc18f4e0\status.json'
-2024-4-13 13:18:09-debug: Frame rate: 24 [{asset(ad61cdda-e2d6-411e-817f-ea92fc18f4e0)}]
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Road.fbx@70111background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Road.fbx@a5f8bbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Road.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Road.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Road.fbx@6d026background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbxbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:09-debug: Status file D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\9a4705db-ab40-4080-bd03-a4d8bfd707c3\status.json: Error: ENOENT: no such file or directory, open 'D:\Project\cocos\test\temp\asset-db\assets\fbx.FBX-glTF-conv\9a4705db-ab40-4080-bd03-a4d8bfd707c3\status.json'
-2024-4-13 13:18:10-debug: Frame rate: 24 [{asset(9a4705db-ab40-4080-bd03-a4d8bfd707c3)}]
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@46409background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@51016background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@73577background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@9d828background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@b4b5fbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@e8591background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@e5799background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@48b02background: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@7d6abbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\model\Trucks.fbx@2560ebackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: refresh asset D:\Project\cocos\test\assets\model success
-2024-4-13 13:18:10-debug: %cImport%c: D:\Project\cocos\test\assets\modelbackground: #aaff85; color: #000;color: #000;
-2024-4-13 13:18:10-debug: refresh db internal success
-2024-4-13 13:18:10-debug: refresh db assets success
-2024-4-13 13:18:10-debug: Run asset db hook engine-extends:afterRefresh ...
-2024-4-13 13:18:10-debug: Run asset db hook engine-extends:afterRefresh success!
-2024-4-13 13:18:10-debug: asset-db:refresh-all-database (104ms)
-2024-4-13 13:18:10-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
-2024-4-13 13:18:11-debug: refresh db internal success
-2024-4-13 13:18:11-debug: refresh db assets success
-2024-4-13 13:18:11-debug: Run asset db hook engine-extends:afterRefresh ...
-2024-4-13 13:18:11-debug: Run asset db hook engine-extends:afterRefresh success!
-2024-4-13 13:18:11-debug: asset-db:refresh-all-database (85ms)
-2024-4-13 13:18:11-debug: asset-db:worker-effect-data-processing (1ms)
-2024-4-13 13:18:11-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2024-4-13 13:18:49-debug: Query all assets info in project
-2024-4-13 13:18:49-debug: init custom config: keepNodeUuid: false, useCache: true
-2024-4-13 13:18:49-debug:   Number of all scenes: 1
-2024-4-13 13:18:49-debug:   Number of all scripts: 4
-2024-4-13 13:18:49-debug:   Number of other assets: 419
-2024-4-13 13:18:49-debug: reload all scripts.
-2024-4-13 13:18:49-debug: Set detail map pack:///resolution-detail-map.json: {}
-2024-4-13 13:18:49-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\93\93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\93\93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js is not in module cache!
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-box2d-wasm" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-box2d-wasm" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
-2024-4-13 13:18:49-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
-2024-4-13 13:18:49-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
-2024-4-13 13:18:49-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\bf\bf2a5ff7e8de9b32e53abd7c8de160e985314530.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\bf\bf2a5ff7e8de9b32e53abd7c8de160e985314530.js is not in module cache!
-2024-4-13 13:18:49-debug: [[Executor]] Register DebugViewRuntimeControl
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
-2024-4-13 13:18:49-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\e5\e58d0be131aad4471d719affcc89b83f418c34a8.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\e5\e58d0be131aad4471d719affcc89b83f418c34a8.js is not in module cache!
-2024-4-13 13:18:49-debug: [[Executor]] Register Main
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
-2024-4-13 13:18:49-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\07\07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\07\07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js is not in module cache!
-2024-4-13 13:18:49-debug: [[Executor]] Register AssetMgr
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
-2024-4-13 13:18:49-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\43\436b114cd6ce3d0d270683ba3c4de65c46946f50.js is not in module cache!
-2024-4-13 13:18:49-debug: D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6a\6a5019a719a9014c047e67aa1cf34453ab8392ce.js resolved to D:\Project\cocos\test\temp\programming\packer-driver\targets\editor\chunks\6a\6a5019a719a9014c047e67aa1cf34453ab8392ce.js is not in module cache!
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
-2024-4-13 13:18:49-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
-2024-4-13 13:18:49-debug: Incremental keys: 
-2024-4-13 13:18:49-debug: [[Executor]] Register GameController
-2024-4-13 13:18:49-debug: // ---- build task 查询 Asset Bundle ----
-2024-4-13 13:18:49-debug: 查询 Asset Bundle start0%
-2024-4-13 13:18:49-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
-2024-4-13 13:18:49-debug: // ---- build task 查询 Asset Bundle ---- (239ms)
-2024-4-13 13:18:49-debug: run build task 查询 Asset Bundle success in 239 ms √5%
-2024-4-13 13:18:49-debug: // ---- build task 查询 Asset Bundle ----
-2024-4-13 13:18:49-debug: [Build Memory track]: 查询 Asset Bundle start:271.81MB, end 272.53MB, increase: 738.35KB
-2024-4-13 13:18:49-debug: 查询 Asset Bundle start5%
-2024-4-13 13:18:49-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
-2024-4-13 13:18:49-debug: run build task 查询 Asset Bundle success in 1 ms √10%
-2024-4-13 13:18:49-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
-2024-4-13 13:18:49-debug: [Build Memory track]: 查询 Asset Bundle start:272.55MB, end 272.56MB, increase: 14.75KB
-2024-4-13 13:18:49-debug: 整理部分构建选项内数据到 settings.json start10%
-2024-4-13 13:18:49-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
-2024-4-13 13:18:49-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
-2024-4-13 13:18:49-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:272.58MB, end 272.59MB, increase: 17.79KB
-2024-4-13 13:18:49-debug: // ---- build task 填充脚本数据到 settings.json ----
-2024-4-13 13:18:49-debug: 填充脚本数据到 settings.json start12%
-2024-4-13 13:18:49-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
-2024-4-13 13:18:49-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
-2024-4-13 13:18:49-debug: 整理部分构建选项内数据到 settings.json start13%
-2024-4-13 13:18:49-debug: [Build Memory track]: 填充脚本数据到 settings.json start:272.61MB, end 272.62MB, increase: 16.34KB
-2024-4-13 13:18:49-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
-2024-4-13 13:18:49-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (4ms)
-2024-4-13 13:18:49-debug: run build task 整理部分构建选项内数据到 settings.json success in 4 ms √15%
-2024-4-13 13:18:49-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:272.64MB, end 272.76MB, increase: 129.20KB
-2024-4-13 13:18:56-debug: refresh db internal success
-2024-4-13 13:18:56-debug: refresh db assets success
-2024-4-13 13:18:56-debug: Run asset db hook engine-extends:afterRefresh ...
-2024-4-13 13:18:56-debug: Run asset db hook engine-extends:afterRefresh success!
-2024-4-13 13:18:57-debug: asset-db:refresh-all-database (97ms)
-2024-4-13 13:18:57-debug: asset-db:worker-effect-data-processing (1ms)
-2024-4-13 13:18:57-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2024-4-13 13:21:00-debug: Query all assets info in project
-2024-4-13 13:21:00-debug: init custom config: keepNodeUuid: false, useCache: true
-2024-4-13 13:21:00-debug:   Number of all scenes: 1
-2024-4-13 13:21:00-debug:   Number of other assets: 419
-2024-4-13 13:21:00-debug:   Number of all scripts: 4
-2024-4-13 13:21:00-debug: reload all scripts.
-2024-4-13 13:21:00-debug: Set detail map pack:///resolution-detail-map.json: {}
-2024-4-13 13:21:00-debug: Unregister DebugViewRuntimeControl
-2024-4-13 13:21:00-debug: Unregister GameController
-2024-4-13 13:21:00-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
-2024-4-13 13:21:00-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
-2024-4-13 13:21:00-debug: Invalidating 'pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js'
-2024-4-13 13:21:00-debug: Invalidating 'pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js'
-2024-4-13 13:21:00-debug: Invalidating 'pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js'
-2024-4-13 13:21:00-debug: Invalidating 'pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js'
-2024-4-13 13:21:00-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
-2024-4-13 13:21:00-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
-2024-4-13 13:21:00-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
-2024-4-13 13:21:00-debug: Unregister AssetMgr
-2024-4-13 13:21:00-debug: [[Executor]] Register DebugViewRuntimeControl
-2024-4-13 13:21:00-debug: [[Executor]] Register Main
-2024-4-13 13:21:00-debug: [[Executor]] Module "pack:///chunks/bf/bf2a5ff7e8de9b32e53abd7c8de160e985314530.js" loaded.
-2024-4-13 13:21:00-debug: [[Executor]] Module "pack:///chunks/e5/e58d0be131aad4471d719affcc89b83f418c34a8.js" loaded.
-2024-4-13 13:21:00-debug: [[Executor]] Module "pack:///chunks/07/07c6df2c0ee8183ff11dba7703477a0d3b4c0859.js" loaded.
-2024-4-13 13:21:00-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
-2024-4-13 13:21:00-debug: Unregister Main
-2024-4-13 13:21:00-debug: [[Executor]] Register AssetMgr
-2024-4-13 13:21:00-debug: [[Executor]] Module "pack:///chunks/43/436b114cd6ce3d0d270683ba3c4de65c46946f50.js" loaded.
-2024-4-13 13:21:00-debug: [[Executor]] Register GameController
-2024-4-13 13:21:00-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
-2024-4-13 13:21:00-debug: 查询 Asset Bundle start0%
-2024-4-13 13:21:00-debug: // ---- build task 查询 Asset Bundle ----
-2024-4-13 13:21:00-debug: Incremental keys: 
-2024-4-13 13:21:00-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
-2024-4-13 13:21:00-debug: // ---- build task 查询 Asset Bundle ---- (28ms)
-2024-4-13 13:21:00-debug: run build task 查询 Asset Bundle success in 28 ms √5%
-2024-4-13 13:21:00-debug: [Build Memory track]: 查询 Asset Bundle start:276.30MB, end 276.66MB, increase: 370.95KB
-2024-4-13 13:21:00-debug: 查询 Asset Bundle start5%
-2024-4-13 13:21:00-debug: // ---- build task 查询 Asset Bundle ----
-2024-4-13 13:21:00-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
-2024-4-13 13:21:00-debug: run build task 查询 Asset Bundle success in 1 ms √10%
-2024-4-13 13:21:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
-2024-4-13 13:21:00-debug: [Build Memory track]: 查询 Asset Bundle start:276.67MB, end 276.69MB, increase: 15.06KB
-2024-4-13 13:21:00-debug: 整理部分构建选项内数据到 settings.json start10%
-2024-4-13 13:21:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
-2024-4-13 13:21:00-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms √12%
-2024-4-13 13:21:00-debug: 填充脚本数据到 settings.json start12%
-2024-4-13 13:21:00-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:276.70MB, end 276.72MB, increase: 18.01KB
-2024-4-13 13:21:00-debug: // ---- build task 填充脚本数据到 settings.json ----
-2024-4-13 13:21:00-debug: run build task 填充脚本数据到 settings.json success in 0 ms √13%
-2024-4-13 13:21:00-debug: [Build Memory track]: 填充脚本数据到 settings.json start:276.74MB, end 276.75MB, increase: 12.48KB
-2024-4-13 13:21:00-debug: 整理部分构建选项内数据到 settings.json start13%
-2024-4-13 13:21:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
-2024-4-13 13:21:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (5ms)
-2024-4-13 13:21:00-debug: run build task 整理部分构建选项内数据到 settings.json success in 5 ms √15%
-2024-4-13 13:21:00-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:276.76MB, end 276.89MB, increase: 129.61KB
-2024-4-13 13:23:42-debug: refresh db internal success
-2024-4-13 13:23:42-debug: refresh db assets success
-2024-4-13 13:23:42-debug: Run asset db hook engine-extends:afterRefresh ...
-2024-4-13 13:23:42-debug: Run asset db hook engine-extends:afterRefresh success!
-2024-4-13 13:23:42-debug: asset-db:refresh-all-database (79ms)
-2024-4-13 14:43:27-debug: refresh db internal success
-2024-4-13 14:43:27-debug: refresh db assets success
-2024-4-13 14:43:27-debug: Run asset db hook engine-extends:afterRefresh ...
-2024-4-13 14:43:27-debug: Run asset db hook engine-extends:afterRefresh success!
-2024-4-13 14:43:27-debug: asset-db:refresh-all-database (119ms)
-2024-4-13 14:43:27-debug: asset-db:worker-effect-data-processing (1ms)
-2024-4-13 14:43:27-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2024-4-13 14:43:29-debug: start refresh asset from D:\Project\cocos\test\assets\main.scene...
-2024-4-13 14:43:29-debug: %cImport%c: D:\Project\cocos\test\assets\main.scenebackground: #aaff85; color: #000;color: #000;
-2024-4-13 14:43:29-debug: refresh asset D:\Project\cocos\test\assets success

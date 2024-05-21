@@ -1,0 +1,20 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1715739493024.9343,
+  "outputTimeStamps": {
+    "Material #28_diffuse.png": 1715739496756.7231,
+    "Material #26_diffuse.png": 1715739496750.7202,
+    "log.json": 1715739496874.7217,
+    "Material #29_diffuse.png": 1715739496760.7239,
+    "out.bin": 1715739496869.7207,
+    "out.gltf": 1715739496873.722,
+    ".fbm/DC1D137E/minicity.fbm/Material #25_diffuse.png": 1715739496748.7195,
+    ".fbm/DC1D137E/minicity.fbm/Material #26_diffuse.png": 1715739496750.7202,
+    ".fbm/DC1D137E/minicity.fbm/Material #28_diffuse.png": 1715739496756.7231,
+    ".fbm/DC1D137E/minicity.fbm/Material #29_diffuse.png": 1715739496760.7239
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}

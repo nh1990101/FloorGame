@@ -1,0 +1,564 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        0.6187500357627869,
+        1.5738298892974854,
+        1.400208592414856
+      ],
+      "min": [
+        -0.6187500357627869,
+        0.24033844470977783,
+        -1.5997912883758545
+      ],
+      "name": "Cube.017/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 99,
+      "name": "Cube.017/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 99,
+      "name": "Cube.017/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 168,
+      "name": "Cube.017/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.824999988079071,
+        1.7779886722564697,
+        2.0
+      ],
+      "min": [
+        -0.824999988079071,
+        0.0,
+        -2.0
+      ],
+      "name": "Cube.034/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 100,
+      "name": "Cube.034/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 100,
+      "name": "Cube.034/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 168,
+      "name": "Cube.034/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.824999988079071,
+        1.7779886722564697,
+        2.0
+      ],
+      "min": [
+        -0.824999988079071,
+        0.0,
+        -2.0
+      ],
+      "name": "Cube.035/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 100,
+      "name": "Cube.035/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 100,
+      "name": "Cube.035/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 168,
+      "name": "Cube.035/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 391,
+      "max": [
+        2.1115732192993164,
+        20.791807174682617,
+        2.1378743648529053
+      ],
+      "min": [
+        -1.565751314163208,
+        -1.0244548320770264e-06,
+        -2.1819701194763184
+      ],
+      "name": "Cube.074/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 391,
+      "name": "Cube.074/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 391,
+      "name": "Cube.074/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 615,
+      "name": "Cube.074/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.824999988079071,
+        1.7779886722564697,
+        2.0
+      ],
+      "min": [
+        -0.824999988079071,
+        0.0,
+        -2.0
+      ],
+      "name": "Cube.084/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 100,
+      "name": "Cube.084/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 100,
+      "name": "Cube.084/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 168,
+      "name": "Cube.084/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3168,
+      "byteStride": 32,
+      "name": "Cube.017",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 336,
+      "byteOffset": 3168,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3200,
+      "byteOffset": 3504,
+      "byteStride": 32,
+      "name": "Cube.034",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 336,
+      "byteOffset": 6704,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3200,
+      "byteOffset": 7040,
+      "byteStride": 32,
+      "name": "Cube.035",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 336,
+      "byteOffset": 10240,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12512,
+      "byteOffset": 10576,
+      "byteStride": 32,
+      "name": "Cube.074",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1230,
+      "byteOffset": 23088,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3200,
+      "byteOffset": 24318,
+      "byteStride": 32,
+      "name": "Cube.084",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 336,
+      "byteOffset": 27518,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 27854,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 24.0,
+      "fbxFileHeaderInfo": {
+        "creationTimeStamp": {
+          "day": 8,
+          "hour": 22,
+          "millisecond": 865,
+          "minute": 20,
+          "month": 2,
+          "second": 32,
+          "year": 2021
+        },
+        "creator": "Blender (stable FBX IO) - 2.90.1 - 4.21.3",
+        "sceneInfo": {
+          "author": "",
+          "comment": "",
+          "keywords": "",
+          "original": {
+            "applicationName": "Blender (stable FBX IO)",
+            "applicationVendor": "Blender Foundation",
+            "applicationVersion": "2.90.1",
+            "fileName": "/foobar.fbx"
+          },
+          "revision": "",
+          "subject": "",
+          "title": "",
+          "url": "D:\\Project\\cocos\\Tower\\assets\\model\\LowPoly-House-Construction-Site-By-Majadroid\\fbx files\\Containers.fbx"
+        }
+      }
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\Project\\cocos\\Tower\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\8a07ffeb-e7ca-4042-892d-f1905337ebf7\\output\\.fbm\\C38929FA\\Containers.fbm/ImphenziaPalette01-256-Gradient.png",
+          "relativeFileName": "..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\8a07ffeb-e7ca-4042-892d-f1905337ebf7\\output\\.fbm\\C38929FA\\Containers.fbm\\ImphenziaPalette01-256-Gradient.png"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "ImphenziaPalette01-256-Gradient.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "raw": {
+            "properties": {
+              "ambient": {
+                "value": [
+                  0.05087608844041824,
+                  0.05087608844041824,
+                  0.05087608844041824
+                ]
+              },
+              "ambientFactor": {
+                "value": 1.0
+              },
+              "bump": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "bumpFactor": {
+                "value": 0.0
+              },
+              "diffuse": {
+                "texture": {
+                  "index": 0
+                },
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "diffuseFactor": {
+                "value": 1.0
+              },
+              "displacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "displacementFactor": {
+                "value": 1.0
+              },
+              "emissive": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "emissiveFactor": {
+                "value": 1.0
+              },
+              "normalMap": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "reflection": {
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "reflectionFactor": {
+                "value": 0.0
+              },
+              "shadingModel": "Phong",
+              "shininess": {
+                "value": 0.07438002342041727
+              },
+              "specular": {
+                "value": [
+                  0.8000000715255737,
+                  0.0,
+                  0.5381399989128113
+                ]
+              },
+              "specularFactor": {
+                "value": 0.25
+              },
+              "transparencyFactor": {
+                "value": 0.0
+              },
+              "transparentColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementColor": {
+                "value": [
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              "vectorDisplacementFactor": {
+                "value": 1.0
+              }
+            },
+            "type": "phong"
+          }
+        }
+      },
+      "name": "Submission_Diffuse_Shader"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cube.017",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Cube.034",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Cube.035",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Cube.074",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Cube.084",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Container Blue Small"
+    },
+    {
+      "mesh": 1,
+      "name": "Container Red"
+    },
+    {
+      "mesh": 2,
+      "name": "Container Green"
+    },
+    {
+      "mesh": 3,
+      "name": "Container Wreckage Slide"
+    },
+    {
+      "mesh": 4,
+      "name": "Container Blue"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

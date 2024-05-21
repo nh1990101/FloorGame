@@ -1,0 +1,16 @@
+{
+  "version": "2.3.12",
+  "sourceTimeStamp": 1715781003227.364,
+  "outputTimeStamps": {
+    "PolygonConstruction_Texture_01_A.png": 1715781014507.2905,
+    "log.json": 1715781014972.982,
+    "out.bin": 1715781014967.9814,
+    "out.gltf": 1715781014971.9817,
+    ".fbm/18A2149F/craneHolder.fbm/Fence_Alpha.tga": 1715781014527.2942,
+    ".fbm/18A2149F/craneHolder.fbm/PolygonConstruction_Texture_01_A.png": 1715781014507.2905
+  },
+  "options": {
+    "smartMaterialEnabled": true,
+    "matchMeshNames": true
+  }
+}
